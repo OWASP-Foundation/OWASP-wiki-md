@@ -33,7 +33,7 @@ the process we will use to implement our plans are:
   - [Global AppSec Tel
     Aviv](https://www.owasp.org/index.php/Staff-Projects/201905-Global-AppSec-Tel-Aviv),
     May 26-30
-  - [DEFCON 27 Plan](Staff-Projects/DefCon_27_Event "wikilink")- August
+  - [DEFCON 27 Plan](Staff-Projects/DefCon_27_Event.md "wikilink")- August
     8-11, 2019 \[Lisa\]
   - [Global AppSec
     DC](https://www.owasp.org/index.php/Staff-Projects/201909-Global-AppSec-DC),
@@ -75,10 +75,10 @@ the process we will use to implement our plans are:
         2.  Recurring
         3.  Renewals
 6.  [Membership
-    Benefits](Staff-Projects/Membership_Benefits "wikilink")\[Lisa\]
+    Benefits](Staff-Projects/Membership_Benefits.md "wikilink")\[Lisa\]
     [whiteboard](https://owaspstaff.slack.com/files/U9N7HF4V9/FGC6TUGJW/membership_whiteboard.jpg)
 7.  Chapter Onboarding \[Dawn\]
-8.  [CoMarketing Plan](Staff-Projects/CoMarketing_Plan "wikilink")
+8.  [CoMarketing Plan](Staff-Projects/CoMarketing_Plan.md "wikilink")
     \[Lisa\]
     [whiteboard](https://owaspstaff.slack.com/files/U9N7HF4V9/FGEKW4TML/marketing_whiteboard.jpg)
 9.  2020 Event Plan \[Mike\]
@@ -99,7 +99,7 @@ the process we will use to implement our plans are:
     Summit](https://www.owasp.org/index.php/Staff-Projects/201902-staff-summit)
   - [Insurance
     Audit](https://www.owasp.org/index.php/Staff-Projects/2019-Insurance)
-  - [Mailman EOL](Staff-Projects/Mailman-EOL "wikilink") \[Matt\]
+  - [Mailman EOL](Staff-Projects/Mailman-EOL.md "wikilink") \[Matt\]
   - PayPal Cleanup \[Matt\]
 
 ### Templates
