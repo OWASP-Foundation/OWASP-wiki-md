@@ -1,0 +1,1 @@
+$2400 annually for 24 podcast shows

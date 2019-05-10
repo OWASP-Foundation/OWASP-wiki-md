@@ -1,0 +1,119 @@
+**CALL FOR CONTRIBUTORS**: If you would like collaborate in this project
+[join with
+us](https://lists.owasp.org/mailman/listinfo/owasp_unmaskme_project).
+
+Collection of HTTP and HTML metadata information in order to categorize
+its relevance as a sign of possible security weakness or signs of
+hardening in any website. The final goal is to raise web security
+awareness (*assessing favourably the signs of hardening and assessing
+negatively the signs of weakness*) with an overall interpretation of
+this information from any website.
+
+| scope="col"                                                   | Weakness signs              | scope="col" | Hardening signs |
+| ------------------------------------------------------------- | --------------------------- | ----------- | --------------- |
+| MetaGenerator\[Joomla\! 1.5                                   | X-Frame-Options\[SAMEORIGIN |             |                 |
+| Microsoft-IIS/6.0                                             | X-XSS-Protection            |             |                 |
+| Apache/2.2.22(Unix) mod_ssl/2.2.22 OpenSSL/0.9.8e-fips-rhel5 | UncommonHeaders\[x-varnish  |             |                 |
+
+**Examples of Metadata assessing**
+
+[Proof of concept in Spanish](http://desenmascara.me)
+
+-----
+
+This information collected plus more input from other OWASP projects as
+[Top 10 2013-Top 10](Top_10_2013-Top_10 "wikilink"), could serve as the
+basis for WEB fingerprinting. A proof of concept tool is available in
+[as a web service](http://desenmascara.me).
+
+|                               |                                                                                                                  |                                                                                                                                              |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Server HTTP header**        | **Description**                                                                                                  | **More information**                                                                                                                         |
+| AkamaiGHost                   | Web server using Akamai Global Hosting                                                                           | Need references                                                                                                                              |
+| AmazonS3                      | Web server using Amazon cloud                                                                                    | [Common Response headers](http://docs.aws.amazon.com/AmazonS3/latest/API/RESTCommonResponseHeaders.html)                                     |
+| Apache/X.X                    | Web server using [Apache](http://www.apache.org/) technology                                                     | [Technology lider in Internet](http://news.netcraft.com/archives/category/web-server-survey/)                                                |
+| Microsoft-IIS/X               | Web server using [Microsoft IIS technology](http://www.iis.net/)                                                 | [How to modify this header](http://blogs.technet.com/b/stefan_gossner/archive/2008/03/12/iis-7-how-to-send-a-custom-server-http-header.aspx) |
+| PWS                           | Small Microsoft Web server for old Windows versions                                                              | [Microsoft Personal Web Server](http://en.wikipedia.org/wiki/Microsoft_Personal_Web_Server)                                                  |
+| nginx/X.X                     | Russian web server and reverse proxy                                                                             | [Official site](http://nginx.org/en/)                                                                                                        |
+| lighttpd/X.X                  | Web server optimized for speed-critical environments                                                             | [Official site](http://www.lighttpd.net/)                                                                                                    |
+| OpenCms/X.X                   | Open source content management system written in Java                                                            | [Official site](http://www.opencms.org/)                                                                                                     |
+| Netscape-Enterprise/X.X       | Web server using [old Netscape technology](http://en.wikipedia.org/wiki/Netscape_Enterprise_Server)              | [Current server family](http://en.wikipedia.org/wiki/Oracle_iPlanet_Web_Server)                                                              |
+| Sun-ONE-Web-Server/X          | Web server using [iPlanet web server technology](http://docs.oracle.com/cd/E19554-01/)                           | [Current server family](http://en.wikipedia.org/wiki/Oracle_iPlanet_Web_Server)                                                              |
+| Oracle-Application-Server-Xx  | Web server using [Oracle applications server](http://en.wikipedia.org/wiki/Oracle_Application_Server)            | [Official site](http://www.oracle.com/technetwork/middleware/ias/overview/index.html?ssSourceSiteId=ocomen)                                  |
+| Lotus-Domino                  | Web server using [IBM Lotus Domino technology](http://en.wikipedia.org/wiki/IBM_Lotus_Domino)                    | [Official site](http://www-01.ibm.com/software/lotus/category/messaging/)                                                                    |
+| Sun-Java-System-Web-Server/X  | Web server using [Oracle iPlanet technology](http://en.wikipedia.org/wiki/IBM_Lotus_Domino)                      | [Official site](http://www.oracle.com/technetwork/middleware/iplanetwebserver-098726.html)                                                   |
+| Oracle-iPlanet-Web-Server/7.0 | Web server using [Oracle iPlanet technology](http://en.wikipedia.org/wiki/IBM_Lotus_Domino)                      | [iPlanet Web server](http://en.wikipedia.org/wiki/Oracle_iPlanet_Web_Server)                                                                 |
+| IBM_HTTP_Server/X.X         | Web server using [IBM technology](http://www-03.ibm.com/software/products/us/en/http-servers) (Apache based)     | [How to hide version](http://publib.boulder.ibm.com/httpserv/ihsdiag/questions.html#ihshideserver)                                           |
+| LiteSpeed/X.X                 | Web server using [LiteSpeed technology](http://www.litespeedtech.com/docs/webserver/intro/) (Apache based)       | [How to hide version](http://www.litespeedtech.com/support/forum/showthread.php?t=4893)                                                      |
+| Alterian-CME/X.X              | Web server using [SDL ACM](http://www.sdl.com/products/acm/)                                                     | [SDL acquires Alterian](http://www.sdl.com/aboutus/news/pressreleases/2012/sdl_acquires_alterian.html)                                       |
+| Tengine                       | Web server using [Tengine technology](http://tengine.taobao.org/index.html) (nginx based)                        | Need more information                                                                                                                        |
+| eZ Publish                    | Web server using [EZ technology](http://ez.no/)                                                                  | [Open Source CMS](http://es.wikipedia.org/wiki/EZ_Publish)                                                                                   |
+| GSE                           | Web server using [Google infrastructure](https://code.google.com/p/opengse/) (blogger)                           | Need more information                                                                                                                        |
+| gws                           | Web server using [Google infrastructure](http://en.wikipedia.org/wiki/Google_Web_Server#Software) (search pages) | Need more information                                                                                                                        |
+| sffe                          | Web server using [Google infrastructure](http://en.wikipedia.org/wiki/Google_Web_Server#Software) (static files) | Need more information                                                                                                                        |
+| tfe                           | Web server using [Twitter infrastructure](http://www.twitter.com/)                                               | Need more information                                                                                                                        |
+| YTS                           | Web server using [Yahoo\! infrastructure](http://www.yahoo.com/)                                                 | Need more information                                                                                                                        |
+| cloudflare-nginx              | Web server using [CloudFlare infrastructure](https://www.cloudflare.com/)                                        | Need more information                                                                                                                        |
+
+**[Server HTTP
+header](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.38)
+metadata collected**
+
+|                            |                                                                                                                            |                                                                                                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Powered-by HTTP header** | **Description**                                                                                                            | **More information**                                                                                                                                             |
+| eBD/3.5.5                  | Web server using [EBD technology](http://www.ebdsoft.com/)                                                                 | Need more info                                                                                                                                                   |
+| eWAY                       | Web server using [eWay payment gateway](http://www.eway.com.au/)                                                           | [Need more info](http://www.eway.com.au)                                                                                                                         |
+| Express                    | Web server using [nodejs with express](http://expressjs.com/api.html)                                                      | [x-powered-by Enables the "X-Powered-By: Express" HTTP header, enabled by default.](http://expressjs.com/api.html)                                               |
+| PHP/x.x                    | Web server using [PHP technology](http://php.net/)                                                                         | [How to remove header](http://php.net/manual/en/function.header-remove.php)                                                                                      |
+| ASP.NET                    | Web server using [Microsoft ASP technology](http://www.asp.net/)                                                           | [Custom headers](http://www.iis.net/configreference/system.webserver/httpprotocol/customheaders)                                                                 |
+| Servlet/X.X JSP/X.X        | Web server using [Tomcat application server](http://tomcat.apache.org/)                                                    | [Header implementation](https://issues.apache.org/bugzilla/show_bug.cgi?id=48006)                                                                                |
+| Plesklin                   | Web server using [Parallels technology](http://www.parallels.com/es/products/plesk/addons/)                                | [How to disable header](http://forum.parallels.com/showthread.php?260694-Disable-HTTP-header-X-Powered-By-PleskLin)                                              |
+| (mod_rails/mod_rack)     | Web server using [Ruby on Rails technology](http://rubyonrails.org/)                                                       | [Phusion Passenger](http://en.wikipedia.org/wiki/Phusion_Passenger)                                                                                              |
+| ARR/X.X                    | Web server using [IIS with request routing technology](http://www.iis.net/downloads/microsoft/application-request-routing) | [More header information](http://blogs.iis.net/finbarryan/archive/2013/06/05/application-request-routing-and-server-headers-quot-x-powered-by-arr-2-5-quot.aspx) |
+| JSF/2.0                    | Web server using [JavaServer Faces technology](http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html)  | Need more info                                                                                                                                                   |
+
+**[Powered-by HTTP
+header](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+metadata collected (this header isn't an HTTP standard)**
+
+|                                                              |                                                                                                                  |                                                                                                                                              |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Custom HTTP headers**                                      | **Description**                                                                                                  | **More information**                                                                                                                         |
+| access-control-allow-origin, access-control-allow-headers    | Web server using [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/HTTP/Access_control_CORS) | Need more info                                                                                                                               |
+| x-generator                                                  | Web server running under Drupal                                                                                  | [function _drupal_default_html_head](https://api.drupal.org/api/drupal/includes!common.inc/function/_drupal_default_html_head/7)         |
+| x-amz-                                                       | Web server running under Amazon services                                                                         | [common response headers](http://docs.aws.amazon.com/AmazonS3/latest/API/RESTCommonResponseHeaders.html)                                     |
+| x-cache-hits,x-timer,x-served-by, x-varnish, x-varnish-cache | Web server using [Varnish cache technology](https://www.varnish-cache.org/)                                      | [How to modify this header](http://blogs.technet.com/b/stefan_gossner/archive/2008/03/12/iis-7-how-to-send-a-custom-server-http-header.aspx) |
+| x-drupal-cache                                               | Web server using [Drupal technology](https://drupal.org/)                                                        | [Vulnerabilities stats](http://www.cvedetails.com/product/2387/Drupal-Drupal.html?vendor_id=1367)                                            |
+| x-dynatrace                                                  | Web server using [dynatrace technology](http://www.compuware.com/en_us/application-performance-management.html)  | Need more data                                                                                                                               |
+| x-server-name                                                | Web server using [Websphere technology](http://www-01.ibm.com/software/websphere/)                               | [node HTTP headers](http://publib.boulder.ibm.com/infocenter/wmbhelp/v6r1m0/index.jsp?topic=%2Fcom.ibm.etools.mft.doc%2Fac00477_.htm)        |
+| strict-transport-security                                    | opt-in security enhancement that is specified by a web application                                               | [HTTP Strict Transport Security](https://www.owasp.org/index.php/HTTP_Strict_Transport_Security)                                             |
+
+**[Uncommon HTTP
+headers](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
+collected (this headers aren't an HTTP standard)**
+
+|                                                |                                                                                                                                                  |                                                                                                                                      |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **HTML metadata**                              | **Description**                                                                                                                                  | **More information**                                                                                                                 |
+| moodle                                         | Web server using [Moodle](https://moodle.org/) technology                                                                                        | [Vulnerabilities stats](http://www.cvedetails.com/vendor/2105/Moodle.html)                                                           |
+| MetaGenerator\[Infopark CMS Fiona              | Web server using [CMS Fiona technology](https://www.infopark.de/produkte/CMS-Fiona)                                                              | 6.10 Last version. Need more info.                                                                                                   |
+| MetaGenerator\[Sitefinity                      | Web server using [SiteFinity technology](http://www.sitefinity.com/)                                                                             | [Security based on ASP.NET model](http://www.sitefinity.com/documentation/documentationarticles/developers-guide/deep-dive/security) |
+| HTTPServer\[BigIP / Cookies\[BIGip             | Web server using [F5 technology](http://www.f5.com/products/big-ip/)                                                                             | Need more info                                                                                                                       |
+| Cookies: PHPSESSID                             | Web server using [PHP technology](http://php.net/)                                                                                               | [Session cookie](http://php.net/manual/en/function.session-start.php)                                                                |
+| Cookies: JSESSIONID                            | Web server using [JSP technology](http://en.wikipedia.org/wiki/JavaServer_Pages)                                                                 | [Session cookie](http://blog.whitehatsec.com/tag/jsessionid/#.UcxS4PnOuSp)                                                           |
+| Cookies: ASPSESSION                            | Web server using [ASP technology](http://www.asp.net/)                                                                                           | See ASP.NET in the Powered-by HTTP header section                                                                                    |
+| Cookies: fe_typo_user                        | Web server using [TYPO3 technology](http://typo3.org/)                                                                                           | [Ref](http://cookiepedia.co.uk/cookies/fe_typo_user)                                                                                 |
+| Cookies: CFID                                  | Web server using [Coldfusion technology](http://help.adobe.com/en_US/ColdFusion/10.0/Developing/WSe61e35da8d3185183e145c0d1353e31f559-7ffc.html) | Need more data                                                                                                                       |
+| Cookies: CFTOKEN                               | Web server using [Coldfusion technology](http://help.adobe.com/en_US/ColdFusion/10.0/Developing/WSe61e35da8d3185183e145c0d1353e31f559-7ffc.html) | Need more data                                                                                                                       |
+| MetaGenerator\[Square One, Meta-Author\[Jeremy | Web server using [Square One CMS (light version of Joomla)](https://github.com/square-one/square-one-cms)                                        | Looks like is discontinued                                                                                                           |
+| MetaGenerator\[LFC                             | Web server using [LFS technology](http://www.getlfs.com/)                                                                                        | CMS based on Python, Django and jQuery                                                                                               |
+| MetaGenerator\[Percussion                      | Web server using [Percussion CMS](https://www.percussion.com)                                                                                    | CMS for Marketers                                                                                                                    |
+| RiOS\[                                         | Web server using Riverbeed WAN optimization [Riverbeed WAN optimization](http://www.riverbed.com/products/wan-optimization/)                     | [Riverbeed Technology](http://en.wikipedia.org/wiki/Riverbed_Technology)                                                             |
+
+'''HTML metadata / HTTP headers collected which could allow
+[fingerprinting](https://www.owasp.org/index.php/OWASP_Periodic_Table_of_Vulnerabilities_-_Fingerprinting)
+'''
+
+TODO:
+<https://www.owasp.org/index.php/Fingerprint_Web_Application_(OTG-INFO-009)#Common_Application_Identifiers>

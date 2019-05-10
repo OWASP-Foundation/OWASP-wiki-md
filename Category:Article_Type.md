@@ -1,0 +1,1 @@
+These are the OWASP article types

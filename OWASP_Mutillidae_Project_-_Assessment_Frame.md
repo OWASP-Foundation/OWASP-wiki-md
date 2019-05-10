@@ -1,0 +1,11 @@
+[Click here to return to project's main
+page](:Category:OWASP_Mutillidae "wikilink").
+
+| colspan="2" align="center" style="background:\#4058A0; color:white" | <font color="white">**PROJECT IDENTIFICATION** |
+| ------------------------------------------------------------------- | ---------------------------------------------- |
+| style="width:16%; background:\#7B8ABD" align="center"               | **Project Name**                               |
+
+| colspan="5" align="center" style="background:\#4058A0; color:white" | ASSESSMENT AND REVIEW PROCESS |
+| ------------------------------------------------------------------- | ----------------------------- |
+| style="width:16%; background:\#6C82B5" align="center"               | **Reviewer**                  |
+| style="width:16%; background:\#7B8ABD" align="center"               | **Review**                    |

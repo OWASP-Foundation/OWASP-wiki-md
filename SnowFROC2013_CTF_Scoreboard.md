@@ -1,0 +1,1 @@
+Placeholder for ctf.snowfroc.com to point to.

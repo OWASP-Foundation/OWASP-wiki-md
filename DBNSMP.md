@@ -1,0 +1,1 @@
+[Change DBNSMP Password](Change_DBNSMP_Password "wikilink")

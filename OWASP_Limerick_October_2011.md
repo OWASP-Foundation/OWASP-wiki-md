@@ -1,0 +1,1 @@
+1.  REDIRECT [Ireland-Limerick](Ireland-Limerick "wikilink")

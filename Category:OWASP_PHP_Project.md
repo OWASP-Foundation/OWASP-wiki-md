@@ -1,0 +1,1 @@
+1.  REDIRECT [:Category:PHP](:Category:PHP "wikilink")

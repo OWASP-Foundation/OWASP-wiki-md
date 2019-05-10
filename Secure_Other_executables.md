@@ -1,0 +1,1 @@
+<http://www.oracle.com/technology/pub/articles/project_lockdown/phase1.html#1.3>

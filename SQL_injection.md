@@ -1,0 +1,1 @@
+1.  REDIRECT [SQL Injection](SQL_Injection "wikilink")

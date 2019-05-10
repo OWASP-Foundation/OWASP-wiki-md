@@ -1,0 +1,1 @@
+1.  redirect [:Category:Attack](:Category:Attack "wikilink")

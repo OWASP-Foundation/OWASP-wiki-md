@@ -1,0 +1,1 @@
+1.  REDIRECT [República Dominicana](República_Dominicana "wikilink")

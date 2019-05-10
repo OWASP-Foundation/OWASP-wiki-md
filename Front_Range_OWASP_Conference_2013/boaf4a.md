@@ -1,0 +1,1 @@
+COTS solutions for secure enterprise architectures

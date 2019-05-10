@@ -1,0 +1,1 @@
+[Version 1.0](https://github.com/Flo354/iOSForensic/releases/tag/1.0)

@@ -1,0 +1,1 @@
+1.  REDIRECT [:Category:Pakistan](:Category:Pakistan "wikilink")

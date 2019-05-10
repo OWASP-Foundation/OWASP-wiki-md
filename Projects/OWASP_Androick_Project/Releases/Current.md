@@ -1,0 +1,1 @@
+[Version 2.1](https://github.com/Flo354/Androick/releases/tag/2.1)

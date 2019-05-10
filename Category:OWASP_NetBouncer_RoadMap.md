@@ -1,0 +1,4 @@
+  - Developing a sample web application using NetBouncer
+  - Improving the current API and making it easier to use
+  - Detailed documentation about the API with samples
+  - Adding new rules

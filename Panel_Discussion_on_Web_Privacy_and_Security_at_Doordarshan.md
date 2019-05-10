@@ -1,0 +1,5 @@
+**Pics**
+
+Kerala_chapter_panel_Discussion_samvadham.png
+Kerala_chapter_panel_Discussion_samvadham_2.png
+Kerala_chapter_panel_Discussion_samvadham_3.jpg

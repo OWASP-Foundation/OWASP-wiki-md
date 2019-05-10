@@ -1,0 +1,1 @@
+1.  REDIRECT [Authorization](Authorization "wikilink")

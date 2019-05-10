@@ -1,0 +1,1 @@
+1.  REDIRECT [Perth Australia](Perth_Australia "wikilink")

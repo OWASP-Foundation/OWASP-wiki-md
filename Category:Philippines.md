@@ -1,0 +1,1 @@
+[Category:Asia](Category:Asia "wikilink")

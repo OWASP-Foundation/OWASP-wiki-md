@@ -1,0 +1,10 @@
+## Diapositivas
+
+| width="100" align="center"                                                                       | Link                                                      | width="450" align="center" | Conferencia | width="150" align="center" | Expositor |
+| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | -------------------------- | ----------- | -------------------------- | --------- |
+| [Descargar](media:TourPatagonia2015_Presentacion.pdf "wikilink")                                 | Presentacion                                              | Gaston Toth                |             |                            |           |
+| [Descargar](media:TourPatagonia2015_Vulnerabilidades_en_Gateways_de_Pago.pdf "wikilink")         | Vulnerabilidades en Gateways de Pago                      | Andres Riancho             |             |                            |           |
+| [Descargar](media:TourPatagonia2015_Aspectos_Legales_de_la_Seguridad_Informática.pdf "wikilink") | Aspectos Legales de la Seguridad informática              | Marcelo Campetella         |             |                            |           |
+| [Descargar](media:TourPatagonia2015_Mobile_Apps_and_How_to_Pentest_Them.pdf "wikilink")          | Mobile Apps and how to Pentest them                       | Gustavo Sorondo            |             |                            |           |
+| [Descargar](media:TourPatagonia2015_CIO_vs_CISO.pdf "wikilink")                                  | CIOs vs CISOs: OWASP al rescate                           | Mauro Graziosi             |             |                            |           |
+| [Descargar](media:OWASPLatamTour2015_Seguridad-Certificados-Digitales.pdf "wikilink")            | Seguridad en Certificados Digitales - Certificate Pinning | Cristian Borghello         |             |                            |           |

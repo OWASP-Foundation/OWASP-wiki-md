@@ -1,0 +1,1 @@
+1.  REDIRECT [Java_gotchas](Java_gotchas "wikilink")

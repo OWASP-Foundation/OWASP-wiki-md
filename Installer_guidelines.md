@@ -1,0 +1,1 @@
+1.  REDIRECT[OWASP_Installer_Guidelines](OWASP_Installer_Guidelines "wikilink")

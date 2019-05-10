@@ -1,0 +1,1 @@
+1.  REDIRECT [:Category:Java](:Category:Java "wikilink")

@@ -1,0 +1,1 @@
+1.  REDIRECT [:Category:Language](:Category:Language "wikilink")

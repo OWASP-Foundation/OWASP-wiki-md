@@ -1,0 +1,5 @@
+  - Database Design,
+  - Requirement collection,
+  - First prototype,
+  - Testing \&Implementation,
+  - Final Version.

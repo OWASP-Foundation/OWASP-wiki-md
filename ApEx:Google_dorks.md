@@ -1,0 +1,1 @@
+<http://www.dba-oracle.com/htmldb/t_html_db_hacking_google_vulnerabilities.htm>

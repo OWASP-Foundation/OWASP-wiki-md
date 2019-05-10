@@ -1,0 +1,1 @@
+1.  REDIRECT [:Category:Principle](:Category:Principle "wikilink")

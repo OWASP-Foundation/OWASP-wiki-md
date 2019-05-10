@@ -1,0 +1,1 @@
+1.  REDIRECT [Qrljacking](Qrljacking "wikilink")

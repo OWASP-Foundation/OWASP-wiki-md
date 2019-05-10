@@ -1,0 +1,1 @@
+Parent category for business impact factors

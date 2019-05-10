@@ -1,0 +1,1 @@
+Start with: <http://symfony.com/legacy/doc/reference/1_4/en/08-Security>

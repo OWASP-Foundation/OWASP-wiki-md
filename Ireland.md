@@ -1,0 +1,1 @@
+1.  REDIRECT [Ireland-Dublin](Ireland-Dublin "wikilink")

@@ -1,0 +1,1 @@
+1.  REDIRECT [Parola secreta?](Parola_secreta? "wikilink")

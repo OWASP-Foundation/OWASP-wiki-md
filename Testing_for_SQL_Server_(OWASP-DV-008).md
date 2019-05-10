@@ -1,0 +1,1 @@
+1.  REDIRECT [Testing for SQL Server](Testing_for_SQL_Server "wikilink")

@@ -1,0 +1,1 @@
+1.  REDIRECT [Portugal](Portugal "wikilink")

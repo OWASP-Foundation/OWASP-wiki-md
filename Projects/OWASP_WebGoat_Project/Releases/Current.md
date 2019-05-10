@@ -1,0 +1,1 @@
+WebGoat 7.0.1 <https://github.com/WebGoat/WebGoat/releases>

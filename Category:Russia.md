@@ -1,0 +1,1 @@
+[Category:Europe](Category:Europe "wikilink")

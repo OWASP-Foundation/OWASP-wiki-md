@@ -1,0 +1,1 @@
+1.  REDIRECT [Delhi NCR](Delhi_NCR "wikilink")

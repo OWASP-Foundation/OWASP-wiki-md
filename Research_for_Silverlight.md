@@ -1,0 +1,1 @@
+Placeholder for Silverlight best practices and vulnerability research

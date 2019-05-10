@@ -1,0 +1,18 @@
+| align="center" colspan="3"                                                                                                                                                             | **College De Valck** - December 2, 2009 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 12:00 - 12:30                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 12:30 - 15:30                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 15:30 - 16:00                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 16:00 - 16:35                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 16:35 - 17:10                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 17:10 - 17:45                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 17:45 - 18:25                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 18:25 - 19:00                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 19:00 - 19:35                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 19:35 - 20:10                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 20:10 - 20:40                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 20:40 - 21:15                           |
+| style="background: rgb(123, 138, 189) none repeat scroll 0% 0%; width: 15%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous;" | 21:15 - 21:50                           |
+
+[Category:OWASP_AppSec_Conference](Category:OWASP_AppSec_Conference "wikilink")
+[Category:OWASP_BeNeLux_09](Category:OWASP_BeNeLux_09 "wikilink")
