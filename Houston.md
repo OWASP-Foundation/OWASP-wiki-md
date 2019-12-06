@@ -1,23 +1,92 @@
+## Local News
+
+
+**Everyone is welcome to join us at our chapter meetings.**
+
+
 # Upcoming Events
 
 ## 2019
 
-### Owasp Houston April Chapter Meeting
+### OWASP Houston December Chapter Meeting
 
 **When:** TBD
 
-**Where:**
+**Where:** TBD
 
-**Description:**
+**Time:** TBD
 
 # Past Events
 
 ## 2019
 
-### Owasp Houston March Meet and Greet
+### OWASP Houston October Chapter Meeting
 
-**When:** Wed, March 20, 2019 Sometime around 7 PM – whenever we are
-done
+**When:** Thursday, October 24, 2019
+
+**Where:** 1001 Fanin Street, Suite 4550 Houston, TX 77002
+
+**Time:** 6pm - 8pm
+
+**Speaker:** Dan Crowley
+
+> Daniel Crowley is the head of research and a penetration tester for
+> X-Force Red. Daniel denies all allegations regarding unicorn smuggling
+> and questions your character for even suggesting it. Daniel is the
+> primary author of both the Magical Code Injection Rainbow, a
+> configurable vulnerability testbed, and FeatherDuster, an automated
+> cryptanalysis tool. Daniel enjoys climbing large rocks and is TIME
+> magazine's 2006 person of the year. Daniel has been working in the
+> information security industry since 2004 and is a frequent speaker at
+> conferences including Black Hat, DEF CON, Shmoocon, and SOURCE. Daniel
+> does his own charcuterie and brews his own beer. Daniel's work has
+> been included in books and college courses. Daniel also holds the
+> noble title of Baron in the micronation of Sealand.
+
+**Title:** Windows File Pseudonyms: Ten Years Later, Where are We?
+
+> This talk a revisiting of techniques and oddities related to how
+> Windows handles file names and paths, and a discussion of what works,
+> or doesn't, on Windows 10.
+
+**Speaker:** Travis Horvath
+
+> Travis is a reformed systems administrator and network analyst turned
+> hacker. He enjoys collecting reverse shells and long lists of hashed
+> passwords. When he’s not trying to find your mother’s maiden name,
+> first pet, and street you grew up on, he’s tinkering with a 3D printer
+> or quadcopter. During his time as an infosec consultant, he’s appended
+> several letters his title including “OSCP”, “OSWP”, and “CREST”.
+
+**Title:** The New Hotness: A briefing and demo of HTTP Request
+Smuggling
+
+> A brief on the “new” HTTP desynchronization attack dubbed “HTTP
+> Request Smuggling”, released by James Kettle at DEF CON and Black Hat
+> this year. We will break down and demo the attack, detail what it is,
+> how to test for it, and how to defend against it.
+
+**Sponsor:** Experis
+
+### OWASP Houston September Chapter Meeting
+
+**When:** Thursday, September 26, 2019
+
+**Where:** Flying Saucer Draught Emporium 705 Main St, Houston, TX 77002
+
+**Time:** 6pm - 8pm
+
+**Description:** September our sponsor Experis will be helping us host a
+chapter meeting. This will be a happy hour event where we would like to
+meet our chapter members and get to know them a bit. This event will
+also be a chance for any of you to express the direction you would like
+to see the chapter go in.
+
+**Sponsor:** Experis
+
+### OWASP Houston March Chapter Meeting
+
+**When:** Wed, March 20, 2019 7 PM – whenever we are done
 
 **Where:** The Local Pour, The Woodlands, TX 77381
 
@@ -757,6 +826,11 @@ Houston, TX
 
 ## Past
 
+# Announcements
+
+> The chapter is in the process of obtaining sponsors and venues for
+> meetings. Check back soon for further announcements
+
 # Sponsorship Info
 
 ## We are looking for sponsors
@@ -769,12 +843,31 @@ Houston, TX
 
 ### Event Types
 
->   - Happy Hours
->   - Training Days
->   - Presentations
->   - General Chapter meetings
+**OWASP Houston Chapter Meetings**
+
+> The chapter meetings are the heart of the chapter. We need good
+> content to bring to our members. Also, we need a good space that is
+> welcoming and quiet for those attending to hear. We are looking for
+> sponsors to help provide space and equipment for talks and
+> presentations.
+
+**OWASP Houston Chapter Happy Hour Sponsorship**
+
+> The chapter is looking for sponsors to help fund happy hours. This
+> opportunity can benefit both the chapter and the sponsor.
+
+**OWASP Houston Chapter Technical Trainings**
+
+> This chapter is looking to start helping build talent in this
+> geographical area. We need to obtain training space, help setting up
+> equipment, and even getting instructors here in the future.
+
+**OWASP Houston Chapter Presenter Sponsorships**
+
+> The ability to help top tier presenters to get out to our chapter, we
+> need some help. This level of sponsorship will do just that. We need
+> help getting talented presenters to the area.
 
 __NOTOC__ <headertabs></headertabs>
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:United States](Category:United_States "wikilink")

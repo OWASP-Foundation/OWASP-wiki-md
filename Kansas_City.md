@@ -2,8 +2,10 @@
 
 Welcome to the Kansas City chapter homepage. If you have any questions
 about the Kansas City Chapter, please send an email to our chapter
-leader, [Justin Ferguson](mailto:justin.ferguson@owasp.org), or directly
-to our mailing list at owasp-kansascity@lists.owasp.org.
+leader, [Justin Ferguson](mailto:justin.ferguson@owasp.org) and [Joshua
+White](mailto:joshua.white@owasp.org) and [Greg
+Lahann](mailto:greg.lahann@owasp.org), or directly to our mailing list
+at owasp-kansascity@lists.owasp.org.
 
 **Our Mission:**
 

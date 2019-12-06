@@ -29,29 +29,25 @@ your support and sponsorship of any meeting venue and/or refreshments is
 tax-deductible. Financial contributions should only be made online using
 the authorized online chapter donation button.
 
-  - OWASP Japanが主催・共催するイベントにご参加ください。
+OWASP Japanが主催・参画するイベントに、どうぞご参加ください。
 
 ローカルチャプターミーティングとして、３ヶ月に一度かそれ以上の頻度でOWASP Night/Dayを開催しています。
 
   - ソーシャルネットワーク・公開カレンダー
-      -   - Facebook: [**OWASP Japan Facebook
-            Page**](https://www.facebook.com/owaspjapan), [**OWASP
-            Japanメンターグループ**](https://www.facebook.com/groups/owaspjapan/)
-          - Twitter:
-            [**@owaspJapan**](http://www.twitter.com/owaspjapan)
-          - Youtube: [**OWASP JAPAN
-            channel**](https://www.youtube.com/channel/UCOsPioMMKzTTVv3__M0HFUw)
-          - Google Calendar [**OWASP JAPAN
-            Calnedar**](https://calendar.google.com/calendar/embed?src=0ebhu6vnst629s03iq34t4vjm8%40group.calendar.google.com&ctz=Asia%2FTokyo)
+      - Facebook: [**OWASP Japan Facebook
+        Page**](https://www.facebook.com/owaspjapan), [**OWASP
+        Japanメンターグループ**](https://www.facebook.com/groups/owaspjapan/)
+      - Twitter: [**@owaspJapan**](http://www.twitter.com/owaspjapan)
+      - Youtube: [**OWASP JAPAN
+        channel**](https://www.youtube.com/channel/UCOsPioMMKzTTVv3__M0HFUw)
+      - Google Calendar [**OWASP JAPAN
+        Calnedar**](https://calendar.google.com/calendar/embed?src=0ebhu6vnst629s03iq34t4vjm8%40group.calendar.google.com&ctz=Asia%2FTokyo)
 
 <!-- end list -->
 
   - OWASP Japanチャプターは、チャプターのない都市を含めた全国のOWASP活用や、地域チャプター発足・運営を支援しています。
       - 講演者派遣要請：OWASPローカルチャプターはもちろんのこと、広く**オープンな**場でのセミナーの講演要請に応じています。ローカルチャプターともおつなぎできます。ご相談ください。
-
-<!-- end list -->
-
-  -   - 全国にチャプターがあります。最寄りの[**日本国内のチャプター**に参加してみてください](:Category:Japan "wikilink")。
+      - 全国にチャプターがあります。最寄りの[**日本国内のチャプター**に参加してみてください](:Category:Japan "wikilink")。
 
 ## Sponsorship/Membership
 
@@ -100,24 +96,36 @@ are no requirements in terms of skills, profession, nationality, gender
 or age. Anyone interested in web security is free to participate. We
 would like to have a chapter meeting every 3 months.
 
-### 2019/3/11 OWASP Night 2019/03
+\=== 2019/8/19 WASNight 2019 Summer = OWASP Night x Hardening Night ===
 
-  - 日時: 3月11日月曜日 18:30受付開始、19:00スタート（20:30終了予定）
-      - 会場 :インターネットイニシアティブ (東京都千代田区)
-      - 定員 : オンサイト110名〜 /オンライン100名
+  - 日時: 8月19日月曜日 18:00受付開始、19:00スタート（21:30? 終了予定）
+      - 会場 :THE CORE Kitchen (東京都港区)
+      - 定員 : オンサイト150名〜 / オンライン枠未定
 
-<!-- end list -->
+`プログラム内容/事前登録 (ドタキャン禁止・実名事前登録必要): `<https://owasp.doorkeeper.jp/events/96072>
 
-  - 事前登録/registration(ドタキャン禁止・実名事前登録必要):
-    <https://owasp.doorkeeper.jp/events/88290>
+#### ライブ・サテライト
+
+  - 会津会場 <https://owasp-fukushima.connpass.com/event/142725/>
+
+(他にも希望があればお知らせください)
 
 ## NEWS
 
-**2018/10/31 OWASP Mobile Application Security Verification Standard
-(MASVS)  日本語版**
+**2019/6/4 V1.1.4 サミット版 OWASP Mobile Application Security Verification
+Standard (MASVS)  日本語版**
+<https://github.com/OWASP/owasp-masvs/tree/master/Document-ja>
+
+MASVS最新版は日本語も含めこのレポジトリにて公開されています。
+
+**2018/7/30 Proactive Controls v3.0日本語版**
+<https://github.com/shonantoka/OWASP-Top10-Proactive-Controls-2018-JP>
+
+Proactive Controls v3.0日本語版は上記のレポジトリでまとめられています。
+
+#### 2018/10/31 OWASP Mobile Application Security Verification Standard (MASVS)  日本語版
 
 <https://github.com/LAC-Japan/OWASP-MASVS>
-
 LAC社内のボランティアにて翻訳を公開してくださいましたので共有します。
 
 #### 2018/6/27 コーポレートサポーター
@@ -276,6 +284,17 @@ Supporter賞を授与されました。皆さんのご参画が世界に評価�
 USAは2015年9月22-25日にサンフランシスコで開催](http://2015.appsecusa.org/home.html)されます。すでに先行申込が始まっています。
 
 # Closed Event / これまでのイベント
+
+### 2019/3/11 OWASP Night 2019/03
+
+  - 日時: 3月11日月曜日 18:30受付開始、19:00スタート（20:30終了予定）
+      - 会場 :インターネットイニシアティブ (東京都千代田区)
+      - 定員 : オンサイト110名〜 /オンライン100名
+
+<!-- end list -->
+
+  - 事前登録/registration(ドタキャン禁止・実名事前登録必要):
+    <https://owasp.doorkeeper.jp/events/88290>
 
 ## OWASP Night/Day Meeting
 

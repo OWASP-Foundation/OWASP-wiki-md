@@ -159,14 +159,6 @@ BeNeLux Days 2018:
 ![Vest.jpg](Vest.jpg "Vest.jpg") ![DavinsiLabs.png](DavinsiLabs.png
 "DavinsiLabs.png")
 
-\-- Past sponsors
-![Bnl11-SECURITYANDTRUST-LOGO.jpg](Bnl11-SECURITYANDTRUST-LOGO.jpg
-"Bnl11-SECURITYANDTRUST-LOGO.jpg") ![Logocircl.png](Logocircl.png
-"Logocircl.png")
-[<https://www.owasp.org/images/f/ff/Secwatch_logo_small.png>](https://secwatch.nl)
-![Avi_Logo_Transparent_Background_300pix.png](Avi_Logo_Transparent_Background_300pix.png
-"Avi_Logo_Transparent_Background_300pix.png") --\>
-
 </center>
 
 [Category:Europe](Category:Europe "wikilink")

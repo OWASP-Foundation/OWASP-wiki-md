@@ -1,1 +1,3 @@
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
+## Local News
+
+**`Meeting``   ``Location`**

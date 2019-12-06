@@ -34,6 +34,116 @@ Previously OWASP Helsinki has been working on the following tasks:
 
 #### Chapter Meetings
 
+## OWASP Helsinki chapter meeting \#39: Oct 22nd 2019
+
+**Time: 17:30-21:00**
+
+**Agenda**
+
+**17:30 Welcome coffee**
+
+**18:00 Opening words, Chapter leader - OWASP Helsinki**
+
+**18:05 Words from the sponsor, Juho Ranta, CTO, Second Nature Security
+(2NS)**
+
+**18:15 OWASP SAMM2 - your dynamic software security journey, Sebastien
+Deleersnyder, OWASP SAMM project leader, Managing partner Application
+Security, Toreon**
+
+**19:15 Break**
+
+**19:30 Scaling up threat modeling, Mikko Saario, Security Architect,
+KONE Corporation**
+
+**20:15 Trusted Computing - beyond the TPM, Ian Oliver, Senior Security
+Researcher, Nokia Bell Labs**
+
+**21:00-\> Discussions continue with Snacks, Refreshments and Sauna
+sponsored by 2NS.**
+
+Please register by 21st of Sep
+[here](https://www.meetup.com/OWASP-Helsinki-Chapter/events/265401349/)
+(Note that the seats are limited)
+
+## OWASP Helsinki chapter meeting \#38: Sep 3rd 2019
+
+**Location: Second Nature Security (2NS), Keilaranta 1 (auditorium
+Ankkuri), 02150 Espoo**
+
+**Time: 17:30-21:00**
+
+**Agenda**
+
+**17:30 Welcome coffee**
+
+**18:00 Opening words, Lasse Korvala, Chapter co-leader - OWASP
+Helsinki**
+
+**18:05 Words from the sponsor, Juho Ranta, CTO - Second Nature Security
+(2NS)**
+
+**18:15 What's new in the ASVS 4.0, Josh Grossman, OWASP ASVS Project
+co-leader, Head of Security Services, AppSec Labs**.
+![<File:OWASP_Helsinki_Sep_2019_ASVS_4.0_release.pdf>](OWASP_Helsinki_Sep_2019_ASVS_4.0_release.pdf
+"File:OWASP_Helsinki_Sep_2019_ASVS_4.0_release.pdf")
+
+**19:15 Break**
+
+**19:30 How to determine the security of a mobile authentication app,
+Petteri Ihalainen, Senior Specialist, Traficom**
+![<File:OWASP_Helsinki_MobileAuthnAppSecVerification.pdf>](OWASP_Helsinki_MobileAuthnAppSecVerification.pdf
+"File:OWASP_Helsinki_MobileAuthnAppSecVerification.pdf")
+
+**20:15 If you like it then you shoulda put a TPM on it 🎵, Gabriela
+Limonta, Security Researcher, Nokia**
+![<File:OWASP_presentation_-_Gabriela_Limonta.pdf>](OWASP_presentation_-_Gabriela_Limonta.pdf
+"File:OWASP_presentation_-_Gabriela_Limonta.pdf")
+
+**21:00 Snacks/BBQ, Refreshments, Sauna & Jacuzzi**
+
+Please register by 1st of Sep
+[here](https://www.meetup.com/OWASP-Helsinki-Chapter/events/264058334/)
+(Note that the seats are limited).
+
+## OWASP Helsinki chapter meeting \#37: May 21st 2019
+
+**Location: KONE, Keilasatama 5, 02150 Espoo**
+
+**Time: 17:30-21:00**
+
+**Agenda**
+
+**17:30 Welcome coffee**
+
+**18:00 Opening words, Pekka Sillanpää, Chapter co-leader - OWASP
+Helsinki**
+
+**18:05 Words from the sponsor, KONE**
+
+**18:10 Blockchains; How secure are they in practice in an IoT disrupted
+world and making the things secure, Onur Zengin, Senior Software
+Security Architect, KONE**
+
+**18:50 Break: Snacks & Refreshments**
+
+**19:20 Traficom's security label for IoT consumer devices - goals and
+challenges (tietoturvamerkki), Juhani Eronen and Saana Seppänen,
+Traficom**
+
+**19:50 Deploying a bug bounty / test automation environment for
+thousands of IoT devices with Kubernetes, Pekka Sillanpää, CTO and Teemu
+Huhtala, Senior SW engineer, Tosibox**
+
+**20:30 Networking with peers**
+
+**21:00 Discussions continue in Sauna/Jacuzzi on the top of Keilaranta 1
+(neighbour building) sponsored by 2NS**
+
+Please register by 13th of May
+[here](https://www.eventbrite.com/e/owasp-helsinki-chapter-meeting-37-tickets-61322317703)
+(Note that the seats are limited).
+
 ## OWASP Helsinki chapter meeting \#36: Feb 12th 2019
 
 **Location: Veikkaus, Aku Korhosen tie 2, 00440 Helsinki**
@@ -124,7 +234,7 @@ Please register by 4th of Nov
 
 **17:30 Welcome coffee** 
 
-**18:00 Opening words / Pekka Sillanpää OWASP Helsinki**
+**18:00 Opening words / Pekka Sillanpää, OWASP Helsinki**
 
 **18:05 Words from the sponsor / Pekka Siltala-Li / Eficode**
 
@@ -152,7 +262,7 @@ Please register by 10th of Jun
 
 **17:30 Welcome coffee**
 
-**18:00 Opening words / Petteri Arola, OWASP Helsinki**
+**18:00 Opening words / Pekka Sillanpää, OWASP Helsinki**
 
 **18:05 Words from the sponsor**
 

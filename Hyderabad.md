@@ -103,6 +103,123 @@ Agreement](http://www.owasp.org/images/4/4b/SAMPLE_Training_Instructor_Agreement
 
 ## [Meeting](Meeting "wikilink") Details:
 
+## Nov - 2019 - OWASP Day Workshop
+
+**Organized** **by** : <u>Salesforce India Private Limited</u>
+
+**Date :** **23/Nov/2019**
+
+**Event :** 10.00 AM to 06.00 PM IST
+
+**Venue :** **Salesforce India Private Limited** Block 5, DivyaSree
+Orion IT/ITES SEZ Survey 66/1 Panmakhta, Raidurg Village Serilingampally
+Mandal, Ranga Reddy District Hyderabad (Telangana) 500 032 India
+
+**Registration Link:**
+<https://www.meraevents.com/previewevent?view=preview&eventId=218015>
+![Nov-2019_Details.jpg](Nov-2019_Details.jpg "Nov-2019_Details.jpg")
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Session Details: OWASP Day workshop By "Dr. Phillippe De Ryck"</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Founder of Pragmatic Web Security, Google Developer Expert</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Social media profiles of Speaker :</strong></p>
+<p><strong>Twitter:</strong> <a href="https://twitter.com/PhilippeDeRyck">https://twitter.com/PhilippeDeRyck</a></p>
+<p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/PhilippeDeRyck/">https://www.linkedin.com/in/PhilippeDeRyck/</a></p>
+<p><strong>Github:</strong> <a href="https://github.com/philippederyck/">https://github.com/philippederyck/</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+</tbody>
+</table>
+
+**Agenda :**
+
+Welcome and Overview by OWASP Core Team
+
+Welcome note by Salesforce Information Security team
+
+  - The security model of the web
+  - Security fundamentals for HTTP applications
+  - Lab sessions
+  - Server-side Injection vulnerabilities
+  - Lunch Break
+  - Understanding XSS attacks and defenses
+  - Lab sessions
+  - Q\&A and conclusion
+  - Vote of Thanks
+  - Closing: Network Business / Announce Next Meeting – By OWASP Team
+  - Meeting Concludes: Network Social
+
+**Directions to Venue:** [Google Map
+Link](https://www.google.com/maps/dir//Salesforce,+Block+5,+DivyaSree+Orion+IT%2FITES+SEZ,+Survey+66%2F1+Panmakhta,+Raidurg+Village,+Serilingampally+Mandal,+Ranga+Reddy+District,+Hyderabad,+Telangana+500032/@17.4225721,78.3081909,12z/data=!3m1!4b1!4m8!4m7!1m0!1)
+
+## Aug - 2019 - One-Day Conference
+
+**Organized** **by** : Broadridge Financial Solutions (India) Private
+Limited
+
+**Date :** **31/Aug/2019**
+
+**Timings :** 9.00 AM Registration starts
+
+**Event :** 10.00 AM to 06.00 PM IST
+
+**Venue :** **Broadridge Financial Solutions (India) Private Limited**,
+Adjacent to Cyber Towers, Hi-Tec City, Madhapur | Hyderabad 500081
+Telangana
+
+**Registration Link:**
+<https://www.meraevents.com/event/owasp-hyderabad-august-meet-2019>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>Registration &amp; Networking</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>Welcome and Overview by OWASP Core Team : Welcome note by Broadridge Team</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Azure Secure Devops Kit (AzSK)</strong> – By Sartaj Shaik : Sartaj is pen-tester and Security adviser with 6 + years of experience in Bug bounty and Security adviser associated with HCL and Aveva. A motivational speaker and MCU enthusiast (Inspired by Iron Man)</p></td>
+</tr>
+<tr class="even">
+<td><p>Refreshments / Tea Break</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>IOT (Internet of Things) Security (WiFi and Bluetooth hooks)</strong> – By Satish Rao : Satish Rao is an IoT Enthusiast , He have M.Tech in Computer Science and working in Oracle India Pvt Ltd in the role of Security Program Manager , having 14 years of Software Industry Experience. Linkendin : https://www.linkedin.com/in/satishraop/</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Secure Code Review</strong> – By Raghav : Raghav has over 11 years of experience in Development and Application Security. In his current role at Broadridge he has been involved in vulnerability assessments, secure code reviews, design reviews, providing remediation support and mentoring. He also conducted several security awareness sessions to the development community.</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Networking Lunch</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>AndroGoat in Kotlin (A damn vulnerable mobile App)</strong> – By Satish Patnayak : 9 years of broad industry experience , Information Security Consultant , researcher , Bug bounty hunter and blogger. AndroGoat is developed by Satish and dedicated the app to OWASP. Twitter : @satish_patnayak</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Refreshments / Tea Break</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Third Party Libraries - Impact and Analysis</strong> By Niranjan T, Sarwar J Speakers Profile: a) Niranjan T, is working as a Technology Lead at Broadridge, with 7 years of experience in multiple security domains such as Application Security, Infrastructure Security, Mobile Security etc. b) Sarwar J, is working as a Senior Product Security Analyst at Broadridge, who is passionate about learning and sharing knowledge with the AppSec community.</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Vote of Thanks</strong></p>
+<p>Closing: Network Business / Announce Next Meeting – By OWASP Team</p></td>
+</tr>
+<tr class="even">
+<td><p>Meeting Concludes: <em>Network Social</em></p></td>
+</tr>
+</tbody>
+</table>
+
 ## Mar - 2019 - One-Day Conference
 
 **Organized** **by** : S\&P Global

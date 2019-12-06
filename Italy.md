@@ -8,7 +8,22 @@
 
 <paypal>Italy</paypal>
 
-## **NEXT EVENT: OWASP/WIA initiatives - 26th March 2019**
+## **NEXT EVENT: OWASP Day in Udine - 27th September 2019**
+
+The conference will take place next September 27th 2019.
+
+The details of the conference agenda and selected speakers will be
+announced after closing the (CFP) Call For Papers on August 15th.
+
+Confirmed keynote speaker is the American computer scientist, author,
+and researcher [Dr Gary
+McGraw](https://en.wikipedia.org/wiki/Gary_McGraw)
+
+More information here:
+
+[<https://www.owasp.org/index.php/Italy_OWASP_Day_Udine_2019>](Italy_OWASP_Day_Udine_2019 "wikilink")
+
+## **OWASP/WIA initiatives - 26th March 2019**
 
 Thanks to Loredana Mancini and Zoe Braiterman we will have an
 OWASP-Italy /WIA initiatives at the Link Campus in Rome next 26th

@@ -2,8 +2,9 @@
 
 ### Meeting supporters
 
+Faculty of Computer Science and Engineering - FINKI
 Faculty of Electrical Engineering and Information Technologies - FEIT
-[<https://s16.postimg.org/swh5uze41/FEIT_logo.png>](http://www.feit.ukim.edu.mk/)
+[1](http://www.feit.ukim.edu.mk/sliki_pocetna/copy_of_SPFEIT_Logo.jpg/image_mini)
 Seavus education and development center
 [<http://www.sedc.mk/wp-content/uploads/2016/05/logo.png>](http://www.sedc.mk/)
 
@@ -40,24 +41,23 @@ list](https://lists.owasp.org/mailman/listinfo/owasp-Macedonia)
 
 # **Next Meeting**
 
-## SkopjeSec:Macedonian's Monthly Hacker/Security Professional Meetup \#8 - 01th February 2018
+## SkopjeSec:Macedonian's Monthly Hacker/Security Professional Meetup \#11 - 29th May 2019
 
-#### **01th February 2018 18:00**
+#### **29th May 2019 18:00**
 
-#### **SkopjeSec is our monthly meetup and this is our 8th meeting. We welcome anyone who works in information security or is interested in information security. SkopjeSec meetups have no mandatory formal agenda but we encourage you to share your ideas. This is a chance for those of us in the local security community to catch up on a regular basis. We are truing to rise security awareness on todays threads by sharing info among right people. There are absolutely no fees for this meeting. Its all in interaction. Thanks to Seavus for supporting our chapter.**
+#### '''SkopjeSec is our monthly meetup and this is our 9th meeting after long break. We welcome anyone who works in information security or is interested in information security. SkopjeSec meetups have no mandatory formal agenda but we encourage you to share your ideas. This is a chance for those of us in the local security community to catch up on a regular basis. We are truing to rise security awareness on todays threads by sharing info among right people. There are absolutely no fees for this meeting. Its all in interaction. '''
 
 #### **Sessions**
 
-  - **Meltdown and Spectre, vulnerabilities in modern processors** by
-    m-r Mane Piperevski
+  - **Cyber Security Catch-Up and Windows Software Cracking Workshop -
+    Part 3**
 
 **Venue**
 
-Faculty of Electrical Engineering and Information Technologies - FEIT,
-Classroom 109
-Факултет за електротехника и информациски технологии - ФЕИТ, Предавална
-109
-ул. „Руѓер Бошковиќ“ бр. 18 , - Скопје,
+Faculty of Computer Science and Engineering - FINKI , Amphitheater
+Факултет за информатички науки и компјутерско инженерство - ФИНКИ,
+Настанот ќе биде одржан во Амфитеатарот
+ул. „Руѓер Бошковиќ“ бр. 16 , - Скопје,
 Скопје 1000, Македонија
 More info on meetup page [Link for official Meetup
 page](https://www.meetup.com/SkopjeSec-Macedonians-Monthly-Security-Professional-Meetup/)
@@ -82,8 +82,92 @@ page](https://www.meetup.com/SkopjeSec-Macedonians-Monthly-Security-Professional
 | 7 SkopjeSec \#3                         | 22th December 2016  | FEIT, Skopje, Macedonia             | 18h  |
 | 8 SkopjeSec \#4                         | 23th March 2017     | FEIT, Skopje, Macedonia             | 18h  |
 | 9 SkopjeSec \#5                         | 04th May 2017       | FEIT, Skopje, Macedonia             | 18h  |
-| 10 SkopjeSec \#6                        | 22th August 2017    | FEIT, Skopje, Macedonia             | 18h  |
-| 11 SkopjeSec \#7                        | 23th November 2017  | FEIT, Skopje, Macedonia             | 18h  |
+| 10 SkopjeSec \#6                        | 22th August 2017    | Seavus, Skopje, Macedonia           | 18h  |
+| 11 SkopjeSec \#7                        | 23th November 2017  | Seavus, Skopje, Macedonia           | 18h  |
+| 12 SkopjeSec \#8                        | 01th February 2018  | FEIT, Skopje, Macedonia             | 18h  |
+| 12 SkopjeSec \#9                        | 06th May 2019       | FEIT, Skopje, Macedonia             | 18h  |
+| 12 SkopjeSec \#10                       | 20th May 2019       | FEIT, Skopje, Macedonia             | 18h  |
+
+## SkopjeSec:Macedonian's Monthly Hacker/Security Professional Meetup \#10 - 20th May 2019
+
+#### **20th May 2019 18:00**
+
+#### '''SkopjeSec is our monthly meetup and this is our 8th meeting. We welcome anyone who works in information security or is interested in information security. SkopjeSec meetups have no mandatory formal agenda but we encourage you to share your ideas. This is a chance for those of us in the local security community to catch up on a regular basis. We are truing to rise security awareness on todays threads by sharing info among right people. There are absolutely no fees for this meeting. Its all in interaction. '''
+
+#### **Sessions**
+
+  - **Cyber Security Catch-Up and Windows Software Cracking Workshop -
+    Part 2**
+
+#### **Venue**
+
+Faculty of Electrical Engineering and Information Technologies - FEIT
+Факултет за електротехника и информациски технологии - ФЕИТ
+ул. „Руѓер Бошковиќ“ бр. 18 , - Скопје,
+Скопје 1000, Македонија
+More info on meetup page [Link for official Meetup
+page](https://www.meetup.com/SkopjeSec-Macedonians-Monthly-Security-Professional-Meetup/)
+[FEIT on Google maps](https://goo.gl/maps/SLTzypaXCs12)
+
+#### **Instructions**
+
+  - Please bring your open mind and willingness to share and learn.
+  - The parking for cars/motorbikes is available in front and in back of
+    the Faculty and is free of charge.
+
+## SkopjeSec:Macedonian's Monthly Hacker/Security Professional Meetup \#9 - 06th May 2019
+
+#### **06th May 2019 18:00**
+
+#### '''SkopjeSec is our monthly meetup and this is our 8th meeting. We welcome anyone who works in information security or is interested in information security. SkopjeSec meetups have no mandatory formal agenda but we encourage you to share your ideas. This is a chance for those of us in the local security community to catch up on a regular basis. We are truing to rise security awareness on todays threads by sharing info among right people. There are absolutely no fees for this meeting. Its all in interaction. '''
+
+#### **Sessions**
+
+  - **Cyber Security Catch-Up and Windows Software Cracking Workshop -
+    Part 1**
+
+#### **Venue**
+
+Faculty of Electrical Engineering and Information Technologies - FEIT
+Факултет за електротехника и информациски технологии - ФЕИТ
+ул. „Руѓер Бошковиќ“ бр. 18 , - Скопје,
+Скопје 1000, Македонија
+More info on meetup page [Link for official Meetup
+page](https://www.meetup.com/SkopjeSec-Macedonians-Monthly-Security-Professional-Meetup/)
+[FEIT on Google maps](https://goo.gl/maps/SLTzypaXCs12)
+
+#### **Instructions**
+
+  - Please bring your open mind and willingness to share and learn.
+  - The parking for cars/motorbikes is available in front and in back of
+    the Faculty and is free of charge.
+
+## SkopjeSec:Macedonian's Monthly Hacker/Security Professional Meetup \#8 - 01th February 2018
+
+#### **01th February 2018 18:00**
+
+#### '''SkopjeSec is our monthly meetup and this is our 8th meeting. We welcome anyone who works in information security or is interested in information security. SkopjeSec meetups have no mandatory formal agenda but we encourage you to share your ideas. This is a chance for those of us in the local security community to catch up on a regular basis. We are truing to rise security awareness on todays threads by sharing info among right people. There are absolutely no fees for this meeting. Its all in interaction. '''
+
+#### **Sessions**
+
+  - **Meltdown and Spectre, vulnerabilities in modern processors** by
+    m-r Mane Piperevski
+
+#### **Venue**
+
+Faculty of Electrical Engineering and Information Technologies - FEIT
+Факултет за електротехника и информациски технологии - ФЕИТ
+ул. „Руѓер Бошковиќ“ бр. 18 , - Скопје,
+Скопје 1000, Македонија
+More info on meetup page [Link for official Meetup
+page](https://www.meetup.com/SkopjeSec-Macedonians-Monthly-Security-Professional-Meetup/)
+[FEIT on Google maps](https://goo.gl/maps/SLTzypaXCs12)
+
+#### **Instructions**
+
+  - Please bring your open mind and willingness to share and learn.
+  - The parking for cars/motorbikes is available in front and in back of
+    the Faculty and is free of charge.
 
 ## SkopjeSec:Macedonian's Monthly Hacker/Security Professional Meetup \#7 - 23th November 2017
 

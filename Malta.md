@@ -2,6 +2,44 @@
 
 ## Listing of Upcoming Events
 
+### OWASP Malta Chapter Meeting, November, 2019
+
+**When:**
+
+  - Date: Wednesday 6th November 2019
+  - Time: 18:00
+
+**Where:**
+
+Malta Information Technology Agency
+
+MITA Data Centre, Triq Il - Ferrovija, Santa Venera
+
+Map: <https://goo.gl/maps/bspHHkT5xkz>
+
+**Title:** Capture The Flag (CTF) tales and adventures
+
+Capture The Flag is an information security competition that challenges
+contestants to solve a variety of tasks ranging from simply finding a
+piece of information on a web page to performing a hack of a server.
+This talk gives a complete beginner friendly introduction to CTFs and
+gives you a path in solving your 1st challenge.
+
+**Speaker:** Mindaugas Slusnys / Adam Simuntis
+
+[Back to Top](#Upcoming_Events "wikilink")
+
+# Past Meetings and Events
+
+## Listing of Past Meetings and Events
+
+[2018](#2018 "wikilink") | [2017](#2017 "wikilink") |
+[2016](#2016 "wikilink")\]
+
+-----
+
+## 2018
+
 ### OWASP Malta Chapter Meeting, December, 2018
 
 **When:**
@@ -38,17 +76,6 @@ through the web cache deception and cache poisoning.
 Acunetix)
 
 [Back to Top](#Upcoming_Events "wikilink")
-
-# Past Meetings and Events
-
-## Listing of Past Meetings and Events
-
-[2018](#2018 "wikilink") | [2017](#2017 "wikilink") |
-[2016](#2016 "wikilink")\]
-
------
-
-## 2018
 
 ### OWASP Malta Chapter Meeting, August, 2018
 
@@ -227,7 +254,7 @@ Apple, Huawei and countless government organizations around the world. 
 
 **Where:** Middlesex University, Triq Alamein, Pembroke, Malta
 
-**Title:** Introduction to OWASP Malta | | Memorable Hacks in the Gaming
+**Title:** Introduction to OWASP Malta || Memorable Hacks in the Gaming
 industry
 
 > As one of the key market verticals in Malta is iGaming, we will open
@@ -243,10 +270,10 @@ industry
 
 ## Our Chapter Leadership
 
-| scope="col" style="width: 20%; font: bold;" | *' Chapter Leadership Board Member Role*'                                                                                          | scope="col"    | Responsibilities | scope="col" | Person(s) |
-| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------- | ---------------- | ----------- | --------- |
-| Chapter Leader                              | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair. | Rodrigo Marcos |                  |             |           |
-| Talk / Speaker Coordination                 | Serves as the primary point of contact for speakers who want to participate in the chapter.                                        | Rodrigo Marcos |                  |             |           |
+| *' Chapter Leadership Board Member Role*' | Responsibilities                                                                                                                   | Person(s)      |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Chapter Leader                            | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair. | Rodrigo Marcos |
+| Talk / Speaker Coordination               | Serves as the primary point of contact for speakers who want to participate in the chapter.                                        | Rodrigo Marcos |
 
 # Sponsorship Opportunities
 

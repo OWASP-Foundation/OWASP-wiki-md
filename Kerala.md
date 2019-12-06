@@ -95,11 +95,10 @@ conference. Please watch this space for more details.
 
 ## Upcoming Event
 
-#### Dec 1st 2018
+#### **July 25th 2019**
 
-  - OWASP Kerala is organizing a one day conference on Application
-    Security on 01-Dec-2018. (Venue details will be updated soon)
-  - We are inviting papers on Application Security for the conference.
+  - [Codsec 2019, July 25th 2019 @ Amphitheater C-DAC, Technopark Campus
+    phase 1](Codsec_policing_the_future_july_25_2019 "wikilink")
 
 **`#``   ``Please``   ``watch``   ``this``   ``space``   ``for``
  ``more``   ``details``   ``#`**
@@ -120,6 +119,12 @@ conference. Please watch this space for more details.
 "Kerala_twitter.png")
 
 ## OWASP Kerala Chapter Past Meetings
+
+#### **June 8th 2019**
+
+  - [OWASP Kerala Women in Appsec Meet, June 8th 2019 @ Meet-up Cafe,
+    KSUM, Thejaswini building,
+    Technopark](OWASP_Kerala_Women_in_AppSec_Meet_june_8_2019 "wikilink")
 
 #### **November 19th 2018**
 

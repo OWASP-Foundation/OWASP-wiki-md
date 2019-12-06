@@ -99,34 +99,27 @@ AQUÍ](https://www.owasp.org/index.php/LatamTour2014#Training)**
 <table>
 <tbody>
 <tr class="odd">
-<td><p>colspan="2" align="center" style="background:#4B0082;"</p></td>
-<td><p><span style="color:#ffffff"> <strong>CONFERENCIA (Martes 29 de Abril)</strong></span></p></td>
+<td style="text-align: center;"><p><span style="color:#ffffff"> <strong>CONFERENCIA (Martes 29 de Abril)</strong></span></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="0" style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Fecha</strong></p></td>
+<td style="text-align: center;"><p><strong>Fecha</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p>Martes 29 de Abril</p></td>
+<td style="text-align: center;"><p>Martes 29 de Abril</p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" align="center" style="background:#CCCCEE;"</p></td>
-<td><p><strong>Precio y Registro</strong></p></td>
+<td style="text-align: center;"><p><strong>Precio y Registro</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="2" align="center" style="background:#EEEEEE;"</p></td>
-<td><p>El ingreso al evento es <strong>Limitado</strong> - El proceso de registro lo podrá ubicar en el siguiente link<br />
+<td style="text-align: center;"><p>El ingreso al evento es <strong>Limitado</strong> - El proceso de registro lo podrá ubicar en el siguiente link<br />
 <strong>Link de Registro al OWASP LATAM TOUR 2014</strong>: <a href="https://www.regonline.com/Register/Checkin.aspx?EventID=1492458">YA DISPONIBLE</a><strong><br />
 </strong></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" align="center" style="background:#CCCCEE;"</p></td>
-<td><p><strong>Promociones</strong></p></td>
+<td style="text-align: center;"><p><strong>Promociones</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="2" valign="left" height="80" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p>OFERTA ESPECIAL - Durante todo el OWASP Latam Tour el costo de la membresía anual es de solamente U$D 20. Utilice el código de descuento "LATAM" durante el proceso de registro electrónico como miembro individual en el enlace disponible a continuación.<br />
+<td style="text-align: center;"><p>OFERTA ESPECIAL - Durante todo el OWASP Latam Tour el costo de la membresía anual es de solamente U$D 20. Utilice el código de descuento "LATAM" durante el proceso de registro electrónico como miembro individual en el enlace disponible a continuación.<br />
 <a href="http://myowasp.force.com/memberappregion">Hágase MIEMBRO DE OWASP AQUÍ</a><br />
 <strong>Si usted aun no es miembro OWASP, por favor considere unirse a nuestra organización.</strong></p></td>
 </tr>
@@ -466,19 +459,19 @@ Auditorio Principal
 
 \===*' AGENDA*'===
 
-|                                                                                             |                                                                                                                 |
-| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| colspan="6" style="width:90%" valign="middle" height="40" bgcolor="\#4B0082" align="center" | <span style="color:#ffffff"> **DETALLES DE LA CONFERENCIA - Lunes 25 de Abril (Universidad Galileo Salon 401)** |
-| colspan="0" style="width:10%" valign="middle" height="30" bgcolor="\#CCCCEE" align="center" | **Horario**                                                                                                     |
-| colspan="0" style="width:10%" valign="middle" height="30" bgcolor="\#CCEEEE" align="center" | 15:30 - 16:00                                                                                                   |
-| colspan="0" style="width:10%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 16:00 - 16:15                                                                                                   |
-| colspan="0" style="width:10%" valign="middle" height="30" bgcolor="\#CCCCEE" align="center" | 16:15 - 17:00                                                                                                   |
-| colspan="0" style="width:10%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 17:00 - 17:30                                                                                                   |
-| colspan="0" style="width:10%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 17:30 - 18:00                                                                                                   |
-| colspan="0" style="width:10%" valign="middle" height="30" bgcolor="\#CCEEEE" align="center" | 18:00 - 18:30                                                                                                   |
-| colspan="0" style="width:10%" valign="middle" height="30" bgcolor="\#CCEEEE" align="center" | 18:30 - 20:30                                                                                                   |
-| colspan="0" style="width:10%" valign="middle" height="30" bgcolor="\#CCEEEE" align="center" | 18:30 - 20:30                                                                                                   |
-|                                                                                             |                                                                                                                 |
+|                                                                                                                 |
+| :-------------------------------------------------------------------------------------------------------------: |
+| <span style="color:#ffffff"> **DETALLES DE LA CONFERENCIA - Lunes 25 de Abril (Universidad Galileo Salon 401)** |
+|                                                   **Horario**                                                   |
+|                                                  15:30 - 16:00                                                  |
+|                                                  16:00 - 16:15                                                  |
+|                                                  16:15 - 17:00                                                  |
+|                                                  17:00 - 17:30                                                  |
+|                                                  17:30 - 18:00                                                  |
+|                                                  18:00 - 18:30                                                  |
+|                                                  18:30 - 20:30                                                  |
+|                                                  18:30 - 20:30                                                  |
+|                                                                                                                 |
 
 
 
@@ -508,18 +501,18 @@ Aquí](https://www.eventbrite.com/e/owasp-latam-tour-2017-guatemala-tickets-3393
 
 \===*' AGENDA*'===
 
-|                                                                                             |                                                                                                                     |
-| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| colspan="6" style="width:90%" valign="middle" bgcolor="\#4B0082" align="center" height="40" | <span style="color:#ffffff"> **DETALLES DE LA CONFERENCIA - Miércoles 26 de Abril (Universidad Galileo Salon 401)** |
-| colspan="0" style="width:10%" valign="middle" bgcolor="\#CCCCEE" align="center" height="30" | **Horario**                                                                                                         |
-| colspan="0" style="width:10%" valign="middle" bgcolor="\#CCEEEE" align="center" height="30" | 15:30 - 16:00                                                                                                       |
-| colspan="0" style="width:10%" valign="middle" bgcolor="\#EEEEEE" align="center" height="30" | 16:00 - 16:15                                                                                                       |
-| colspan="0" style="width:10%" valign="middle" bgcolor="\#CCCCEE" align="center" height="30" | 16:15 - 17:00                                                                                                       |
-| colspan="0" style="width:10%" valign="middle" bgcolor="\#EEEEEE" align="center" height="30" | 17:00 - 17:45                                                                                                       |
-| colspan="0" style="width:10%" valign="middle" bgcolor="\#EEEEEE" align="center" height="30" | 17:45 - 18:30                                                                                                       |
-| colspan="0" style="width:10%" valign="middle" bgcolor="\#CCEEEE" align="center" height="30" | 18:30 - 19:00                                                                                                       |
-| colspan="0" style="width:10%" valign="middle" bgcolor="\#CCEEEE" align="center" height="30" | 19:00 - 20:30                                                                                                       |
-|                                                                                             |                                                                                                                     |
+|                                                                                                                     |
+| :-----------------------------------------------------------------------------------------------------------------: |
+| <span style="color:#ffffff"> **DETALLES DE LA CONFERENCIA - Miércoles 26 de Abril (Universidad Galileo Salon 401)** |
+|                                                     **Horario**                                                     |
+|                                                    15:30 - 16:00                                                    |
+|                                                    16:00 - 16:15                                                    |
+|                                                    16:15 - 17:00                                                    |
+|                                                    17:00 - 17:45                                                    |
+|                                                    17:45 - 18:30                                                    |
+|                                                    18:30 - 19:00                                                    |
+|                                                    19:00 - 20:30                                                    |
+|                                                                                                                     |
 
 
 
@@ -569,4 +562,3 @@ ellos:
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Latin America](Category:Latin_America "wikilink")
-[Category:North America](Category:North_America "wikilink")

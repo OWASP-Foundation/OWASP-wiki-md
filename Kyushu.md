@@ -36,15 +36,21 @@ Agreement:日本語訳をご一読下さい](Speaker_Agreement:日本語訳 "wik
 
 ## News
 
-### OWASP Kyushu Local Chapter Meeting 12th
+### OWASP Kyushu Local Chapter Meeting 13th in 宮崎
 
-OWASP Kyushu Local Chapter Meeting 12th は12/27 19:00\~小倉駅前のcafe
-causaにて開催します。
-詳細は[こちら](https://owasp-kyushu.connpass.com/event/111653/)
+OWASP Kyushu Local Chapter Meeting 13th は6/13
+19:00\~アラタナ様の宮崎本社にて開催します。
+詳細は[こちら](https://owasp-kyushu.connpass.com/event/130487/)
 
 # Closed Event / これまでのイベント
 
 ## Closed Event / これまでのイベント
+
+### OWASP Kyushu Local Chapter Meeting 12th
+
+OWASP Kyushu Local Chapter Meeting 12th は12/27 19:00\~小倉駅前のcafe
+causaにて開催しました。
+詳細は[こちら](https://owasp-kyushu.connpass.com/event/111653/)
 
 ### Kyushu Security Conference 2018
 
@@ -178,7 +184,6 @@ Everyone is welcome to join us at our chapter meetings.
 
   - Chapter Leader
       - [Yuichi HATTORI](mailto:yuichi.hattori@owasp.org)
-      - Shumpei Urabe
   - Chapter Board Member
       - Manabu Ooki
       - Shuya Motouchi

@@ -61,10 +61,10 @@ __NOTOC__
 
 <meetup group="meetup-group-XxqLdaeY"/>
 
-### 2018
+### 2019
 
-SECURITY IN A SERIOUS WAY 2018, 2th December 2018, [Tasikmalaya,
-Indonesia](https://seminar.errorcybernews.com/2018/)
+Mentor for Google Summer Of Code 2019
+{<https://summerofcode.withgoogle.com/projects/#5433531277246464>}
 
 ## Past Security Events
 
@@ -183,9 +183,7 @@ us with space for OWASP Indonesia chapter meetings:
 ![Logo-codemargonda_(1).png](Logo-codemargonda_\(1\).png
 "Logo-codemargonda_(1).png")
 
-# Government Agency
-
-\=
+## Government Agency
 
 ## Community
 
@@ -800,17 +798,17 @@ Top 10-Bahasa](https://www.owasp.org/index.php/OWASP_Top_10_2013_-_Bahasa_Indone
 
 # Our Chapter Leadership
 
-| scope="col" style="width: 20%; font: bold;" | *' Chapter Leadership Board Member Role*'                                                                                                                                                                                                             | scope="col"                                      | Responsibilities | scope="col" | Person(s) |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------- | ----------- | --------- |
-| Chapter Leader / Chairman                   | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.                                                                                                                    | Ade Yoseman Putra                                |                  |             |           |
-| Sponsor Coordinator                         | Serves as the primary liaison between the Chapter and all sponsors, and solicits sponsors for the Chapter meetings, happy hours, and other events.                                                                                                    | Hilman Aditya                                    |                  |             |           |
-| Speaker and Special Event Coordinator       | Seeks and schedules speakers for monthly Chapter meetings and other events.                                                                                                                                                                           | Dewo Nur Satrio                                  |                  |             |           |
-| Conference/Event/Meetup Coordinator         | Coordinates all of the efforts for the annual OWASP Indonesia Day, OWASP Jakarta Night & all OWASP Jakarta Events.                                                                                                                                    | Eka Syahfitri                                    |                  |             |           |
-| PR/Marketing Coordinator/Designer Grafis    | Provides marketing of OWASP Indonesia Day and other Chapter events.                                                                                                                                                                                   | Muhamad Iqbal Dewanto                            |                  |             |           |
-| Equipment Committee                         | Equipment Committee for OWASP Meetup                                                                                                                                                                                                                  | Bima                                             |                  |             |           |
-| Volunteer                                   | Volunteer Lists                                                                                                                                                                                                                                       | Achmad Syafaat, Gumux Hijack, Ali Kaharu , Amanu |                  |             |           |
-| Finance                                     | The Chapter Leader is designated as primary person responsible for Chapter budget and Chapter expense approvals. The previous Chapter Leader is designated as secondary approver, who also will approve any expenses submitted by the Chapter Leader. |                                                  |                  |             |           |
-| Advisory Board Members                      | Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success.                                                                                                             |                                                  |                  |             |           |
+| *' Chapter Leadership Board Member Role*' | Responsibilities                                                                                                                                                                                                                                      | Person(s)                                |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| Chapter Leader / Chairman                 | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.                                                                                                                    | Ade Yoseman Putra                        |
+| Sponsor Coordinator                       | Serves as the primary liaison between the Chapter and all sponsors, and solicits sponsors for the Chapter meetings, happy hours, and other events.                                                                                                    | Hilman Aditya                            |
+| Speaker and Special Event Coordinator     | Seeks and schedules speakers for monthly Chapter meetings and other events.                                                                                                                                                                           | Dewo Nur Satrio                          |
+| Conference/Event/Meetup Coordinator       | Coordinates all of the efforts for the annual OWASP Indonesia Day, OWASP Jakarta Night & all OWASP Jakarta Events.                                                                                                                                    | Eka Syahfitri                            |
+| PR/Marketing Coordinator/Designer Grafis  | Provides marketing of OWASP Indonesia Day and other Chapter events.                                                                                                                                                                                   | Muhamad Iqbal Dewanto                    |
+| Equipment Committee                       | Equipment Committee for OWASP Meetup                                                                                                                                                                                                                  | Bima                                     |
+| Volunteer                                 | Volunteer Lists                                                                                                                                                                                                                                       | Achmad Syafaat, Gumux Hijack, Ali Kaharu |
+| Finance                                   | The Chapter Leader is designated as primary person responsible for Chapter budget and Chapter expense approvals. The previous Chapter Leader is designated as secondary approver, who also will approve any expenses submitted by the Chapter Leader. |                                          |
+| Advisory Board Members                    | Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success.                                                                                                             |                                          |
 
 <headertabs></headertabs>
 

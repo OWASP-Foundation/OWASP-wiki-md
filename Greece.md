@@ -14,6 +14,8 @@ Deputy Director: [Vasileios Vlachos](mailto:vsvlachosATowasp.gr)
 Committee Members: [Emmanouel Kellinis](mailto:manosATowasp.gr),
 [Stelios Tigkas](mailto:steliosATowasp.gr)
 
+Publicity Manager: [Kyriaki Chantzi](Mailto:kikichantzi@gmail.com)
+
 
 
 ## Τι είναι το OWASP
@@ -98,6 +100,16 @@ Inside](http://www.linuxinside.gr/) για την υποστήριξη και τ
 
 ## Νέα
 
+**14/11/2019** - Ο [Βασίλης Βλάχος](mailto:vsvlachosATowasp.gr),
+αναπληρωτής συντονιστής του OWASP στην Ελλάδα, παρουσίασε στο 5ο
+Συνέδριο ΚυβερνοΑσφάλειας [ICT Security
+World 2019](https://www.ictsecurity.gr) τις δράσεις του OWASP και το
+OWASP Internet of Things Project. ![Vsvlachos.jpg](Vsvlachos.jpg
+"Vsvlachos.jpg") **08/10/2019** - Tο πρώτο συνέδριο Cyber Security της
+KPMG έρχεται στις 8 Οκτωβρίου στο ξενοδοχείο Grand Hyatt Athens με την
+υποστήριξη του [OWASP Greek
+Chapter](https://www.facebook.com/OwaspGreece/?modal=composer).
+
 **22/03/2019** - Ο [Κωνσταντίνος
 Παπαπαναγιώτου](mailto:conpapATowasp.gr), Γενικός
 Συντονιστής του OWASP στην Ελλάδα, παρουσίασε τις δράσεις του
@@ -105,7 +117,6 @@ OWASP ως διακεκριμένος ομιλητής στην ημερίδα �
 τον Ευρωπαϊκό Ερυνητικό Πρόγραμμα [SAINT](https://project-saint.eu/).
 Το πρόγραμμα της ημερίδας είναι διαθέσιμο
 [εδώ](https://project-saint.eu/sites/default/files/saint_agenda04.pdf).
-![SAINT_workshop.jpg](SAINT_workshop.jpg "SAINT_workshop.jpg")
 
 **13-14/10/2018** - Ο [Βασίλης Βλάχος](mailto:vsvlachosATowasp.gr),
 αναπληρωτής συντονιστής του OWASP στην Ελλάδα, παρουσίασε στο 11ο
@@ -125,10 +136,10 @@ Liberec](https://www.tul.cz/)) τις δράσεις του OWASP. Επιπρό�
 Λογισμικό Ανοιχτού Κώδικα μαζί με το OWASP Greek Chapter για τους
 δημοσιογράφους που ασχολούνται με την ερευνητική δημοσιογραφία.
 Τίτλος: "Ερευνητική Δημοσιογραφία και Ασφάλεια Επικοινωνιών".
-
-**19/05/2018** - Το OWASP ATEITH Student Chapter σε συνεργασία με το
-IEEE ATEITH Student Branch στα πλαίσια του project Hakken διοργανώνει
-την ημερίδα [Cyber Security Awareness Day
+![SAINT_workshop.jpg](SAINT_workshop.jpg
+"SAINT_workshop.jpg")**19/05/2018** - Το OWASP ATEITH Student Chapter σε
+συνεργασία με το IEEE ATEITH Student Branch στα πλαίσια του project
+Hakken διοργανώνει την ημερίδα [Cyber Security Awareness Day
 (CSAD)](https://www.facebook.com/events/1816099512031038/) στον χώρο του
 Lambda Space στη Θεσσαλονίκη.
 
@@ -230,10 +241,6 @@ Top Ten](http://www.owasp.org/images/8/8b/OWASP_Top_Ten_2004_Greek.pdf)
 και του [OWASP AppSec
 FAQ](http://www.owasp.org/images/e/ed/OWASP_faq_Greek.pdf).
 
-
-
-#### Meetings
-
 ## Call for Presentations
 
 Anything related to **Application** or **Information Security**
@@ -257,6 +264,14 @@ To: <konstantinos@owasp.org>
 
 ## Meetings
 
+### 10/06/2019
+
+Χώρος: Υπουργείο Ψηφιακής Πολιτικής / Φραγκούδη 11 & Αλεξάνδρου Πάντου,
+Καλλιθέα
+
+Περιγραφή:
+[<https://drive.google.com/file/d/1oPO_1VMcHTi_PjRaGTdDBH0OUxRVoqRA/view>](https://sites.google.com/s/14LqaL_OYBE4mE-RwUyKEwDM2uLG3FZLm/p/15d_i80Cboy7mE4zBL2ytg_KCLjG8caPE/edit)
+
 ### 26/04/2018
 
 Χώρος: Υπουργείο Ψηφιακής Πολιτικής / Φραγκούδη 11 & Αλεξάνδρου Πάντου,
@@ -269,9 +284,9 @@ To: <konstantinos@owasp.org>
 
 Χώρος: Σεράφειο κέντρο Αθλητισμού, Πολιτισμού και Καινοτομίας / Αθήνα
 
-  - **Βασικά Θέματα Ασφάλειας και Κρυπτογραφίας** - Βασίλειος Βλάχος
-    (Αναπληρωτής Συντονιστής του OWASP Greek Chapter), Κυριακή Χαντζή
-    (Μέλος του OWASP Greek Chapter)
+  - Βασικά Θέματα Ασφάλειας και Κρυπτογραφίας - Βασίλειος Βλάχος
+    (Αναπληρωτής Συντονιστής του OWASP Greek Chapter), Κυριακή
+    Χαντζή (Μέλος του OWASP Greek Chapter)
 
 ### 19/05/2018
 
@@ -280,8 +295,8 @@ To: <konstantinos@owasp.org>
 Περιγραφή:
 [<https://www.facebook.com/events/1431147080237811>](https://www.facebook.com/events/1816099512031038/)
 
-  - **IoT (In)Security: The OWASP IoT Security Project** - Βασίλειος
-    Βλάχος (Αναπληρωτής Συντονιστής του OWASP Greek Chapter)
+  - IoT (In)Security: The OWASP IoT Security Project - Βασίλειος Βλάχος
+    (Αναπληρωτής Συντονιστής του OWASP Greek Chapter)
 
 ### 23/02/2017
 
@@ -289,7 +304,7 @@ To: <konstantinos@owasp.org>
 
 Περιγραφή: <https://www.facebook.com/events/1431147080237811>
 
-  - **Securing your WebApp Workshop by OWASP** - Antonis Manaras (OWASP)
+  - Securing your WebApp Workshop by OWASP - Antonis Manaras (OWASP)
 
 ### 19/04/2013
 
@@ -298,8 +313,8 @@ To: <konstantinos@owasp.org>
 Περιγραφή:
 <https://www.owasp.org/images/e/e0/Training_19.04.13_ISACA_OWASP.pdf>
 
-  - **Being a spammer for 40 minutes: how spam works, why it's slowly
-    going away and why it won't disappear** - **Martijn Grooten** (Virus
+  - Being a spammer for 40 minutes: how spam works, why it's slowly
+    going away and why it won't disappear - Martijn Grooten (Virus
     Bulletin)
 
 ### 05/05/2011
@@ -309,12 +324,12 @@ To: <konstantinos@owasp.org>
 
 Περιγραφή: <http://owaspgr02.eventbrite.com/>
 
-  - **Welcome and OWASP News** - **Konstantinos Papapanagiotou** (OWASP
-    Greek Chapter Leader/Syntax IT Inc)
-    **([PDF](Media:OWASP_gr_meeting_2011_02.pdf‎ "wikilink"))**
-  - **Protecting the Core: Kernel Exploitation Mitigations** -
-    **Patroklos Argyroudis and Dimitris Glynos** (Census)
-    **([PDF](http://census.gr/media/bheu-2011-slides.pdf))**
+  - Welcome and OWASP News - Konstantinos Papapanagiotou (OWASP Greek
+    Chapter Leader/Syntax IT Inc)
+    ([PDF](Media:OWASP_gr_meeting_2011_02.pdf‎ "wikilink"))
+  - Protecting the Core: Kernel Exploitation Mitigations - Patroklos
+    Argyroudis and Dimitris Glynos (Census)
+    ([PDF](http://census.gr/media/bheu-2011-slides.pdf))
 
 ### 16/03/2011
 
@@ -322,21 +337,34 @@ To: <konstantinos@owasp.org>
 
 Περιγραφή: <http://owaspgr01.eventbrite.com/>
 
-  - **Welcome and Intro to OWASP Meetings**
-    **([PDF](Media:OWASP_gr_meeting_2011_01_intro.pdf‎‎ "wikilink"))**
-  - **Application Security for the Masses** - **Konstantinos
-    Papapanagiotou** (OWASP Greek Chapter Leader/Syntax IT Inc)
-    **([PDF](Media:OWASP_gr_meeting_2011_01_appsec_masses.pdf "wikilink"))**
-  - **Cyberdefense and the Kobayashi Maru** - **Yiorgos Adamopoulos**
-    (TEE)
-    **([PDF](Media:Adamopoulos_Cyberdefense_and_the_Kobayashi_Maru.pdf‎ "wikilink"))**
+  - Welcome and Intro to OWASP Meetings
+    ([PDF](Media:OWASP_gr_meeting_2011_01_intro.pdf‎‎ "wikilink"))
+  - Application Security for the Masses - Konstantinos Papapanagiotou
+    (OWASP Greek Chapter Leader/Syntax IT Inc)
+    ([PDF](Media:OWASP_gr_meeting_2011_01_appsec_masses.pdf "wikilink"))
+  - Cyberdefense and the Kobayashi Maru - Yiorgos Adamopoulos (TEE)
+    ([PDF](Media:Adamopoulos_Cyberdefense_and_the_Kobayashi_Maru.pdf‎ "wikilink"))
 
-#### Events
+## Events
 
-**26/04/2018** - Συνδιοργάνωση ημερίδας από το Ελληνικό Παράρτημα του
+**10/06/2019** - Συνδιοργάνωση ημερίδας από το Ελληνικό Παράρτημα του
 OWASP σε συνεργασία με το Υπουργείο Ψηφιακής Πολιτικής, Τηλεπικοινωνιών
-& Ενημέρωσης και τον Οργανισμό Ανοικτών Τεχνολογιών, με θέμα «[Ο Ρόλος
-του OWASP στη Προστασία Κρίσιμων Πληροφορικών
+& Ενημέρωσης, τον Οργανισμό Ανοικτών Τεχνολογιών, την Ένωση Μηχανικών
+Πληροφορικής & Επικοινωνιών Ελλάδας (ΕΜηΠΕΕ) και την Ελληνική
+Εταιρεία Επιστημόνων και Επαγγελματιών Πληροφορικής και
+Επικοινωνιών (ΕΠΥ), με θέμα «[Εθνική Στρατηγική
+Κυβερνοασφάλειας. Από το Σχεδιασμό στην
+Υλοποίηση](https://sites.google.com/s/14LqaL_OYBE4mE-RwUyKEwDM2uLG3FZLm/p/15d_i80Cboy7mE4zBL2ytg_KCLjG8caPE/edit)».
+Πραγματοποιήθηκε στο Υπουργείο Ψηφιακής Πολιτικής, Τηλεπικοινωνιών &
+Ενημέρωσης. Γενικός συντονιστής ο [Βασίλης
+Βλάχος](mailto:vsvlachosATowasp.gr), αναπληρωτής συντονιστής του
+OWASP στην Ελλάδα.
+
+![Owaspmeeting.jpg](Owaspmeeting.jpg "Owaspmeeting.jpg")**26/04/2018** -
+Συνδιοργάνωση ημερίδας από το Ελληνικό Παράρτημα του OWASP σε συνεργασία
+με το Υπουργείο Ψηφιακής Πολιτικής, Τηλεπικοινωνιών & Ενημέρωσης και τον
+Οργανισμό Ανοικτών Τεχνολογιών, με θέμα «[Ο Ρόλος του OWASP στη
+Προστασία Κρίσιμων Πληροφορικών
 Συστημάτων](https://www.facebook.com/events/362073127535010/)».
 Πραγματοποιήθηκε στο Υπουργείο Ψηφιακής Πολιτικής, Τηλεπικοινωνιών &
 Ενημέρωσης. Το αναλυτικό πρόγραμμα της ημερίδας καθώς και
@@ -361,7 +389,7 @@ Information Systems ([MCIS 2009](http://www.mcis2009.org)) στις 26
 ομάδας συντονισμού του OWASP στην Ελλάδα, θα συντονίσει στις 18
 Μαρτίου την ενότητα "Πρότυπα και Νομικές Απαιτήσεις".
 
-**17 και 18/10/2008** - Παρουσίαση του OWASP.gr στα πλαίσια του **Athens
+**17-18/10/2008** - Παρουσίαση του OWASP.gr στα πλαίσια του **Athens
 Digital Week** που πραγματοποιείται από τις 13 ως τις 19 Οκτωβρίου στην
 Τεχνόπολη στο Γκάζι (http://www.athensdigitalweek.gr). Σύμφωνα με το
 [πρόγραμμα](http://www.athensdigitalweek.gr/el/the-core/talk-zone), η
@@ -419,7 +447,6 @@ OWASP.gr Γιάννης Αναστασόπουλος.
 σχόλια, προσθήκες, προτάσεις, παρατηρήσεις ή συζητήσεις μπορείτε να
 απευθύνεστε στη mailing list του OWASP.gr
 (<owasp-greece@lists.owasp.org>).
-
 
 [Ενημερωτικό Δελτίο νο1 -
 Δεκέμβριος 2006](http://www.owasp.org/images/2/21/OWASP_gr_newsletter_1.pdf)

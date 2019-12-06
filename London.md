@@ -68,7 +68,7 @@ contributing funds to our chapter:
 
 <td>
 
-![HTBridgeLogo1.png](HTBridgeLogo1.png "HTBridgeLogo1.png")
+![ImmuniWebLogo.jpg](ImmuniWebLogo.jpg "ImmuniWebLogo.jpg")
 
 </td>
 
@@ -94,6 +94,30 @@ contributing funds to our chapter:
 ![AvataoLogoBlue.png](AvataoLogoBlue.png "AvataoLogoBlue.png")
 
 </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+![AprioritLogo.png](AprioritLogo.png "AprioritLogo.png")
+
+</td>
+
+<td>
+
+![OccamSecLogo.jpg](OccamSecLogo.jpg "OccamSecLogo.jpg")
+
+</td>
+
+<td>
+
+</td>
+
+</tr>
+
+<tr>
 
 </tr>
 
@@ -238,15 +262,514 @@ title, abstract and speaker bio to the Chapter Leaders via e-mail:
 
 `owasplondon (at) owasp.org`
 
+## OWASP London Socal Media Channels
+
+Please subscribe to our mailing list:
+<https://groups.google.com/a/owasp.org/forum/#!forum/london-chapter/join>
+
+Follow us on Twitter: <https://twitter.com/OWASPLondon>
+
+Follow us on EventBrite:
+<https://www.eventbrite.co.uk/o/owasp-london-chapter-9790101329>
+
+Join our Meetup: <https://www.meetup.com/OWASP-London/>
+
+Like us on Facebook: <https://www.facebook.com/OWASPLondon>
+
 ## Next Meeting/Event(s)
+
+### Thursday, 28th November 2019 (Central London) OWASP London CTF For Developers
+
+We are excited to announce the OWASP London CTF event.
+
+CTF (Capture The Flag) is a type of computer security competition.
+Contestants are presented with a set of challenges and puzzles which
+test their creativity, technical (and googling) skills, and
+problem-solving ability. Challenges usually cover a number of categories
+and when solved, each yields a “flag” which is submitted to a real-time
+scoring service. The difficulty levels are from beginner to advanced.
+
+CTF tournaments are a great and fun way for software developers to learn
+a wide array of applications security skills in a safe and legal
+environment.
+
+**PLEASE NOTE THE NEW LOCATION\!**
+
+This event is kindly hosted and sponsored by: Empiric
+
+**New Location**: Empiric, 1 Old Jewry, London EC2R 8DN
+
+**Nearest Tubes**: Bank (3 minute walk), Mansion House (5 minute walk)
+
+**Time:** Doors Open at 6pm for registration, pizza, drinks and
+networking, the talks start at 6:30pm (we start on time).
+
+The players will be presented with a series of vulnerable code
+challenges that will ask them to identify the problem, locate the
+insecure code, and fix the vulnerability. Hints are available (will
+reduce the final score).
+
+Programming languages supported in this CTF event: **Java, .NET, GoLang,
+Ruby, PHP, Python, Solidity(Ethereum)**.
+
+**IMPORTANT**: Please bring your own LAPTOP and a CHARGER for it . No
+extra software required to be installed - play using just the web
+browser.
+
+Top 3 scorers will win exciting prizes generously provided by the cyber
+security technology vendors.
+
+Participation is FREE, but the number of seats is strictly limited and
+registration is required to attend.
+
+#### REGISTRATION:
+
+Register to attend this event and play in the tournament here:
+<https://www.eventbrite.co.uk/e/owasp-london-ctf-tickets-82364571651?aff=ws>
+
+## Past Events
+
+### Thursday, 24th October 2019 (Central London)
+
+Video recordings of talks from this event:
+<https://www.youtube.com/playlist?list=PLmfxTKOjvC_cgoCVYWIuaHI0JJQ8vmvWo>
+
+**Location:** Aon, The Leadenhall Building, 122 Leadenhall Street,
+London, EC3V 4AN
+
+**Nearest Tubes:** Bank (6 minute walk), Liverpool Street (9-minute
+walk), Aldgate(7-minute walk)
+
+**Time:** Doors Open at 6pm for registration, pizza, drinks and
+networking, the talks start at 6:30pm (we start on time).
+
+#### TALKS
+
+  - **OWASP Introduction, Welcome and News - Sam Stepanyan, Sherif
+    Mansour & Andra Lezza**
+
+<!-- end list -->
+
+  -
+    Welcome and a brief update on OWASP Projects & Events from the OWASP
+    London Chapter Leaders.
+
+<!-- end list -->
+
+  - **"\!Responsible Disclosure" - Dylan Wheeler and Sarah White**
+
+<!-- end list -->
+
+  -
+    This talk discusses the hostile environments involved in reporting
+    vulnerabilities and the lack of standardisation and laws protecting
+    security researchers reporting vulnerabilities to vendors and
+    organisations. Dylan and Sarah will present some real-world examples
+    and outcomes and discuss common problems, such as what to do when
+    there is no bug bounty program in place. The world of vulnerability
+    disclosure can be treacherous, but if handled correctly it can be
+    beneficial to all parties involved.
+
+<!-- end list -->
+
+  - **"Making Fact-Based Security & Risk Decisions (using OWASP Security
+    bot & Data Science)" - Dinis Cruz**
+
+<!-- end list -->
+
+  -
+    The way to create a modern and empowering security organisation,
+    that both protects and empowers/enables the business, is to view the
+    entire company and security ecosystem as a graph (where nodes are
+    the multiple players and edges are the hyperlinked connections
+    between them). This presentation will show real-world examples on
+    how to use tools such as Jira, Slack, Jupyter notebooks, Lambda
+    functions , Wardley Maps and OSBost to map and automate
+    vulnerability and incident management workflows and ultimately
+    empower the decision-makers by providing fact-based risk matrices
+    and dashboards. This is the full version of the lightning talk
+    presented at September 19th OWASP London meetup
+
+<!-- end list -->
+
+  -
+    Please note that the following talk will not be delivered due to
+    illness - we wish Chrissy Morgan a speedy recovery
+
+<s>.\* **"The Good, The Bad and The Ugly of Responsible Disclosure" -
+Chrissy Morgan**
+
+  -
+    So what has a JQuery bug that affected thousands of websites with
+    one of the highest starred GitHub repos with 7,800 forks, a Domain
+    Name Registrar vulnerability which allowed for full access to domain
+    owner details (post GDPR) and data protection flaws within
+    Microsoft's Office365 all have in common? ... Answer: Responsible
+    Disclosure. This talk will feature disclosure on each of the bugs
+    and others, the circumstances around these when reporting, to
+    highlight the problems security researchers face today when trying
+    to do the right thing and to raise awareness of the security flaws
+    so we are better protected.
+
+</s>
+
+#### SPEAKERS
+
+**Dylan Wheeler (@degenerateDaE)**
+
+  -
+    Dylan Wheeler is an independent security researcher, recently he and
+    his team at Day After Exploit discovered many critical
+    vulnerabilities in a major casino vendor, Atrient, leading to
+    complete compromise of systems. This discovery also led to Wheeler
+    being assaulted by Atrient's CFO at the International Casino Expo
+    (ICE) at London's Excel Expo Centre. His work has been featured in
+    numerous magazines and popular news website. Back in 2011 he was a
+    former member of the Xbox Underground international hacking group.
+    Since then he began a career as a white-hat security researcher.
+
+**Sarah White (@PolarToffee)**
+
+  -
+    Sarah White is a Cyber Security student at the Royal Holloway
+    University of London and a malware analyst working at Emsisoft, a
+    fully remote antivirus company.
+
+<s> **Chrissy Morgan:(@5w0rdFish)** - cancelled due to illness
+
+  -
+    Chrissy leads the IT Security Operations for a Close Protection
+    company and in her spare time Chrissy has carried out research in
+    the areas of web application security, Steganography, RFID, Physical
+    Cyber Systems Security and is actively involved within the
+    information security community across a wealth of subjects. She also
+    runs The Co-Lab in London, which is a hardware hacking security
+    research workshop. As a recent Napier Masters Graduate, she has
+    accomplished the following successes so far: Winner of Cyber
+    Security Challenge UK (University Challenge - Team Edinburgh
+    Napier), CTF Finalist for the Pragyan CTF (Team Edinburgh Napier) ,
+    A BlackHat Challenge Coin winner for OSINT from Social Engineer.org
+    and Black Hat Scholarship, Steelcon Award, WISP Sponsorship, was the
+    BSides London Rookie Track Speaker Winner for 2018 and most recently
+    won the ISC(2) Up and coming Security Professional 2019.
+
+</s>
+
+**Dinis Cruz (@DinisCruz)**
+
+  -
+    Dinis Cruz is a CISO at Revolut and a renowned application security
+    expert who is passionate about creating Application Security teams
+    and providing Application Security assurance across the Software
+    Development Lifecycle (from development, to operations, to business
+    processes, to board-level decisions).
+
+#### TICKETS
+
+This event is free to attend for both members and non-members of OWASP
+and is open to anyone interested in application security and cyber
+security. Please note that spaces are limited - you must register and
+get a ticket to be admitted to the event by the building security - your
+name will be checked against the guest list.
+
+Get tickets on EventBrite:
+<https://www.microsoftevents.com/profile/form/index.cfm?PKformID=0x7878484abcd>
+
+### Thursday, 19th September 2019 (Central London)
+
+Video recordings of talks form this event now available:
+<https://www.youtube.com/playlist?list=PLmfxTKOjvC_dbbuGb_s0ogfAld5spBiXn>
+
+**Location:** Goodman Masson, 120 Aldersgate Street, London, EC1A 4JQ
+
+**Nearest Tube:** Barbican (1-minute walk)
+
+**Time:** Doors Open at 6pm for registration, pizza, drinks and
+networking, the talks start at 6:30pm (we start on time).
+
+#### TALKS
+
+  - **OWASP Introduction, Welcome and News - Sam Stepanyan, Sherif
+    Mansour & Andra Lezza**
+
+<!-- end list -->
+
+  -
+    Welcome and a brief update on OWASP Projects & Events from the OWASP
+    London Chapter Leaders.
+
+<!-- end list -->
+
+  - **OWASP Board Election Update - Sherif Mansour**
+
+<!-- end list -->
+
+  -
+    OWASP Board of Directors Election 2019 Update
+
+<!-- end list -->
+
+  - ''' "Hack the World & Galaxy with OSINT" - Chris Kubecka '''
+    (Slides:
+    <https://onedrive.live.com/view.aspx?resid=8FA20A9A448FD03!1238&ithint=file%2cpptx&authkey=!AHIAJVhgp2O9FIQ>
+    )
+
+<!-- end list -->
+
+  -
+    The more we strive to connect every part the world with IT, IOT &
+    ICS SCADA assets running on legacy and existing infrastructure with
+    IPv6 and upcoming 5G & 6E. The risk of finding connected, insecure
+    assets containing juicy info which can be leveraged by naughty
+    groups rises. How easy is it to find vulnerable databases, solar
+    panels, smart homes, washing machines, space IOT, maritime assets
+    and critical infrastructure? Using OSINT Open source intelligence
+    gathering, an important part of the reconnaissance phase of a
+    application security penetration test. Learning what sources of
+    information is available to start a penetration test is a crucial
+    step in completing a thorough but effective exploration. Risks
+    associated with leveraging, misusing or selling discovered material
+    are all too real. Get your hoodie out and join us on a journey of
+    discovery and exploitation of high profile industrial controls
+    systems spanning land, sea, air and space using legal tools &
+    techniques. Key takeaways include closing the gaps and securing
+    these systems.
+
+<!-- end list -->
+
+  - ''' Lightning Talk - "Using OWASP Security Bot (OSBot) to make Fact
+    Based Security Decisions" - Dinis Cruz ''' (Slides:
+    <https://www.slideshare.net/DinisCruz/using-owasp-security-bot-osbot-to-make-fact-based-security-decisions>
+    )
+
+<!-- end list -->
+
+  - ''' "Common API Security Pitfalls" - Philippe De Ryck ''' (Slides:
+    <https://pragmaticwebsecurity.com/talks/commonapisecuritypitfalls> )
+
+<!-- end list -->
+
+  -
+    The shift towards an API landscape indicates a significant evolution
+    in the way we build applications. The rise of JavaScript and mobile
+    applications have sparked an explosion of easily-accessible REST
+    APIs. But how do you protect access to your API? Which security
+    aspects are no longer relevant? Which security features are an
+    absolutely must-have, and which additional security measures do you
+    need to take into account? These are hard questions, as evidenced by
+    the deployment of numerous insecure APIs. Attend this session to
+    find out about common API security pitfalls, that often result in
+    compromised user accounts and unauthorized access to your data. We
+    expose the problem that lies at the root of each of these pitfalls,
+    and offer actionable advice to address these security problems.
+    After this session, you will know how to assess the security of your
+    APIs, and the best practices to improve them towards the future.
+
+#### SPEAKERS:
+
+**Chris Kubecka**
+
+  -
+    Christina Kubecka, Security Researcher and CEO of HypaSec. Formerly,
+    setting up several security groups for Saudi Aramco’s affiliates
+    after the Shamoon 1 attacks. Implementing and leading the Security
+    Operations Centre, Network Operation Centre, Joint International
+    Intelligence Group and EU/UK Privacy Group for Aramco Overseas
+    Company. With \>20 years of professional experience in the field,
+    her career includes the US Air Force, Space Command, private and
+    public sector. GIAC GPEN certification training & teaches
+    penetration testing on IT, IoT & ICS. Chris has been featured in the
+    media with Viceland News’ Cyber Warfare series, Hacking the
+    Infrastructure, CNN, Fox News, and other news outlets. Chris is
+    currently the Executive Secretary on the board of Geeks Without
+    Bounds, and advises and lectures as an expert for several markets
+    and governments.
+
+**Philippe De Ryck**
+
+  -
+    Philippe De Ryck is the founder of Pragmatic Web Security, where he
+    travels the world to train developers on web security and security
+    engineering. He holds a Ph.D. in web security from KU Leuven. Google
+    recognizes Philippe as a Google Developer Expert for his knowledge
+    of web security and security in Angular applications.
+
+**Dinis Cruz**
+
+  -
+    Dinis Cruz is a renowned application security expert who is
+    passionate about creating Application Security teams and providing
+    Application Security assurance across the Software Development
+    Lifecycle (from development, to operations, to business processes,
+    to board-level decisions). His focus is in the alignment of the
+    business’s risk appetite with the reality created by internally
+    developed applications. He is also an active Developer and
+    Application Security Engineer. A key drive of his is to 'Automate
+    Application Security Knowledge and Workflows'. Dinis is also one of
+    the authors of OWASP SAMM - Software Assurance Maturity Model.
+
+#### TICKETS:
+
+This event is free to attend for both members and non-members of OWASP
+and is open to anyone interested in application security and cyber
+security. Please note that you MUST REGISTER to book your place and get
+a ticket to be admitted to the event by the building security - your
+name will be checked against the guest list.
+
+Register to attend this event at Eventbrite:
+
+<https://www.eventbrite.co.uk/e/71739886933>
+
+**Code of Conduct**:
+
+  -
+    We hope you enjoy our events, we care deeply about inclusivity and
+    diversity so that OWASP is a comfortable and welcoming community for
+    everyone. Please reach out to one of our chapter leaders if you have
+    any feedback or would like to speak to us, we take these matters
+    very seriously. You can find out more about our policies here:
+    <https://www.owasp.org/index.php/Governance/Conference_Policies>
+
+### Thursday, 18h July 2019 (Canary Wharf)
+
+**Location:** Revolut , The Columbus Building, 7 Westferry Circus,
+Canary Wharf, London, E14 4HD
+
+**Nearest Tubes:** Canary Wharf (7-minute walk - take Canada Square
+exit), Canary Wharf DLR (7-minute walk)
+
+**Time:** Doors Open at 6:00pm for registration, food, drinks and
+networking. The talks start at 6:30pm (we start on time)
+
+#### TALKS:
+
+  - **OWASP Introduction, Welcome and News - Sam Stepanyan, Sherif
+    Mansour & Andra Lezza**
+
+<!-- end list -->
+
+  -
+    Welcome and a brief update on OWASP Projects & Events from the OWASP
+    London Chapter Leaders.
+
+<!-- end list -->
+
+  - **Lightning Talk - "Scaling Security - Move fast and make things" -
+    Paul Heffernan**
+    ([PDF](Media:OWASPLondon_20190718_OWASP-Revolut.pdf "wikilink"))
+
+<!-- end list -->
+
+  -
+    Revolut has grown to over 5 million customers. This presentation
+    will give an overview of the lessons we have learnt to scaling
+    security that quickly when security fundamentally represents
+    customer trust.
+
+<!-- end list -->
+
+  - **"Hack In, Cash Out: Hacking and Securing Payment Technologies" -
+    Tim Yunusov**
+    ([PDF](Media:OWASPLondon_20190718_Hack_IN-Cash_Out-tyunusov.pdf "wikilink"))
+
+<!-- end list -->
+
+  -
+    Have you ever wanted to learn more about how payments work? Do you
+    want to know how criminals bypass security mechanisms on Point of
+    Sales terminals, ATM’s and digital wallets? Payment technologies are
+    a transparent part of our lives. They enable us pay for everything
+    from a coffee to a car. In the first part of this talk we take a
+    look at payment technologies past, present and future. Learn how
+    payments have evolved and what transactions look like today.Next
+    we’ll dive into the different attacks that are possible with each
+    transaction type and discuss which areas security teams should be
+    focused on now, and in the future. Learn how hackers gain access to
+    banking endpoints, bypass fraud detection mechanisms, and how they
+    ultimately cash out.
+
+<!-- end list -->
+
+  - '''"Advanced Bots and Security Evasion Techniques" - David Warburton
+    '''
+    ([PDF](Media:OWASPLondon_20190718_AdvancedBots_warburtr0n.pdf "wikilink"))
+
+<!-- end list -->
+
+  -
+    Bots are generally seen as a bit of a nuisance and widely regarded
+    as the weapon of choice for DDoS attacks. However, modern bots are
+    capable of much more and are claimed to be behind three quarters of
+    all attacks that hit web sites and APIs. Techniques such as rate
+    limiting, IP blacklisting and even CAPTCHAs often do little to
+    prevent the attacks as they evolve, evading controls which try to
+    differentiate between bots and humans. In this session we’re going
+    to look at what bots are and how they’re created, what they’re now
+    capable of, which industries are most affected by them and how they
+    are evolving to avoid our current defences.
+
+#### SPEAKERS:
+
+**Paul Heffernan**
+
+  -
+    Paul is the CISO at Revolut, a UK based financial technology company
+    that offers banking services to over 3 million customers worldwide.
+    With over 10 years of experience in the cyber security world,
+    including consulting to some of the world's biggest brands, he
+    believes the role of the security professional is to enable trust.
+    Entering the industry from an 'ethical hacker' background, he deeply
+    understands technical security challenges but is equally passionate
+    about driving effective change through unambiguous leadership. Paul
+    is a regular international speaker at various industry conferences
+    such as the e-Crime Congress, CSO Amsterdam and CISO360 Barcelona.
+    He also sits as an advisory board member of ClubCISO, a private
+    members forum for European information security leaders, working in
+    public and private sector organisations.
+
+**Tim Yunusov**
+
+  -
+    Tim Yunusov is the Senior Expert of Banking systems security and
+    author of multiple research in the field of application security,
+    including "Bruteforce of PHPSESSID," rated in Top Ten Web Hacking
+    This includes techniques of 2012 by WhiteHat Security and "XML
+    Out-Of-Band" shown at the Black Hat EU 2013. Timur is a professional
+    application security researcher who has previously spoken at Black
+    Hat EU, HackInTheBox, Nullcon, NoSuchCon, CanSecWest, Hack In Paris,
+    ZeroNights and Positive Hack Days
+
+**David Warburton**
+
+  -
+    David Warburton is an information security threat researcher and
+    evangelist for F5 Labs and frequently speaks at conferences and with
+    customers all over the world. His focus areas of research are on
+    SSL/TLS and other cryptographic protocols and certificates, digital
+    identity, web application security, information risk management and
+    compliance & regulation. A recent alumni of Royal Holloway
+    University where he wrote his MSc dissertation on IoT Security, he
+    now works on identifying emerging cyber threats, producing
+    actionable intelligence reports and consulting on cyber security
+    strategy within public sector, retail and financial organisations.
+
+#### TICKETS & ID REQUIREMENT:
+
+IMPORTANT - PHOTO ID REQUIRED: The Columbus Building security requires
+all visitors to show a form of Photo ID matching the name on the ticket.
+
+Please note that space at this event is limited, so please only book
+tickets if you are able to attend.
+
+Registration at EventBrite:
+
+<https://www.eventbrite.co.uk/e/owasp-london-chapter-meeting-at-revolut-thursday-18th-july-2019-630pm-tickets-64751441304?aff=ws>
 
 ### Women In AppSec (OWASPWIA) Meetup - Wednesday, 17th April 2019 (Central London)
 
 Details and Registration:
 
 <https://www.meetup.com/womeninappsec/events/259867481/>
-
-## Past Events
 
 ### Thursday, 4th April 2019 (Central London)
 
@@ -1630,7 +2153,7 @@ OWASP London Chapter Meeting
 
 This event was kindly sponsored and hosted by: Goodman Masson
 
-VIdeo Recordings of talkspreented at this event are available to watch
+VIdeo Recordings of talks presented at this event are available to watch
 on OWASP London YouTube Channel:
 
 <https://www.youtube.com/watch?v=mZ0KKOPK9oU&list=PLmfxTKOjvC_c4n9vrU3fG3K2XD03IaxvK>

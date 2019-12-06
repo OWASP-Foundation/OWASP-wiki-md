@@ -46,10 +46,8 @@ Will be announced.
 
 **Speakers**:
 
-  - Audrius Vizbaras @FortConsult
-
-| Part of NCC Group - "MSS vs MDR =\> Real Time Management"
-
+  - Audrius Vizbaras @FortConsult | Part of NCC Group - "MSS vs MDR =\>
+    Real Time Management"
   - Vilius Pankauskas @DevBridge Group - "External dependencies and
     extra work"
 

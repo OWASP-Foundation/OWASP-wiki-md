@@ -1,42 +1,4 @@
-\-- Remove all text below until the next comment is encountered if
-chapter template is used --
-
-<div align="right">
-
-<owaspbanner />
-
-</div>
-
-<div style="font-size:7pt;text-align:right">
-
-**[Ad Space Available
-for 2011](http://www.owasp.org/index.php/Advertising)**
-
-</div>
-
------
-
-## Deltagande
-
-OWASP Foundation is a professional association of global members and is
-and open to anyone interested in learning more about application
-security. Local chapters are run independently and governed by the
-following [Chapter Leader Handbook](Chapter_Leader_Handbook "wikilink").
-As a [501(c)(3)](http://www.owasp.org/index.php/About_OWASP) non-profit
-professional association your support and sponsorship of a meeting venue
-and/or refreshments is tax-deductible. Financial contributions should be
-made online using the online chapter donation button. To be a
-**SPEAKER** at ANY OWASP Chapter in the world simply review the [speaker
-agreement](http://www.owasp.org/index.php/Speaker_Agreement) and then
-contact the local chapter leader with details of what [OWASP
-PROJECT](http://www.owasp.org/index.php/Category:OWASP_Project),
-independent research or related software security topic you would like
-to present on.
-
-<paypal>Gothenburg</paypal>
-
-\--\> -- Stop remove here --\> ![options](Owaspgbg_brand_logo_web.png
-"options")
+![options](Owaspgbg_brand_logo_web.png "options")
 
 ## Welcome to the Gothenburg chapter homepage
 
@@ -89,7 +51,7 @@ YouTube-kanal:[owaspgbg](http://www.youtube.com/user/owaspgbg) for video
 recordings of previous presentations.
 
 You can also talk to us on [Slack](https://owasp.slack.com/) ( [register
-here](https://owasp.slack.com/join/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY)
+here](https://join.slack.com/t/owasp/shared_invite/enQtNjExMTc3MTg0MzU4LTViMDg1MmJiMzMwZGUxZjgxZWQ1MTE0NTBlOTBhNjhhZDIzZTZiNmEwOTJlYjdkMzAxMGVhNDkwNDNiNjZiOWQ)
 and join our channel \#chapter-gothenburg), follow us on
 [Twitter](https://twitter.com/owaspgbg) (@owaspgbg) and check us out on
 [Facebook](https://www.facebook.com/owaspgbg/).

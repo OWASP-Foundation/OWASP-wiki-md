@@ -1,34 +1,11 @@
 # Next Meeting
 
-##### **13th November 2018**
+**TBC**
 
-### OWASP Manchester CTF 2018
+The date for our next meeting will be announced shortly.
 
-Manchester OWASP will be running it’s first annual CTF on November 13th
-in partnership with Manchester Grey Hats who will be running the
-challenges.
-
-The CTF will be hosted by the Manchester Technology Centre on Oxford
-Road and is aimed at people working in the tech industry who have an
-interest in security. The CTF itself will be a jeopardy style challenge
-aimed at a range of technical capabilities, with some low or non tech
-challenges.
-
-So, if you're a developer, software tester, system architect, infosec
-professional, or just have an interest in security sign up. We'll be
-running teams of 4, so you can either enter a full team or we can help
-you put one together on the day\!
-
-Manchester Grey Hats will be running a series of short workshops on the
-same topics as the CTF on October 24th, so keep an eye on their [Meetup
-page](https://www.meetup.com/Manchester-Grey-Hats/events/255241900/)\!
-
-Thanks to our community sponsors; Manchester Grey Hats, North West
-Testers Gathering, Manchester Girl Geeks, Techs and the City, Tech
-Leaders of the North West and PowerShell Manchester.
-
-Check and reserve your place on **[OWASP Manchester CTF 2018 Meetup
-event](https://www.meetup.com/OWASP-Manchester/events/255192665/)**.
+If you have any recommendations for speakers, venues or potential
+sponsors, please contact the Chapter Leaders.
 
 # Code of conduct
 
@@ -58,7 +35,6 @@ Chapter Leads:
   - Daniel Pollard
   - Joe Carter
   - Nikola Milosevic
-  - Sharka Pekarova
   - Saskia Coplans
   - Wes Parsons
 
@@ -78,7 +54,14 @@ tapping people up for jobs or business unprompted is not encouraged.
 
 # Past Events
 
+**2019 Dates**
+
+[28th May - Simon Bennetts (OWASP ZAP) and Gerald Benischke (XML is
+Evil)](Manchester_Chapter_2019 "wikilink")
+
 **2018 Dates**
+
+[13th November](13th_November "wikilink")
 
 [4th September](4th_September "wikilink")
 
@@ -152,7 +135,6 @@ The chapter leaders are:
 Chapter Board Members are:
 
   - Joe Carter
-  - [Sharka Pekarova](Sharka_Pekarova "wikilink")
   - [Saskia Coplans](mailto:saskia@digitalinerruption.com)
   - [Wes Parsons](mailto:parsonswesley@gmail.com)
 

@@ -2,14 +2,12 @@
 
 ## OWASP Madurai
 
-Welcome to the Madurai chapter homepage. The chapter leader is [Kishore
-T K](https://www.linkedin.com/in/kishoretk/) ,
-[Jeevananatham](https://www.linkedin.com/in/jeeva-j-b1494b104/), Co-lead
-is Aravindakksan V V.
+Welcome to the Madurai chapter homepage. The chapter leaders are [T K
+Kishore](mailto:tk.kishore@owasp.org) and [K S C
+Soundarya](mailto:ksc.soundarya@owasp.org)
 
-Secretary is K S C Soundarya. [Click
-here](https://lists.owasp.org/mailman/listinfo/owasp-madurai) to join
-the local chapter mailing list.
+[Click here](https://lists.owasp.org/mailman/listinfo/owasp-madurai) to
+join the local chapter mailing list.
 
 ## Participation
 
@@ -31,28 +29,26 @@ or related software security topic you would like to present on.
 ## Sponsorship/Membership
 
 ![Btn_donate_SM.gif](Btn_donate_SM.gif "Btn_donate_SM.gif") to this
-chapter or become a local chapter supporter.
-
-Or consider the value of [Individual, Corporate, or Academic Supporter
+chapter or become a local chapter supporter. Or consider the value of
+[Individual, Corporate, or Academic Supporter
 membership](Membership "wikilink"). Ready to become a member?
 ![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.JPG
 "Join_Now_BlueIcon.JPG")
 
-## Chapter Sponsors
+## Chapter Supporters
 
 Some of the organizations supporting OWASP Madurai chapter are below:
 
-**[Madurai360](Madurai360.org "wikilink")**
-**Caraagroups**
-
-
+[Unicorn Crafts](https://www.instagram.com/__unicorn__craft__/)
+[RazzSecurity](http://Razzsecurity.com)
 For more information on how to support OWASP Madurai chapter in helping
-organize free and open security meets contact the chapter leader
+organise free and open security meets contact the chapter leader
 
 ## Local News
 
-**`Meeting``   ``Location`**
-`OWASP workshop Date : 4 May 2019 location : Madurai360 Office`
+**`Meeting``   ``Location``   ``:``   ``Madurai360``   ``Office`**
+`OWASP Meetup Date : 25 OCT 2019 `
+` Time : 10 AM to 2 PM.`
 
 Everyone is welcome to join us at our chapter meetings.
 

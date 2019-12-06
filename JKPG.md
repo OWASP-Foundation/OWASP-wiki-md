@@ -1,37 +1,44 @@
 ## Local News
 
-`Slides from the November 1 event now available, see Past events below. `
+> **Subscribe to the [OWASP JKPG mailing
+> list](https://groups.google.com/a/owasp.org/forum/#!forum/jonkoping-chapter)**
+
+`Slides now available, see Past events below. `
 
 Everyone is welcome to join us at our chapter meetings.
 
-### Upcoming events
+## Upcoming events
 
-Välkomna till ytterligare ett grymt event med OWASP Jönköping\! Denna
-gång kommer temat vara it-säkerhet i det uppkopplade samhället och hur
-man genomför en riktigt stor försvarsövning i cybersäkerhet\!
+#### säkerhetspub
 
-## Agenda
+Join colleges and security geeks at the säkpub torsdagen den 7 november
+start 17:30. New Your Legens, Lilsjöraden 16, Jönköping
 
-  - 17:30 - Portarna slås upp.
-  - 18:00 - Försvaret av det uppkopplade samhället (Janne Haldesten)
-  - 18:45 - Att öva IT-osäkerhet: En inblick i en av världens största
-    cyberövningar (Thomas Svensson)
-  - 19:30 - Kort rast
-  - 19:40 - Gemensam QA-session
-  - 20:10 - Mingel och nätverkande.
-  - 21:30 - Dörrarna stängs
+Register at
+[link-to-event](https://www.eventbrite.com/e/sakerhetspub-tickets-78450303971?aff=ebdssbdestsearch).
 
-Eventet hålls i Ateas lokaler, Bataljonsgatan 12, 553 05 Jönköping.
+## Past events
 
-Föredragen kommer hållas på svenska.
+**2019**
 
-**Boka din plats på**
-<https://www.eventbrite.com/e/owasp-jkpg-7-mars-2019-tickets-56476531827>
+**OWASP JKPG - May 21, 2019**
 
-Announcements will be made on the OWASP JKPG mailing-list (make sure to
-subscribe).
+Secure your IT environment now\! We discuss three low hanging fruit,
+easy to fix but yet critical for a secure organisation.
 
-### Past events
+  - [Securing your
+    web-server](https://github.com/owaspjkpg/public/blob/master/Mars%2021%2C%202019/Secure%20your%20web%20services.pdf)
+  - [Securing your
+    email](https://github.com/owaspjkpg/public/blob/master/Mars%2021%2C%202019/Secure%20your%20email.pdf)
+  - [Protect your digital
+    privacy](https://github.com/owaspjkpg/public/blob/master/Mars%2021%2C%202019/Digital%20Privacy.pdf)
+
+**OWASP JKPG - Mars 7, 2019**
+
+Defending the connected society - IT security, Janne Haldesten and The
+worlds largest cyber defence exerse Locked sheilds, Thomas Svensson.
+
+  - Redacted slides shared shared with those who attended only.
 
 #### 2018
 

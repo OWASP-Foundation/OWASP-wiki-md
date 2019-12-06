@@ -1,19 +1,83 @@
 __NOTOC__
 
-![Sillycon.png](Sillycon.png "Sillycon.png")
+
+'''
 
 ## **Chapter News**
 
 Everyone is welcome to join us at our chapter meetings every months.
 
-**`More``   ``update``   ``coming``   ``soon.``   ``For``   ``regular``
- ``update,``   ``subscribe``   ``to``   ``our``   `[`Facebook``
- ``Group`](https://www.facebook.com/groups/sillyconorg/?fref=nf)**
-
 **`[NEWS]``   ``Always``   ``Updating``   ``:-)`**
 
-Check our [FaceBook page](https://www.facebook.com/groups/sillyconorg/)
-for event photos and discussion.
+## **\#SillyJENNI - Saturday, March 23, 2019 at 11 AM – 5 PM**
+
+\*\*\* Why SillyJENNI ?
+
+On 3 April 1996, 19-year-old student Jennifer Kaye Ringley installed a
+webcam in her Pennsylvania dorm room, and rigged it to broadcast a still
+photo of whatever she was doing at that moment, every 15 minutes. And
+so, lifecasting was born.
+
+Today of course, in the always-on era of Periscope, Facebook, Instagram
+and the like, lifecasting is not just accepted, but almost expected, and
+certainly hugely popular, but it all started 20 years ago, with
+JenniCam.
+
+JenniCam was one of the first web sites that continuously presented
+someone’s private life. The first webcam streamed only black-and-white
+images of her in the dorm room, but as her popularity grew, Ringley
+increased the number of webcams to four, they became colour, and the
+refresh rate increased. Ringley also began offering a ‘premium’ service,
+charging members $15 a year to get two-minute updates, alongside the
+free “JenniCam Guests”, who had to settle for updates every 20 minutes.
+
+“You can come to my site for days and never once catch me naked. I'm
+very aware that sex sells. If I were trying to make money I would
+certainly do more things to make people come to the site.”
+
+Not surprisingly, security was a problem. Early on in JenniCam’s
+existence, the site was hacked, with the hackers (teen pranksters as it
+turned out) demanding that she “show more” in her strip shows. Ringley
+also received death threats. “I didn't leave my room for three days; I
+kept all the blinds closed,” Ringley admitted after the incident. “I was
+scared out of my mind. Now I have an unlisted phone and address, and I
+have security at the front desk of my apartment.”
+
+1.  Enterprise Networking - Chandresh Gupta
+2.  Introduction to Game Reverse Engineering - Souhardya Sardar
+
+## **\#SillyPHOENIX - Saturday, March 23, 2019 at 11 AM – 5 PM**
+
+1.  Can we have AI in Security? - by Koustav Chandra
+2.  Blockchain - The Nextgen Security - by Sayantan Dutta
+3.  DevOps CI/CD & Cloud - by Arghya Das
+
+## **\#SillyWWW - Saturday,** February 23, 2019 at 11 AM – 5 PM
+
+Why SillyWWW?
+
+\~\~\~\~\~\~\~\~\~\~\~\~\~
+
+Introduction of first Web Broswer – WorldWideWeb
+
+February 26, 1991
+
+Sir Tim Berners-Lee showed everyone the first web browser and WYSIWYG
+(What You See Is What You Get) HTML editor. The Browsers’ name was
+called “WorldWideWeb”, but was later changed to “Nexus”. Berners-Lee ran
+it on the NeXTSTEP platform and worked with not only the File Transfer
+Protocol (FTP), but the Hypertext Transfer Protocol (HTTP). Nexus is not
+in production anymore.
+
+1.  Analytics - The Powerful Weapon to Better Secure Yourself — Rabin
+    Paul (CISSP, Sr. Manager Cyber Security, Bandhan Bank).
+2.  Managing Passwords - Most important things you can do for your
+    online security — Mainak R. Chowdhury (Contributor at DuckDuckGo and
+    Mozilla Foundation, Developer at ITC Infotech Infotech).
+3.  How I hacked SBI Bank (PoC already shared with official and
+    approved) — Pradipta (Security Analytics, Penetration Tester).
+4.  Pentesting New Age Components — Nishant Sharma (Cyber Security
+    Researcher and R\&D Manager at SecurityTube).
 
 ## **\#SillyEther - Saturday, Nov 24th, 2018 at 11 AM - 5 PM**
 
@@ -168,7 +232,7 @@ for event photos and discussion.
 5.  Unlocking Specific type Combination Lock easily with Hands-On by
     Krishnendu Paul
 
-## \#Dockerlogy - Introduction with Docker 19th March, 2016 - 10:00 AM-4:00 PM
+## **\#Dockerlogy - Introduction with Docker 19th March, 2016 - 10:00 AM-4:00 PM**
 
 1.  Red Team Engagement - The Modern World Defensive Cyber Offense and
     its little secrets - a presentation by Indranil Banerjee

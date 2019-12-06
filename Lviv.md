@@ -3,13 +3,15 @@
 Welcome to the OWASP Lviv chapter homepage.
 
 The chapter leader is [Igor Beliaiev](mailto:igor.beliaiev@owasp.org).
-Acting Chapter Board members are: [Nazar
-Tymoshyk](mailto:root_nt@gmail.com), [Stanislav
+The chapter is run by a team of dedicated cyber security enthusiasts.
+
+Acting Chapter Board members are: [Stanislav
 Breslavskiy](mailto:sbreslavski@gmail.com), [Bohdan
-Serednytskyi](mailto:bohdan.serednytsky@gmail.com), [Yurii
-Bilyk](mailto:yubilyk@gmail.com), [Vlada
-Kulish](mailto:vceclava@gmail.com). The original OWASP Lviv Chapter was
-founded in 2012 by Nazar Tymoshyk.
+Serednytskyi](mailto:bohdan.serednytsky@gmail.com). The original OWASP
+Lviv Chapter was founded in 2012 by [Nazar
+Tymoshyk](mailto:root_nt@gmail.com) and previous board members were
+[Yurii Bilyk](mailto:yubilyk@gmail.com) and [Vlada
+Kulish](mailto:vceclava@gmail.com).
 
 Everyone are welcome to join us at our chapter meetings.
 
@@ -20,9 +22,13 @@ OWASP Ukraine conference, held under the aegis of all active OWASP
 Ukraine chapters. The meetups are normally streamed on-line and
 recorded.
 
+**OWASP Lviv Autumn meetup** - Oct 01 2018
+
 **[OWASP Ukraine 2018](https://owaspukraine.org/)** - Nov 23-24 2018
 
 **OWASP Lviv Winter meetup** - Feb 19 2019
+
+**[OWASP Ukraine 2019](https://owaspukraine.org/)** - Oct 04-25 2019
 
 ## Call for Papers
 

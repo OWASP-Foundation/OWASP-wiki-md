@@ -12,11 +12,10 @@ Insurance](http://www.travelers.com/)for their generous sponsorship and
 helping make application security visible...
 
 If you would like to sponsor either the food and/or door prizes for an
-upcoming meeting, please email [James
-McGovern](mailto:james.mcgovern@owasp.org) with your proposal.
-Independent of any financial considerations, sponsorship priority is
-driven by those who drive participation in OWASP to their employees and
-customers.
+upcoming meeting, please email [Alvin Fong](mailto:alvin.fong@owasp.org)
+with your proposal. Independent of any financial considerations,
+sponsorship priority is driven by those who drive participation in OWASP
+to their employees and customers.
 
 ## Call for Sponsors/Speakers
 
@@ -38,29 +37,168 @@ Some topics of interest for upcoming meetings include (but are not
 limited to):
 
   - Risk Rating Methodologies
-  - Breaking CAPTCHA
   - Internet of Things (IOT) Security
-  - Information Security 101 for Business Executives
-  - Enterprise Risk Management - Understanding true risks
 
 ## Upcoming Events
 
+DevOps vs. the "Security People"
+
+Date/Time: Friday, 6/21 1-3pm
+
+Location: [Travelers CRM-1, 45 Central Row, Hartford,
+CT 06103](https://goo.gl/maps/bb9Xz397CmeLcfBf7)
+
 Agenda:
 
-**2-3pm: Yaxa (Startup security spotlight) - Kalpesh Sheth**
+1pm: "DevOps vs “Security People"
 
-  - Introduction to Yaxa, part of Hartford's InsurTech startup
-    accelerator
-  - Emerging trends in cyber threat vectors
-  - Which tools people are using and what security vendors are doing?
-  - What is state of the art – when hackers are changing their TTPs?
-  - Why users are the weakest link and what to do about it?
+In 2019, surveys are saying that 90% of Fortune 500 plan on using
+containers and things like Kubernetes, yet there’s still a divide
+between what “security people” see that containers provide and what
+DevOps teams see. Kubernetes has become the defacto standard for
+production container deployments and there are 98 different options (as
+of February 2019) for hosted Kubernetes clouds. In many cases a
+Kubernetes threat model becomes compromised either by accident or by
+alibi and even if you wanted to harden your environment, there’s little
+guidance. Is there truly such a thing as a Kubernetes best practice? How
+can Kubernetes handle multiple tenants in a cluster? Do hosted
+Kubernetes services provide enough security for your work load? This
+talk will explore Kubernetes’ known attack vectors, defenses, and see
+how we can bridge the silos between security engineers and developers to
+help in the future.
 
-**3-4pm: OWASP CT Chapter Meeting (2018 community initiatives)**
+2pm: panel / chapter meeting TBD
 
-**4pm: Networking / HH TBD**
+3pm: networking
 
-**About Kalpesh Sheth:**
+Speaker: Mark Manning is a Principal Security Consultant with NCC Group
+and a lead in their Container Practice. He focuses on container
+technologies, Linux kernel security, and application security, in
+general. He has performed penetration tests to breakout from containers,
+delivered architecture reviews of devops environments, and worked with
+developers on various container and orchestration technologies such as
+Docker, Kubernetes, Mesos/Marathon, as well as Rancher. Mark currently
+organizes Rochester 2600 has also organized BSidesROC from 2010 through
+2018.
+
+Parking info: ![Hartford-parking-map.pdf](Hartford-parking-map.pdf
+"Hartford-parking-map.pdf")
+
+## Past Events
+
+**Saturday, November 3, 2018**
+
+9:00AM-5:00PM
+
+OWASP @ bSides CT - Sat, Nov 3rd - Fairfield, CT
+
+The local BSides Security conference in CT is taking place Sat, Nov 3,
+2018 in Fairfield, CT. Their CFP is out, and I would encourage you to
+submit a talk. Tickets are available for the actual conference are $20
+and can be purchased here:
+https://www.eventbrite.com/e/bsides-ct-2018-tickets-49521252399
+
+The conference will feature speakers, workshops, CTF (with prizes\!),
+lightning talks, and an after-party.
+
+Schedule updates and additional info: www.bsidesct.org
+
+About BSides:
+
+Security BSides is a community-driven framework used to build events for
+and by information security community members, events where individuals
+have opportunities to both present and participate in an intimate
+atmosphere that encourages collaboration. It is an intense experience
+designed to expand the spectrum of conversation beyond the traditional
+confines of space and time with discussions, demos, and participant
+interaction. It’s where conversations on the next big thing are
+happening
+
+About Fairfield University:
+
+Fairfield University sits on the Connecticut coast and is conveniently
+located ½ mile from the train station offering a central location for
+all attendees, whether taking public transit, train, or driving. The
+Amtrak and MTA access means we’re close enough to New York City to turn
+a day trip into an adventure, yet far enough to make Fairfield seem like
+a completely different world. BSides Connecticut provides a much-needed
+link between information security professionals and the Connecticut
+technology community by offering a forum for collaborative
+presentations, information exchange, and ideas.
+
+**Agenda: <time>Friday, October 12, 2018</time>**
+
+11AM-12PM
+
+Fairfield U - Day in the Life of a CyberSecurity Professional
+
+As part of our Academic initiative to partner with local
+colleges/universities, Fairfield University CISO Bill Reyor, has invited
+OWASP to Fairfield University this coming Friday Oct 12 @ 11am at the
+Fairfield University DiMenna-Nyselius Library on 5171, 1073 N Benson Rd,
+Fairfield, ct, 06824.
+
+This session is oriented toward college students and new college
+graduates exploring computer security ("cybersecurity") as a career
+path. We plan to discuss:
+
+\*The State of Computer Security Employment and need for diversity to
+solve tomorrow's security challenges (It's not all Computer Science)
+
+\*Profiles of Computer Security Career Paths
+
+\*The Day in the Life of a Security Professional, by your truly.
+
+\*The need for Business, Medical, and Technology undergraduates and
+graduates to work together as security becomes an increasingly
+interdisciplinary challenge
+
+Call to action:
+
+For area security professionals with open reqs for new/college-hires,
+please reach out in advance or connect me with your HR point of contact
+so that we can share opportunities with students that attend and are
+actively looking for local opportunities.
+
+**Agenda: <time>Tuesday, April 3, 2018</time>**
+
+2PM - 4PM
+
+2-3pm: Yaxa (Startup security spotlight) - Kalpesh Sheth
+
+\*Introduction to Yaxa, part of Hartford's InsurTech startup accelerator
+
+\*Emerging trends in cyber threat vectors
+
+\*Which tools people are using and what security vendors are doing?
+
+\*What is state of the art – when hackers are changing their TTPs?
+
+\*Why users are the weakest link and what to do about it?
+
+3-4pm: OWASP CT Chapter Meeting (2018 community initiatives)
+
+\*Who's hiring? Help
+
+\*What topics/challenges are security practitioners having and looking
+for assistance with?
+
+\*Community initiatives - What would folks like to see OWASP and local
+CT members doing?
+
+\*Cool vendors
+
+\*Blockchain Security Thinking
+
+4pm: Networking / HH
+
+City Steam Brewery
+
+942 Main St, Hartford, CT 06103
+
+Map: https://goo.gl/maps/ecN5G9BvjoK2
+
+About Kalpesh Sheth:
 
 With 20+ years of technical expertise in data networking, network
 security, Intelligence Surveillance and Reconnaissance (ISR), and
@@ -77,23 +215,12 @@ trade conferences as an expert panel member. Sheth holds M.S. in
 Computer Science from Texas A\&M University, and an MBA from MIT Sloan
 School of Management.
 
-**What to bring**
+What to bring
 
-  - Ideas for community-based 2018 initiatives
-  - Security questions you're looking for help from other security pros
-    in the area
+\*Ideas for community-based 2018 initiatives
 
-**Important to know**
-
-RSVP closes @ 4pm the day before the event as a list of names needs to
-be sent to building security. Please make sure your meetup name reflects
-your full name.
-
-Note: there is limited street parking and the constitution plaza and
-financial plaza garages are the closest to the central row meeting
-rooms.
-
-## Past Events
+\*Security questions you're looking for help from other security pros in
+the area
 
 **Agenda: Saturday, Oct 7th 2017**
 9:00AM - 6:00PM

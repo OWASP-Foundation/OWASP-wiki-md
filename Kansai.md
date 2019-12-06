@@ -22,32 +22,33 @@ Agreement:日本語訳をご一読下さい](Speaker_Agreement:日本語訳 "wik
 ローカルチャプターのスポンサーはこちら![Btn_donate_SM.gif](Btn_donate_SM.gif
 "Btn_donate_SM.gif") からお申込みになれます。
 
-\--
-
-\--\>
-
 ## Local News
 
 # Future Event / これからのイベント
 
 ## Future Event / これからのイベント
 
-### 【企画検討中】OWASP Nagoyaコラボ企画
+### 【競技】MINI Hardening Project \#3.5@OWASP Kansai
 
-2019年度第一回目のイベントを企画中です！！
+今回はなんと”MINI Hardening”とのコラボレーションです！！
 
-なんとOWASP Nagoyaから講師をお呼びしてハンズオンを企画中です
+あの手この手で攻撃してくるハッカーからサーバーを守りながらいかに安定運用できるかをチームごとに競いつつ、カジュアルにセキュリティについて学ぶことができるイベントです
 
-テーマは”WordPressのセキュアな運用（予定）”です
-
-詳細情報をお待ちください
-
-  - 日時: 2019年 7～8月
-  - [OWASPガイドライン](https://www.owasp.org/index.php/OWASP_Wordpress_Security_Implementation_Guideline)
+  - 日時: 2019年12月14日(土) 11時00分入場開始
+  - [申込は11/02 18:00よりStart(イベントページのオープンは12:00)](https://connpass.com/event/152553/)
+  - [MINIHardeningProjectとは](https://minih.wasforum.jp)
 
 # Passed Event / 過去のイベント
 
 ## Passed Event / 過去のイベント
+
+### 【ハンズオン】OWASP Nagoyaコラボ企画『セキュアなWordPressを構築しよう！』
+
+今回のテーマは”WordPressのセキュアな運用” なんとOWASP Nagoyaから講師をお呼びしてハンズオンを企画しています
+
+  - 日時: 2019年 9月29日(日) 12時00分入場開始
+  - [事前登録サイト](https://owasp-kansai.doorkeeper.jp/events/96274)
+  - [OWASPガイドライン](https://www.owasp.org/index.php/OWASP_Wordpress_Security_Implementation_Guideline)
 
 ### 【ハンズオン】OWASP Kansai スクールキャラバン2019 〜NAIST編～
 
@@ -326,17 +327,21 @@ OWASP
 
 ## About OWASP Kansai Team
 
-  - Chapter Leaders
+  - Chapter Leader
+      - [Tomohiko Morita](mailto:tomohiko.morita@owasp.org)
       - Tsuyoshi Miki
-      - [Yosuke Hasegawa](mailto:yosuke.hasegawa@owasp.org)
   - Chapter Board Members
+      - [Yosuke Hasegawa](mailto:yosuke.hasegawa@owasp.org)
       - Gen-ichi Morishita
       - [Taichi Saito](mailto:taichi.saito@owasp.org)
       - Jun Matsumoto
-      - [Tomohiko Morita](mailto:tomohiko.morita@owasp.org)
       - Shinichi Takeshige
       - Taichi Itou
       - Masafumi Masutani
+      - Tomohiro Adachi
+
+OWASP Kansaiでは共にコミュニティ活動を支えてくれるメンバーを随時募集しています。 我こそはという方は、[OWASP
+Handbook](https://www.owasp.org/index.php/Category:Chapter_Handbook/ja)を一読の上、ボードメンバーに相談ください。
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Asia](Category:Asia "wikilink")

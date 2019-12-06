@@ -6,18 +6,23 @@
 
 ## The Team
 
-Chairman: **[Or Katz](mailto:or.katz@owasp.org)**.
+  - Chapter Co-Chairs: **[Shira
+    Shamban](mailto:shira.shamban@owasp.org)** and **[Ori
+    Troyna](mailto:ori.troyna@owasp.org)**
 
-  - Chapter Leaders: **[Or Katz](mailto:or.katz@owasp.org)**, **[Avi
-    Douglen](mailto:avi.douglen@owasp.org)**, *' Ofer Maor*'
-  - Chapter Board: **[Dr. Yossi Oren](User:YossiOren "wikilink")**,
-    **Shira Shamban**, **Josh Grossman**, **Ori Troyna**, **[Yigal
-    Elefant](User:Eyigal "wikilink")**
+<!-- end list -->
+
+  - Chapter Leaders: **[Shira
+    Shamban](mailto:shira.shamban@owasp.org)**, **[Ori
+    Troyna](mailto:ori.troyna@owasp.org)** and **[Avi
+    Douglen](mailto:avi.douglen@owasp.org)**
+  - Chapter Board: **[Or Katz](mailto:or.katz@owasp.org)**, **[Dr. Yossi
+    Oren](User:YossiOren "wikilink")**, **Josh Grossman**, **[Ofer
+    Maor](mailto:Ofer.maor@owasp.org)**
   - Chapter Founder: **[Ofer Shezaf](mailto:ofer@shezaf.com)**
   - [OWASP Top 10 Hebrew](OWASP_Top10_Hebrew "wikilink"): Or Katz
-  - Homepage Maintenance: Avi Douglen, Ofer Maor, Yossi Oren, [Yigal
-    Elefant](User:Eyigal "wikilink")
-  - Mailing List Management: Or Katz, Avi Douglen, Ofer Maor
+  - Homepage Maintenance: Avi Douglen, Ofer Maor, Yossi Oren
+  - Mailing List Management: Shira Shamban, Ori Troyna, Or Katz
 
 ## General Activity
 
@@ -76,256 +81,156 @@ Douglen](mailto:avi.douglen@owasp.org) with any ideas you have.
 
 # Previous Annual Conferences
 
-|                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                               |                                             |                               |      |             |          |             |            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------------- | ---- | ----------- | -------- | ----------- | ---------- |
-|                                                                                                                                                                         | width="200"                                                                                                                                                                                                                                                                                                                   | Name                                        | width="200"                   | Date | width="350" | Location | width="200" | Attendance |
-| **[AppSec Israel 2017](https://2017.appsecil.org/)**                                                                                                                    | **October 17-18, 2017**                                                                                                                                                                                                                                                                                                       | **College of Management**                   | **more than 800 attendees\!** |      |             |          |             |            |
-| colspan="4"                                                                                                                                                             | Use the [AppSec Israel 2017](https://2017.appsecil.org/) website to download presentations and videos                                                                                                                                                                                                                         |                                             |                               |      |             |          |             |            |
-| **[AppSec Israel 2016](AppSec_Israel_2016 "wikilink")**                                                                                                                 | **September 19th 2016**                                                                                                                                                                                                                                                                                                       | **College of Management**                   | **more than 650 attendees\!** |      |             |          |             |            |
-| colspan="4"                                                                                                                                                             | Use the [presentations info page](AppSec_Israel_2016_Presentations "wikilink") to download presentations and videos                                                                                                                                                                                                           |                                             |                               |      |             |          |             |            |
-| **[AppSec Israel 2015](AppSec_Israel_2015 "wikilink")**                                                                                                                 | **October 13th, 2015**                                                                                                                                                                                                                                                                                                        | **College of Management**                   | **over 550 participants\!**   |      |             |          |             |            |
-| colspan="4"                                                                                                                                                             | Use the [presentations info page](AppSec_Israel_2015_Presentations "wikilink") to download presentations                                                                                                                                                                                                                      |                                             |                               |      |             |          |             |            |
-| **[AppSec Israel 2014](AppSec_Israel_2014 "wikilink")**                                                                                                                 | **September 2nd, 2014**                                                                                                                                                                                                                                                                                                       | **IDC**                                     | **over 450 participants\!**   |      |             |          |             |            |
-| colspan="4"                                                                                                                                                             | Use the [presentations info page](AppSec_Israel_2014_Presentations "wikilink") to download presentations                                                                                                                                                                                                                      |                                             |                               |      |             |          |             |            |
-| **[OWASP Israel 2013](OWASP_Israel_2013 "wikilink")**                                                                                                                   | **October 1st, 2013**                                                                                                                                                                                                                                                                                                         |                                             | **480 participants\!**        |      |             |          |             |            |
-| colspan="4"                                                                                                                                                             | Use the [presentations info page](OWASP_Israel_2013_Presentations "wikilink") to download presentations                                                                                                                                                                                                                       |                                             |                               |      |             |          |             |            |
-| **[OWASP Israel 2012 conference](OWASP_Israel_2012 "wikilink")**                                                                                                        | **Sep 5th, 2012**                                                                                                                                                                                                                                                                                                             | **IDC**                                     |                               |      |             |          |             |            |
-| **[OWASP Israel 2011 Conference](OWASP_Israel_2011 "wikilink")**                                                                                                        | **Sep 15th, 2011**                                                                                                                                                                                                                                                                                                            | **IDC in Herzeliya**                        | **350 attendees**             |      |             |          |             |            |
-| **[OWASP Israel 2010 Conference](OWASP_Israel_2010 "wikilink")**                                                                                                        | **Sep 6th, 2010**                                                                                                                                                                                                                                                                                                             | **IDC in Herzliya**                         | **150 attendees**             |      |             |          |             |            |
-| **[OWASP Israel 2009](OWASP_Israel_2009 "wikilink")**                                                                                                                   | **Sunday, September 6th 2009**                                                                                                                                                                                                                                                                                                | **Interdisciplinary Center Herzliya**       |                               |      |             |          |             |            |
-| colspan="4"                                                                                                                                                             | You can find the agenda and uploaded presentations [here](OWASP_Israel_2009 "wikilink")                                                                                                                                                                                                                                       |                                             |                               |      |             |          |             |            |
-| **[The OWASP Israel 2008 conference at the Interdisciplinary Center Herzliya (IDC)](OWASP_Israel_2008_Conference_at_the_Interdisciplinary_Center_Herzliya "wikilink")** | **September 14th, 2008**                                                                                                                                                                                                                                                                                                      | **Interdisciplinary Center Herzliya**       | **250 attendees**             |      |             |          |             |            |
-| **OWASP Israel at the [IDC Security Road Show](http://www.idc.co.il/?showproduct=31108&content_lang=ENG)**                                                              | **June 3rd, 2008**                                                                                                                                                                                                                                                                                                            |                                             |                               |      |             |          |             |            |
-| colspan="4"                                                                                                                                                             | OWASP sponsored the IDC Security Road Show event in Israel. Thanks for Iris Lev-Ari and Tomer Teller for the help in the OWASP booth.                                                                                                                                                                                         |                                             |                               |      |             |          |             |            |
-| **[OWASP Israel 2007 conference at the Interdisciplinary Center Herzliya (IDC)](OWASP_Israel_2007_Conference "wikilink")**                                              | **Dec 3rd 2007**                                                                                                                                                                                                                                                                                                              | **Interdisciplinary Center (IDC) Herzliya** |                               |      |             |          |             |            |
-| colspan="4"                                                                                                                                                             | The 1st official OWASP conference in Israel, was held on Dec 3rd 2007 at the Interdisciplinary Center (IDC) Herzliya. The conference really set itself as an event you must come to if you have anything to do with application security. [pictures from the conference](http://picasaweb.google.com/oshezaf/OWASPIsrael2007) |                                             |                               |      |             |          |             |            |
+| Name                                                                                                                                                                                                                                                                                                                          | Date                           | Location                                    | Attendance                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------- | ----------------------------- |
+| **[AppSec Israel 2017](https://2017.appsecil.org/)**                                                                                                                                                                                                                                                                          | **October 17-18, 2017**        | **College of Management**                   | **more than 800 attendees\!** |
+| Use the [AppSec Israel 2017](https://2017.appsecil.org/) website to download presentations and videos                                                                                                                                                                                                                         |                                |                                             |                               |
+| **[AppSec Israel 2016](AppSec_Israel_2016 "wikilink")**                                                                                                                                                                                                                                                                       | **September 19th 2016**        | **College of Management**                   | **more than 650 attendees\!** |
+| Use the [presentations info page](AppSec_Israel_2016_Presentations "wikilink") to download presentations and videos                                                                                                                                                                                                           |                                |                                             |                               |
+| **[AppSec Israel 2015](AppSec_Israel_2015 "wikilink")**                                                                                                                                                                                                                                                                       | **October 13th, 2015**         | **College of Management**                   | **over 550 participants\!**   |
+| Use the [presentations info page](AppSec_Israel_2015_Presentations "wikilink") to download presentations                                                                                                                                                                                                                      |                                |                                             |                               |
+| **[AppSec Israel 2014](AppSec_Israel_2014 "wikilink")**                                                                                                                                                                                                                                                                       | **September 2nd, 2014**        | **IDC**                                     | **over 450 participants\!**   |
+| Use the [presentations info page](AppSec_Israel_2014_Presentations "wikilink") to download presentations                                                                                                                                                                                                                      |                                |                                             |                               |
+| **[OWASP Israel 2013](OWASP_Israel_2013 "wikilink")**                                                                                                                                                                                                                                                                         | **October 1st, 2013**          |                                             | **480 participants\!**        |
+| Use the [presentations info page](OWASP_Israel_2013_Presentations "wikilink") to download presentations                                                                                                                                                                                                                       |                                |                                             |                               |
+| **[OWASP Israel 2012 conference](OWASP_Israel_2012 "wikilink")**                                                                                                                                                                                                                                                              | **Sep 5th, 2012**              | **IDC**                                     |                               |
+| **[OWASP Israel 2011 Conference](OWASP_Israel_2011 "wikilink")**                                                                                                                                                                                                                                                              | **Sep 15th, 2011**             | **IDC in Herzeliya**                        | **350 attendees**             |
+| **[OWASP Israel 2010 Conference](OWASP_Israel_2010 "wikilink")**                                                                                                                                                                                                                                                              | **Sep 6th, 2010**              | **IDC in Herzliya**                         | **150 attendees**             |
+| **[OWASP Israel 2009](OWASP_Israel_2009 "wikilink")**                                                                                                                                                                                                                                                                         | **Sunday, September 6th 2009** | **Interdisciplinary Center Herzliya**       |                               |
+| You can find the agenda and uploaded presentations [here](OWASP_Israel_2009 "wikilink")                                                                                                                                                                                                                                       |                                |                                             |                               |
+| **[The OWASP Israel 2008 conference at the Interdisciplinary Center Herzliya (IDC)](OWASP_Israel_2008_Conference_at_the_Interdisciplinary_Center_Herzliya "wikilink")**                                                                                                                                                       | **September 14th, 2008**       | **Interdisciplinary Center Herzliya**       | **250 attendees**             |
+| **OWASP Israel at the [IDC Security Road Show](http://www.idc.co.il/?showproduct=31108&content_lang=ENG)**                                                                                                                                                                                                                    | **June 3rd, 2008**             |                                             |                               |
+| OWASP sponsored the IDC Security Road Show event in Israel. Thanks for Iris Lev-Ari and Tomer Teller for the help in the OWASP booth.                                                                                                                                                                                         |                                |                                             |                               |
+| **[OWASP Israel 2007 conference at the Interdisciplinary Center Herzliya (IDC)](OWASP_Israel_2007_Conference "wikilink")**                                                                                                                                                                                                    | **Dec 3rd 2007**               | **Interdisciplinary Center (IDC) Herzliya** |                               |
+| The 1st official OWASP conference in Israel, was held on Dec 3rd 2007 at the Interdisciplinary Center (IDC) Herzliya. The conference really set itself as an event you must come to if you have anything to do with application security. [pictures from the conference](http://picasaweb.google.com/oshezaf/OWASPIsrael2007) |                                |                                             |                               |
 
 # Previous Meetings
 
 <table>
+<thead>
+<tr class="header">
+<th><p>Name</p></th>
+<th><p>Date</p></th>
+<th><p>Location</p></th>
+<th><p>Attendance</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td><p>width="250"</p></td>
-<td><p>Name</p></td>
-<td><p>width="200"</p></td>
-<td><p>Date</p></td>
-<td><p>width="350"</p></td>
-<td><p>Location</p></td>
-<td><p>width="200"</p></td>
-<td><p>Attendance</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="OWASP_Israel_June_2017" title="wikilink">OWASP Israel June 2017</a></p></td>
 <td><p>June 20th, 2017</p></td>
 <td><p>Intuit Israel, HaHarash St. 4, Hod Hasharon</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="OWASP_Israel_April_2017" title="wikilink">OWASP Israel April 2017</a></p></td>
 <td><p>April 3rd, 2017</p></td>
 <td><p>Checkmarx's offices, in the Amot Atrium Tower, 2 Jabotinsky St., Ramat Gan</p></td>
 <td><p>75 people</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="OWASP_Israel_January_2017" title="wikilink">OWASP Israel January 2017</a></p></td>
 <td><p>January 18th, 2017</p></td>
 <td><p>Radware’s Tel Aviv offices, at Raul Wallenberg 22, Ramat HaChayal</p></td>
 <td><p>120 people</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="OWASP_Israel_June_2016" title="wikilink">OWASP Israel June 2016</a></p></td>
 <td><p>June 14, 2016</p></td>
 <td><p>Amdocs Auditorium in Raanana</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="OWASP_Israel_April_2016" title="wikilink">OWASP Israel April 2016</a></p></td>
 <td><p>April 12, 2016</p></td>
 <td><p>HP Enterprise in Yehud</p></td>
 <td><p>150 participants</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="OWASP_Israel_February_2016" title="wikilink">OWASP Israel February 2016</a></p></td>
 <td><p>February 2, 2016</p></td>
 <td><p>F5 Networks in Tel Aviv</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="OWASP_Israel_June_2015" title="wikilink">OWASP Israel June 2015</a></p></td>
 <td><p>June 16, 2015</p></td>
 <td><p>Microsoft in Herzeliya</p></td>
 <td><p>120 participants</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="OWASP_Israel_March_2015" title="wikilink">OWASP Israel March 2015</a></p></td>
 <td><p>March 30, 2015</p></td>
 <td><p>NCR in Raanana</p></td>
 <td><p>120 participants</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="OWASP_Israel_June_2014" title="wikilink">OWASP Israel June 2014</a></p></td>
 <td><p>June 16, 2014</p></td>
 <td><p>F5 Networks in Tel Aviv</p></td>
 <td><p>110 participants</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="OWASP_Israel_April_2014" title="wikilink">OWASP Israel April 2014</a></p></td>
 <td><p>April 23, 2014</p></td>
 <td><p>Akamai in Herzliya Pituach</p></td>
 <td><p>100 participants</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="OWASP_Israel_January_2014" title="wikilink">OWASP Israel January 2014</a></p></td>
 <td><p>January 14th, 2014</p></td>
 <td><p>Amdocs in Ra'anana</p></td>
 <td><p>120 participants</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="OWASP_Israel_2013_05" title="wikilink">OWASP Israel May 2013</a></p></td>
 <td><p>May 28th, 2013</p></td>
 <td><p>RSA</p></td>
 <td><p>80 participants</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="OWASP_Israel_2013_02" title="wikilink">OWASP Israel February 2013</a></p></td>
 <td><p>February 12th, 2013</p></td>
 <td><p>E&amp;Y</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
-<td><p>colspan="4"</p></td>
+<tr class="even">
 <td><p><a href="OWASP_ISRAEL_2013_02_Hebrew" title="wikilink">Hebrew version</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="OWASP_Israel_2010_06" title="wikilink">OWASP Israel Jun-2010</a></p></td>
 <td><p>Jun 22nd, 2010</p></td>
 <td><p>IBM/Watchfire in Herzliya</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="OWASP_Israel_2010_02" title="wikilink">OWASP Israel Feb-2010</a></p></td>
 <td><p>Feb 9th, 2010</p></td>
 <td><p>Amdocs in Ra'anana</p></td>
 <td><p>70 attendees</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="OWASP_Israel_2010_01" title="wikilink">OWASP Israel Jan-2010</a></p></td>
 <td><p>Jan 12th, 2010</p></td>
 <td><p>Breach Security in Herzliya</p></td>
 <td><p>60 attendees</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="OWASP_Israel_2009_12" title="wikilink">OWASP Israel Dec-2009</a></p></td>
 <td><p>Dec 2009</p></td>
 <td><p>IBM/Watchfire in Herzliya</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="OWASP_Israel_2009_05" title="wikilink">OWASP Israel May 2009 meeting</a></p></td>
 <td><p>May 7th, 2009</p></td>
 <td><p>IBM in Park Azorim in Petach-Tikva</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
-<td><p>colspan="4"</p></td>
+<tr class="even">
 <td><p>The presentations were:</p>
 <ul>
 <li>Web-Based Man-in-the-Middle Attack, Adi Sharabani, IBM (<a href="http://blog.watchfire.com/wfblog/2009/02/active-man-in-the-middle-attacks.html">more info</a>)</li>
@@ -339,24 +244,14 @@ Douglen](mailto:avi.douglen@owasp.org) with any ideas you have.
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="OWASP_Israel_2009_03" title="wikilink">OWASP Israel March 2009 meeting</a></p></td>
 <td><p>March 26th, 2009</p></td>
 <td><p>Tel-Aviv University</p></td>
 <td><p>60 attendees</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
-<td><p>colspan="4"</p></td>
+<tr class="even">
 <td><p>The presentations were:</p>
 <ul>
 <li>Securing cellular web applications, Mikko Saario, Founder, OWASP Finland, Security Architect, Large Telecom Solution Provider (<a href="Media:OWASP_Israel_-_March_2009_-_Mikko_Saario_-_Web_Application_Security_in_the_Mobile_World.pdf‎" title="wikilink">download</a>)</li>
@@ -372,34 +267,20 @@ Douglen](mailto:avi.douglen@owasp.org) with any ideas you have.
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="OWASP_Israel_2009_01" title="wikilink">OWASP Israel January 2009 meeting</a></p></td>
 <td><p>January 28th, 2009</p></td>
 <td><p>Checkpoint</p></td>
 <td><p>100 people</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
-<td><p>colspan="4"</p></td>
+<tr class="even">
 <td><p>The presentations were:</p>
 <ul>
 <li>Improving Web Application Firewall testing for better deployment in production network, Gregory Fresnais from BreakingPoint, visiting us from France (<a href="Media:OWASP_Israel_2009_01_Gregory_Fresnais_Measuring_WAF_Performance.pdf‎" title="wikilink">download</a>)</li>
 <li>Web 2.0 Hacking, Nimrod Luria, Qrity (<a href="Media:OWASP_Israel_2009_01_Nimrod_Luria_Web_2.0_Security.pdf‎" title="wikilink">download</a>)</li>
 <li>Wiki Security, Ofer Shezaf, Xiom (<a href="http://www.xiom.com/research/wiki_security">download</a>)</li>
 </ul></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

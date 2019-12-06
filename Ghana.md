@@ -17,6 +17,12 @@ us with space for OWASP Ghana chapter meetings:
 
 <td>
 
+![](Ghana_Tech_Labs.jpg)
+
+</td>
+
+<td>
+
 ![University_of_Ghana.png](University_of_Ghana.png
 "University_of_Ghana.png")
 
@@ -24,15 +30,7 @@ us with space for OWASP Ghana chapter meetings:
 
 <td>
 
-</td>
-
-<td>
-
 ![GIMPA_logo.jpg](GIMPA_logo.jpg "GIMPA_logo.jpg")
-
-</td>
-
-<td>
 
 </td>
 
@@ -54,7 +52,25 @@ Volunteering carries many benefits including meeting great people,
 learning new skills, and above all – fun\! We appreciate the assistance
 that our volunteers provide to ensure our events run smoothly. If you
 would like to help out for few hours with administrative tasks on the
-day of events, please reach out via email or twitter.
+day of events, please reach out via email or twitter. The following is
+the list of organisation(s) who have provided us volunteers:
+
+<table cellpadding="10" cellspacing="0" border="0">
+
+<tr>
+
+<td>
+
+![Ghana_Volunteer_Program.png](Ghana_Volunteer_Program.png
+"Ghana_Volunteer_Program.png")
+
+</td>
+
+</tr>
+
+</table>
+
+</ul>
 
 ## Stay in Touch
 
@@ -71,10 +87,17 @@ day of events, please reach out via email or twitter.
 Chapter meetings are held several times a year, typically at a location
 provided by our current facility sponsor.
 
-### June or July 2019 - Exact Date and venue TBC
+### November/December 2019 (Exact date TBC and annouced)
 
-Follow us on social media or stay in touch to get an alert on
-announcement.
+#### TICKETS:
+
+This event will be free to attend for both members and non-members of
+OWASP and is open to anyone interested in application security and cyber
+security.
+
+Register to attend this and our future events via
+[meetup.com](https://www.meetup.com/OWASP-Ghana-Chapter/) Or via
+[eventbrite.com](https://www.eventbrite.com/e/applicationsoftware-security-september-meetup-by-owasp-ghana-tickets-70303689227)
 
 **Code of Conduct**:
 
@@ -90,18 +113,20 @@ announcement.
 
 #### Call For Speakers
 
-Call For Speakers is open - if you would like to present a talk on
-Application Security at future OWASP Ghana Chapter events - please
-review and agree with the [OWASP Speaker
-Agreement](Speaker_Agreement "wikilink") and send the proposed talk
-title, abstract and speaker bio to the Chapter Leaders with the
-following details:
+Call For Speakers is open - if you would like to present a 15-45 minute
+talk on Application / Cyber Security at future OWASP Ghana Chapter
+events - please review and agree with the [OWASP Speaker
+Agreement](Speaker_Agreement "wikilink") and submit your
+talk/presentation via [Google
+Forms](https://docs.google.com/forms/d/e/1FAIpQLSep6HqWEJoN4l_vbytrAEChBGOyge-A61nd_0JvGsl6r5HpZA/viewform)
 
-1\. The title of your proposed talk (up to 12 words)
+<center>
 
-2\. The abstract summarising your proposed talk (70-150 words)
+|                                                           |
+| --------------------------------------------------------- |
+| ![Google_Forms.png](Google_Forms.png "Google_Forms.png") |
 
-3\. The speaker bio (70-150 words)
+</center>
 
 Please note that you can also pair up with a colleague and present a
 joint talk. Please ensure that your talk is objective, stresses open
@@ -114,13 +139,134 @@ for submissions.
 
 ## Past Events
 
-### Saturday, 16th March 2019 (Legon, Accra)
+### Saturday 21st September 2019 10am-2pm
+
+'''Location: '''Ghana Tech Lab, Accra Digital Lab, Ring Road West,
+Accra.
+
+'''Attendance: ''' 55 participants
+
+#### TALKS:
+
+  - **WAF Filter 404 Not Found - Blay Safian** ([Slides
+    PDF](Media:_Waf-filter-404-not-found.pdf "wikilink"))
+
+<!-- end list -->
+
+  - **Lighting Talk on Broken Authentication: What it means, and what
+    you can do - Hassan Abudu** ([Slides
+    PDF](Media:_OWASP_broken_authentication.pdf "wikilink"))
+
+<!-- end list -->
+
+  - **Wireless Security and its Discontents - Boyan Lazarevski**
+    ([Slides PDF](Media:_OWASP-Sep-2019-BL_\(v.2\).pdf "wikilink"))
+
+#### SPEAKERS:
+
+**Blay Safian**
+
+  -
+    An Electrical Engineering and Automation Degree holder and a
+    certified Advance Penetration tester. Defcon China 2.0 attendee.
+
+**Boyan
+Lazarevski([@BoyanLazarevski](https://twitter.com/BoyanLazarevski))**
+
+  -
+    Boyan is a certified IT Operations Specialist with a passion for
+    computer hardware and cybersecurity.
+
+**Hassan Abudu([@hassanabudu](https://twitter.com/hassanabudu))**
+
+  -
+    Hassan is OWASP Ghana chapter co leader, a web developer, a teacher
+    and a technologist in general.
+
+#### CTF for Developers:
+
+OWASP Ghana Chapter is pleased to announce the 2019 OWASP Ghana CTF
+Tournament for Application Developers.
+
+CTF (Capture The Flag) is a type of computer security competition.
+Contestants are presented with a set of challenges and puzzles which
+test their creativity, technical coding (and googling) skills, and
+problem-solving ability. Challenges usually cover a number of categories
+and when solved, each yields a “flag” which is submitted to a real-time
+scoring service. The difficulty levels are from beginners to advanced.
+CTF tournaments are a great and fun way for software developers to learn
+a wide array of cyber security / application security skills in a safe
+and legal environment. Most programming languages supported. IMPORTANT:
+Please bring your own LAPTOP and a charger for it to this event
+
+This CTF environment is kindly provided by [Secure Code
+Warrior](https://securecodewarrior.com/).
+
+### Saturday, 8th June 2019 10am-2pm
 
 '''Location: '''Department of Computer Science, University of Ghana,
 Legon, Accra.
 
-**Time:** Doors Open at 9:30am for registration and networking. The
-talks start at 10:00am.
+'''Attendance: ''' 65 participants
+
+#### TALKS:
+
+  - **The State of Phishing Attack Vector - Isaac Kweku Acheampong**
+    ([Slides
+    PDF](Media:_Phishing_Presentation\(OWASP_Ghana\).pdf "wikilink"))
+
+<!-- end list -->
+
+  - **Lighting Talk on HTTPS - Hassan Abudu** (no slides)
+
+<!-- end list -->
+
+  - **Smart Grid IoT Security - Kwaku Sarpong Manu** ([Slides
+    PDF](Media:_Smart_Grid_IoT_Security_\(OWASP_Ghana\).pdf "wikilink"))
+
+<!-- end list -->
+
+  - **Achilles and the Bee - Fabiola Amedo** ([Slides
+    PDF](Media:_Achilles_and_the_Bee_Presentation\(OWASP_Ghana\).pdf "wikilink"))
+
+<!-- end list -->
+
+  - **Anatomy of a DNS Cache Poisoning Attack - Boyan Lazarevski**
+    ([Slides
+    PDF](Media:_DNS_Cache_Poisoning\(OWASP_GHANA\).pdf "wikilink"))
+
+#### SPEAKERS:
+
+**Isaac Kweku Acheampong**
+
+  -
+    Isaac is currently working as a Facilities Manager, holds BSc IT and
+    Sec+ certified.
+
+**Kwaku Sarpong Manu([@_kwaku__](https://twitter.com/_kwaku__))**
+
+  -
+    Kwaku is a Graduate Computer engineering student from KNUST. Avid
+    reader, active sportsman and student politician. He's also an
+    student Consultant at GWCL, advising the Technology and Innovation
+    Department.
+
+**Fabiola Amedo([@fabluzi](https://twitter.com/fabluz))**
+
+  -
+    Fabiola is currently working at KPMG Ghana as an IT advisory
+    professional.
+
+**Boyan
+Lazarevski([@BoyanLazarevski](https://twitter.com/BoyanLazarevski))**
+
+  -
+    Boyan is a certified IT Operations Specialist.
+
+### Saturday, 16th March 2019 10am-2pm
+
+'''Location: '''Department of Computer Science, University of Ghana,
+Legon, Accra.
 
 '''Attendance: ''' 85 participants
 
@@ -199,26 +345,10 @@ talks start at 10:00am.
     profile page by [clicking
     here](https://www.owasp.org/index.php/User:Bjoern_Kimminich)
 
-#### TICKETS:
-
-This event is free to attend for both members and non-members of OWASP
-and is open to anyone interested in application security and cyber
-security.
-
-Register to attend this event at
-[meetup.com](https://www.meetup.com/OWASP-Ghana-Chapter/events/258787966/)
-or
-[eventbrite.com](https://www.eventbrite.com/e/softwareapplication-security-event-owasp-ghana-chapter-meeting-at-ug-tickets-56208808058)
-or
-[egotickets.com](https://egotickets.com/events/software-application-security-event-owasp-ghana-chapter-meeting-at-ug)
-
-### Saturday, 24th November 2018 (Greenhill, Legon Bypass)
+### Saturday, 24th November 2018 2pm-5pm
 
 '''Location: '''GIMPA School of Technology, Greenhill, Accra. (Legon
 Bypass)
-
-**Time:** Doors Open at 1:30pm for registration and networking. The
-talks start at 2:00pm
 
 '''Attendance: ''' 120 participants
 
@@ -322,24 +452,10 @@ talks start at 2:00pm
     industries, vulnerability assessments, application security audits
     and incident response.
 
-#### TICKETS:
-
-This event is free to attend for both members and non-members of OWASP
-and is open to anyone interested in application security and cyber
-security.
-
-Register to attend this event at
-[Meetup.com](https://www.meetup.com/OWASP-Ghana-Chapter/events/256400345/)
-or at
-[Eventbrite.com](https://www.eventbrite.com/e/2nd-owasp-ghana-chapter-meeting-web-application-security-owaspghana-tickets-52658148941)
-
-### Saturday, 18th August 2018 (Ridge)
+### Saturday, 18th August 2018 2pm-5pm
 
 '''Location: '''Kofi Annan ICT Centre, Ridge, Accra. (Next to Ministry
 of Communications)
-
-**Time:** Doors Open at 1:30pm for registration and networking. The
-talks start at 2:00pm
 
 '''Attendance: ''' 70 participants
 
@@ -408,15 +524,6 @@ talks start at 2:00pm
     Eric has a Bsc in IT and a CEH v9. He's currently an Information
     security officer at E-connecta as well as moderator at Legal
     hackmen.
-
-#### TICKETS:
-
-This event is free to attend for both members and non-members of OWASP
-and is open to anyone interested in application security and cyber
-security.
-
-Register to attend this event at
-[Eventbrite.com](https://www.eventbrite.com/e/owasp-ghana-chapter-meeting-web-application-security-owaspghana-tickets-48740206269)
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Africa](Category:Africa "wikilink")
