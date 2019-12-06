@@ -40,7 +40,95 @@ member?](https://myowasp.force.com/MemberAppRegion)
 
 # Upcoming Meetup
 
-### Mar 2019 Meetup: HTTP2
+### November 2019 Meetup: Basic Pentesting on Ethereum Blockchain
+
+**Date**: 14 November 2019 730pm to 900pm
+
+**Venue**: F5 Singapore office, 5 Temasek Boulevard, \#08-01/02 Suntec
+Tower 5, Singapore 038985
+
+One of the double edged swords of blockchain software, compared to
+typical enterprise software stack, is that smart contracts are immutable
+once deployed. This talk will cover some of the basics of typical
+security vulnerabilities and mitigation methods on the Ethereum
+blockchain stack.
+
+**Speaker**: Dr. Chun Hui
+
+Dr. Chun Hui (former Hyperledger research scientist at IBM & Hyperledger
+Adjunct Lecturer at NUS) is currently developing both distributed
+software on both public & private blockchains in finance use cases at
+Kommerce. He has a strong interest in system infrastructure and
+blockchain, with a focus on design, devops and social-development
+impact.
+
+Many thanks to F5 for sponsoring food and drinks\!
+
+Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
+
+# Past Meetups
+
+### 2019
+
+#### September 2019 Meetup: Introduction to CVSSv3.1 - Minor Release
+
+**Date**: 19 September 2019 730pm to 900pm
+
+**Venue**: Akamai Singapore office, 1 Raffles Place, \#17-61, One
+Raffles Place Tower 2, Singapore 048616
+
+Come and listen to Christian share on the new CVSS 3.1. The "Common
+Vulnerability Scoring System" (CVSSv3.1) provides a way to capture the
+principal characteristics of a vulnerability and produce a numerical
+score reflecting its severity. The numerical score can then be
+translated into a qualitative representation (such as low, medium, high,
+and critical) to help organizations properly assess and prioritize their
+vulnerability management processes.
+
+**Speaker**: Christian Heinrich
+
+Christian Heinrich has presented at the OWASP Conferences in Australia,
+Europe and USA and OWASP Chapters in the Netherlands, London and Sydney
+and Melbourne, Australia, ToorCon (USA), Shmoocon (USA), BlackHat (Asia
+and USA), SecTor (Canada), CONFidence (Europe), Hack In The Box
+(Europe), SyScan (Singapore), B-Sides (Australia), RUXCON (Australia),
+and AusCERT (Australia)
+
+cmlh has a Public Profile on LinkedIn at
+<http://www.linkedin.com/in/ChristianHeinrich>
+
+Many thanks to Akamai for sponsoring food and drinks\!
+
+Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
+
+#### June 2019 Meetup: Understanding Bad Bots
+
+**Date**: 26 June 2019 730pm to 900pm
+
+**Venue**: F5 Singapore office, Suntec City Tower Five, 5 Temasek
+Boulevard \#08-01/02, Singapore 038985, Singapore
+
+Bots form a significant chunk of modern day traffic. The talk and demo
+will show some bot attacks, how it impacts business and user and the
+need of a layered defence mechanism..
+
+**Speaker**: Shahnawaz Backer
+
+Shahnawaz Backer is a Security Specialist at F5 Networks. With keen
+interest in Financial Malware and Identity Security. He has been a
+Consulting Engineer for over a decade and started his career as a
+Security Product Development Engineer. His noticeable works include
+designing a Financial Malware Strategy for multiple Tier 1 Banks in
+APAC, designing a Nation Level Authentication Framework and identity
+management strategy for multiple Financial and Government Organizations.
+
+In his spare time he loves code and automate.
+
+Many thanks to F5 for sponsoring food and drinks\!
+
+Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
+
+#### Mar 2019 Meetup: HTTP2
 
 **Date**: 20 March 2019 730pm to 830pm
 
@@ -71,7 +159,7 @@ Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
 Many thanks to Akamai for their kind sponsorship of venue and F\&B (no
 beer though)\!
 
-### Mar 2019 Meetup \#2: ReDTunnel: Explore Internal Networks via DNS Rebinding Tunnel
+#### Mar 2019 Meetup \#2: ReDTunnel: Explore Internal Networks via DNS Rebinding Tunnel
 
 **Date**: 28 March 2019 730pm to 830pm
 
@@ -104,10 +192,6 @@ writes regularly for online security magazines and is a 4-time winner of
 the Israeli Cyber Challenge (CTF).
 
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
-
-# Past Meetups
-
-### 2019
 
 #### Feb 2019 Meetup: How to make your software security program successful
 

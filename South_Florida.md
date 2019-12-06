@@ -599,8 +599,8 @@ products with impressive results—including a patented intrusion
 detection system, an award-winning email security solution and a
 revolutionary IT Risk and Assessment framework currently used by large
 multinational companies, healthcare organizations and financial
-institutions to ensure their privacy and security. Certified CISO (C
-|CISO), Member FBI Infragard, ISSA, ISACA, IAPP. Managing Director of
+institutions to ensure their privacy and security. Certified CISO
+(C|CISO), Member FBI Infragard, ISSA, ISACA, IAPP. Managing Director of
 Security Privateers.
 
 *Talk 2: What's Hiding in Your Software Components? Hidden Risks of

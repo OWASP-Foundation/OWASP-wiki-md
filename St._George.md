@@ -1,8 +1,40 @@
-## Local News
+### Chapter Information
 
-**`St.``   ``George,``   ``Utah``   ``Chapter``   ``Activities`**
+Membership is encouraged but not required to use OWASP materials or to
+participate in chapter meetings or volunteering to help with an OWASP
+project. Everyone is welcome to join us at our chapter meetings.
 
-Past Activities:
+<https://www.owasp.org/images/8/82/Meetup_logo3.jpg>
+<https://www.meetup.com/St-George-Open-Web-Application-Security-Project-OWASP/>
+
+### Upcoming Events
+
+_
+
+### Past Activities
+
+October 4, 2019 - Tech industry meeting at Dixie Tech College sponsored
+by Silicon Slopes ... with presentation and conversation with Jesse Bird
+cofounder of TCN ... developers of cloud based call center software.
+Also heard about how Dixie State University is providing support for the
+2019 Code Camp at the campus Innovation Plaza.
+
+September 6, 2019 - Tech industry meeting at Dixie Tech College
+sponsored by Silicon Slopes ... with presentation and conversation with
+Jimmy and Ken co-founders of Easy Storage Solutions about building a
+company and developing the needed software to maintain operations.
+Special thanks to the Utah State University Rural Online Initiative
+(ROI) for providing lunch for the 50 + attendees.
+
+August 2, 2019 - Tech industry meeting at Dixie Tech College sponsored
+by Silicon Slopes. Thanks to Clint Reid Founder and CEO of Zonos for
+sharing his thoughts and experiences with Tech startup activities.
+
+June 7, 2019 - Tech industry meeting at Dixie Tech College sponsored by
+Silicon Slopes. Thanks to Joshua Aikens for hosting Tyler Todd who
+shared information about how tech can better support business
+communications and productivity. Had opportunity to speak to several
+students about OWASP membership and activities.
 
 April 5, 2019 - Tech industry meeting at Dixie Tech College sponsored by
 Silicon Slopes. Thanks to Joshua Aikens for hosting Dr. Eric Pederson,
@@ -49,16 +81,14 @@ August 3, 2018 - Monthly tech industry meeting sponsored by Silicon
 Slopes at Dixie Tech College, St. George Utah 610 S Airport Rd 12 noon.
 Thanks Joshua Aikens and Gary Stone.
 
-Future Activities:
+### Future Activities
 
 To be announced
 
-Chapter Information:
+### Chapter Information
 
 Special thanks to Lee Devine at Dixie Tech for helping organized our
 local chapter.
-
-Everyone is welcome to join us at our chapter meetings.
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:United States](Category:United_States "wikilink")

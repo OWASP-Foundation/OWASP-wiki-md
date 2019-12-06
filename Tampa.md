@@ -2,41 +2,99 @@
 
 Date:
 
-  - Friday, March 8, 2019
+  - Friday, December 6, 2019
 
 Time:
 
-  - 11:30am - 1:00pm
+  - 8:00am - 2:00pm
 
 Description:
 
-  - OWASP Tampa Chapter Q1 Meeting
+  - OWASP Tampa Day 2109
 
 Location:
 
-  - ISC2 Campus, 311 Park Place Blvd, Clearwater, FL 33759
+  - **Wild Rover Brewery** 13921 Lynmar Blvd Tampa, FL 33626
 
-Tickets:
+Registration: <https://owasp-tampa-day-2019.eventbrite.com>
 
-  - <https://owasp-tpa-q1-2019.eventbrite.com>
+AGENDA:
 
-Presentation
+` Speakers`
+` Games`
+` Career Advice`
+` Networking`
 
-SPEAKERS: MicroFocus: Trace Hollifield
+DESCRIPTION:  
 
-TOPIC: Securing DevOps
+Join us for OWASP Tampa Day 2019\!
 
-DESCRIPTION: Vulnerabilities plague hardware, software and applications
-alike.  With the pace of development increasing, companies continue to
-add risk into the production environment.  Security professionals need
-to help the software development lifecycle reduce risk without impeding
-the timeline.  The big question is…how? 
+**Speakers:**
+
+**Ryan Lindfield**
+
+Title: Packet Stunts: Zero-to-Hero DNS Power Leveling
+
+Description: As CTO @ The Undercroft Ryan has a passion for technical
+enablement, community and tradecraft.  This will be a fast-paced, and
+interactive training session with a focus on the Domain Name System. 
+We’ll begin with a primer on standard DNS operation, validating
+concepts like resolution,  zone transfers, record types, ipv4, ipv6,
+tcp, udp, multicast and anycast. Once a solid foundation is established
+within the audience we’ll move into  DNS tradecraft from reconnaissance,
+to man-in-the-middle, authenticated DNS and various forms of encrypted
+DNS. Finally we’ll look into manipulation of DNS for exfiltration and
+tunneling.  A lot of information in a small amount of time, please
+arrive a few minutes early & sufficiently caffeinated for best results.
+
+Bio: Ryan Lindfield has been working with network security for over 2
+decades. He holds dozens of certifications and loves sharing his
+knowledge of offensive and defensive networking. Ryan has served as a
+consultant, instructor, author, and technical editor for Cisco, HP, VCE,
+and other vendors, providing training to civilians and military.
+----**Savannah Lazzara**
+
+Title: From Basics to Hacking the Planet
+
+Description: The talk will discuss Savannah’s journey into the
+cybersecurity industry as well showing an exploit demo. Savannah will
+show the audience books, platforms, and influencers that have helped in
+her career. The exploit demo will focus on vulnerabilities in Splunk
+applications.
+
+Bio:  Savannah Lazzara is a Penetration Testing Intern at A-LIGN. She is
+currently attending The University of Tampa working towards a Bachelor’s
+Degree of Science in Cybersecurity. She currently holds the CEH and is
+CISM accredited. In addition, Savannah is one of the co-founders of
+Root@UT, a penetration testing and CTF training club, at The University
+of Tampa. Savannah also co-hosts Hack The Box's monthly meetups in the
+Tampa Bay area. ----**BLuəf0x**
+
+Title: Modern Cars: Privacy Issues and Countermeasures
+
+Description: Having a used car you purchased and discovering that you
+find someone else's information in the car including on the bluetooth
+and the countermeasures to use when you want to sell your car having
+your information in the car.
+
+Bio:
+
+  - US Army 9 years radio technician/satcom engineer
+  - DoD and DoS contractor in tactical radio systems and
+    secure/non-secure phone lines and phone switches
+  - Pasco Hernando State College Law Enforcement Academy graduate
+  - •1st Place NoQrtr CTF HackMiami 2018
+  - •2nd Place NoQrtr CTF HackMiami 2019
+  - •4th Place RedAlert ICS CTF DefCon 2019
+  - •Speaker at BSides Puerto Rico 2019
+  - •Staff volunteer at Cyber Security Forum Initiative and The Diana
+    Initiative
 
 ## Meeting Location
 
 Location:
 
-ISC2 Campus, 311 Park Place Blvd, Clearwater, FL 33759
+**Wild Rover Brewery** 13921 Lynmar Blvd Tampa, FL 33626
 
 ## Presentation Archives
 

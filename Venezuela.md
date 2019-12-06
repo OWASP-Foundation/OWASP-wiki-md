@@ -7,12 +7,9 @@ __NOTOC__
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="font-size: 125%;"</p></td>
 <td><p>El Proyecto Abierto de Seguridad de Aplicaciones Web (OWASP), es una comunidad abierta dedicada a permitir a las organizaciones realizar el desarrollo, adquisición y mantenimiento de aplicaciones fiables.</p>
 <p>En OWASP Venezuela, queremos compartir conocimiento, generar proyectos en el ámbito de la seguridad de aplicaciones, actualmente estamos en la búsqueda de personas interesada en participar, aprender y compartir junto con nosotros experiencia, técnicas, enseñanzas y todo aquello que nos sirva para hacer de OWASP Venezuela un buen grupo y que puedan surgir buenos proyectos para esta comunidad.<br />
-{{Chapter Template</p></td>
-<td><p>chaptername=Venezuela</p></td>
-<td><p>extra=<br />
+{{Chapter Template|chaptername=Venezuela|extra=<br />
 The chapters leaders are:</p>
 <ul>
 <li><a href="mailto:jesus.irausquin@owasp.org"><strong>Jesús Irausquin</strong></a> Coordinator: Education, Meetings/Conferences</li>
@@ -22,7 +19,6 @@ The chapters leaders are:</p>
 </ul>
 <p>For more information, follow us on Twitter <a href="http://www.twitter/owasp_ven">@Owasp_Ven</a><br />
 subscribe to the <a href="http://groups.google.com/group/owasp-venezuela?hl=es">mailing list</a> or <a href="https://www.linkedin.com/groups/3747170">Linkedin group</a></p></td>
-<td><p>mailinglistsite=<a href="http://groups.google.com/group/owasp-venezuela?hl=es">http://groups.google.com/group/owasp-venezuela?hl=es</a></p></td>
 <td><p>emailarchives=<a href="http://groups.google.com/group/owasp-venezuela?hl=es">http://groups.google.com/group/owasp-venezuela?hl=es</a>}}</p>
 <p><paypal>Venezuela</paypal></p></td>
 </tr>
@@ -34,7 +30,6 @@ subscribe to the <a href="http://groups.google.com/group/owasp-venezuela?hl=es">
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="font-size: 125%;"</p></td>
 <td><p>Hay muchas formas de colaborar y contribuir con el capitulo OWASP Venezuela.<br />
 </p>
 <ul>
@@ -53,7 +48,6 @@ subscribe to the <a href="http://groups.google.com/group/owasp-venezuela?hl=es">
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="font-size: 125%;"</p></td>
 <td><ul>
 <li>OWASP Latam Tour - Venezuela 2017 <a href="https://www.eventbrite.com/e/owasp-latam-tour-2017-caracas-venezuela-tickets-32595739735">Registro</a><br />
 </li>
@@ -67,7 +61,6 @@ subscribe to the <a href="http://groups.google.com/group/owasp-venezuela?hl=es">
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="font-size: 125%;"</p></td>
 <td><ul>
 <li>OWASP Latam Tour - Venezuela 2016 <a href="https://www.facebook.com/media/set/?set=a.1474780395889463.1073741830.423569001010613&amp;type=1&amp;l=0c5f4adcf1">Ver fotos</a><br />
 </li>
@@ -85,7 +78,6 @@ subscribe to the <a href="http://groups.google.com/group/owasp-venezuela?hl=es">
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="font-size: 125%;"</p></td>
 <td><ul>
 <li>OWASP Latam Tour - Venezuela 2017 <a href="https://trello.com/b/B3n4pCz0/owasp-latamtour-venezuela-2017">Ver tareas</a><br />
 </li>
@@ -98,16 +90,15 @@ subscribe to the <a href="http://groups.google.com/group/owasp-venezuela?hl=es">
 
 # Proyectos
 
-|                          |                                                             |
-| ------------------------ | ----------------------------------------------------------- |
-| style="font-size: 125%;" | Pronto se nombraran los proyectos en los que se trabajaran. |
+|                                                             |
+| ----------------------------------------------------------- |
+| Pronto se nombraran los proyectos en los que se trabajaran. |
 
 # Presentaciones
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="font-size: 125%;"</p></td>
 <td><h2 id="imageowasplogo_50x50.png_backup_malware_2016___venezuela"><img src="Owasplogo-50x50.png" title="fig:Image:Owasplogo-50x50.png" alt="Image:Owasplogo-50x50.png" /> Backup &amp; Malware 2016 - Venezuela</h2>
 <p>OWASP Venezuela - OWASP Venezuela Chapter <a href="https://www.owasp.org/images/7/79/OWASP_C%C3%A1pitulo_Venezuela.pdf">Descargar</a><br />
 CVE - lo bueno, lo malo y lo feo - Josmell Chavarri <a href="https://www.owasp.org/images/4/49/CVE_Lobueno_Lomalo_y_Lofeo.pdf">Descargar</a><br />

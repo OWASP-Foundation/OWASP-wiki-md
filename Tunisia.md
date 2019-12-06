@@ -10,29 +10,37 @@ Everyone is welcome to join us at our chapter meetings.
 
 #### OWASP Tunisia Chapter Events
 
+['''2019-11-16''']('''2019-02-23''' "wikilink") : Local OWASP Tunisia
+Chapter Meeting.Cercle des bureaux. Centre Urbain Nord. Tunis. Thanks
+for Axians Cybersecurity for Hosting the event.
+
 ['''2019-04-14''']('''2019-02-23''' "wikilink") : Participation of OWASP
 Tunisia Chapter, SecuriDay2K19 Event : National Security Day. Privacy
-and Personal Data Protection. INSAT.Tunis
+and Personal Data Protection. INSAT.Tunis.
+
+Table ronde. Moderator: Nihel Ben Youssef. OWASP Tunisia Chapter leader.
 
 [**2019-02-23**]('''2019-02-23''' "wikilink") : Participation of OWASP
 Tunisia Chapter, "The art of DevSecOps" Event : Presentation of OWASP
-DevSecOps projects.@ SecurinetsISI Acropolium de Carthage. Tunis
+DevSecOps projects.@ SecurinetsISI Acropolium de Carthage. Tunis.
+Speaker: Raouf Mnif DevOps Engineer, Futura Digital
 
 [**2018-06-29**]('''2018-06-29''' "wikilink") : OWASP Tunisia Chapter,
 Workshop on OWASP IOT PROJECT and Demo : Exploiting Command injection
 Vulnerability in firmware using Firmware analysis Tool, Firmadyne,
 binwalk) and OWASP ZAP : Carthage Cyber Arena CCA 2018 @Arena Lac (Guest
-Lecture)
+Lecture). Speaker: Nihel Ben Youssef. OWASP Tunisia Chapter leader.
 
 [**2018-04-07**]('''2018-04-07''' "wikilink") : Conference on Hackers of
-Today: IEEE Tunisian Engineering Day TunED @ENIT (Guest Lecture)
+Today: IEEE Tunisian Engineering Day TunED @ENIT (Guest Lecture).
+Speaker: Nihel Ben Youssef. OWASP Tunisia Chapter leader.
 
 [**2018-04-18**]('''2018-04-18''' "wikilink") : Conference on
 Cybersecurity New Trends: I-Safe event @Polytech Sousse (Guest Lecture)
 
 [**2018-03-08**]('''2018-03-08''' "wikilink") : Workshop on Big DATA
 Security and OWASP NoSQL injection Demo: Hackathon BigDATA @FSJEG (Guest
-Lecture)
+Lecture). Speaker: Nihel Ben Youssef. OWASP Tunisia Chapter leader.
 
 [**2018-03-03**]('''2018-03-03''' "wikilink") : Presentation of OWASP
 Foundation and OWASP Tunisia Chapter: Ebanking CyberSecurity Event

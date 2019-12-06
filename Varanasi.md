@@ -4,6 +4,21 @@
 
 
 
+# OWASP Varanasi Mansoon Meetup 2k19
+
+<b>26 July 2019</b>
+
+<b>Venue: BHU</b>
+<b>Time: 10 Am to 4 PM</b>
+Agenda:
+1\) WAPT Hands-on Workshop Training: Ankit Dixit (10 AM- 12 PM)
+2\) OWASP Tools: Sumit Rajput (12 PM- 1 PM)
+\--------------Networking Break------------------
+3\) Introduction to Metasploit: Ashish Gupta (2 PM- 3 PM)
+4\) Latest OWASP Top 10, 2017 & Tools (News Byte): Harshita Mathur (3
+PM- 4 PM)
+
+
 # OWASP Varanasi WAPT Hands On 2k19
 
 <b>17 January 2019</b>

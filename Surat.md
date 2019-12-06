@@ -109,6 +109,37 @@ Supporter in the Event as **OWASP SURAT**
 
 **11:00 AM - 06:00 PM:** **Woman & Child Safety**
 
+**Local Meet: April 09,2019**
+
+**Venue:**
+
+Jemistry Training Institute
+
+**Session Details & Agenda:**
+
+**01:00 PM - 01:15 PM:** Introductions & Chapter Updates
+
+**01:15 PM - 02:30 PM:** Secure Coding Techniques & OWASP TOP 10 Intro
+
+**03:30 PM - 04:30 PM:** Session on Honeypots & Its Importance
+
+**General Meet Up: July 01,2019**
+
+**Venue:**
+
+Jemistry Info Solutions LLP
+
+**Session Details & Agenda:**
+
+**03:00 PM - 03:15 PM:** Introductions & Chapter Updates
+
+**03:15 PM - 03:30 PM:** InfoSec News & Security Awareness Tips
+
+**03:30 PM - 05:30 PM:** Talks about latest application security tools &
+its usage
+
+**06:30 PM - 06:45 PM:** Feedback
+
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Asia/Pacific/Middle
 East](Category:Asia/Pacific/Middle_East "wikilink")

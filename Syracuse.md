@@ -1,7 +1,6 @@
 ## Local News
 
-<big>**`October``   ``2019``   ``-``   ``Meeting``   ``to``   ``be``
- ``scheduled``   ``early``   ``2020`**</big>
+**`Meeting``   ``Location`**
 
 Everyone is welcome to join us at our chapter meetings.
 

@@ -95,9 +95,17 @@ the DC Chapter, send an email to one of the chapter co-chairs or the
 
 # Twitter
 
-|                                                                                                                                       |                                                                                                        |                                                            |  |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |  |
-| style="border: 1px solid rgb(204, 204, 204); width: 100%; font-size: 95%; color: rgb(0, 0, 0); background-color: rgb(236, 236, 236);" | **You can follow us on Twitter as [@OWASPDC](http://twitter.com/owaspdc)** <twitter>23609877</twitter> | style="width: 110px; font-size: 95%; color: rgb(0, 0, 0);" |  |
+{|
+
+| style="border: 1px solid rgb(204, 204, 204); width: 100%; font-size:
+95%; color: rgb(0, 0, 0); background-color: rgb(236, 236, 236);" |
+
+**You can follow us on Twitter as
+[@OWASPDC](http://twitter.com/owaspdc)** <twitter>23609877</twitter>
+
+| style="width: 110px; font-size: 95%; color: rgb(0, 0, 0);" |
+
+|}
 
 # News & Recent Meetings
 

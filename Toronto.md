@@ -1,6 +1,9 @@
 ![<File:OWASP> Toronto Chapter.jpg](OWASP_Toronto_Chapter.jpg
 "File:OWASP Toronto Chapter.jpg")
 
+Our chapter's Google Group can be found
+[here](https://groups.google.com/a/owasp.org/forum/#!forum/toronto-chapter).
+
 The mailing list archive can be accessed from
 [here.](http://sourceforge.net/mailarchive/forum.php?forum=owasp-toronto)
 
@@ -49,6 +52,340 @@ contribution to the local Toronto chapter\!
 
 
 # Upcoming Sessions
+
+**Date/Time**: December 11, 2019, 6:30 PM to 8:30 PM EDT
+
+**Location**: Room 128 (on the first floor near the library), St. James
+Campus - Building A, George Brown College, 200 King Street East,
+Toronto, ON, M5A 3W8
+
+**Presentation summary:**
+
+**OWASP IoT Top 10 - Exploring Vulnerability Root Causes**
+
+The marketplace of Internet-connected devices for home, office and
+industry is competitive and IoT vendors must evolve new features and
+designs rapidly to capture market share. As a result, IoT vendors are
+faced with tight profit margins and challenging technical constraints
+which sometimes require them to compromise on security controls. This
+presentation will introduce the OWASP IoT top 10 vulnerabilities list
+and lead the attendees through common root causes for the top 10
+vulnerabilities by leveraging some scaled-down practical examples. The
+presentation will conclude with a few ideas on affordable and accessible
+solutions for IoT product designers to consider.
+
+**Presenter bio:**
+
+**Nicholas Johnston**
+
+Nick is a professor and the program coordinator Sheridan College’s
+cybersecurity bachelor’s degree program. Previous to his role in
+academia Nick led an incident response team, worked as a computer
+forensic investigator, programmer, penetration tester, secure code
+auditor and general cybersecurity consultant. You can find him on
+Twitter at @nickinfosec where he’ll either be tweeting cringe-worthy
+cyberpuns or sharing electronics and maker projects.
+
+-----
+
+# Previous Sessions
+
+**Date/Time**: November 21, 2019, 6:30 PM to 8:30 PM EDT
+
+**Location**: Room 128 (on the first floor near the library), St. James
+Campus - Building A, George Brown College, 200 King Street East,
+Toronto, ON, M5A 3W8
+
+**Presentation summary:**
+
+**Introduction to Web Application PenTesting**
+
+Diving into web application penetration testing\! Bobby will introduce
+concepts for web application security testing, common vulnerabilities,
+pen testing methodologies and resources to help you further develop
+skills. Recommended for students or individuals trying to breaking into
+the offensive security space.
+
+**Presenter bio:**
+
+Bobby is a recent graduate working with Security Compass as a Security
+Consultant. His experience and interests revolve around Application
+Security. Editor's note: Bobby promises that the quality that would have
+been spent on the bio has been spent on the presentation.
+
+-----
+
+**Date/Time**: October 24, 2019, 6:30 PM to 8:30 PM EDT
+
+**Location**: Room 128 (on the first floor near the library), St. James
+Campus - Building A, George Brown College, 200 King Street East,
+Toronto, ON, M5A 3W8
+
+**Presentation summary:**
+
+**Half a Decade in Review: On Accidental Hacking and the "Hard"
+Conversations**
+
+A lot can change in 5 years. Half a Decade in Review is exactly what it
+sounds like: an exploration of how cybersecurity has changed in half a
+decade, from the perspective of an accidental “hacker.”
+
+The nature of cybersecurity is that it extends into every technological
+facet of life - so it’s not surprising that accidental hacking is not an
+uncommon story; many of us were not computer experts by nature. This
+facet also means that technology is still very widely operated by the
+human - and so the way cybersecurity is architected is at the mercy of
+human influence and temperament.
+
+This review explores some of the human conversations that perhaps only
+marginally exist in the boardroom, yet thrive in Twitter echo chambers
+and Slack room gripes. They are conversations about how the
+cybersecurity talent gap is deeply entwined with human trends of health
+maintenance, diversity, education, and providing incentivization for
+talent. They are the conversations that can be controversial because
+they are deeply charged with emotions and can have significant
+real-world consequences, yet do not have dichotomic answers that can be
+easily expressed in the breadth of 280 characters.
+
+**Presenter bio:**
+
+Alana Staszczyszyn is a practicing security consultant. Her past and
+present work has focused on penetration testing as well as security
+governance in the public health sector. She is also heavily interested
+in various political, socioeconomic, and cultural aspects of
+cybersecurity, particularly on how the intersections of security and
+those domains have given rise to new risks in the cyber-threat
+landscape.
+
+-----
+
+**Date/Time**: September 18, 2019, 6:30 PM to 8:30 PM EDT
+
+**Location**: Room 128 (on the first floor near the library), St. James
+Campus - Building A, George Brown College, 200 King Street East,
+Toronto, ON, M5A 3W8
+
+**Presentation summary:**
+
+**Attacking OAuth and SAML**
+
+OAuth 2.0 and SAML are well-known protocols used for authorization and
+authentication. From major applications like Facebook, Github to
+enterprise apps these protocols are commonly seen. OAuth 2 provides
+authorization flows for web and mobile apps and SAML is majorly used to
+enable Single Sign On. These protocols if implemented well could really
+be helpful, but considering the complexity involved with these
+protocols, developers may neglect certain security best practices which
+could lead to serious flaws.
+
+This talk is to discuss the various known attacks against OAuth and SAML
+in-depth, but before we dive into vulnerabilities we will spend some
+time to understand how these protocols helping us understand the attack
+vectors better. We will also look at open-source tools which are
+available which can aid in assessments when we encounter these
+protocols.
+
+**Presenter bio:**
+
+Harish Ramadoss is a Senior Security Consultant with Trustwave
+Spiderlabs and has recently moved from UAE where he was Security
+Assurance Manager for Etihad Airways. Mostly involved in offensive
+security space focusing on application & infrastructure security, social
+engineering, and red team engagements.
+
+He is also the co-author of DejaVU deception platform and has presented
+at a few global conferences including Blackhat and Defcon. Harish also
+holds a Master's degree in Cyber Laws and Information Security.
+
+-----
+
+**Date/Time**: August 21, 2019, 6:30 PM to 8:30 PM EDT
+
+**Location**: Room 128 (on the first floor near the library), St. James
+Campus - Building A, George Brown College, 200 King Street East,
+Toronto, ON, M5A 3W8
+
+**Presentation summary:**
+
+**OWASP Security with Azure App Gateway WAF, Log Analytics Monitoring
+and Azure Sentinel**
+
+Roy Kim will show an end to end configuration of Azure App Gateway in
+front of Azure App Service application with Log Analytics monitoring and
+Azure Sentinel. You will see a demo of a simple penetration test and how
+you can monitor and alert with Log Analytics and Azure Sentinel to
+detect common web attacks such as SQL injection and cross site scripting
+with the App Gateway’s Web Application Firewall. You will walk away with
+an understanding of how Azure App Gateway and Log Analytics is applied
+as a security solution.
+
+**Presenter bio:**
+
+Roy is an architect/developer, multi-disciplined in solutions such as
+architecture, advisory, technology leadership, developer team lead,
+project coordination, systems performance, infrastructure, security and
+systems architecture. He executes on multiple roles to deliver a
+projects at high performance and has deep expertise with SharePoint,
+.NET, JavaScript, BI development and Azure cloud services.
+
+-----
+
+**Date/Time**: July 17, 2019, 6:30 PM to 8:30 PM EDT
+
+**Location**: Room 128 (on the first floor near the library), St. James
+Campus - Building A, George Brown College, 200 King Street East,
+Toronto, ON, M5A 3W8
+
+**Presentation summary:**
+
+**Export to RCE**
+
+Often web applications will allow users to export data within CSV files.
+Without proper output sanitization, poisoned CSV files can be created
+leading to remote code execution when they're opened. This presentation
+assumes no prior knowledge with CSV injection and will focus on all
+aspects of the vulnerability (how it works, how to prevent the issue,
+and more).
+
+**Presenter bio:**
+
+Adam Greenhill is a senior security consultant at Security Compass. He
+enjoys staying up to date with the latest security trends and
+researching new aspects of the industry. Adam is an active member of the
+security community and has presented at BSides Toronto, OWASP Toronto,
+Toronto's Cyber Security Meetup, and Sheridan College's ISSessions.
+
+-----
+
+**Date/Time: June 19, 2019, 6:30 PM to 8:30 PM EDT**
+
+**Location: Room 128 (on the first floor near the library), St. James
+Campus - Building A, George Brown College, 200 King Street East,
+Toronto, ON, M5A 3W8**
+
+**Presentation summary:**
+
+**Bug Bounties: Good or Evil?**
+
+Are Bug Bounty Programs (BBP) useful or not? How do you become a Bug
+Bounty Hunter and how do you run an effective BBP for your company?
+
+In this talk, Gurjant shares his experience as a Bug Bounty Hunter along
+with some interesting stories he’s encountered along the way. He will
+also discuss whether or not Bug Bounty Programs are beneficial for your
+company and how to get the most out of them.
+
+**Presenter bio:**
+
+Gurjant Singh
+
+Gurjant Singh is the Information Security Lead at Wealthsimple, a
+Toronto based Fintech company. In his spare time, Gurjant attempts to
+stay up to date with the most recent cyber security news and
+technologies. He also loves teaching and has been featured in the Times
+of India and Pentest Magazine.
+
+-----
+
+**Date/Time: May 15, 2019, 6:30 PM to 8:30 PM EDT**
+
+**Location: Room 128 (on the first floor near the library), St. James
+Campus - Building A, George Brown College, 200 King Street East,
+Toronto, ON, M5A 3W8**
+
+**Presentation summary:**
+
+**Building a CTF: A Student's Perspective**
+
+CTFs are fun, educational events that have become a staple in the
+information security community. But have you ever considered what
+actually goes on behind the scenes to make one happen?
+
+In this talk Cameron Novina will reflect on his experience organizing
+the first and second annual Sheridan CTFs. This year, a custom CTF
+platform was implemented, as well as an even larger selection of
+challenges; including cryptography, stenography and of course,
+application security. He will cover the obstacles he and the team
+overcame while implementing challenges that were designed to be attacked
+by budding information security professionals, using modern
+infrastructure and development practices on a tight budget.
+
+This talk is aimed at those who have enjoyed a CTF (or many) in their
+time, and want to know what goes into organizing these events, both from
+a technical and event planning perspective.
+
+**Presenter bio:**
+
+Cameron Novina
+
+Cameron is a Consultant with Deloitte’s Cyber Risk Advisory practice and
+is currently the Vice President of Sheridan College's Information
+Security Sessions Club. Cam has helped formulate and execute a variety
+of information security simulations for organizations in the National
+Capital Region and previously served as the club's president.
+
+While not at work or school, Cam wrecks n00bs in overwatch (Highest SR:
+3440\!) and enjoys tabletop games such as D\&D as both a player and a
+Dungeon Master.
+
+-----
+
+**Date/Time: April 17, 2019, 6:30 PM to 9:00 PM EST**
+
+**Location: Room 128 (on the first floor near the library), St. James
+Campus - Building A, George Brown College, 200 King Street East,
+Toronto, ON, M5A 3W8**
+
+**De-identification\!**
+
+De-identification is a way to make data sets containing personal
+information statistically safe for release. It is fundamentally a risk
+management solution designed to help companies comply with privacy
+legislation. This talk will go over:
+
+\- The Data Problem: the raison d’être for de-identification
+
+\- Implementation Overview: How it is done
+
+\- Methodologies: 4 ways to secure personal data
+
+**Speaker bio:**
+
+Erik Service
+
+Erik Service is a data scientist working with Security Compass as a
+management consultant. Prior to this role, he was a technical lead at
+Privacy Analytics where he contributed to the commercialization of a
+de-identification methodology for pharmaceutical research.
+
+His professional interests lie at the intersection of technology and
+privacy law, with a focus on how people create and consume technology.
+He is a columnist for Mindthis magazine and plans to launch a blog
+looking at ways to inject privacy and security into the software
+development lifecycle.
+
+Erik holds a Master of Science from McGill University. He completed a
+B.A at the University of Ottawa and is credited as an author on 6
+peer-reviewed science publications.
+
+**Presentation materials:**
+
+Below are the references to books written on the subject:        
+
+1. El Emam, K., & Arbuckle, L. (2013). Anonymizing health data: case
+studies and methods to get you started. "O'Reilly Media, Inc.". 
+
+2. El Emam, K. (2013). Guide to the de-identification of personal health
+information. Auerbach Publications.
+
+Here are some useful youtube videos: 
+
+  - Cynthia Dwork on e-differential privacy:
+    <https://www.youtube.com/watch?v=lg-VhHlztqoe>
+  - Differential privacy for dummies:
+    <https://www.youtube.com/watch?v=gI0wk1CXlsQ>
+
+-----
 
 **Date/Time: March 20, 2019, 6:30 PM to 9:00 PM EST**
 
@@ -108,8 +445,6 @@ MA USA. For more information, visit www.securityinnovation.com or
 connect with us on LinkedIn or Twitter.
 
 -----
-
-# Previous Sessions
 
 **Date/Time: February 20, 2019, 6:30 PM to 8:30 PM EST**
 
@@ -356,14 +691,14 @@ page](https://www.meetup.com/OWASP-Toronto/events/254280021/).
 
 By: Tanya Janca, OWASP Ottawa Chapter Co-Leader
 
-''Tanya Janca is a senior cloud developer advocate for Microsoft,
+*Tanya Janca is a senior cloud developer advocate for Microsoft,
 specializing in application security; evangelizing software security and
 advocating for developers through public speaking, her open source
 project OWASP DevSlop, and various forms of teaching via workshops,
 blogs and community events. As an ethical hacker, OWASP Project and
 Chapter Leader, software developer and professional computer geek of 20+
 years, she is a person who is truly fascinated by the ‘science’ of
-computer science.
+computer science.*
 
 You can find out more about Tanya here:
 
@@ -377,7 +712,7 @@ You can find out more about Tanya here:
 
 <https://www.youtube.com/channel/UCyxbNw11fMUgoR3XpVYVPIQ>
 
-<https://www.twitch.tv/shehackspurple>''
+<https://www.twitch.tv/shehackspurple>
 
 Have you ever wondered how security is different ‘in the cloud’? Where
 do you store your certificates? Your keys? Your connection strings? How
@@ -621,7 +956,7 @@ page](https://www.meetup.com/OWASP-Toronto/events/247658687/).
 *Helping individuals achieve their personal goals by teaching and
 coaching effective networking*
 
-''Intro by OWASP Toronto: As AppSec and information security
+*Intro by OWASP Toronto:* As AppSec and information security
 professionals, we work in a field where technical knowledge is key,
 while networking and communications skills, which are just as important,
 are often overlooked. Marcel's insights on effective networking will
@@ -1079,7 +1414,7 @@ your presence.
 
 **Speaker: Michael Bennet**
 
-''Lead DDoS Strike Developer, Security Compass
+*Lead DDoS Strike Developer, Security Compass*
 
 **Is your Application DDoS Ready?**
 
@@ -1400,10 +1735,10 @@ tools, hacking and fun\!
 
 **Location: PwC Tower, 18 York Street, Suite 2600, Toronto ON M5J 0B2**
 
-''Due to fire and building regulations, there is a maximum occupancy
+*Due to fire and building regulations, there is a maximum occupancy
 allowed in the venue, so if you would like to attend it is very
 important that you RSVP at yuk.fai.chan@owasp.org to confirm your
-presence\!
+presence\!*
 
 [NFC Threat
 Landscape](https://www.owasp.org/images/3/38/NFC_Threat_Landscape_OWASP_Toronto_March_2013.pdf)
@@ -1426,8 +1761,8 @@ for an attacker to potentially exploit.
 
 -----
 
-**Wednesday, July 11th 2012, 6:30-8:00 PM EDT** - ''Security Community
-Engagement
+**Wednesday, July 11th 2012, 6:30-8:00 PM EDT** - *Security Community
+Engagement*
 
 **Location:
 \[<http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=425+Adelaide+Street+West,+Toronto,+Ontario,+Canada>,
@@ -1457,12 +1792,12 @@ security of Mozilla web properties and end-user applications.
 
 -----
 
-**Thursday, May 10th 2012, 6:30-8:00 PM EDT** - ''[Application Security
-ISO](https://www.owasp.org/images/6/64/ISO_27034_review_%28OWASP_Toronto_May_10%2C_2012%29.pdf)
+**Thursday, May 10th 2012, 6:30-8:00 PM EDT** - *[Application Security
+ISO](https://www.owasp.org/images/6/64/ISO_27034_review_%28OWASP_Toronto_May_10%2C_2012%29.pdf)*
 
-'''Location:
+**Location:
 \[<http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=315+Front+Street+West,+Toronto,+Ontario,+Canada>,
-RBC Auditorium C, 315 Front Street West, Toronto, ON M5V 3A4\]
+RBC Auditorium C, 315 Front Street West, Toronto, ON M5V 3A4\]**
 
 Please RSVP to **yuk.fai.chan@owasp.org** to confirm your presence.
 
@@ -1490,8 +1825,8 @@ a Development Manager in Mississauga, Ontario for 4 years.
 
 -----
 
-'''Wednesday, September 14th 2011, 6:30-8:00 PM EDT ''' - ''Introducing
-Vega, a New Open Source Web Vulnerability Scanner
+'''Wednesday, September 14th 2011, 6:30-8:00 PM EDT ''' - *Introducing
+Vega, a New Open Source Web Vulnerability Scanner*
 
 **Location:
 \[<http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=425+Adelaide+Street+West,+Toronto,+Ontario,+Canada>,
@@ -1983,68 +2318,22 @@ Based in Toronto Ontario, they hold degrees from University of Guelph
 and the University of Waterloo. You can find their latest posts at
 blog.glaciertech.ca & numerophobe.com
 
-\-- OWASP Toronto chapter meetings are open to the public **RSVP** is
-requested by sending an [email](mailto:owasp-rsvp@securitycompass.com)
-
-## Sponsorship
-
-Many thanks to Deloitte & Touche LLP. for sponsoring the location and
-food for these meetings.
-
-We always welcome sponsors for our chapter meetings. If you are
-interested, please contact [Yuk Fai Chan](mailto:yuk.fai.chan@owasp.org)
-
-## Speakers
-
-We are always looking for speakers to present on their topic of choice.
-If you are interested please contact [Yuk Fai
-Chan](mailto:yuk.fai.chan@owasp.org) --\> --
-
-## OWASP Toronto Chapter Committee
-
-The current chapter leaders are [Nish
-Bhalla](mailto:nish@securitycompass.com), [Andre
-Rochefort](mailto:andre.rochefort@owasp.org) and [Yuk Fai
-Chan](mailto:yuk.fai.chan@owasp.org) and [Opheliar
-Chan](mailto:opheliar.chan@owasp.org).
-
-The OWASP Toronto Chapter has formed a committee which would help with
-direction of the chapter. Deloitte & Touches' Application Security Group
-and Security Compass's Professional Services Group are helping lead this
-initiative. We are looking for additional members to expand our chapter.
-
-## Current Committe Members
-
-Nish Bhalla (Chapter Leader)
-Reza Kopaee --\>
-
-\--
-
-## Meetings
-
-Everyone is welcome to join us at our chapter meetings. These meetings
-are held every **Second Wednesday** of the month. Beverages and snacks
-are provided.
-
-**Address and Directions** to the meeting are:
-
-20th floor, the TLC Room (signs will be provided on the floor)
-TD Centre, TD Waterhouse Tower
-79 Wellington Rd. W.
-Toronto
-
-
-[Directions to the
-meetings](http://maps.google.com/maps?q=79+Wellington+St+W,+Toronto,+ON,+Canada&spn=0.006033,0.020385&t=h&iwloc=A&hl=en)
-
-OWASP Toronto chapter meetings are open to the public **RSVP** is
-requested by sending an [email](mailto:owasp-rsvp@securitycompass.com)
---\>
-
 # Past Presentations For Download
 
 The past presentations are available for download from here. If you have
 any comments on the presentations please send them to us.
+
+[Security Monitoring with Azure App Gateway, Log Analytics and Azure
+Sentinel](https://www.owasp.org/images/1/1a/Security_Monitoring_with_Azure_App_Gateway%2C_Log_Analytics_and_Azure_Sentinel.pdf)
+by Roy Kim, August 2019
+
+[Export to
+RCE](https://drive.google.com/open?id=1nR5ZhidViWlDxLtjcshH67bq53h0-4HyyIEuOFdD7k4)
+by Adam Greenhill, July 2019
+
+[De-identification](https://drive.google.com/open?id=1t94O1tLXbSujW94UK4EmqtdBtOXEiA7b)
+by Erik Service, April 2019
+[1](https://www.youtube.com/watch?v=gI0wk1CXlsQ)[2](https://www.youtube.com/watch?v=lg-VhHlztqo)[3](http://www.ehealthinformation.ca/wp-content/uploads/2014/08/2009-Tools-for-De-Identification-of-Personal-Health.pdf)[4](http://shop.oreilly.com/product/0636920029229.do)
 
 [In Root we trust (no this is not a DNS
 talk)](https://www.owasp.org/images/0/08/OWASP-Toronto-Feb-2019-In_Root_we_Trust.pdf)
@@ -2146,7 +2435,7 @@ Component-Based Software Development – Seeing the Forest Through the
 Trees](https://www.owasp.org/images/e/ee/OWASP_TORONTO_SEP_2014_Ryan_Berg.pdf)
 by Ryan Berg, Sonatype, September 2014
 
-<headertabs/>
+<headertabs />
 
 [Category:Ontario](Category:Ontario "wikilink")
 [Category:Canada](Category:Canada "wikilink")

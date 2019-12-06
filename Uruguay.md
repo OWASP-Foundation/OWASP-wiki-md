@@ -175,10 +175,41 @@ convertirse en un miembro OWASP.
 
 ## 2019
 
-  - **Latam Tour 2019**
+  - **7 de junio de 2019 - OWASP LATAM TOUR 2019 en la Universidad
+    Católica del Uruguay**
 
-Se viene el Latam Tour 2019\! Más novedades en
-<https://www.owasp.org/index.php/LatamTour2019#tab=URUGUAY>
+Se viene el [OWASP LATAM TOUR 2019](LatamTour2019 "wikilink")\! Se
+realizará el día 7 de junio en la sala Bauzá de la Universidad Católica
+del Uruguay.
+
+<u>Presentaciones:</u>
+
+  - Seguridad en aplicaciones: como OWASP puede ayudarte\!. [Maximiliano
+    Alonzo](https://uy.linkedin.com/in/maximiliano-alonzo-18075720) (**[OWASP
+    Uruguay Chapter](https://www.owasp.org/index.php/Uruguay)**).
+    Presentación
+    [aquí](https://drive.google.com/a/owasp.org/file/d/1woSBNp5rVjATJ59LKAD8iZO4BtingCNJ/view?usp=sharing)
+  - Mitigando vulnerabilidades en aplicaciones sin mantenimiento. [Pablo
+    Alzuri](https://www.linkedin.com/in/palzuri/) (ASSE y OWASP UY)
+    y [Santiago
+    Bentancur](https://www.linkedin.com/in/santiago-bentancurt-24527653/) (CERTUy).
+    Presentación
+    [aquí](https://drive.google.com/a/owasp.org/file/d/1xK-wQrHcMuX4NakzVKOSI65XaJiSMMHT/view?usp=sharing)
+  - IoT: Inmensa, ostentosa, tenebrosa. [Agustin
+    Pomies](https://uy.linkedin.com/in/agustin-pomies-00a078146) y [Felipe
+    Olivera](https://uy.linkedin.com/in/felipeolifre)(AdRoll).
+    Presentación
+    [aquí](https://drive.google.com/a/owasp.org/file/d/1wkqiE15oWdyNRC-7CXQjrWa1MF41Yx24/view?usp=sharing)
+  - Participando en bug bounties desde Uruguay. [Stefano
+    Vettorazzi](https://twitter.com/stefanohablando). Presentación
+    [aquí](https://drive.google.com/a/owasp.org/file/d/1wmXt7dFh72yxYKUKSwsI0VqzfKkrH3aa/view?usp=sharing)
+  - Integración y automatización de seguridad en procesos de desarrollo
+    ágiles. [Guillermo
+    Gabarrín](https://www.linkedin.com/in/guillermo-gabarrin/es).
+    Presentación
+    [aquí](https://drive.google.com/a/owasp.org/file/d/1wyPVhfCcCqKEhEfSryI9esxfHJ0yG0BF/view?usp=sharing)
+
+
 
 ## 2018
 
@@ -386,8 +417,8 @@ cada reunión.
 [Uruguay-Minuta-29-Mar-2019](https://drive.google.com/a/owasp.org/file/d/1st1KMSwJkKPNDANFZTkne9-4LMMAYzGM/view?usp=sharing)
 [Uruguay-Minuta-25-Ene-2019](https://drive.google.com/a/owasp.org/file/d/1iyMd8BG3FMqjICMEpSDjHO83sERm_6Ky/view?usp=sharing)
 
-**<u>Años anteriores:</u>** {{\#categorytree:Uruguay_Chapter_Meeting
-|hideroot |mode=pages}}
+**<u>Años anteriores:</u>**
+{{\#categorytree:Uruguay_Chapter_Meeting|hideroot|mode=pages}}
 
 Las reuniones se identifican con la categoría [Uruguay
 Meetings](:Category:Uruguay_Chapter_Meeting "wikilink") en esta wiki.
