@@ -1,4 +1,4 @@
-## OWASP New York City | Northern New Jersey
+## OWASP Northern New Jersey
 
 Chapter Leaders
 

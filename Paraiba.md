@@ -1,57 +1,42 @@
-[<https://www.owasp.org/images/a/a6/Logo_%28owasp_-_pb%29.png>](https://www.owasp.org/index.php/Paraiba)
+![OWASP_Paraiba_Logo.jpg](OWASP_Paraiba_Logo.jpg
+"OWASP_Paraiba_Logo.jpg")
 
-## Meetings
+## Equipe
 
-30/06/2015 - 2nd JampaSec 2015 Meeting
+Nossa equipe é formada por:
 
-Discuss and organize an Information Security event at João Pessoa, PB.
-[JampaSec 2015](https://jampasec.wordpress.com)
+Humberto Júnior (bt0)
+[1](https://www.owasp.org/index.php/User:Halencarjunior)
 
-02/06/2015 - JampaSec 2015 Meeting
+Icaro Torres [2](https://www.owasp.org/index.php/User:Icaro.torres)
 
-Discuss and organize an Information Security event at João Pessoa, PB.
-[JampaSec 2015](https://jampasec.wordpress.com)
+Luan Pacote
 
-## Events
+Vitor Hugo
 
-<b>[JampaSec 2015](https://jampasec.wordpress.com)</b>
-<b>[OWASP Paraíba
-Day 2012](https://www.owasp.org/index.php/OWASP_Paraiba_Day_2012)</b>
+Jessé
 
-## Videos
+Thiago d'França
 
-[OWASP AppSec Tutorial Project
-Videos](https://www.owasp.org/index.php/OWASP_Appsec_Tutorial_Series):
+## Estado da Paraíba
 
-1\) [Introduction to Application
-Security](http://www.youtube.com/watch?v=CDbWvEwBBxo)
+Informações sobre o Estado podem ser encontradas no endereço:
 
-2\) [Injection Attacks](http://www.youtube.com/watch?v=pypTYPaU7mM)
+[3](https://pt.wikipedia.org/wiki/Para%C3%ADba) Wikipedia (Estado da
+Paraíba)
 
-3\) [Cross Site Scripting](http://www.youtube.com/watch?v=_Z9RQSnf8-g)
+## Redes Sociais
 
-## Links
+Facebook [4](https://www.facebook.com/owasppb/)
 
-1\) [Follow us on Twitter\!](https://twitter.com/owasppb)
+Linkedin [5](https://www.linkedin.com/company/owasppb/)
 
-2\) [Looking for a job?](https://www.owasp.org/index.php/OWASP_Jobs)
+## Próximas Datas
 
-3\) [OWASP Books, a must read\!](http://www.lulu.com/spotlight/owasp)
+[`OWASP``   ``Paraíba``   ``Day``   ``-``   ``16``   ``de``
+ ``Novembro``   ``de``
+ ``2019`](https://www.meetup.com/OWASP-Paraiba-Chapter/events/265154176/)` `
 
-4\) [Wanna be a member?](https://www.owasp.org/index.php/Membership)
-
-5\) [Cheat Sheet Series, grab
-yours\!](https://www.owasp.org/index.php/Cheat_Sheets)
-
-## About
-
-1\) [Video of João Pessoa](https://www.youtube.com/watch?v=U-fhopm9VPo)
-
-2\) [More info about João
-Pessoa](https://secure.wikimedia.org/wikipedia/en/wiki/Joao_Pessoa)
-
-3\) [Where is it?\!](http://g.co/maps/rvdfs)
-
-
+Everyone is welcome to join us at our chapter meetings.
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")

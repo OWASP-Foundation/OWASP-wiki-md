@@ -25,8 +25,10 @@ hacer de OWASP Perú una gran comunidad.
 Local Chapters Staff:
 
   - [**John Vargas P.**](mailto:John.vargas@owasp.org) Coordinator:
-    Chapter Leader, Membership,
+    Chapter Leader
   - [**Mauricio Urizar**](mailto:mauricio.urizar@gmail.com) Coordinator:
+    Membership,
+  - **[Fernando Flores](mailto:rolynflores@gmail.com)** Coordinator:
     Education, Meetings/Conferences
   - [**Elysa Garcia**](mailto:John.vargas@owasp.org) Coordinator: Social
     Network, PR/Marketing
@@ -56,46 +58,39 @@ También te invitamos a seguirnos en twitter y Facebook:
 <table>
 <tbody>
 <tr class="odd">
-<td><p>colspan="3" align="center" height="30" style="background:#CCCCEE;"</p></td>
-<td><p><strong>OWASP PERU CHAPTER MEETING</strong></p></td>
+<td style="text-align: center;"><p><strong>OWASP PERU CHAPTER MEETING</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="3" align="center" style="background:#EEEEEE;"</p></td>
-<td><h2 id="webinar_junio___owasp_perú">'''Webinar Junio - OWASP Perú '''</h2>
+<td style="text-align: center;"><h2 id="webinar_junio___owasp_perú">'''Webinar Junio - OWASP Perú '''</h2>
 <p><strong>Junio 2016</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="3" valign="center" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Descripción y Objetivo</strong></p></td>
+<td style="text-align: center;"><p><strong>Descripción y Objetivo</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="3" valign="left" height="80" bgcolor="#EEEEEE" align="left"</p></td>
-<td><p><strong>OWASP Chapter Meetings,</strong>, Perú ya cuenta con eventos centrales de seguridad en el año y eso demuestra que se requieren seminarios frecuentes que refuercen los conocimientos e incentiven la investigación y desarrollo que todo profesional de la seguridad requiere.</p></td>
+<td style="text-align: center;"><p><strong>OWASP Chapter Meetings,</strong>, Perú ya cuenta con eventos centrales de seguridad en el año y eso demuestra que se requieren seminarios frecuentes que refuercen los conocimientos e incentiven la investigación y desarrollo que todo profesional de la seguridad requiere.</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| **DETALLES DE LA JORNADA**                                                                  |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#CCCCEE" align="center" |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
+|                                                                                      |
+| ------------------------------------------------------------------------------------ |
+| **DETALLES DE LA JORNADA**                                                           |
+| **Tema**                                                                             |
+| [OWASP WebScarab.](https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project) |
 
 # **Chapter Meetings**
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>colspan="3" align="center" height="30" style="background:#CCCCEE;"</p></td>
-<td><p><strong>OWASP PERU CHAPTER MEETINGS</strong></p></td>
+<td style="text-align: center;"><p><strong>OWASP PERU CHAPTER MEETINGS</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="3" align="center" style="background:#EEEEEE;"</p></td>
-<td><h2 id="x11_owasp_perú_chapter_meeting"><strong>0x11 OWASP Perú Chapter Meeting</strong></h2>
+<td style="text-align: center;"><h2 id="x11_owasp_perú_chapter_meeting"><strong>0x11 OWASP Perú Chapter Meeting</strong></h2>
 <p><strong>Miércoles 23 de Noviembre</strong></p>
 <CENTER>
 <figure>
@@ -104,32 +99,28 @@ También te invitamos a seguirnos en twitter y Facebook:
 </CENTER></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="3" valign="center" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Descripción y Objetivo</strong></p></td>
+<td style="text-align: center;"><p><strong>Descripción y Objetivo</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="3" valign="left" height="80" bgcolor="#EEEEEE" align="left"</p></td>
-<td><p><strong>OWASP Chapter Meetings,</strong>, son reuniones mensuales donde se difunden los diversos proyectos de seguridad que permitan reforzar los conocimientos e incentiven la investigación y desarrollo que todo profesional de la seguridad requiere.</p></td>
+<td style="text-align: center;"><p><strong>OWASP Chapter Meetings,</strong>, son reuniones mensuales donde se difunden los diversos proyectos de seguridad que permitan reforzar los conocimientos e incentiven la investigación y desarrollo que todo profesional de la seguridad requiere.</p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="0" style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Fecha y Hora</strong></p></td>
+<td style="text-align: center;"><p><strong>Fecha y Hora</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p>''' Miércoles 23 de Noviembre<br />
+<td style="text-align: center;"><p>''' Miércoles 23 de Noviembre<br />
 7:00 PM '''</p></td>
 </tr>
 </tbody>
 </table>
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| **DETALLES DE LA JORNADA**                                                                  |
-| colspan="0" style="width:20%" valign="middle" height="60" bgcolor="\#CCCCEE" align="center" |
-| colspan="0" style="width:20%" valign="middle" height="60 bgcolor=" align="center" \#EEEEEE" |
-| colspan="0" style="width:20%" valign="middle" height="60" bgcolor="\#EEEEEE" align="center" |
-|                                                                                             |
+|                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| **DETALLES DE LA JORNADA**                                                                                                    |
+| **Tema**                                                                                                                      |
+| colspan="0" style="width:20%" valign="middle" height="60 bgcolor=" align="center" \#EEEEEE" |Anatomía de un ataque ransomware |
+| Pentesting con OWASP Zed Attack Proxy (ZAP)                                                                                   |
+|                                                                                                                               |
 
 <h2>
 
@@ -149,61 +140,61 @@ Educational Supporters
 
 **Realizado el Lunes 31 de Octubre**
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| **DETALLES DE LA JORNADA**                                                                  |
-| colspan="0" style="width:20%" valign="middle" height="30" bgcolor="\#CCCCEE" align="center" |
-| colspan="0" style="width:20%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-| colspan="0" style="width:20%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-|                                                                                             |
+|                                                                   |
+| ----------------------------------------------------------------- |
+| **DETALLES DE LA JORNADA**                                        |
+| **Tema**                                                          |
+| Introducción a Internet de las Cosas en el ámbito de la seguridad |
+| Estudio de Seguridad Web al Top 100 empresas de Perú              |
+|                                                                   |
 
 ## **0x09 OWASP Perú Chapter Meeting**
 
 **Realizado el Miércoles 28 de Septiembre 2016**
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| **DETALLES DE LA JORNADA**                                                                  |
-| colspan="0" style="width:20%" valign="middle" height="30" bgcolor="\#CCCCEE" align="center" |
-| colspan="0" style="width:20%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-| colspan="0" style="width:20%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-|                                                                                             |
+|                                                            |
+| ---------------------------------------------------------- |
+| **DETALLES DE LA JORNADA**                                 |
+| **Tema**                                                   |
+| Ciberataques por niveles y estrategias de protección       |
+| Desarrollo Profesional en Seguridad: ¿Qué es lo que sigue? |
+|                                                            |
 
 ## **0x05 OWASP Perú Chapter Meeting**
 
 **Realizado el miércoles 23 de Julio**
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| **DETALLES DE LA JORNADA**                                                                  |
-| colspan="0" style="width:20%" valign="middle" height="30" bgcolor="\#CCCCEE" align="center" |
-| colspan="0" style="width:20%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-| colspan="0" style="width:20%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-|                                                                                             |
+|                            |
+| -------------------------- |
+| **DETALLES DE LA JORNADA** |
+| **Tema**                   |
+| WIFISTEIN 0.1              |
+| WebHacking 101             |
+|                            |
 
 ## **0x04 OWASP Perú Chapter Meeting**
 
 **Realizado el Miércoles 24 de Junio**
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| **DETALLES DE LA JORNADA**                                                                  |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#CCCCEE" align="center" |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-|                                                                                             |
+|                                                |
+| ---------------------------------------------- |
+| **DETALLES DE LA JORNADA**                     |
+| **Tema**                                       |
+| Fuzzing con WebSlayer.                         |
+| Web Application exploiting and Reversing Shell |
+|                                                |
 
 ## **0x03 OWASP Perú Chapter Meeting**
 
 **Realizado el martes 27 de Mayo**
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| **DETALLES DE LA JORNADA**                                                                  |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#CCCCEE" align="center" |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-|                                                                                             |
+|                                   |
+| --------------------------------- |
+| **DETALLES DE LA JORNADA**        |
+| **Tema**                          |
+| Ataques DDoS                      |
+| Análisis Forense de un Ataque Web |
+|                                   |
 
 
 
@@ -211,13 +202,13 @@ Educational Supporters
 
 **Realizado el miércoles 19 de Marzo**
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| **DETALLES DE LA JORNADA**                                                                  |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#CCCCEE" align="center" |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-|                                                                                             |
+|                                                                           |
+| ------------------------------------------------------------------------- |
+| **DETALLES DE LA JORNADA**                                                |
+| **Tema**                                                                  |
+| OWASP NAXSI Project                                                       |
+| Técnicas de Intrusión de Aplicaciones Web con WebScarab framework (OWASP) |
+|                                                                           |
 
 
 
@@ -225,13 +216,13 @@ Educational Supporters
 
 **Realizado el miércoles 19 de Febrero**
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| **DETALLES DE LA JORNADA**                                                                  |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#CCCCEE" align="center" |
-| colspan="0" style="width:25%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-| colspan="0" style="width:17%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" |
-|                                                                                             |
+|                                          |
+| ---------------------------------------- |
+| **DETALLES DE LA JORNADA**               |
+| **Tema**                                 |
+| Tú desarrollador\! -\> También defiendes |
+| Hacker o Chef : He ahí el dilema.        |
+|                                          |
 
 # **Patrocinio**
 
@@ -257,30 +248,6 @@ Educational Supporters
 
 # **OWASP Latam Tour - Lima 2019**
 
-## **OWASP Latam Tour - Lima 2019**
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center" style="background:#EEEEEE;"</p></td>
-<td><h2 id="owasp_latam_tour___lima_2019_2"><strong>OWASP Latam Tour - Lima 2019</strong></h2>
-<p><strong>Sábado 11 de Mayo</strong><em>(Conferencia)</em></p></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" valign="center" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Descripción y Objetivo</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" valign="left" height="80" bgcolor="#EEEEEE" align="left"</p></td>
-<td><p><strong>OWASP LATAM TOUR,</strong> es una gira por Latino América que promueve la seguridad en aplicaciones web en diversas instituciones como: universidades, organismos gubernamentales, empresas de TI y entidades financieras; buscando crear conciencia sobre la seguridad en las aplicaciones y puedan tomar decisiones informadas sobre los verdaderos riesgos de seguridad.</p>
-<ul>
-<li>Su objetivo es crear conciencia sobre la importancia de la seguridad en las aplicaciones y combatir las causas que hacen inseguro el software, de esa manera, las organizaciones pueden tomar decisiones informadas sobre los verdaderos riesgos de seguridad.</li>
-<li>La mayoría de los <a href=":Category:OWASP_Project" title="wikilink">Proyectos OWASP</a> no son ampliamente utilizados en los ambientes corporativos, en la mayoría de los casos esto no es debido a una falta de calidad en los proyectos o la documentación disponible, sino por desconocer donde se ubicarán en un Ecosistema de Seguridad de Aplicaciones empresarial.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
 # **OWASP Latam Tour - Lima 2018**
 
 ## **OWASP Latam Tour - Lima 2018**
@@ -288,17 +255,14 @@ Educational Supporters
 <table>
 <tbody>
 <tr class="odd">
-<td><p>colspan="2" align="center" style="background:#EEEEEE;"</p></td>
-<td><h2 id="owasp_latam_tour___lima_2018_2"><strong>OWASP Latam Tour - Lima 2018</strong></h2>
+<td style="text-align: center;"><h2 id="owasp_latam_tour___lima_2018_2"><strong>OWASP Latam Tour - Lima 2018</strong></h2>
 <p><strong>Sábado 28 de Abril</strong> <em>(Conferencia)</em></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" valign="center" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Descripción y Objetivo</strong></p></td>
+<td style="text-align: center;"><p><strong>Descripción y Objetivo</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="2" valign="left" height="80" bgcolor="#EEEEEE" align="left"</p></td>
-<td><p><strong>OWASP LATAM TOUR,</strong> es una gira por Latino América que promueve la seguridad en aplicaciones web en diversas instituciones como: universidades, organismos gubernamentales, empresas de TI y entidades financieras; buscando crear conciencia sobre la seguridad en las aplicaciones y puedan tomar decisiones informadas sobre los verdaderos riesgos de seguridad.</p>
+<td style="text-align: center;"><p><strong>OWASP LATAM TOUR,</strong> es una gira por Latino América que promueve la seguridad en aplicaciones web en diversas instituciones como: universidades, organismos gubernamentales, empresas de TI y entidades financieras; buscando crear conciencia sobre la seguridad en las aplicaciones y puedan tomar decisiones informadas sobre los verdaderos riesgos de seguridad.</p>
 <ul>
 <li>Además del OWASP Top 10, la mayoría de los <a href=":Category:OWASP_Project" title="wikilink">Proyectos OWASP</a> no son ampliamente utilizados en los ambientes corporativos. En la mayoría de los casos esto no es debido a una falta de calidad en los proyectos o la documentación disponible, sino por desconocer donde se ubicarán en un Ecosistema de Seguridad de Aplicaciones empresarial.</li>
 </ul>
@@ -313,17 +277,17 @@ Educational Supporters
 
 ## **OWASP Latam Tour - Lima 2017**
 
-|                                                                                             |                            |
-| ------------------------------------------------------------------------------------------- | -------------------------- |
-| colspan="6" style="width:90%" valign="middle" bgcolor="\#CCCCEE" align="center" height="40" | **DETALLES DE LA JORNADA** |
-| colspan="0" style="width:20%" valign="middle" bgcolor="\#CCCCEE" align="center" height="30" | ''' Horario '''            |
-| colspan="0" style="width:20%" valign="middle" bgcolor="\#CCEEEE" align="center" height="30" | 9:00 am                    |
-| colspan="0" style="width:20%" valign="middle" bgcolor="\#EEEEEE" align="center" height="30" | 10:00 am                   |
-| colspan="0" style="width:20%" valign="middle" bgcolor="\#EEEEEE" align="center" height="30" | 10:30 am                   |
-| colspan="0" style="width:20%" valign="middle" bgcolor="\#EEEEEE" align="center" height="30" | 11:30 am                   |
-| colspan="0" style="width:20%" valign="middle" bgcolor="\#EEEEEE" align="center" height="30" | 12:30 pm                   |
-| colspan="0" style="width:20%" valign="middle" bgcolor="\#EEEEEE" align="center" height="30" | 15:00 pm                   |
-| colspan="0" style="width:20%" valign="middle" bgcolor="\#EEEEEE" align="center" height="30" | 16:00 pm                   |
+|                                                                                             |                                                         |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| colspan="6" style="width:90%" valign="middle" bgcolor="\#CCCCEE" align="center" height="40" | **DETALLES DE LA JORNADA**                              |
+| ''' Horario '''                                                                             | **Tema**                                                |
+| 9:00 am                                                                                     | Acreditación                                            |
+| 10:00 am                                                                                    | Presentación del evento - Proyectos OWASP               |
+| 10:30 am                                                                                    | Atacando servicios web en el mundo real                 |
+| 11:30 am                                                                                    | Panorama de la ciberseguridad                           |
+| 12:30 pm                                                                                    | Iniciandome en el Desarrollo Seguro ¿Por dónde empiezo? |
+| 15:00 pm                                                                                    | Prácticas seguras de criptografía en aplicaciones web   |
+| 16:00 pm                                                                                    | SQL Injection Deep Dive                                 |
 
 # **OWASP Latam Tour 2016**
 
@@ -334,22 +298,18 @@ Educational Supporters
 <table>
 <tbody>
 <tr class="odd">
-<td><p>colspan="2" align="center" height="30" style="background:#CCCCEE;"</p></td>
-<td><p><strong>TALLERES Y CONFERENCIAS</strong></p></td>
+<td style="text-align: center;"><p><strong>TALLERES Y CONFERENCIAS</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" align="center" style="background:#EEEEEE;"</p></td>
-<td><h2 id="owasp_latam_tour___lima_2015"><strong>OWASP Latam Tour - Lima 2015</strong></h2>
+<td style="text-align: center;"><h2 id="owasp_latam_tour___lima_2015"><strong>OWASP Latam Tour - Lima 2015</strong></h2>
 <p><strong>Viernes 17 de Abril</strong> <em>(Talleres)</em><br />
 <strong>Sábado 18 de Abril</strong> <em>(Conferencia)</em></p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="2" valign="center" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Descripción y Objetivo</strong></p></td>
+<td style="text-align: center;"><p><strong>Descripción y Objetivo</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" valign="left" height="80" bgcolor="#EEEEEE" align="left"</p></td>
-<td><p><strong>OWASP LATAM TOUR,</strong> es una gira por Latino América que promueve la seguridad en aplicaciones web en diversas instituciones como: universidades, organismos gubernamentales, empresas de TI y entidades financieras; buscando crear conciencia sobre la seguridad en las aplicaciones y puedan tomar decisiones informadas sobre los verdaderos riesgos de seguridad.</p>
+<td style="text-align: center;"><p><strong>OWASP LATAM TOUR,</strong> es una gira por Latino América que promueve la seguridad en aplicaciones web en diversas instituciones como: universidades, organismos gubernamentales, empresas de TI y entidades financieras; buscando crear conciencia sobre la seguridad en las aplicaciones y puedan tomar decisiones informadas sobre los verdaderos riesgos de seguridad.</p>
 <ul>
 <li>Además del OWASP Top 10, la mayoría de los <a href=":Category:OWASP_Project" title="wikilink">Proyectos OWASP</a> no son ampliamente utilizados en los ambientes corporativos. En la mayoría de los casos esto no es debido a una falta de calidad en los proyectos o la documentación disponible, sino por desconocer donde se ubicarán en un Ecosistema de Seguridad de Aplicaciones empresarial.</li>
 </ul>
@@ -363,37 +323,29 @@ Educational Supporters
 <table>
 <tbody>
 <tr class="odd">
-<td><p>colspan="2" align="center" style="background:#CCCCEE;"</p></td>
-<td><p><span style="color:#4B0082"> <strong>RESUMEN DE ACTIVIDADES</strong></span></p></td>
+<td style="text-align: center;"><p><span style="color:#4B0082"> <strong>RESUMEN DE ACTIVIDADES</strong></span></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" align="center" style="background:#CCCCEE;"</p></td>
-<td><p><span style="color:#4B0082"> <strong>CONFERENCIAS (Sábado 18)<br />
+<td style="text-align: center;"><p><span style="color:#4B0082"> <strong>CONFERENCIAS (Sábado 18)<br />
 100% Gratuitas</strong></span></p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="0" style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Fecha</strong></p></td>
+<td style="text-align: center;"><p><strong>Fecha</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><strong>Sábado 18 de Abril</strong></p></td>
+<td style="text-align: center;"><p><strong>Sábado 18 de Abril</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="2" align="center" style="background:#CCCCEE;"</p></td>
-<td><p><span style="color:#4B0082"> <strong>TALLERES (Viernes 17)</strong></span></p></td>
+<td style="text-align: center;"><p><span style="color:#4B0082"> <strong>TALLERES (Viernes 17)</strong></span></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="0" style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Fecha</strong></p></td>
+<td style="text-align: center;"><p><strong>Fecha</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p>''' Viernes 17 de Abril '''</p></td>
+<td style="text-align: center;"><p>''' Viernes 17 de Abril '''</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -401,24 +353,19 @@ Educational Supporters
 <table>
 <tbody>
 <tr class="odd">
-<td><p>colspan="2" align="center" style="background: #4B0082;"</p></td>
-<td><p><span style="color:#ffffff"><strong>LIMA PERÚ</strong></span></p></td>
+<td style="text-align: center;"><p><span style="color:#ffffff"><strong>LIMA PERÚ</strong></span></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" align="center" style="background:#4B0082;"</p></td>
-<td><p><span style="color:#ffffff"> <strong>TALLERES (Viernes 17)</strong></span></p></td>
+<td style="text-align: center;"><p><span style="color:#ffffff"> <strong>TALLERES (Viernes 17)</strong></span></p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="0" style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Fecha</strong></p></td>
+<td style="text-align: center;"><p><strong>Fecha</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p>''' Viernes 17 de Abril '''</p></td>
+<td style="text-align: center;"><p>''' Viernes 17 de Abril '''</p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="2" align="center" style="background:#EEEEEE;"</p></td>
-<td><p>Durante todo el OWASP LatamTour se estarán realizando talleres de capacitación dictados por destacados profesionales en la materia.<br />
+<td style="text-align: center;"><p>Durante todo el OWASP LatamTour se estarán realizando talleres de capacitación dictados por destacados profesionales en la materia.<br />
 <strong>Duración:</strong> 8 horas<br />
 <strong>Precio:</strong> U$S200 (Miembros OWASP). $250 (Público en General).<br />
 '''Para mayor informacion : ''' Por favor comuníquese al correo owasp.peru@gmail.com<br />
@@ -426,40 +373,32 @@ Educational Supporters
 </strong></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" align="center" style="background: #4B0082;"</p></td>
-<td><p><span style="color:#ffffff"><strong>TALLER 1</strong></span></p></td>
+<td style="text-align: center;"><p><span style="color:#ffffff"><strong>TALLER 1</strong></span></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>colspan="0" style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Taller</strong></p></td>
+<td style="text-align: center;"><p><strong>Taller</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Dragonjar.jpg" title="Dragonjar.jpg" alt="Dragonjar.jpg" width="150" /><figcaption>Dragonjar.jpg</figcaption>
 </figure></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" align="center" style="background: #4B0082;"</p></td>
-<td><p><span style="color:#ffffff"><strong>TALLER 2</strong></span></p></td>
+<td style="text-align: center;"><p><span style="color:#ffffff"><strong>TALLER 2</strong></span></p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="0" style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Taller</strong></p></td>
+<td style="text-align: center;"><p><strong>Taller</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Cerullof.jpg" title="Cerullof.jpg" alt="Cerullof.jpg" width="150" /><figcaption>Cerullof.jpg</figcaption>
 </figure></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -467,34 +406,27 @@ Educational Supporters
 <table>
 <tbody>
 <tr class="odd">
-<td><p>colspan="2" align="center" style="background:#4B0082;"</p></td>
-<td><p><span style="color:#ffffff"> <strong>CONFERENCIAS (Sábado 18)</strong></span></p></td>
+<td style="text-align: center;"><p><span style="color:#ffffff"> <strong>CONFERENCIAS (Sábado 18)</strong></span></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="0" style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center"</p></td>
-<td><p><strong>Fecha</strong></p></td>
+<td style="text-align: center;"><p><strong>Fecha</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><strong>Sábado 18 de Abril</strong></p></td>
+<td style="text-align: center;"><p><strong>Sábado 18 de Abril</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" align="center" style="background:#CCCCEE;"</p></td>
-<td><p><strong>Precio y Registro</strong></p></td>
+<td style="text-align: center;"><p><strong>Precio y Registro</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="2" align="center" style="background:#EEEEEE;"</p></td>
-<td><p>El ingreso a las conferencias es <strong>100% GRATUITO</strong> - El proceso de registro lo podrá ubicar en el siguiente link :<br />
+<td style="text-align: center;"><p>El ingreso a las conferencias es <strong>100% GRATUITO</strong> - El proceso de registro lo podrá ubicar en el siguiente link :<br />
 <a href="https://www.regonline.com/owasplatamtour15lima"><strong>EL REGISTRO SE ENCUENTRA ABIERTO!</strong></a><br />
 </p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" align="center" style="background:#CCCCEE;"</p></td>
-<td><p><strong>Promociones</strong></p></td>
+<td style="text-align: center;"><p><strong>Promociones</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="2" valign="left" height="80" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p>OFERTA ESPECIAL - Durante todo el OWASP Latam Tour el costo de la membresía anual es de solamente U$D 20. Utilice el código de descuento "LATAM" durante el proceso de registro electrónico como miembro individual en el enlace disponible a continuación.<br />
+<td style="text-align: center;"><p>OFERTA ESPECIAL - Durante todo el OWASP Latam Tour el costo de la membresía anual es de solamente U$D 20. Utilice el código de descuento "LATAM" durante el proceso de registro electrónico como miembro individual en el enlace disponible a continuación.<br />
 <a href="http://myowasp.force.com/memberappregion">Hágase MIEMBRO DE OWASP AQUÍ</a><br />
 <strong>Si usted aun no es miembro OWASP, por favor considere unirse a nuestra organización.</strong></p></td>
 </tr>
@@ -503,21 +435,21 @@ Educational Supporters
 
 
 
-|                                                                                             |                            |
-| ------------------------------------------------------------------------------------------- | -------------------------- |
-| colspan="6" style="width:90%" valign="middle" height="40" bgcolor="\#CCCCEE" align="center" | **DETALLES DE LA JORNADA** |
-| colspan="0" style="width:30%" valign="middle" height="30" bgcolor="\#CCCCEE" align="center" | ''' Horario '''            |
-| colspan="0" style="width:30%" valign="middle" height="30" bgcolor="\#CCEEEE" align="center" | 9:30 am                    |
-| colspan="0" style="width:30%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 10:00 am                   |
-|                                                                                             |                            |
-| colspan="0" style="width:30%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 10:30 am                   |
-| colspan="0" style="width:30%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 11:20 am                   |
-| colspan="0" style="width:30%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 12:10 pm                   |
-| colspan="0" style="width:30%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 14:40 pm                   |
-| colspan="0" style="width:30%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 15:30 pm                   |
-| colspan="0" style="width:30%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 16:20 pm                   |
-| colspan="0" style="width:30%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 17:00                      |
-| colspan="0" style="width:30%" valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 17:40                      |
+|                            |
+| :------------------------: |
+| **DETALLES DE LA JORNADA** |
+|      ''' Horario '''       |
+|          9:30 am           |
+|          10:00 am          |
+|                            |
+|          10:30 am          |
+|          11:20 am          |
+|          12:10 pm          |
+|          14:40 pm          |
+|          15:30 pm          |
+|          16:20 pm          |
+|           17:00            |
+|           17:40            |
 
 # **OWASP Latam Tour 2014**
 

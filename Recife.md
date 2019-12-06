@@ -3,49 +3,66 @@
 
 ## Novidades
 
-Esse ano de 2019, mais precisamente no segundo semestre, pretendemos
-retornar o evento capítulo Recife. em breve informaremos local e data\!
-
-Durante o primeiro semestre pretendendo realizar reuniões "brain
-storming" para tratar sobre a organização do evento, caso você tenha
-interesse em participar não exite em nos contactar.
+**O encontro do primeiro semestre de 2019 será no dia 18/05/2019, das
+13h as 16:30h no auditório da UNINABUCO, Avenida Guararapes, 233, Santo
+Amaro, Recife-PE. O encontro terá palestras e mesa redonda que
+versarão sobre o seguinte tema: FRAUDES CIBERNÉTICAS E A LEI DE
+PROTEÇÃO DE DADOS PESSOAIS.**
 
 Para maiores detalhes sobre horários e local do encontro, checar o
 calendário de atividades ou entrar em contato
 [@](mailto:revoredo@gmail.com).
 
-Faça parte da nossa [lista de
-discussão](http://lists.owasp.org/mailman/listinfo/owasp-Recife)
-
 ## Equipe OWASP Recife
 
-Em formação. Estamos nos organizando mensal ou bimensalmente para tratar
-assuntos da organização.
+Atualmente, o OWASP Recife está sendo conduzido pelos organizadores
+Carlo Marcelo Revoredo da Silva, Anselmo Lacerda Gomes, Thyago de Amorim
+Monteiro e Osmar Carlos da Silva.
 
-## Evento OWASP Recife 2019
+Faça parte da nossa [lista de
+discussão](https://groups.google.com/a/owasp.org/forum/#!overview)
 
-A equipe tem o objetivo de organizar um evento (com 1 ou 2 turnos) em
-que especialistas farão apresentações e seminários sobre tópicos de
-segurança da informação, com o intuito de disseminar informação na
-comunidade do meio acadêmico e da indústria.
+## Sobre o OWASP Recife
 
-O evento é gratuíto e será sediado na cidade de Recife, a ser realizado
-no segundo semestre. Os encontros do capítulo OWASP Recife terão o
-formato de painel de debates com conteúdo teórico e prático. Nosso foco
-é manter a discussão do que ocorre na área de segurança da informação
-da região e do mundo. Tais encontros visam reunir a comunidade acadêmica
-e da indústria com a proposta de pontuar assuntos emergentes.
+O OWASP Recife é um dos 7 capítulos brasileiros entre os mais de 200
+Capítulos ativos em todo o mundo. Nosso propósito é esclarecer a
+academia, industria e a sociedade como um todo sobre a importância da
+segurança da informação em nossas vidas. Nosso público-alvo é bem
+diversificado, contudo, o principal objetivo é compartilhar
+conhecimentos sobre a conscientização de riscos, vulnerabilidades,
+desenvolvimento seguro e privacidade. Serão realizados encontros
+semestrais e sem fins lucrativos.
+
+Para maiores detalhes, acompanhe o calendário de atividades do capítulo.
 
 ## Calendário de atividades
 
-Encontro destinado a organizar e definir os planos para 2019.
-
-**Data:**
-
-**Local:**
-
 [Google
 Calendar](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23FFFFFF&src=trv1sni07u93kq2h7bivqt8chc%40group.calendar.google.com&color=%23AB8B00&ctz=America%2FRecife)
+
+## Sobre o Projeto OWASP
+
+Segue uma lista de 10 (alguns de muitos) projetos da comunidade
+
+  - Top 10 2017 <https://www.owasp.org/index.php/Top_10-2017_Top_10>
+  - OWASP Mobile Security Project
+    <https://www.owasp.org/index.php/OWASP_Mobile_Security_Project>
+  - OWASP Internet of Things Project
+    <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
+  - OWASP DevSecOps Studio Project
+    <https://www.owasp.org/index.php/OWASP_DevSecOps_Studio_Project>
+  - OWASP Cloud Security Project
+    <https://www.owasp.org/index.php/OWASP_Cloud_Security_Project>
+  - OWASP Enterprise Security API
+    <https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API>
+  - OWASP Broken Web Applications Project
+    <https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project>
+  - Testing Guide Introduction
+    <https://www.owasp.org/index.php/Testing_Guide_Introduction>
+  - OWASP Secure Software Development Lifecycle Project
+    <https://www.owasp.org/index.php/OWASP_Secure_Software_Development_Lifecycle_Project>
+  - OWASP Risk Rating Management
+    <https://www.owasp.org/index.php/OWASP_Risk_Rating_Management>
 
 ## Sugestão de Vídeos
 

@@ -19,13 +19,14 @@ knowledge with others. Prior to participating with OWASP please review
 the [Chapter Rules](Chapter_Rules "wikilink").
 
 To join the chapter mailing list, please visit our [mailing
-list](https://lists.owasp.org/mailman/listinfo/owasp-norway) homepage.
-The list is used to discuss the meetings and to arrange meeting
-locations. You can also review the [email
+list](https://groups.google.com/a/owasp.org/forum/#!forum/norway-chapter)
+homepage. The list is used to discuss the meetings and to arrange
+meeting locations. You can also review the old [email
 archives](https://lists.owasp.org/pipermail/owasp-norway/) to see what
-folks have been talking about. Please check the mailing list before
-coming to a meeting to confirm the location and time and to catch any
-last minute notes.
+folks have been talking about.
+
+We also have a slack channel \#chapter-norway at
+<https://owasp.slack.com>.
 
 ## Medlemsmøter
 
@@ -42,15 +43,31 @@ se hva vi har snakket om tidligere kan du se i
 
 ### Neste møter
 
-Medlemsmøte 9. april 2019 17:00 - 19:00
+#### Medlemsmøte 19. november 2019 17:00 - 19:00
+
+**Sted:** Teknologihuset, Pilestedet 56, Oslo
+
+**Påmelding:** <https://www.meetup.com/OWASP-Norway/events/266233553/>
+
+**Agenda:** <https://www.meetup.com/OWASP-Norway/events/266233553/>
+
+### Tidligere møter
+
+#### Medlemsmøte 16. oktober 2019 17:00 - 19:00
+
+**Sted:** Miles, Bislettgata 4, Oslo, 6th floor
+
+**Påmelding:** <https://www.meetup.com/OWASP-Norway/events/265374152/>
+
+**Agenda:** <https://www.meetup.com/OWASP-Norway/events/265374152/>
+
+#### Medlemsmøte 9. april 2019 17:00 - 19:00
 
 **Sted:** Teknologihuset, Pilestedet 56, Oslo
 
 **Påmelding:** <https://www.meetup.com/OWASP-Norway/events/259385379/>
 
 **Agenda:** <https://www.meetup.com/OWASP-Norway/events/259385379/>
-
-### Tidligere møter
 
 ## Lokale nyheter
 

@@ -42,7 +42,7 @@ Nowをクリックして下さい。![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.J
 
 ## 次回のミーティング
 
-### \[OWASP Sendai ミーティング 29\]
+### \[OWASP Sendai ミーティング 35\]
 
 ### Venue スポンサー
 
@@ -50,20 +50,42 @@ Nowをクリックして下さい。![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.J
 
 ### 日時 ＆ 場所
 
-2018年11月21日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+2019年6月26日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
 
 ### コンテンツ
+
+■「はじめてのOWASP Top10 2017 - A7:クロスサイトスクリプティング」 スピーカー：千葉 翔也（東北工業大学）＆
+セキュリティ初心者やまだくん
+
+■「OWASP ASVS 4.0」 スピーカー：小笠貴晴 / OWASP Sendai チャプターリーダー /
+株式会社セキュリティイニシアティブ
+
+### 参加お申し込み
+
+[お申し込みページへ](https://owaspsendai.connpass.com/event/132635/)
+
+## 過去のミーティング
+
+### \[OWASP Sendai ミーティング 34\]
+
+2019年5月16日(木) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+
+Venue スポンサー
+
+■「サイバー犯罪と法律」 スピーカー：松宮 大輝 (元サイバー犯罪捜査官)
+
+■「公共Wi-fiの危険性について」 スピーカー：小沢 史明
+
+### \[OWASP Sendai ミーティング 29\]
+
+2018年11月21日(水) 18:30～20:30 [@ソシラボ](http://socilabo.com/)
+
+Venue スポンサー
 
 ■「Outsmarting Smartphone Apps 2」 吉村 孝広 (Takahiro Yoshimura a.k.a.
 alterakey / 株式会社モノリスワークスCTO)
 
 ■「Research? Life in Malaga」角田 裕（東北工業大学）
-
-### 参加お申し込み
-
-[お申し込みページへ](https://owaspsendai.connpass.com/event/109870/)
-
-## 過去のミーティング
 
 ### \[OWASP Sendai ミーティング 28\]
 
@@ -779,3 +801,5 @@ Chapter Boards:
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Asia/Pacific/Middle
 East](Category:Asia/Pacific/Middle_East "wikilink")
+[Category:Japan](Category:Japan "wikilink")
+[Category:Asia](Category:Asia "wikilink")

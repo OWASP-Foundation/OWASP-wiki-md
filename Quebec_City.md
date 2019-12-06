@@ -4,60 +4,11 @@ __NOTOC__
 
 # Événements à venir
 
-## **23 avril 2019: Introduction au CTF avec OWASP Juice-Shop \*\*\*chez Bentley Systems\*\*\***
-
-[100px](image:Vincent_L-Garant_2.png "wikilink") **Vincent L-Garant**
-Application Security Engineer
-Bentley Systems
-
-
-#### Description
-
-Il s’agit d’une activité de style « workshop », semi-dirigée, pour
-débuter en CTF (Capture The Flag). Tout au long de la soirée, vous
-pourrez vous « faire les dents » sur la plateforme d’apprentissage
-Juice-Shop d’OWASP, qui permet entre autres le déroulement local d’une
-activité complète de style CTF, avec des challenges et astuces.
-Juice-Shop permet de pratiquer vos talents de « l337 h4ck3r » dans un
-environnement contrôlé, similaire à un vrai site de vente. Des
-animateurs seront disponibles pour répondre à vos questions si jamais
-vous êtes dans une impasse. Il y aura également des défis en groupes.
-Une bonne occasion de vous initier au hacking web\!
-
-Instructions : Vous devez apporter votre propre portable et un câble
-ethernet. Votre ordinateur doit être en mesure de fonctionner avec
-Docker. Il n’est pas nécessaire d’avoir des outils de « pentest »
-complets, mais un proxy tel que Fiddler, OWASP ZAP ou Burp, etc. est
-fortement recommandé.
-
-De la pizza sera fournie par Bentley\!
-
-#### Lieu
-
-**\*\*\* Bentley Systems Inc \*\*\***
-3365 Boulevard Sainte-Anne, Québec, QC G1E 3L1
-
-#### Horaire
-
-18:00 - 18:30 Accueil et setup
-18:30 Début de l'activité
-
-#### Ouvert à tous\! Inscription gratuite\! RSVP\!
-
-![Eventbrite.png](Eventbrite.png "Eventbrite.png")
-
-#### Merci à notre partenaire pour l'événement
-
-![Bentley](Bentley_Logo_RGB_200px.png "Bentley")
-![Image:Spacer-horiz.gif‎](Spacer-horiz.gif‎
-"Image:Spacer-horiz.gif‎")
-
-
 ## **Prochaines activités OWASP Québec**
 
-**4 juin 2019** | sujet à confirmer
+  - Nous sommes à planifier les dates pour 2020
 
-## **OWASP Ville de Québec est à la recherche de conférenciers**
+## **OWASP Ville de Québec est toujours à la recherche de conférenciers\!**
 
 Si vous souhaiteriez présenter, pour l’avancement de la science et de la
 connaissance en sécurité applicative, un sujet lors d'une prochaine
@@ -108,7 +59,120 @@ faites-nous en part\! :**
 
 # Historique
 
-## **19 mars 2019: Portrait de la sécurité applicative et outils OWASP**
+## 19 novembre 2019: "Securing open sources libraries in open source code package" \*\*\*chez Coveo\*\*\*
+
+![coveo.jpg](coveo.jpg "coveo.jpg") **Jean-Alexandre Beaumont**
+**Louis-Philippe Déry**
+Coveo
+
+#### Description
+
+Learn how to find and fix vulnerabilities in open source libraries,
+where to integrate testing to prevent adding new vulnerable libraries to
+your code and how to respond to newly disclosed vulnerabilities in
+libraries you already use.
+
+Voici la présentation "[Securing open sources libraries in open source
+code package](https://fr.slideshare.net/secret/Dpi98oh3ctLZ63)"
+
+## 1 et 2 novembre 2019: kiosque et CTF OWASP au HackFest UpsideDown
+
+![hackfest_2019_200px.jpg](hackfest_2019_200px.jpg
+"hackfest_2019_200px.jpg")
+
+|  |
+|  |
+|  |
+
+Le chapitre OWASP Ville de Québec et OWASP Montréal ont collaborés
+encore une fois pour assurer une présence OWASP au
+**[HackFest](http://www.hackfest.ca)**. Merci aux organisateurs et
+participants du CTF OWASP qui font de cet événement un succès année
+après année\!
+
+## 3 septembre 2019 - Conférence - Histoire vraie : Implémenter le SecDevOps en entreprise
+
+[100px](image:GuillaumeCroteau.jpg "wikilink") **Guillaume Croteau**
+Ingénieur Logiciel
+Bentley Systems
+
+#### Description
+
+Lorsque l’on parle de DevOps, on parle aussi de l’importance d’avoir du
+SecDevOps, l’intégration de la sécurité dans le processus DevOps.
+Plusieurs sources, tel que le SANS, offrent des lignes directrices sur
+ce que devrait avoir un bon SecDevOps.
+
+La théorie c’est bien, mais qu’en est-il en pratique? Quelle est la
+réalité lorsque l’on s’assis derrière son bureau et que l’on se dit «
+Commençons à implémenter notre SecDevOps »?
+
+Lors de cette présentation, nous parlerons de la transformation interne
+de Bentley Systems vers le DevOps et par conséquent, l’implémentation du
+SecDevOps. Nous traverserons ensemble une année de travail à travers une
+personne qui a fait part de ce changement. Nous aborderons le début
+cahoteux, les bons et les moins bons coups, les défis rencontrés, etc.
+
+Le but de cette présentation n’est pas d’expliquer ce qu’est un bon
+SecDevOps et comment l’implémenter. Il s’agit d’un témoignage d’une
+équipe de sécurité applicative qui a vécue et participée à son
+implémentation dans une entreprise de 30 ans d’âge.
+
+Voici la présentation "[Histoire vraie : Implémenter le SecDevOps en
+entreprise](https://www.slideshare.net/secret/uw1RBZ1Uike7Cp)"
+
+## 5 juin 2019: Moderne Identification et AuthN/AuthZ : Comprenons-nous tous les enjeux?
+
+[100px](image:Franck_Desert.jpg "wikilink") **Franck Desert**
+Analyste en sécurité applicative
+CGI Inc
+
+
+#### Description
+
+Description: À l'heure où le Cloud devient omniprésent les enjeux
+d’authentification et d'autorisation deviennent incontournables\! Tous
+les protocoles, frameworks, standards, etc. se chevauchent et
+s'entrecroisent\!
+
+  - Comment utiliser les IdP, les "relaying parties", les ADs (b2b,
+    b2c)?
+  - Qu'en est-il alors du SSO?
+  - Comment s'y retrouver dans les différents JWTs & JWKs?
+  - SAML? WS-\*?
+  - Et enfin toutes les fédérations possibles?
+
+Bref, vous l'aurez compris, j'essayerai de passer en revue tout cela\!
+Cas concrets et exemples de codes réels seront présents (Azure, AWS,
+peut-être GCP)
+
+## 23 avril 2019: Introduction au CTF avec OWASP Juice-Shop \*\*\*chez Bentley Systems\*\*\*
+
+[100px](image:Vincent_L-Garant_2.png "wikilink") **Vincent L-Garant**
+Application Security Engineer
+Bentley Systems
+
+
+#### Description
+
+Il s’agit d’une activité de style « workshop », semi-dirigée, pour
+débuter en CTF (Capture The Flag). Tout au long de la soirée, vous
+pourrez vous « faire les dents » sur la plateforme d’apprentissage
+Juice-Shop d’OWASP, qui permet entre autres le déroulement local d’une
+activité complète de style CTF, avec des challenges et astuces.
+Juice-Shop permet de pratiquer vos talents de « l337 h4ck3r » dans un
+environnement contrôlé, similaire à un vrai site de vente. Des
+animateurs seront disponibles pour répondre à vos questions si jamais
+vous êtes dans une impasse. Il y aura également des défis en groupes.
+Une bonne occasion de vous initier au hacking web\!
+
+Instructions : Vous devez apporter votre propre portable et un câble
+ethernet. Votre ordinateur doit être en mesure de fonctionner avec
+Docker. Il n’est pas nécessaire d’avoir des outils de « pentest »
+complets, mais un proxy tel que Fiddler, OWASP ZAP ou Burp, etc. est
+fortement recommandé.
+
+## 19 mars 2019: Portrait de la sécurité applicative et outils OWASP
 
 [100px](image:100px-PatrickLeclerc.png "wikilink") **Patrick Leclerc**
 Leader du chapitre OWASP Ville de Québec
@@ -132,7 +196,7 @@ d’applications sécuritaires.
 Voici la présentation "[Portrait de la sécurité applicative et outils
 OWASP](https://www.slideshare.net/secret/iZaWiyZUOM19Xn)"
 
-## **19 février 2019: Concevoir et implémenter un plan de formation et de sensibilisation à la sécurité**
+## 19 février 2019: Concevoir et implémenter un plan de formation et de sensibilisation à la sécurité
 
 [100px](image:Vincent_L-Garant_2.png "wikilink") **Vincent L-Garant**
 Application Security Engineer
@@ -163,7 +227,7 @@ sécurité](https://www.slideshare.net/secret/9slxoP7OBssVLk)"
   - Stimuler et calculer la complétude
   - Se tenir à jour
 
-## **5 décembre 2018: CTF What? Présentation du monde CTF\! « Capture The Flag »**
+## 5 décembre 2018: CTF What? Présentation du monde CTF\! « Capture The Flag »
 
 [100px](image:Franck_Desert.jpg "wikilink") **Franck Desert**
 Analyste en sécurité applicative
@@ -212,7 +276,7 @@ Decade](http://www.hackfest.ca)**. Merci aux organisateurs et
 participants du CTF OWASP qui font de cet événement un succès année
 après année\!
 
-## **17 octobre 2018: Survol de la sécurité de Microsoft Azure**
+## 17 octobre 2018: Survol de la sécurité de Microsoft Azure
 
 [100px](image:Maxime_Coquerel.png "wikilink") **Maxime Coquerel**
 Architecte de sécurité Cloud / MVP Azure
@@ -246,7 +310,7 @@ développement de logiciels open source comme Kubernetes, Microsoft
 Visual Code, en plus d’être l’auteur depuis 2012 du blog «
 l’Infrastructure pour tous » <https://zigmax.net>)
 
-## **12 septembre 2018: Pourquoi le SPA (Single Page Application) est faillible?**
+## 12 septembre 2018: Pourquoi le SPA (Single Page Application) est faillible?
 
 [100px](image:Franck_Desert.jpg "wikilink") **Franck Desert**
 Analyste en sécurité applicative

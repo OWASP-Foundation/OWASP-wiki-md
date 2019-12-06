@@ -1,5 +1,59 @@
 ## Local News
 
+**`BSides``   ``Odessa``   ``2019``   `<s>`Security``
+ ``Conference`</s>`   ``HACKER``   ``PARTY-RESORT`**
+
+![`Bsides_odessa.png`](Bsides_odessa.png "Bsides_odessa.png")
+
+`The time has almost come. `**`BSides``   ``Odessa``   ``HACKER``
+ ``PARTY-RESORT``   ``2019`**` is going to be epic!`
+
+`Yep, for the first time, the Party-Resort will run for 48 hours non-stop - `**`between``
+ ``6pm``   ``of``   ``Friday,`**
+**`June``   ``28th``   ``and``   ``6pm``   ``of``   ``Sunday,``
+ ``June``   ``30th`**`.`
+
+<u>`Book the dates and watch for updates!`</u>
+
+**`BSides``   ``Odessa``   ``2018``   `<s>`Security``
+ ``Conference`</s>`   ``HACKER``   ``PARTY`**
+
+![`Bsides_odessa.png`](Bsides_odessa.png "Bsides_odessa.png")
+
+`Yep, it's that time of the year again! Much fun is to be had at `**`BSides``
+ ``Odessa``   ``HACKER``   ``PARTY``   ``2018`**`!`
+
+`In 2017, BSides Odessa hosted 60 cyber-sec pros at a huge 5 story-tall mansion near the Black Sea,`
+`with an underground cinema serving as a conference hall.`
+
+`But we can do better. So, this year, we've rented `**`a``   ``house``
+ ``right``   ``on``   ``the``   ``beach,``   ``with``   ``a``   ``big``
+ ``swimming``   ``pool`**
+**`and``   ``a``   ``heated``
+ ``jacuzzi`**` serving as the first-row seating for you to enjoy our speakers' talks. Seating is`
+`limited - first come, first serve.`
+
+<u>`If you're only coming for the talks, you've missed the point.`</u>
+
+`As last year, the Party will run for 24 hours non-stop - `**`between``
+ ``noon``   ``of``   ``Saturday,``   ``July``   ``7th``   ``and``
+ ``noon`**
+**`of``   ``Sunday,``   ``July``   ``8th`**`.`
+
+`BSides Odessa is expected to host around 50 1337 hax00rz, making it small, warm and cozy for you`
+`introverts out there.`
+
+`Our registration CTF ensures no random people are in attendance.`
+
+`Entrance is free, conditional on your registration CTF progress. The registration process is anonymous and`
+`provides access to the event's address, as well as to the CTF.`
+
+`BSides Odessa is a non-profit, informal, community event where attendees can meet old and make new friends,`
+`exchange and broaden their knowledge, all based on a common passion - computer security.`
+
+`As always, in an attempt to neutralize the gender imbalance in cyber-security field, entrance for women is`
+`free and unobstructed. For the event's address, please write to us: conference-od at our domain securitybsides.org.ua`
+
 **`BSides``   ``Odessa``   ``2017``   `<s>`Security``
  ``Conference`</s>`   ``HACKER``   ``PARTY`**
 

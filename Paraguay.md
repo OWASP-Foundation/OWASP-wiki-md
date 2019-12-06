@@ -10,7 +10,6 @@ Paraguay](https://groups.google.com/a/owasp.org/forum/?hl=es#!forum/paraguay-cha
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="font-size: 100%;"</p></td>
 <td><h2 id="bienvenidos_a_owasp_paraguay">Bienvenidos a OWASP Paraguay</h2>
 <p>Bienvenidos todos a participar del capítulo Paraguay.<br />
 Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, concientizar y sensibilizar tanto a organizaciones, empresas, Universidades, estudiantes, desarrolladores como también fomentar eventos de capacitación de seguridad en el Paraguay.<br />
@@ -20,10 +19,11 @@ Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, con
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="font-size: 100%;"</p></td>
-<td><p>- Jueves 21 de Marzo, Reunión de Coordinación del Capítulo OWASP Paraguay Chapter</p></td>
-<td><p>Lugar: Bancard</p></td>
-<td><p>Hora:15hs.</p></td>
+<td><p>- Jueves 21 de Marzo, Reunión de Coordinación del Capítulo OWASP Paraguay Chapter | Lugar: Bancard | Hora:15hs.</p>
+<p>- Viernes 2 de Agosto, Reunión de Coordinación del Capítulo OWASP Paraguay Chapter | Lugar: Cafe Valdez | Hora:19hs.</p>
+<p>- Viernes 20 de Septiembre, Charla Sobre seguridad: OWASP TOP 10 e implementación de controles de Seguridad | Lugar: Hotel Encanto Rural, Bella Vista, Ciudad de Encarnación.</p>
+<p>- Apoyo al evento Kavacon Paraguay | Miércoles 2 de Octubre (Presentaciones varias como TOP 10 OWASP (Martin Scattini), TOP 10 Mobile (Gustavo Sorondo)) en el evento KAVACON Paraguay | Lugar: Banco Central del Paraguay.</p>
+<p>- Sábado 2 de Noviembre, Charla Sobre OWASP y Controles de Seguridad | Lugar: Universidad Católica de Itapúa (UCI), Ciudad de Encarnación.</p></td>
 </tr>
 </tbody>
 </table>
@@ -31,7 +31,6 @@ Buscamos difundir temas de Seguridad de la Información en Aplicaciones Web, con
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="font-size: 100%;"</p></td>
 <td><p>Actividades en las que hemos participado como expositores/conferencistas</p>
 <p><strong><u>2018</u></strong></p>
 <p>- En Abril de 2018: Hemos participado como expositores en el FLISOL San Lorenzo/2018 en la Universidad Nacional de Asunción, exponiendo el tema: Vulnerabilidades más conocidas (OWASP Top 10).</p>

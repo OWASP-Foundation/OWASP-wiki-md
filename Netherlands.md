@@ -2,11 +2,10 @@
 
 ## **News**
 
-:: Registration for the [next
-meetup](OWASP_NL_Monthly_Meetup#January_17.2C_2019v "wikilink"), January
-17th in Hilversum, is open\!
-
 :;OWASP Netherlands Monthly meetup:
+
+:: Next meetup [OWASP NL Chapter Meeting, June
+18th](OWASP_NL_Monthly_Meetup#June_18.2C_2019 "wikilink")
 
 ::Slides and recordings are available [OWASP Nl Chapter Meeting, January
 17th](OWASP_NL_Monthly_Meetup#January_17.2C_2019,_Hilversum "wikilink")
@@ -89,34 +88,25 @@ Member](https://www.owasp.org/index.php/Corporate_Membership):**
 
 <center>
 
-|  |                                                                                |                                                                                      |                                                                                                           |                                                                                                             |
-|  | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-|  | [<https://www.owasp.org/images/9/99/SIG_LOGO.png>](http://www.sig.eu/security) | [<https://www.owasp.org/images/7/78/Secura_logo_small.png>](https://www.secura.com/) | ![Xebia_logo-large-transparent.png](Xebia_logo-large-transparent.png "Xebia_logo-large-transparent.png") | [<https://www.owasp.org/images/9/9a/Logo_Informatiebeveiliging-200.png>](https://informatiebeveiliging.nl/) |
+|                                                                                |                                                                                      |                                                                                                           |                                                                                                             |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [<https://www.owasp.org/images/9/99/SIG_LOGO.png>](http://www.sig.eu/security) | [<https://www.owasp.org/images/7/78/Secura_logo_small.png>](https://www.secura.com/) | ![Xebia_logo-large-transparent.png](Xebia_logo-large-transparent.png "Xebia_logo-large-transparent.png") | [<https://www.owasp.org/images/9/9a/Logo_Informatiebeveiliging-200.png>](https://informatiebeveiliging.nl/) |
 
 </center>
 
-\-- ![VeraCode_logo.png](VeraCode_logo.png "VeraCode_logo.png")
-![Vest.jpg](Vest.jpg "Vest.jpg")
-![Intigriti_verticaal.jpg](Intigriti_verticaal.jpg
-"Intigriti_verticaal.jpg") ![Ecurify-2016.png](Ecurify-2016.png
-"Ecurify-2016.png") ![HPE_logo_250.png](HPE_logo_250.png
-"HPE_logo_250.png") ![Nixu-logo.png](Nixu-logo.png "Nixu-logo.png")
-![Logo_xebia.jpg](Logo_xebia.jpg "Logo_xebia.jpg")
-![Logo_Informatiebeveiliging-200.png](Logo_Informatiebeveiliging-200.png
-"Logo_Informatiebeveiliging-200.png") --\>
-
 # Calendar
 
-## Provisional Chapter Event Calendar 2018
+## Provisional Chapter Event Calendar 2019
 
-|                                                                                                 |                                                                        |           |             |      |             |          |
-| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------- | ----------- | ---- | ----------- | -------- |
-|                                                                                                 | width="300"                                                            | Date      | width="350" | Type | width="300" | Location |
-|                                                                                                 |                                                                        |           |             |      |             |          |
-| [February 8th, 2018](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/247313273/) | [OWASP NL Wiki](OWASP_NL_Monthly_Meetup#January_17.2C_2019 "wikilink") | Amsterdam |             |      |             |          |
+| Date                                                                                            | Type                                                                   | Location  |
+| ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --------- |
+|                                                                                                 |                                                                        |           |
+| [February 8th, 2019](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/247313273/) | [OWASP NL Wiki](OWASP_NL_Monthly_Meetup#January_17.2C_2019 "wikilink") | Amsterdam |
+| [June 18th, 2019](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/261811435/)    | [OWASP NL Wiki](OWASP_NL_Monthly_Meetup#June_18.2C_2019 "wikilink")    | Amsterdam |
 
 # Past Events
 
+  - Events held in [2019](Netherlands_Previous_Events_2019 "wikilink")
   - Events held in [2018](Netherlands_Previous_Events_2018 "wikilink")
   - Events held in [2017](Netherlands_Previous_Events_2017 "wikilink")
   - Events held in [2016](Netherlands_Previous_Events_2016 "wikilink")
@@ -183,25 +173,6 @@ Agreement](http://www.owasp.org/index.php/Speaker_Agreement)
 [Template](http://www.owasp.org/images/5/54/Presentation_template.ppt)
 Interested in presenting at a local chapter meeting, please send an
 email to: netherlands 'at' owasp.org
-
-\--
-
-### Call for Location
-
-For the OWASP Netherlands chapter meetings to come, we are continuously
-looking for locations\! Most preferable, the location is good accessible
-with public transport and by car. Free parking should be provided. What
-do we expect:
-
-  - meeting room for at least 50 people
-  - lunch for attendees
-      - drinks, sandwiches...
-  - a small present for the speakers
-      - (e.g. bottle of wine, for speakers from aboard alcohol might be
-        less practical if flying in only with hand luggage)
-
-Interested in sponsoring a local chapter meeting, please send an email
-to: netherlands 'at' owasp.org --\>
 
 __NOTOC__ <headertabs></headertabs>
 

@@ -1,7 +1,5 @@
-## Local News
+## Welcome to the OWASP Sacramento Chapter\!
 
-**`Meeting``   ``Location`**
-
-Everyone is welcome to join us at our chapter meetings.
+![Banner](OWASPSacramento-Banner.png "Banner")
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")

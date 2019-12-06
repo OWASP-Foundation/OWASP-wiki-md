@@ -51,10 +51,10 @@ half a day and take a class the other half. We'd love to have your help.
 
 #### Mentorship
 
-Reach out to David Quisenberry, our membership coordinator, to get
-involved. Focus of mentoring can be Public Speaking, AppSec Skills,
-Career Development and we will work to align interests of mentors and
-those being mentored.
+Interested in being a mentor or being mentored ? Please reach out to
+David Quisenberry, our membership coordinator, to get involved. Focus of
+mentoring can be Public Speaking, AppSec Skills, Career Development and
+we will work to align interests of mentors and those being mentored.
 
 #### Chapter Leadership
 
@@ -85,6 +85,8 @@ please be sure you carefully review the [speaker
 agreement](Speaker_Agreement "wikilink").
 
 # OWASP Annual Training Day
+
+[2019 Training Day](OWASP_Portland_2019_Training_Day "wikilink")
 
 [2018 Training Day](OWASP_Portland_2018_Training_Day "wikilink")
 
@@ -118,17 +120,24 @@ Breaching the Cyber-Security Job Industry with Ryan Krause
 
 OWASP Top Ten For JavaScript Developers with Lewis Ardern
 
+# Mentorship Resources
+
+Coming Soon\!
+
 # Contact
 
 Your current Portland Chapter Board:
 
-  - Ian Melven - 2019 Chapter Leader (ian.melvin@owasp.org)
+  - Ian Melven - 2019 Chapter Leader (ian.melven@owasp.org)
   - Bhushan Gupta - 2019 Vice Leader (bhushan.gupta@owasp.org)
   - Benny Zhao - 2019 Treasurer (benny.zhao@owasp.org)
   - David Quisenberry - Community Outreach (david.quisenberry@owasp.org)
 
-Other volunteers and organizers:
+A huge THANK YOU to the other members of the chapter leadership team and
+our volunteers, past and present \!
 
+  - Philip Jenkins
+  - Brian Ventura
   - Sonny Nallamilli - 2018 Treasurer
   - James Bohem
   - Adam Russell (adam.russell@owasp.org)

@@ -4,19 +4,11 @@ Social Media:
 [owaspsaintlouis](https://twitter.com/owaspsaintlouis)
 <strong>LinkedIn: </strong><https://www.linkedin.com/groups/12015906>
 <strong>Chat with us on SLACK</strong>. <https://owasp.herokuapp.com/>
-(Join the St. Louis Chapter Channel)
+(Join the St. Louis Chapter Channel `#chapter-stlouis`)
 
 ## 2019 Meeting Schedule
 
-### April 25 (Thursday), 2019 - CTF
-
-<https://www.meetup.com/OWASP-STL/events/257883700/>
-
-### June 27 (Thursday), 2019 - Cloud Security
-
-<https://www.meetup.com/OWASP-STL/events/257883724/>
-
-### August 22 (Thursday), 2019
+### August 22 (Thursday), 2019 - Security Tool Demo
 
 <https://www.meetup.com/OWASP-STL/events/257883738/>
 
@@ -46,6 +38,14 @@ If you are interested in serving on a committee, please contact Joe
 Blanchard @ <joe.blanchard@owasp.org>
 
 ## Past Speakers
+
+**June 2019:**
+
+  - Cloud Security -
+    <https://www.meetup.com/OWASP-STL/events/257883724/>
+  - Security Testing in the Cloud: Nate Rice
+  - Secure Cloud Architecture Standards: Eric Turcotte - [Presentation
+    PDF](https://drive.google.com/open?id=1I9knllPUaWuE23a9entj4FSPwe2mZqIF)
 
 **February 2019:**
 

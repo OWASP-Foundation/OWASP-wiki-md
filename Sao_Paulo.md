@@ -1,6 +1,6 @@
 ## Sobre a OWASP São Paulo
 
-A OWASP São Paulo é um dos 5 capítulos brasileiros entre os mais de 200
+A OWASP São Paulo é um dos 8 capítulos brasileiros entre os mais de 200
 Capítulos ativos em todo o mundo. Nosso objetivo é disseminar a missão
 da OWASP, tornando a segurança das aplicações visível, para que as
 pessoas e organizações possam tomar decisões conscientes sobre os
@@ -14,8 +14,7 @@ para criar códigos e documentos para a comunidade mundial de segurança.
 
 Os membros da equipe OWASP São Paulo são [Fernando
 Galves](mailto:fernando.galves@owasp.org), Alessandro de Oliveira Faria
-(Cabelo), Christiano Linuxmen, Fernando Guisso e a Prof. Dra. Ines
-Brosso.
+(Cabelo) e a Prof. Dra. Ines Brosso.
 
 ## Por que fazer parte da OWASP São Paulo?
 
@@ -90,6 +89,72 @@ Paulo
 [3](https://www.meetup.com/OWASP-Sao-Paulo-Chapter/events/259688123/)
 
 
+### OWASP SP ON THE ROAD - SÃO CARLOS/SP
+
+Venha conhecer sobre desenvolvimento seguro e sobre a OWASP São Paulo\!
+Neste encontro vamos trazer profissionais da área de segurança da
+informação para apresentar tópicos relevantes sobre o assunto. Você não
+pode perder.
+
+**Data:** Terça-feira, 16 de abril de 2019 a partir das 19:00
+**Local:** ONOVOLAB - Rua Aquidabam, 1 - São Carlos - São Paulo
+**Inscrições:**
+[4](https://www.sympla.com.br/meetup-owasp-sao-carlos__498873)
+
+
+### OWASP SP ON THE ROAD - SOROCABA/SP
+
+Venha conhecer sobre desenvolvimento seguro e sobre a OWASP São Paulo\!
+Neste encontro vamos trazer profissionais da área de segurança da
+informação para apresentar tópicos relevantes sobre o assunto. Você não
+pode perder\!
+
+**Data:** Quarta-feira, 15 de maio de 2019 a partir das 19:00
+**Local:** SORIÁ EVENTOS - Rua Aparecida, 1470 - Sorocaba - São Paulo
+**Inscrições:**
+[5](https://conteudo.infoxnet.com.br/inscricao-evento-owasp)
+
+
+### OWASP SP NA BSIDES 2019
+
+Temos o prazer em anunciar que a OWASP SP estará presente na BSIDES 2019
+no dia 26 de maio\! Serão 6 palestrantes no espaço AppSec Village
+falando sobre os mais diversos temas sobre segurança\! O evento
+acontecerá nos dias 25 e 26 de maio na PUC-SP, no Campus Consolação e os
+ingressos deverão ser adquiridos diretamente no site do evento.
+
+**Data:** Dia 26 de maio de 2019
+**Local:** PUC-SP, Campus Consolação · São Paulo
+**Ingressos:**
+[6](https://www.sympla.com.br/security-bsides-sp__504522)
+
+
+### OWASP SP NO C6 BANK
+
+O capítulo OWASP SP convida profissionais de segurança da informação,
+desenvolvedores de software, estudantes das áreas de tecnologia da
+informação e demais interessados no assunto, para participarem do
+encontro local do capitulo.
+
+**Data:** quinta-feira, 19 de setembro de 2019 a partir das 19:00
+**Local:** C6 Bank - Avenida Nove de Julho, 3186 · São Paulo/SP
+**Inscrições:**
+[7](https://www.meetup.com/OWASP-Sao-Paulo-Chapter/events/264792257/)
+
+
+### OWASP SP NA CIELO
+
+O capítulo OWASP SP convida profissionais de segurança da informação,
+desenvolvedores de software, estudantes das áreas de tecnologia da
+informação e demais interessados no assunto, para participarem do
+encontro local do capitulo.
+
+**Data:** Segunda-feira, 11 de novembro de 2019 a partir das 18:50
+**Local:** Cielo - Alameda Xingu, 512 - 28 andar · Barueri/SP
+**Inscrições:**
+[8](https://www.meetup.com/OWASP-Sao-Paulo-Chapter/events/265903016/)
+
+
 # Eventos em 2018
 
 ## **Programação de 2018**
@@ -135,7 +200,7 @@ iniciaremos uma discussão sobre GDPR/LGPD.
 **Local:** MOIP - Edifício Faria Lima Tower Av. Brg. Faria Lima, 3064 -
 Itaim Bibi, São Paulo - SP, 01451-001 · São Paulo
 **Inscrições:**
-[4](https://www.meetup.com/pt-BR/OWASP-Sao-Paulo-Chapter/events/255863385/)
+[9](https://www.meetup.com/pt-BR/OWASP-Sao-Paulo-Chapter/events/255863385/)
 
 
 ### OWASP SP EPISÓDIO 2^1
@@ -149,7 +214,7 @@ segundo encontro local do capitulo.
 **Local:** TOTVS - Nova Sede. Av. Braz Leme, 1000 - Santana - São
 Paulo/SP
 **Inscrições:**
-[5](https://www.meetup.com/pt-BR/OWASP-Sao-Paulo-Chapter/events/255863385/)
+[10](https://www.meetup.com/pt-BR/OWASP-Sao-Paulo-Chapter/events/255863385/)
 
 
 ### TALKING ABOUT: OWASP CAPÍTULO SP
@@ -177,7 +242,7 @@ terceiro encontro local do capitulo.
 **Local:** Geru - Rua Inácio Pereira da Rocha 514, Pinheiros - São
 Paulo/SP
 **Inscrições:**
-[6](https://www.meetup.com/OWASP-Sao-Paulo-Chapter/events/256628848/)
+[11](https://www.meetup.com/OWASP-Sao-Paulo-Chapter/events/256628848/)
 
 
 ### OWASP SP NO C6 BANK
@@ -190,7 +255,7 @@ encontro local do capitulo.
 **Data:** segunda-feira, 10 de dezembro de 2018 a partir das 19:00
 **Local:** C6 Bank - Avenida Nove de Julho, 3186 · São Paulo/SP
 **Inscrições:**
-[7](https://www.meetup.com/pt-BR/finance-and-tech/events/256971003/)
+[12](https://www.meetup.com/pt-BR/finance-and-tech/events/256971003/)
 
 <headertabs />
 

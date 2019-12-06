@@ -4,12 +4,37 @@ Everyone is welcome to join us at our chapter meetings\!
 
 Follow us on Twitter\! <https://www.twitter.com/owaspomaha>
 
-Typically, we meet at UNO's Peter Kiewit Institute over the noon hour
-during the last month of each quarter.
+We combine our meetings with the monthly DC402 group once a quarter
+which occurs on the second Tuesday of the month.
 
 ### Next Chapter Meeting
 
-#### Aug 24, 2018 - Exploiting CORS and Beyond
+#### Nov 12, 2019 - ELF Binary Analysis Introduction (combined meeting with DC402)
+
+**Presenter:** Michael Born
+
+**Description:**
+
+Michael will walk us through a beginner friendly lesson on analyzing
+64-bit ELF binaries on Linux using built-in command line tools,
+debuggers like the Gnu Debugger and EDB, and will discuss the ELF
+Specification on 64-bit operating systems. During the talk, Michael will
+go over how to safely alter a malicious binary for dynamic analysis
+tasks, and will walk the audience through analyzing the disassembled
+binary. If you come early, and bring your own book, Michael will sign a
+copy of his new book.
+<https://www.amazon.com/Binary-Analysis-Cookbook-Actionable-disassembling-ebook/dp/B07XYVJ3LN/ref=sr_1_3>
+
+**Location:** DJ's Dugout, 777 N 114th St, Omaha, NE 68154
+
+**CPEs:** This presentation will count as a 1 hour of CPEs.
+
+**Notes:** This event will be a pay as you go for food and beverage.
+Please don't forget to close your tab at the end of the meeting.
+
+## Past Events / Presentations
+
+### Aug 24, 2018 - Exploiting CORS and Beyond
 
 **Presenter:** Adam Schaal
 
@@ -37,8 +62,6 @@ Please RSVP so we have a good count.
 
 **Signup / RSVP:**
 <https://www.eventbrite.com/e/owasp-omaha-exploiting-cors-and-beyond-tickets-48877631311>
-
-## Past Events / Presentations
 
 ### May 18, 2018 - A  no-nonsense look at applying machine learning to your WAF logs
 
@@ -116,13 +139,13 @@ in a CI/CD pipeline.
 **Slides:**
 <https://drive.google.com/drive/folders/0B4t_HSHrO2GxaHRuc2VtVkFTTUk?usp=sharing>
 
-### September, **September 21, 2017**
+### September, September 21, 2017
 
 **Where**: DJ's Dugout, 777 N 114th St, Omaha, NE 68154
 
 **When**: Thursday, September 21, 2017 from 3:30 PM to 5:00 PM
 
-### Thur August 25, 2017 - **Single Sign-On Security**
+### Thur August 25, 2017 - Single Sign-On Security
 
 **Presenter**: Joel Gunderson, Union Pacific
 **Description**: Joel will present on Single Sign-On Security from his
@@ -131,7 +154,7 @@ specifically on SAML.
 **Presentation**:
 <https://drive.google.com/file/d/0B8UHsn2i5kmGb0JBSGVxOGZtV0tnbUpFZWgwMTkxUnp5dkVR/view?usp=sharing>
 
-### Thur June 15, 2017 - '''IREM Nebraska Membership Lunch Talk '''
+### Thur June 15, 2017 - IREM Nebraska Membership Lunch Talk
 
 **Presenter**: John Rogers, Lincoln Financial, OWASP Omaha
 **Description**: John will present on Cyber Security topics for Real
@@ -139,7 +162,7 @@ Estate Professionals
 **Presentations**:
 <https://drive.google.com/file/d/0Bw2xJWT-Q7YKazIycmFpQXBmQW8/view?usp=sharing>
 
-### Wed May 24, 2017 - '''OWASP Presentations - Lightning Talks '''
+### Wed May 24, 2017 - OWASP Presentations - Lightning Talks
 
 **Presenter**: John Rogers, Lincoln Financial, OWASP Omaha
 **Description**: John will present on a Framework for performing
@@ -149,7 +172,7 @@ Enterprise Application Security Assessments
 **Presentations**: John Rogers:
 <https://drive.google.com/file/d/0Bw2xJWT-Q7YKVEFvZC1mTHdsbTQ/view?usp=sharing>
 
-### Wed Mar 22, 2017 - **OWASP Presentations - Lightning Talks**
+### Wed Mar 22, 2017 - OWASP Presentations - Lightning Talks
 
 **Presenter**: Justin Williams, American Title, OWASP Omaha
 **Description**: Justin will present on deobfuscating VB macro based
@@ -159,14 +182,14 @@ malware.
 **Presentations**:
 <https://drive.google.com/open?id=0B4t_HSHrO2GxZC1sVzJZcGlqbXc>
 
-### Thur Feb 16, 2017 - '''ISACA Omaha Chapter Lunch Talk '''
+### Thur Feb 16, 2017 - ISACA Omaha Chapter Lunch Talk
 
 **Presenter**: John Rogers, Lincoln Financial, OWASP Omaha
 **Description**: John will present on Vendor Security Assessments
 **Presentations**:
 <https://drive.google.com/file/d/0Bw2xJWT-Q7YKZlhVZVNHUERobDQ/view?usp=sharing>
 
-### Fri Dec 9, 2016 - **OWASP Presentations - Lighting Talks**
+### Fri Dec 9, 2016 - OWASP Presentations - Lighting Talks
 
 **Presenter**: Andrew Freeborn, Tenable
 **Description**: Andrew will present on research he's been doing using
@@ -180,7 +203,7 @@ classes at OWASP AppSec conferences.
 **Presentations**:
 <https://drive.google.com/open?id=0B4t_HSHrO2Gxcm1nOUtPRG5wVmc>
 
-### Thur Sep 29, 2016 - **OWASP Presentations - Nebraska Cyber Security Conference**
+### Thur Sep 29, 2016 - OWASP Presentations - Nebraska Cyber Security Conference
 
 **Presenter**: John Rogers, LFG
 **Description**: John Rogers will give a presentation that introduces
@@ -204,7 +227,7 @@ working to prepare future professionals for the security industry.
 **Presentation**:
 <https://drive.google.com/drive/folders/0BzwQjnDmptwfYU9TS2VBS3VqZ28>
 
-### Tues Aug 18, 2016 - **Chapter Meeting - Powershell**
+### Tues Aug 18, 2016 - Chapter Meeting - Powershell
 
 **Presenter**: Justin Williams, American Title
 **Description**: Justin Williams of American Title Inc. will give a warm
@@ -226,7 +249,7 @@ in when you arrive.
 **Presentation**:
 <https://drive.google.com/folderview?id=0B4t_HSHrO2GxQ0xpTXRuQUxraVU>
 
-### Tues Nov 17, 2015 - **Chapter Meeting - Offensive Python - Hands-On Lab**
+### Tues Nov 17, 2015 - Chapter Meeting - Offensive Python - Hands-On Lab
 
 **Presenter**: Michael Born, Solutionary
 **Description**: OWASP Omaha's own Michael Born gave a technical
@@ -254,7 +277,7 @@ in when you arrive.
 **Streaming**: View the video here:
 <https://www.youtube.com/watch?v=a6_kCzQ3Yyg>
 
-### Thursday, October 29, 2015 - **OWASP / ISC2 Networking Event**
+### Thursday, October 29, 2015 - OWASP / ISC2 Networking Event
 
 **Description**: Come on out and join OWASP and ISC2 together to share
 stories and network in our local AppSec community\! Solutionary will
@@ -264,7 +287,7 @@ sponsor some food and drink for the meeting, too\!
 RSVP for counts at EventBrite:
 <https://www.eventbrite.com/e/owasp-isc2-networking-event-tickets-18863480177>
 
-### Wednesday, October 14, 2015 - **OWASP Soup to Nuts - UNL: National Cyber Security Awareness Month**
+### Wednesday, October 14, 2015 - OWASP Soup to Nuts - UNL: National Cyber Security Awareness Month
 
 **Presenters**: John Rogers CISSP GWAPT GSSP-JAVA: Lincoln Financial
 Group, Zac Fowler: University of Nebraska at Omaha
@@ -279,7 +302,7 @@ Regency A Room
 Presentation:
 <https://drive.google.com/a/owasp.org/file/d/0Bw2xJWT-Q7YKTmtPd001V2QxUEU/view?usp=sharing>
 
-### Wednesday, September 30, 2015 - **OWASP Soup to Nuts - OCIO Presentation**
+### Wednesday, September 30, 2015 - OWASP Soup to Nuts - OCIO Presentation
 
 **Presenters**: John Rogers: Lincoln Financial Group, Zac Fowler:
 University of Nebraska at Omaha
@@ -292,7 +315,7 @@ Office of the CIO; Southeast Community College, Lincoln NE
 Presentation:
 <https://drive.google.com/a/owasp.org/folderview?id=0B4t_HSHrO2GxRXAzbDhybE5vZXc&usp=sharing>
 
-### Thursday, April 30, 2015 - **Web Services Testing Cheat Sheet**
+### Thursday, April 30, 2015 - Web Services Testing Cheat Sheet
 
 **Presenter**: Michael Born: Lincoln Financial Group
 **Description**: Michael will introduce and walk us through a new Web
@@ -322,7 +345,7 @@ Thanks for understanding\!
 <https://plus.google.com/events/cnn1ktp90jsrcdlsm567hjlkbq4>
 Youtube link: <http://www.youtube.com/watch?v=iVLGskMZJSw>
 
-### Thursday, Dec 18, 2014 - **Visit the SWAMP**
+### Thursday, Dec 18, 2014 - Visit the SWAMP
 
 **Presenter**: SWAP Leadership Team
 **Description**: The Software Assurance Marketplace (SWAMP) is an open
@@ -356,7 +379,7 @@ Thanks for understanding\!
 SWAMP notes available at
 <https://docs.google.com/document/d/1zew3VdaIFWxYolj8qO3Rg5IKxp_pPBqFZNC1zpFfxAw/edit?usp=sharing>
 
-### Wed Nov 19, 2014 - **NEbraskaCERT CSF Joint Meeting - Security Q\&A Panel**
+### Wed Nov 19, 2014 - NEbraskaCERT CSF Joint Meeting - Security Q\&A Panel
 
 Hosted by NEbraskaCERT
 
@@ -395,7 +418,7 @@ taking December off as usual. NEbraskaCERT regular meetings will
 continue to be held on the third Wednesday of each month, starting again
 in the new year.
 
-### Thu Oct 9, 2014 - **Securing Android: Tips from a First-Time Builder and OWASP Put to the Test**
+### Thu Oct 9, 2014 - Securing Android: Tips from a First-Time Builder and OWASP Put to the Test
 
 **Presenter**: Zac Fowler, UNO's College of Information Science and
 Technology
@@ -429,7 +452,7 @@ RSVP).
 **Video**: Video for the event can be found here:
 <http://youtu.be/6LsxjRPAogM?t=7m59s>
 
-### Thu June 12, 2014 - **OWASP in Payment Card Security: Secure Coding, OWASP, and PCI 3.0 DSS Requirement 6**
+### Thu June 12, 2014 - OWASP in Payment Card Security: Secure Coding, OWASP, and PCI 3.0 DSS Requirement 6
 
 **Presenter**: Rob Temple, Joel vanBrandwijk, and Ryan Misek from Mutual
 of Omaha
@@ -476,7 +499,7 @@ parking pass.
 Slides available here:
 <https://drive.google.com/folderview?id=0B4t_HSHrO2GxRHpDc2tGZ2szZUk&usp=sharing>
 
-### Sat Mar 29 2014 - **Web Application Security - So many tools, so little time Redux**
+### Sat Mar 29 2014 - Web Application Security - So many tools, so little time Redux
 
 **Presenter**: John M. Rogers, Senior Application Security Engineer,
 Lincoln Financial Group
@@ -497,7 +520,7 @@ and serves as President of InfraGard Nebraska
 **Note**: This is a talk at the Nebraska Code Camp -
 <http://nebraskacodecamp.com>
 
-### Thu Mar 13, 2014 - **Vetting Third Party Vendor Applications**
+### Thu Mar 13, 2014 - Vetting Third Party Vendor Applications
 
 **Presenter**: John Rogers
 **Description**: This presentation will discuss how to acquire and
@@ -525,7 +548,7 @@ OWASP Omaha mailing list and twitter feed. Here's the link:
 this presentation here:
 <https://drive.google.com/folderview?id=0B4t_HSHrO2GxZ1N6OUxVYXE2Q2M&usp=sharing>
 
-### Thu Dec 5, 2013 - **Mobile Application Security Assessments**
+### Thu Dec 5, 2013 - Mobile Application Security Assessments
 
 **Presenter**: Michael Born, Solutionary
 **Description**: As the world becomes increasingly more 'connected', our
@@ -557,7 +580,7 @@ obtaining a pass.
 RSVP on EventBrite at
 <http://www.eventbrite.com/e/mobile-application-security-assessments-tickets-9326244047?aff=eorg>
 
-### Thu Sep 12, 2013 - **The OWASP Way: Understanding the OWASP Vision and the Top Ten**
+### Thu Sep 12, 2013 - The OWASP Way: Understanding the OWASP Vision and the Top Ten
 
 **Presenter**: Scott Christiansen, Software Security Engineer, TD
 Ameritrade
@@ -584,7 +607,7 @@ Time & Location: Thursday, Sept 12th, 12PM. TriPointe Coffeehouse,
 NE 68046 [Download Scott's
 Slides](https://www.owasp.org/images/4/40/OWASP_Vision_and_Top_Ten_-_Sept_12_-_Scott_Christiansen.pptx)
 
-### Thu Jun 6, 2013 - **Web Application Security - So many tools, so little time**
+### Thu Jun 6, 2013 - Web Application Security - So many tools, so little time
 
 **Presenter**: John M. Rogers, Senior Application Security Engineer,
 Lincoln Financial Group
@@ -605,7 +628,7 @@ Time & Location: Thursday, June 6, 12PM. Peter Kiewit Institute, Room
 279. (67th and Pacific in Omaha) RSVP and view more details on our
 EventBrite page: <https://www.eventbrite.com/event/6952516163>
 
-### Thu Mar 7, 2013 - **Welcome to OWASP Omaha\!**
+### Thu Mar 7, 2013 - Welcome to OWASP Omaha\!
 
 **Presenters**: OWASP Omaha Chapter Leadership
 **Description**: Meet the chapter leaders and learn more about OWASP
@@ -617,8 +640,7 @@ Park in Lot D. Check out the map here:
 
 ## Upcoming Events
 
-No upcoming OWASP Omaha events scheduled at this time. Check back
-again\!
+**Q4, 2019 - Next Chapter Meeting TBD**
 
 [Category:Nebraska](Category:Nebraska "wikilink")
 [Omaha](Category:OWASP_Chapter "wikilink")

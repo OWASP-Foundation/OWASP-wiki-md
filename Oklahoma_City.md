@@ -88,7 +88,8 @@ Presentation available at:
 **Where:** RCB Bank 7400 North Western Ave, Oklahoma City, OK 73116
 
 **Sponsor:** [Crossroads Information
-Security](https://www.crossroadsinfosec.com)
+Security](https://www.crossroadsinfosec.com) [Penetration Testing in
+Oklahoma](https://www.crossroadsinfosec.com/penetration-testing/)
 
 Kris Wall presented on advanced web application penetration testing
 
@@ -103,7 +104,7 @@ Investigations](https://www.1to1riskcontrol.com)
 
 Joe Sullivan presented on risk assessing IoT devices
 
-**Chapter Meeting - March**
+### **Chapter Meeting - March**
 
 **When:** February 29, 2019
 
@@ -113,6 +114,36 @@ Joe Sullivan presented on risk assessing IoT devices
 
 (Scheduled presenter was unable to make the meeting) Joe Sullivan
 presented on Blue Team Tactics
+
+### **Chapter Meeting - April**
+
+**When:** April 26, 2019
+
+**Where:** RCB Bank 7400 North Western Ave, Oklahoma City, OK 73116
+
+**Sponsor:** Alias Forensics
+
+Issac Elliot presented on Reverse Engineering a Data Breach Incident
+
+### **Chapter Meeting - May**
+
+**When:** May 17, 2019
+
+**Where:** CB Bank 7400 North Western Ave, Oklahoma City, OK 73116
+
+**Sponsor:** M group
+
+Chris Mallow presented on Security Operations
+
+### Chapter Meeting - July
+
+**When:** July 25th, 2019
+
+**Where:** Speak Easy 1114 NW 51st St, Oklahoma City, OK 73118
+
+**Sponsor:** Crossroads Information Security
+
+This event was hacker trivia
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:United States](Category:United_States "wikilink")

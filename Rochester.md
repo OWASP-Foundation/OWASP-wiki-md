@@ -14,9 +14,10 @@ hosting a meeting please contact one of the local officers listed above.
 
 ## Connect With Us
 
-|                                                                                  |                                                             |
-| -------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| ![Follow-us-on-twitter.png](Follow-us-on-twitter.png "Follow-us-on-twitter.png") | ![meetup-button.png](meetup-button.png "meetup-button.png") |
+|                                                                                  |                                                             |                                     |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------- |
+| ![Follow-us-on-twitter.png](Follow-us-on-twitter.png "Follow-us-on-twitter.png") | ![meetup-button.png](meetup-button.png "meetup-button.png") | ![Slack.png](Slack.png "Slack.png") |
+|                                                                                  |                                                             | \#chapter-rochester                 |
 
 [Join our announcements mailing
 list](https://groups.google.com/a/owasp.org/forum/#!forum/rochester-chapter-announce/join)
@@ -178,6 +179,30 @@ Rules](:Category:Chapter_Handbook "wikilink").
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>2019, May</p></td>
+<td><p>OWASP Amass Project</p></td>
+<td><p>Jeff Foley, Anthony Rhodes</p></td>
+<td><figure>
+<img src="16x16-icon-w-pdf.png" title="16x16-icon-w-pdf.png" alt="16x16-icon-w-pdf.png" /><figcaption>16x16-icon-w-pdf.png</figcaption>
+</figure></td>
+</tr>
+<tr class="even">
+<td><p>2019, April</p></td>
+<td><p>Ethical Web Hacking</p></td>
+<td><p>Jim Keeler</p></td>
+<td><figure>
+<img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
+</figure></td>
+</tr>
+<tr class="odd">
+<td><p>2018, December</p></td>
+<td><p>Introduction to Threat Modeling</p></td>
+<td><p>Jim Keeler</p></td>
+<td><figure>
+<img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
+</figure></td>
+</tr>
+<tr class="even">
 <td><p>2012, May <em>Mercury Networks Security Symposium</em></p></td>
 <td><p>I'll see your cross site scripting and raise you a Content Security Policy</p></td>
 <td><p>Lou Leone</p></td>
@@ -185,31 +210,31 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
 </figure></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2011, January</p></td>
 <td><p>State of OWASP and the State of Web Application Security by Ralph Durkee</p></td>
 <td><p>Ralph Durkee</p></td>
 <td><p><img src="16x16-icon-w-ppt.png" title="fig:16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /> <img src="16x16-icon-w-pdf.png" title="fig:16x16-icon-w-pdf.png" alt="16x16-icon-w-pdf.png" /></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010, August</p></td>
 <td><p>Man in the Middle Attacks: SSL Spoofing</p></td>
 <td><p>Duane Peifer</p></td>
 <td><p><img src="16x16-icon-w-ppt.png" title="fig:16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /> <img src="16x16-icon-w-pdf.png" title="fig:16x16-icon-w-pdf.png" alt="16x16-icon-w-pdf.png" /></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010, August</p></td>
 <td><p>Man in the Middle Attacks: SSL Spoofing</p></td>
 <td><p>Ralph Durkee</p></td>
 <td><p><img src="16x16-icon-w-ppt.png" title="fig:16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /> <img src="16x16-icon-w-pdf.png" title="fig:16x16-icon-w-pdf.png" alt="16x16-icon-w-pdf.png" /></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010, May</p></td>
 <td><p>New Techniques in Application Intrusion Detection</p></td>
 <td><p>Al Huizenga</p></td>
 <td><p><img src="16x16-icon-w-ppt.png" title="fig:16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /> <img src="16x16-icon-w-pdf.png" title="fig:16x16-icon-w-pdf.png" alt="16x16-icon-w-pdf.png" /></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010, May</p></td>
 <td><p>Identity Federation and Claim-based Security</p></td>
 <td><p>Andrea Cogliati</p></td>
@@ -217,7 +242,7 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-pdf.png" title="16x16-icon-w-pdf.png" alt="16x16-icon-w-pdf.png" /><figcaption>16x16-icon-w-pdf.png</figcaption>
 </figure></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010, February</p></td>
 <td><p>DC AppSec Conference Recap</p></td>
 <td><p>Ralph Durkee</p></td>
@@ -225,7 +250,7 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
 </figure></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009, October <em>October Hackerfest</em></p></td>
 <td><p>Introduction to OWASP Rochester</p></td>
 <td><p>Ralph Durkee, Lou Leone</p></td>
@@ -233,13 +258,13 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
 </figure></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009, September</p></td>
 <td><p>Securing Apache Web Servers with Mod Security &amp; CIS Benchmark</p></td>
 <td><p>Ralph Durkee</p></td>
 <td><p><img src="16x16-icon-w-ppt.png" title="fig:16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" />, <a href="Media:Durkee_Apache_2009_v7.odp" title="wikilink">ODP</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009, May</p></td>
 <td><p>Key Management - One Perspective</p></td>
 <td><p>Lou Leone</p></td>
@@ -247,7 +272,7 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
 </figure></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2009, May <em>IEEE</em></p></td>
 <td><p>Introduction to OWASP</p></td>
 <td><p>Ralph Durkee, Andrea Cogliati</p></td>
@@ -255,7 +280,7 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
 </figure></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2009, January</p></td>
 <td><p>Paranoid Programming Practices</p></td>
 <td><p>Lou Leone, Aaron Witt</p></td>
@@ -263,7 +288,7 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
 </figure></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008, May</p></td>
 <td><p>Database Encryption</p></td>
 <td><p>Ralph Durkee</p></td>
@@ -271,13 +296,13 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
 </figure></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008, January</p></td>
 <td><p>SQL Injection and Dynamic SQL</p></td>
 <td><p>Andrea Cogliati</p></td>
 <td><p><a href="Media:MoreSQL.zip" title="wikilink">ZIP</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007, September</p></td>
 <td><p>2007 OWASP Top 10 Most Critical Web Application Security Vulnerabilities</p></td>
 <td><p>Ralph Durkee</p></td>
@@ -285,7 +310,7 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
 </figure></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2006, October</p></td>
 <td><p>The first of the OWASP top ten: unvalidated input</p></td>
 <td><p>Steve Buck</p></td>
@@ -293,7 +318,7 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
 </figure></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2006, April</p></td>
 <td><p>PGP: Encryption for e-mail and web applications</p></td>
 <td><p>Ralph Durkee</p></td>
@@ -301,7 +326,7 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-pdf.png" title="16x16-icon-w-pdf.png" alt="16x16-icon-w-pdf.png" /><figcaption>16x16-icon-w-pdf.png</figcaption>
 </figure></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2006, February</p></td>
 <td><p>Identity Theft, Phishing and Pharming</p></td>
 <td><p>Danny Allan</p></td>
@@ -309,7 +334,7 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-pdf.png" title="16x16-icon-w-pdf.png" alt="16x16-icon-w-pdf.png" /><figcaption>16x16-icon-w-pdf.png</figcaption>
 </figure></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2006, February</p></td>
 <td><p>Secure e-mail</p></td>
 <td><p>Thomas Bullinger</p></td>
@@ -317,7 +342,7 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-pdf.png" title="16x16-icon-w-pdf.png" alt="16x16-icon-w-pdf.png" /><figcaption>16x16-icon-w-pdf.png</figcaption>
 </figure></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2006, January</p></td>
 <td><p>PCI Compliance</p></td>
 <td><p>Pat Massey, Ralph Durkee,</p>
@@ -326,25 +351,25 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-pdf.png" title="16x16-icon-w-pdf.png" alt="16x16-icon-w-pdf.png" /><figcaption>16x16-icon-w-pdf.png</figcaption>
 </figure></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2005, September</p></td>
 <td><p>Two Factor Authentication for Java Applications with Client Certificates</p></td>
 <td><p>Ralph Durkee</p></td>
 <td><p><img src="16x16-icon-w-pdf.png" title="fig:16x16-icon-w-pdf.png" alt="16x16-icon-w-pdf.png" />, <a href="http://rd1.net/owasp/DCI-Java-SSL-Certs-2005-09-19.sxi">SXI</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2005, April</p></td>
 <td><p>Avoiding Backend Exploitation of Mail Forms</p></td>
 <td><p>Max Kessler</p></td>
 <td><p><img src="16x16-icon-w-ppt.png" title="fig:16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" />, <a href="http://rd1.net/owasp/owasp-mailform-exploitation.sxi">SXI</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2005, March</p></td>
 <td><p>Bringing Two-Factor Authentication to Web Applications</p></td>
 <td><p>Michael Starks</p></td>
 <td><p><img src="16x16-icon-w-ppt.png" title="fig:16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" />, <a href="http://rd1.net/owasp/2005_Mar_OWASP_Two-factor%20Web%20App.ppt">SXI</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2005, February</p></td>
 <td><p>Insecure Storage</p></td>
 <td><p>Chris Karr</p></td>
@@ -352,13 +377,13 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
 </figure></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2005, January</p></td>
 <td><p>Access Control and Session Mgmnt</p></td>
 <td><p>Steve Buck</p></td>
 <td><p><img src="16x16-icon-w-ppt.png" title="fig:16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" />, <a href="http://rd1.net/owasp/Jan_OWASP-access-control.sxi">SXI</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2004, November</p></td>
 <td><p>Intro to OWASP</p></td>
 <td><p>Ralph Durkee</p></td>
@@ -366,7 +391,7 @@ Rules](:Category:Chapter_Handbook "wikilink").
 <img src="16x16-icon-w-ppt.png" title="16x16-icon-w-ppt.png" alt="16x16-icon-w-ppt.png" /><figcaption>16x16-icon-w-ppt.png</figcaption>
 </figure></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2004, November</p></td>
 <td><p>Demonstration of SQL Injection attack and prevention</p></td>
 <td><p>Paul Cupo</p></td>

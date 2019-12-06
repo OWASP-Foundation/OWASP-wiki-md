@@ -59,17 +59,12 @@ things application security.
 
 ## Chapter leaders
 
-  - [Pamela O'shea](Mailto:Pamela.oshea@owasp.org)
-
-| [@pamoshea](https://twitter.com/pamoshea)
-
-  - [Daniel Ting](mailto:Daniel.ting@owasp.org)
-
-| [@hellodanielting](https://twitter.com/hellodanielting)
-
-  - [Julian Berton](mailto:julian.berton@owasp.org)
-
-| [@JulianBerton](https://twitter.com/JulianBerton)
+  - [Pamela O'shea](Mailto:Pamela.oshea@owasp.org) |
+    [@pamoshea](https://twitter.com/pamoshea)
+  - [Daniel Ting](mailto:Daniel.ting@owasp.org) |
+    [@hellodanielting](https://twitter.com/hellodanielting)
+  - [Julian Berton](mailto:julian.berton@owasp.org) |
+    [@JulianBerton](https://twitter.com/JulianBerton)
 
 ## Contact
 

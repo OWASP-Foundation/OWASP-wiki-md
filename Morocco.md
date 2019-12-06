@@ -43,11 +43,20 @@ devienne un de vos contacts de référence.
 
 # Meetings 2019
 
-### OWASP Training Day at ONCF, 15th February 2019 on Rabat/Morocco
+## February 2019 Q1/2019
+
+### OWASP Training Day at ONCF, 15th February 2019 in Rabat/Morocco
 
 Azzeddine RAMRAMI will run a one full day developper training on OWASP,
-on 15th February 2019. Two others OWASP Morocco Chapter members will
-assist Azzeddine RAMRAMI during this training.
+on 15th February 2019.
+
+OWASP Morocco Chapter members running this session:
+
+Azzeddine RAMRAMI
+
+Abdessamad TEMMAR
+
+Abdessalam EL JAY
 
 **Location**: ONCF Club
 
@@ -83,12 +92,59 @@ assist Azzeddine RAMRAMI during this training.
 
 **Sponsor of this event:** MUNISYS (http://www.munisys.net.ma/)
 
-## Four chapters meetings in 2019: Q1, Q2, Q3 and Q4. See more soon.
+## June 2019 Q2/2019
 
-# Meetings 2018
+### OWASP Training Day at Mohammed VI Polytechnic University on June 27th, 2019 in Ben Guerir Marrakech/Morocco
 
-Welcome to the second edition of OWASP AppSec Morocco and Africa in
-Casablanca, Hotel Val d'Anfa on November 15-16, 2018.
+Azzeddine RAMRAMI with OWASP Morocco Team will run one full day
+developper training on workshop OWASP, on 27th June 2019.
+
+This session will run by Azzeddine RAMRAMI, Abdessalam ELJAI and Othmane
+TAGAMART.
+
+**Location**: Universite Mohamed VI Bengruir
+
+**City**: Ben Guerir / UM6P
+
+AdresseMohammed VI Polytechnic University 
+
+Lot 660, Hay Moulay Rachid Ben Guerir, 43150, Morocco
+
+**Country**: Morocco
+
+**Workshop Outline: Two sessions**
+
+  - Introduction à l'OWASP: Abdessalam JAY                             
+                                                                       
+                  09h00 - 09h30 
+  - L'état de l'art de la sécurité IoT: Othmane TAMAGARTI               
+                                                                       
+            09h30 - 10h30  
+  - Pause café                                                         
+                                                                       
+                                       10h30 - 11h00 
+  - Secure Coding Java & .NET with OWASP TOP 10 2017 Part 1: Azzeddine
+    RAMRAMI & Othmane TAMAGART   11h00 - 13h00 
+  - Pause déjeuner                                                     
+                                                                       
+                                    13h00 - 14h00 
+  - Secure Coding Java & .NET with OWASP TOP 10 2017 Part 2: Azzeddine
+    RAMRAMI & Othmane TAMAGART   14h00 - 16h00   
+  - Pause café                                                         
+                                                                       
+                                       16h00 - 16h30 
+  - Secure Coding Java & .NET with OWASP TOP 10 2017 Part 3: Azzeddine
+    RAMRAMI & Othmane TAMAGART   16h30 - 18h00  
+
+**Contact to subscription:
+[Azzeddine RAMRAMI](mailto:azzeddine.ramrami\(at\)owasp.org)
+**[<https://www.owasp.org/index.php/Morocco#tab=Meetings_2019>](Morocco "wikilink")
+
+**Sponsor of this event:** [Adam Ridson](https://www.adamridson.com)
+
+# Past Meeting Meetings 2018
+
+### Welcome to the second edition of OWASP AppSec Morocco and Africa in Casablanca, Hotel Val d'Anfa on November 15-16, 2018.
 
 <https://2018.appsecmorocco.org/agenda/>
 

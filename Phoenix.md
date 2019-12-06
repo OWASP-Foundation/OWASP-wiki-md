@@ -10,11 +10,12 @@ meeting space.
 
 ## Local News
 
-<font color="green">*Announcement: SecurityTitans 1-day conference is in
-Phoenix 02-23-2018. Registration and information can be found
-here:'*</font><http://www.securitytitans.org><font color="green">**'</font>
+<font color="green">*Announcement: CactusCon 2-day conference is in
+Mesa, AZ December 6 & 7. Registration and volunteer information can be
+found
+here:'*</font><https://www.cactuscon.com><font color="green">**</font><font color="green">**'</font>
 
-OWASP Phoenix 2018 Meetings
+OWASP Phoenix 2019 Meetings
 
 Meetings are announced depending on speaker's availability and are held
 6:30 PM - 8:00 PM-ish. Check this page or join the meetup group at
@@ -26,9 +27,185 @@ Afterward, we'll head to a local watering hole for socializing and fun.
 Every now and then we may change the venue or time in order to get
 participation from various parts of the community.
 
-## 2018 Meetings Calendar
+## 2019 Meetings Calendar
 
 This calendar will be updated as meetings are announced.
+
+**July 24, 2019 (6:15PM-7:45PM) - A Practical Approach to Secure Code
+Reviews**
+
+RSVP: <https://www.meetup.com/OWASP-Phoenix/events/262982992/>
+
+*Presenter:* Seth Law
+
+Location: **Early Warning**
+16552 N 90th St
+Ste 100
+Scottsdale, AZ 85260
+<https://goo.gl/maps/R8X2RdD2zr22>
+**Topics**: Let’s face it, performing a manual review of someone else’s
+source code is hard. It takes time, effort, expertise, and grit to
+actually figure out what the application does, how the developer
+implemented it, and if there should be any changes. From an application
+security perspective, this becomes even more difficult because of the
+security nuances of multiple languages that must be understood in order
+to identify and squash vulnerabilities. On top of that, most security
+reviews must be performed within a limited amount of time against more
+lines of code than recommended in standard code review best practices.
+
+After performing secure code reviews for over a decade, it becomes
+easier to identify a pattern and framework to address security concerns
+within code quickly and efficiently. This talk will introduce the
+Absolute AppSec Secure Code Review Framework to attendees and discuss
+lessons learned, code review tips and tricks, and strategies for quickly
+assessing code that can be used by reviewers immediately.
+
+**About the Speaker**:
+
+**Seth Law** is an experienced Application Security Professional with
+over 15 years of experience in the computer security industry. During
+this time, Seth has worked within multiple disciplines in the security
+field, from software development to network protection, both as a
+manager and individual contributor. Seth has honed his application
+security skills using offensive and defensive techniques, including tool
+development. Seth is employed as a security consultant, hosts the
+Absolute AppSec podcast with Ken Johnson, and is a regular speaker at
+developer meetups and security events, including Blackhat, Defcon,
+CactusCon, and other regional conferences.
+
+**June 19, 2019 (6:30PM-7:45PM) - The Danger of Exposing docker.sock**
+
+RSVP: <https://www.meetup.com/OWASP-Phoenix/events/262095694/>
+
+*Presenter:* Dejan Zelic
+
+Location: **Early Warning**
+16552 N 90th St
+Ste 100
+Scottsdale, AZ 85260
+<https://goo.gl/maps/R8X2RdD2zr22>
+**Topics**: Common containers such as traefik, nginx-proxy (jwilder),
+Netdata, vamp, and many more recommend exposing the Docker socket within
+the container. This configuration could allow for privilege and
+horizontal escalation in a Docker environment. Other services, like
+Portainer, could leave the entire host and other containers exposed on
+the Internet. In a recent blog post, Dejan explained the dangers of
+exposing the Docker Socket. During this talk he will explain the
+vulnerability and demo exploiting a Docker environment.
+
+**About the Speaker**:
+
+**Dejan Zelic** is a Content Devloper at Offensive Security, and was
+previously the Penetration Testing Team Lead at Early Warning. He enjoys
+teaching and mentoring others in security. His current interests involve
+tinkering with IoT, home automation, and competing in CTFs. Outside of
+technology, he enjoys playing soccer, woodworking, and gardening. He
+recently adopted a 3 year old Greyhound named Bellini.
+
+## 2018 Meetings Calendar
+
+**November 07, 2018 (6:30PM-7:30PM) - Women in Security**
+
+*Presenters:* Marija Strazdas
+
+Location: **Early Warning**
+16552 N 90th St
+Ste 100
+Scottsdale, AZ 85260
+<https://goo.gl/maps/R8X2RdD2zr22>
+**Topics**: In this session, Marija will talk on the tech world from a
+woman’s point of view, discussing how she got to where she is today, how
+Mentoring and Passion are what really propel you forward, (along with
+helping you pay it forward\!), and of course, she’ll talk about
+Security.
+
+**About the Speaker**:
+
+**Marija Strazdas** Marija has over 15 years of experience in
+technology, spanning from data center & cloud infrastructure, to
+software development, to security and compliance, including DR
+architecture. Marija has worked as a Principal Architect in Managed
+Hosting at NaviSite, and as both a Tier 1 and Tier 3 Systems Engineer at
+Lucent, along with SE roles at Telcordia/Bell Labs and Mobilcom. This
+experience has allowed her to develop a deep understanding of business’
+requirements of both security and availability, meshing perfectly with
+AlertLogic’s solutions and mission.
+**October 25, 2018 (6:00 - 10:00) - CMD + CTRL Web App Capture The Flag
+Hackathon, Training, Mentoring**
+
+*Presenters:* Security Innovations, Joaquin Fuentes & the Early Warning
+Penetration Testing Team "Savage Submarine"
+
+Location: **Early Warning**
+16552 N 90th St
+Ste 100
+Scottsdale, AZ 85260
+<https://goo.gl/maps/R8X2RdD2zr22>
+**Topics**: Unique in the industry, CMD+CTRL is an immersive and fun
+learning environment where you will exploit your way through hundreds of
+vulnerabilities that lurk in business applications today – and learn
+quickly that attack and defense are about thinking on your feet. Unlike
+gamification that mimics how an application should respond, CMD+CTRL
+comprises real websites, traffic, technologies, and vulnerabilities that
+represent actual application behavior. This unmatched realism brings the
+immediate gratification and long-term memory benefits of “learning by
+doing" that teams need in order to protect the enterprise.
+
+Security Innovation Will Provide
+
+Experts to lead attendees through this training session and hackathon
+which will introduce participants to core security concepts and provide
+insight into how hackers break into a web site leveraging common
+vulnerabilities, insecure practices and more\!
+
+This workshop is ideal for all skill levels – beginner to advanced.
+
+CMD+CTRL platform: a fully-featured Shadow Bank financial application to
+practice situational awareness like an attacker.
+
+Participants Will Need
+
+A laptop to connect to our CMD+CTRL website…and your evil streak\!
+
+**June 20, 2018 (6:15PM-7:45PM) - Practical IOT Exploitation - How to
+get started hacking IOT**
+
+*Presenter:* Aditya Gupta
+
+Location: **Early Warning**
+16552 N 90th St
+Ste 100
+Scottsdale, AZ 85260
+<https://goo.gl/maps/R8X2RdD2zr22>
+**Topics**: In this session, attendees will gain an in-depth
+understanding of the security vulnerabilities in the Internet of Things
+devices around us, how they can find vulnerabilities and exploit them.
+If you have never done IoT Exploitation or penetration testing of IoT
+devices earlier, this talk will help you get started.
+
+We will be mostly focusing on Smart Home devices, but the techniques
+would apply to pretty much any IoT device that you will encounter.
+
+Some of the topics that we will look at are:
+
+1\. Exploiting Communication protocols 2. Hardware hacking for IoT
+devices 3. Firmware RE techniques and Exploitation
+
+The talk contains both live demonstrations exploiting IoT components and
+would also share insights on the methodology to be used in order to
+perform pentesting of IoT devices.
+
+**About the Speaker**:
+
+**Aditya Gupta** is the founder of Attify, a specialized security firm
+offering training and penetration testing services for Internet of
+Things devices. He is also the author of IoT Hackers Handbook and IoT
+Pentesting Cookbook and has delivered talks and training at conferences
+such as BlackHat, DefCon, OWASP AppSec, Toorcon and others. His most
+recent project is the IoT Exploitation Learning Kit – a self-learning
+training solution to help security enthusiasts learn about IoT
+pentesting and gain hands-on experience of the tools and tactics.
+
 **April 05, 2018 (6:30PM-7:45PM) - Lightning Talks on Cool OWASP
 Projects**
 

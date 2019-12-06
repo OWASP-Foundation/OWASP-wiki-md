@@ -70,13 +70,13 @@ Agreement:日本語訳をご一読下さい](Speaker_Agreement:日本語訳 "wik
   - 2017/09/30 2017 OWASP World Tour Tokyo / Nagoya Satellite
   - 2017/10/16 OWASP Nagoya Chapter ミーティング 第２回
   - 2018/01/01 Update Board Member
-  - 2018/01/22 OWASP Nagoya Chapter ミーティング 第３回 ～オワスプナイト ナゴヤ～
-  - 2018/04/07 OWASP Nagoya Chapter ミーティング 第４回 /ハンズオン
+  - 2018/01/22 OWASP Nagoya Chapter ミーティング 第３回 / オワスプナイト ナゴヤ
+  - 2018/04/07 OWASP Nagoya Chapter ミーティング 第４回 / ハンズオン
       - 公開資料：[WPScanハンズオン](https://www.slideshare.net/owaspnagoya/wpscanwordpress),
         [セキュアなWordPressの構築](https://www.slideshare.net/owaspnagoya/owasp-wordpress-wordpress),
         [セキュアなWordPressの構築ハンズオン手順書](https://www.slideshare.net/owaspnagoya/owasp-wordpress-wordpress-95391444)
   - 2018/06/01 OWASP Nagoya Chapter ミーティング 第５回
-  - 2018/07/23 OWASP Nagoya Chapter ミーティング 第６回 ～オワスプナイト ナゴヤ \#2～
+  - 2018/07/23 OWASP Nagoya Chapter ミーティング 第６回 / オワスプナイト ナゴヤ
       - 公開資料：[@morihi_socさん「ハニーポットと脆弱性スキャン」](https://speakerdeck.com/morihi_soc/hanipotutotocui-ruo-xing-sukiyan),
         [@ookura1978さん「ハニーポットで見えた！？危険なユーザーIDとパスワード」](https://speakerdeck.com/okura/owasupunaitonagoya-number-2-ltzi-liao)
   - 2018/09/15 OWASP Day 758 / 2018 (OWASP Nagoya Chapter ミーティング 第７回）
@@ -84,7 +84,7 @@ Agreement:日本語訳をご一読下さい](Speaker_Agreement:日本語訳 "wik
         [はせがわようすけさん「脆弱性診断を通じて見えてくるWebセキュリティ」](https://speakerdeck.com/hasegawayosuke/cui-ruo-xing-zhen-duan-wotong-zitejian-etekuruwebsekiyuritei)
   - 2019/01 **株式会社エヌ・ティ・ティ ネオメイトが、ローカルチャプターサポーターとなりました。ありがとうございます！**
   - 2019/02/02 MINI Hardening & OWASP 名古屋
-  - 2019/02/08 OWASP Nagoya Chapter ミーティング \#9
+  - 2019/02/08 OWASP Nagoya Chapter ミーティング 第9回
       - 公開資料：[田中隆博さん「OWASP Top 10(2017)
         Serverlessでの解釈」](https://www.slideshare.net/TakahiroTanaka/owasp-top-10-serverless),
         [西村将利さん「OWASP Top 10 2017 AWS WAF テンプレート
@@ -93,28 +93,40 @@ Agreement:日本語訳をご一読下さい](Speaker_Agreement:日本語訳 "wik
 
 <!-- end list -->
 
-  - 2019/04/15 OWASP Nagoya Chapter ミーティング 第10回 ～オワスプナイト ナゴヤ \#3～
+  - 2019/04/15 OWASP Nagoya Chapter ミーティング 第10回 / オワスプナイト ナゴヤ
+  - 2019/06/22 OWASP Nagoya Chapter ミーティング 第11回 / ハンズオン
+  - 2019/08/19 OWASP Nagoya Chapter ミーティング 第12回 / オワスプナイト ナゴヤ
+  - 2019/09/14 OWASP Nagoya Chapter ミーティング 第13回 / OWASP 758 Day
+  - 2019/11/15 OWASP Nagoya Chapter ミーティング 第14回
 
 ## イベント情報
 
-### OWASP Nagoya Night \#3
+### OWASP Nagoya Chapter ミーティング 第14回
 
-  - 日時 : 2019年04月15日（月） 19:30 〜 21:00
-  - 会場 : 名古屋ギークバー/Club Adriana
-  - 事前登録：https://owaspnagoya.connpass.com/event/124225/
+  - 日時 : 2019年11月15日(金) 19:00～ (受付18:30)
+  - 会場 : [名古屋市市民活動推進センター](http://www.n-vnpo.city.nagoya.jp/)
+  - 定員 : 40人
+  - 申込 : <https://owaspnagoya.connpass.com/event/150957/>
 
-LT大会を開催します。セキュリティに関して気楽に飲みながら食べながら懇談しましょう！
+#### 開催内容
+
+  -
+    第14回のChapterミーティングは、「OWASP TOP 10 2017」をテーマに勉強会を行います。
+    また、参加者同士でアプリケーションのセキュリティについてざっくばらんに対話するフリーディスカッションも行います。
+
+
+
 
 # About OWASP Nagoya Chapter Member
 
   - Chapter Leaders
       - [Isanori Sakanashi](mailto:isanori.sakanashi@owasp.org)
       - [Takeshi Murai](mailto:takeshi.murai@owasp.org)
+      - [Yukiharu Niwa](mailto:yukiharu.niwa@owasp.org)
   - Chapter Board Members
       - [Shigeru Inoue](mailto:shigeru.inoue@owasp.org)
       - Kengo Shimizu
       - Mayuko Komiyama
-      - [Yukiharu Niwa](mailto:yukiharu.niwa@owasp.org)
       - Hiroki Koishikura
   - Chapter Board Advisor
       - [Takayuki Taniguchi](mailto:takayuki.taniguchi@owasp.org)
@@ -130,7 +142,55 @@ Owasp Nagoyaのスタッフも募集をしております。
 
 # Past Event\&Meeting / 過去のイベント(2019)
 
-### OWASP Nagoya チャプターミーティング \#9
+### OWASP Nagoya Chapter ミーティング 第13回 ～ OWASP DAY 758 / 2019 ～
+
+  - 日時 : 2019年9月14日(土) 13:30～ (受付13:00)
+  - 会場 : 株式会社中電シーティーアイ　東桜第一ビル
+  - 事前登録：[<https://owaspnagoya.connpass.com/event/133814/>](https://owaspnagoya.connpass.com/event/138814/)
+
+Open Web Application Security Project(OWASP) の名古屋で開催する年1回の大イベント
+
+OWASP Day 758 / 2019 は、Vuls開発者の神戸　康多 氏とOWASP ZAP
+エバンジェリストの亀田　勇歩氏にお越しいただき、「セキュリティ関係ツールを理解し、正確に使いこなそう」についてご講演いただきます。
+
+<hr />
+
+### OWASP Nagoya Chapter ミーティング 第12回 / オワスプナイト ナゴヤ
+
+  - 日時 : 2019年08月19日（月） 19:30 〜 21:00
+  - 会場 : 名古屋ギークバー/Club Adriana
+  - 事前登録：https://owaspnagoya.connpass.com/event/133998/
+
+参加者の皆さんで楽しく飲んで食べてセキュリティを語って！熱いOWASPの夜を過ごしましょう！
+
+<hr />
+
+### OWASP Nagoya Chapter ミーティング 第11回 / ハンズオン
+
+  - 日時 : 2019年6月22日(土) 13:30 ～ 17:00
+  - 会場 : 株式会社中電シーティーアイ（CTIイノベーションLab（ラボ））
+  - 事前登録：https://connpass.com/event/131179/
+
+#### イベント概要
+
+  - OWASP TOP 10のリスクを体感してみよう
+  - 【初心者大歓迎！】やられWebアプリケーションをつかってOWASP TOP 10に掲載されている脆弱性を自分の手で実感してみよう！
+  - 今回はOWASP Kansaiで開催した「やられWebアプリケーション」へ実際に攻撃をかけることで、OWASP TOP 10
+    に掲載されている脆弱性を自分の手で実感してみるハンズオンイベントになります。
+
+<hr />
+
+### OWASP Nagoya Chapter ミーティング 第10回 / オワスプナイト ナゴヤ
+
+  - 日時 : 2019年04月15日（月） 19:30 〜 21:00
+  - 会場 : 名古屋ギークバー/Club Adriana
+  - 事前登録：https://owaspnagoya.connpass.com/event/124225/
+
+LT大会を開催します。セキュリティに関して気楽に飲みながら食べながら懇談しましょう！
+
+<hr />
+
+### OWASP Nagoya Chapter ミーティング 第9回
 
   - 日時 : 2019年02月08日(金) 19:00〜20:30
   - 会場 : [名古屋市市民活動推進センター](http://www.n-vnpo.city.nagoya.jp/map.html)
@@ -177,6 +237,8 @@ Owasp Nagoyaのスタッフも募集をしております。
 | 13:45 - 17:30 | Micro Hardening競技 45min/回 \* 3回（休憩含む） | 株式会社川口設計 川口洋氏           |
 | 13:45 - 17:30 | Softning                              | 株式会社川口設計 川口洋氏           |
 | 17:45 - 18:00 | クロージング                                | OWASP Nagoya Chapter 坂梨 |
+
+<hr />
 
 ### OWASP Nagoya Chapter ミーティング 第７回 ～ OWASP DAY 758 / 2018 ～
 
@@ -232,6 +294,8 @@ Chapter 井上 |- |16:15 |クロージング | |}
         Black Hat Japan 2008、韓国POC 2008、2010、OWASP AppSec APAC
         2014他講演多数。
 
+<hr />
+
 ### OWASP Nagoya Chapter ミーティング 第６回 ～オワスプナイト ナゴヤ～
 
   - 日時 : 2018年7月23日(月) 19:30～
@@ -264,6 +328,8 @@ Chapter 井上 |- |16:15 |クロージング | |}
 | 20:30 - 20:45 | 歓談(魅惑のOWASPタイム)                    | 参加者皆さん                 |
 | 20:45 - 20:55 | 今後の活動について                          | OWASP Nagoya リーダ 村井、坂梨 |
 | 21:00         | 解散                                 |                        |
+
+<hr />
 
 ### OWASP Nagoya Chapter ミーティング 第５回 /
 
@@ -299,6 +365,8 @@ Chapter 井上 |- |16:15 |クロージング | |}
 | 20:40 - 20:50 | フリーディスカッション                         |
 | 21:00         | 解散                                  |
 |               |                                     |
+
+<hr />
 
 ### OWASP Nagoya Chapter ミーティング 第４回 / ハンズオン
 
@@ -388,6 +456,8 @@ Chapter 井上 |- |16:15 |クロージング | |}
 </tbody>
 </table>
 
+<hr />
+
 ### OWASP Nagoya Chapter ミーティング 第３回 ～オワスプナイト ナゴヤ～
 
   - 会場 : [名古屋ギークバー（Club Adriana）](http://www.club-adriana.com/)
@@ -403,12 +473,13 @@ Chapter 井上 |- |16:15 |クロージング | |}
       -
         {| class="wikitable"
 
-|- \! 時間 \!\! 内容 \!\! 発表者 |- | 18:45 | | 開場 | | |- | 19:00 - 19:15 | |
-OWASP Nagoya運営からの説明 & カンパイ！ | | OWASP Nagoya リーダ 坂梨 |- | 19:15 - | |
-LT1「OWASP Nagoyaを始めたらこうなった」 | | TakeshiMuraiさん |- | | |
-LT2「WordPressの基本的なセキュリティ対策」 | | Masatoshi_Nishimuraさん |- | 20:00
-- 20:30 | | 歓談(魅惑のOWASPタイム) | | 参加者皆さん |- | 20:30〜 | | <s>LT3「募集中」</s> |
-| <s>募集中</s> |- | | | <s>LT4「募集中」</s> | | <s>募集中</s> |- |
+|- \! 時間 \!\! 内容 \!\! 発表者 |- | 18:45 || 開場 || |- | 19:00 - 19:15 ||
+OWASP Nagoya運営からの説明 & カンパイ！|| OWASP Nagoya リーダ 坂梨 |- | 19:15 - ||
+LT1「OWASP Nagoyaを始めたらこうなった」 || TakeshiMuraiさん |- | ||
+LT2「WordPressの基本的なセキュリティ対策」 || Masatoshi_Nishimuraさん |- |
+20:00 - 20:30 || 歓談(魅惑のOWASPタイム) || 参加者皆さん |- | 20:30〜 ||
+<s>LT3「募集中」</s> || <s>募集中</s> |- | || <s>LT4「募集中」</s> ||
+<s>募集中</s> |- |
 
 <div style="text-align:right">
 
@@ -416,9 +487,9 @@ LT2「WordPressの基本的なセキュリティ対策」 | | Masatoshi_Nishimur
 
 </div>
 
-| | LT5「Web型ハニーポットつかってみました」 | | Marseilleさん |- | 21:15 - 21:30 | |
-今後の活動について | | OWASP Nagoya リーダ 坂梨、村井 |- | 21:00 | | 歓談、解散 |
-| |}
+|| LT5「Web型ハニーポットつかってみました」 || Marseilleさん |- | 21:15 - 21:30 ||
+今後の活動について || OWASP Nagoya リーダ 坂梨、村井 |- | 21:00 ||
+歓談、解散 || |}
 
 # (2017)
 
@@ -469,6 +540,8 @@ LT2「WordPressの基本的なセキュリティ対策」 | | Masatoshi_Nishimur
       - OWASP Nagoya運営からの説明 Owasp Nagoya Chapterリーダ 村井
       - 「2017 OWASP World Tour Tokyo / Nagoya Satellite」東京会場から中継
 
+<hr />
+
 ### 2017 OWASP World Tour Tokyo / Nagoya Satellite 第２サテライト会場
 
   - 日時 : 2017年 9月 30日土曜日 10:00～18:30 10:30スタート
@@ -484,6 +557,8 @@ LT2「WordPressの基本的なセキュリティ対策」 | | Masatoshi_Nishimur
   - プログラム
       - OWASP Nagoya運営からの説明 Owasp Nagoya Chapterリーダ 坂梨
       - 「2017 OWASP World Tour Tokyo / Nagoya Satellite」東京会場から中継
+
+<hr />
 
 ### OWASP Nagoya Local Chapter Meeting(Day) 1st **〜OWASPが名古屋にやってくる！〜**
 

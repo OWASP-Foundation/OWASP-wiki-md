@@ -117,80 +117,73 @@ página de **[proyectos de OWASP](:Category:OWASP_Project "wikilink")**
 <table>
 <thead>
 <tr class="header">
-<th><p>align="center" width="160"</p></th>
-<th><p>Fecha</p></th>
-<th><p>align="center" width="740"</p></th>
-<th><p>Eventos</p></th>
+<th style="text-align: center;"><p>Fecha</p></th>
+<th style="text-align: center;"><p>Eventos</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Febrero 2019</p></td>
-<td><p><strong>GDG Security4Devs</strong> <a href="https://www.meetup.com/gdgneuquen/events/258894662/">GDG Neuquen</a></p></td>
-<td></td>
-<td></td>
+<td style="text-align: center;"><p>Julio 2019</p></td>
+<td style="text-align: center;"><p><strong>Informal Meeting</strong></p>
+<p><strong>Lugar:</strong> General Roca</p></td>
 </tr>
 <tr class="even">
-<td><p>Abril 2018</p></td>
-<td><p><strong>OWASP Latam Tour</strong></p>
+<td style="text-align: center;"><p>Abril 2019</p></td>
+<td style="text-align: center;"><p><strong>OWASP Latam Tour</strong></p>
+<p><strong>Lugar:</strong> Aula Magna. Universidad de Comahue</p>
+<p><a href="LatamTour2019" title="wikilink">LatamTour2019</a></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>Febrero 2019</p></td>
+<td style="text-align: center;"><p><strong>GDG Security4Devs</strong> <a href="https://www.meetup.com/gdgneuquen/events/258894662/">GDG Neuquen</a></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>Abril 2018</p></td>
+<td style="text-align: center;"><p><strong>OWASP Latam Tour</strong></p>
 <p><strong>Lugar:</strong> Aula Magna. Universidad de Comahue</p>
 <p><a href="LatamTour2018" title="wikilink">LatamTour2018</a></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>Noviembre 2017</p></td>
-<td><p><strong>OWASP DAY</strong></p>
+<td style="text-align: center;"><p>Noviembre 2017</p></td>
+<td style="text-align: center;"><p><strong>OWASP DAY</strong></p>
 <p><strong>Lugar:</strong> Microcine Curza, Viedma (Rio Negro)</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>Mayo 2017</p></td>
-<td><p><strong>OWASP Meeting</strong></p>
+<td style="text-align: center;"><p>Mayo 2017</p></td>
+<td style="text-align: center;"><p><strong>OWASP Meeting</strong></p>
 <p><strong>Lugar:</strong> ENET Nro 1 (General Roca)</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>Abril 2017</p></td>
-<td><p><strong>OWASP Latam Tour</strong></p>
+<td style="text-align: center;"><p>Abril 2017</p></td>
+<td style="text-align: center;"><p><strong>OWASP Latam Tour</strong></p>
 <p><strong>Lugar:</strong> Aula Magna. Universidad de Comahue</p>
 <p><a href="LatamTour2017" title="wikilink">LatamTour2017</a></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>Abril 2016</p></td>
-<td><p><strong>OWASP Latam Tour</strong></p>
+<td style="text-align: center;"><p>Abril 2016</p></td>
+<td style="text-align: center;"><p><strong>OWASP Latam Tour</strong></p>
 <p><strong>Lugar:</strong> Facultad de Informatica. Universidad de Comahue</p>
 <p><a href="LatamTour2016" title="wikilink">LatamTour2016</a></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>Diciembre 2015</p></td>
-<td><p><strong>OWASP Appsec Rio de la Plata</strong><br />
+<td style="text-align: center;"><p>Diciembre 2015</p></td>
+<td style="text-align: center;"><p><strong>OWASP Appsec Rio de la Plata</strong><br />
 <strong>Lugar:</strong> Montevideo - Uruguay <strong>Fechas:</strong><br />
 2 y 3 de Diciembre: Conferencias. <a href="http://www.appsecriodelaplata.org/">AppsecLatam</a><br />
 <br />
 <img src="AppsecRDLP2015-GastonToth.jpeg" title="fig:AppsecRDLP2015-GastonToth.jpeg" alt="AppsecRDLP2015-GastonToth.jpeg" width="150" /><br />
 <em>Gracias OWASP Uruguay por recibirnos tan amablemente en este gran evento<br />
 </em></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>Abril 2015</p></td>
-<td><p><strong>OWASP Latam Tour</strong><br />
+<td style="text-align: center;"><p>Abril 2015</p></td>
+<td style="text-align: center;"><p><strong>OWASP Latam Tour</strong><br />
 <strong>Lugar:</strong> Facultad de Informatica. Universidad de Comahue <strong>Fechas:</strong><br />
 10/4: Conferencias libres y gratuitas. Disertantes de nivel internacional.<br />
 11/4: Curso "Hacking de aplicaciones web basado en OWASP Top 10", por Cristian Borghello.<br />
 <br />
 Click <a href="https://www.regonline.com/owasplatamtour15patagonia">aquí</a> para registrarse en el evento.<br />
 Mas información en: <a href="https://www.owasp.org/index.php/Patagonia#Latam_Tour_2015">Latam Tour - Pataginia</a></p></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -206,8 +199,9 @@ Mas información en: <a href="https://www.owasp.org/index.php/Patagonia#Latam_To
 <td><p><strong>Fotos</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>style="background:white"</p></td>
 <td><p><img src="TourPatagonia2015_Slides.jpg" title="fig:TourPatagonia2015_Slides.jpg" alt="TourPatagonia2015_Slides.jpg" width="150" /><br />
+</p></td>
+<td><p><img src="TourPatagonia2015_Fotos.png" title="fig:TourPatagonia2015_Fotos.png" alt="TourPatagonia2015_Fotos.png" width="150" /><br />
 </p></td>
 </tr>
 </tbody>
@@ -354,8 +348,9 @@ Universidad Nacional del Comahue, Buenos Aires 1400, Neuquén
 <td><p><strong>Fotos (LatamTour 2016)</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>style="background:white"</p></td>
 <td><p><img src="TourPatagonia2015_Slides.jpg" title="fig:TourPatagonia2015_Slides.jpg" alt="TourPatagonia2015_Slides.jpg" width="150" /><br />
+</p></td>
+<td><p><img src="TourPatagonia2015_Fotos.png" title="fig:TourPatagonia2015_Fotos.png" alt="TourPatagonia2015_Fotos.png" width="150" /><br />
 </p></td>
 </tr>
 </tbody>
@@ -415,11 +410,11 @@ Universidad Nacional del Comahue, Buenos Aires 1400, Neuquén
 
 ### Latam Tour en años anteriores
 
-| align="center" width="302"                                                                             |                                                                                                           | align="center" width="302"                                                                                |  | align="center" width="302" |  |
-| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |  | -------------------------- |  |
-| ![Tour2015Patagonia_Riancho.JPG](Tour2015Patagonia_Riancho.JPG "Tour2015Patagonia_Riancho.JPG")       | ![Tour2015Patagonia_Caracciolo.JPG](Tour2015Patagonia_Caracciolo.JPG "Tour2015Patagonia_Caracciolo.JPG") | ![Tour2015Patagonia_Sorondo.JPG](Tour2015Patagonia_Sorondo.JPG "Tour2015Patagonia_Sorondo.JPG")          |  |                            |  |
-| ![Tour2015Patagonia_Borghello.JPG](Tour2015Patagonia_Borghello.JPG "Tour2015Patagonia_Borghello.JPG") | ![Tour2015Patagonia_Graziosi.JPG](Tour2015Patagonia_Graziosi.JPG "Tour2015Patagonia_Graziosi.JPG")       | ![Tour2015Patagonia_Campetella.JPG](Tour2015Patagonia_Campetella.JPG "Tour2015Patagonia_Campetella.JPG") |  |                            |  |
-| ![Tour2015Patagonia_Pulseras.JPG](Tour2015Patagonia_Pulseras.JPG "Tour2015Patagonia_Pulseras.JPG")    | ![Tour2015Patagonia_Break1.JPG](Tour2015Patagonia_Break1.JPG "Tour2015Patagonia_Break1.JPG")             | ![Tour2015Patagonia_Break2.JPG](Tour2015Patagonia_Break2.JPG "Tour2015Patagonia_Break2.JPG")             |  |                            |  |
+|                                                                                                        |                                                                                                           |                                                                                                           |
+| :----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+|    ![Tour2015Patagonia_Riancho.JPG](Tour2015Patagonia_Riancho.JPG "Tour2015Patagonia_Riancho.JPG")    | ![Tour2015Patagonia_Caracciolo.JPG](Tour2015Patagonia_Caracciolo.JPG "Tour2015Patagonia_Caracciolo.JPG") |     ![Tour2015Patagonia_Sorondo.JPG](Tour2015Patagonia_Sorondo.JPG "Tour2015Patagonia_Sorondo.JPG")      |
+| ![Tour2015Patagonia_Borghello.JPG](Tour2015Patagonia_Borghello.JPG "Tour2015Patagonia_Borghello.JPG") |    ![Tour2015Patagonia_Graziosi.JPG](Tour2015Patagonia_Graziosi.JPG "Tour2015Patagonia_Graziosi.JPG")    | ![Tour2015Patagonia_Campetella.JPG](Tour2015Patagonia_Campetella.JPG "Tour2015Patagonia_Campetella.JPG") |
+|  ![Tour2015Patagonia_Pulseras.JPG](Tour2015Patagonia_Pulseras.JPG "Tour2015Patagonia_Pulseras.JPG")   |       ![Tour2015Patagonia_Break1.JPG](Tour2015Patagonia_Break1.JPG "Tour2015Patagonia_Break1.JPG")       |       ![Tour2015Patagonia_Break2.JPG](Tour2015Patagonia_Break2.JPG "Tour2015Patagonia_Break2.JPG")       |
 
 ### Patrocinio
 
@@ -469,20 +464,20 @@ Viernes 20 de abril, Neuquén. De 9:30hs a 17:00hs
 
 ## Agenda
 
-| style="background-color: \#30608f; color:\#FFF;" width="100" align="center" | Hora                        | style="background-color: \#30608f; color:\#FFF;" width="400" align="center" | Conferencia                                       | style="background-color: \#30608f; color:\#FFF;" width="150" align="center" | Expositor | style="background-color: \#30608f; color:\#FFF;" width="150" align="center" | Pais |
-| --------------------------------------------------------------------------- | --------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------- | ---- |
-| 09:30 - 10:00                                                               | style="text-align: center;" | Acreditacion                                                                |                                                   |                                                                             |           |                                                                             |      |
-| 10:00 - 10:15                                                               | style="text-align: center;" | Presentación                                                                | OWASP Patagonia                                   |                                                                             |           |                                                                             |      |
-| 10:15 - 10:55                                                               | style="text-align: center;" | De la paranoia a la utopía                                                  | Stéphane Bürgi                                    | Cordoba, Arg                                                                |           |                                                                             |      |
-| 10:55 - 11:25                                                               | style="text-align: center;" | Pausa para café                                                             |                                                   |                                                                             |           |                                                                             |      |
-| 11:25 - 12:05                                                               | style="text-align: center;" | Webapp Pentesting                                                           | Gastón Toth                                       | General Roca, Arg                                                           |           |                                                                             |      |
-| 12:05 - 12:45                                                               | style="text-align: center;" | DevSecOps - 2 Fast 2 Furious                                                | Luciano Moreira da Cruz y Leonardo Federico Rosso | Buenos Aires, Arg                                                           |           |                                                                             |      |
-| 12:45 - 14:15                                                               | style="text-align: center;" | Almuerzo                                                                    |                                                   |                                                                             |           |                                                                             |      |
-| 14:15 - 14:55                                                               | style="text-align: center;" | Bypass en dispositivos móviles                                              | Marcelo Romero                                    | Buenos Aires, Arg                                                           |           |                                                                             |      |
-| 14:55 - 15:35                                                               | style="text-align: center;" | Inseguridad en alarmas para vehículos                                       | Leandro Ferrari                                   | Mar del Plata, Arg.                                                         |           |                                                                             |      |
-| 15:35 - 16:05                                                               | style="text-align: center;" | Pausa para café                                                             |                                                   |                                                                             |           |                                                                             |      |
-| 16:05 - 16:45                                                               | style="text-align: center;" | Malware bancario. Historia de un robo real                                  | Jaime Andrés Restrepo                             | Manizales, Colombia                                                         |           |                                                                             |      |
-| 16:45 - 16:55                                                               | style="text-align: center;" | Sorteo                                                                      |                                                   |                                                                             |           |                                                                             |      |
+|     Hora      |                Conferencia                 |                     Expositor                     |        Pais         |
+| :-----------: | :----------------------------------------: | :-----------------------------------------------: | :-----------------: |
+| 09:30 - 10:00 |                Acreditacion                |                                                   |                     |
+| 10:00 - 10:15 |                Presentación                |                  OWASP Patagonia                  |                     |
+| 10:15 - 10:55 |         De la paranoia a la utopía         |                  Stéphane Bürgi                   |    Cordoba, Arg     |
+| 10:55 - 11:25 |              Pausa para café               |                                                   |                     |
+| 11:25 - 12:05 |             Webapp Pentesting              |                    Gastón Toth                    |  General Roca, Arg  |
+| 12:05 - 12:45 |        DevSecOps - 2 Fast 2 Furious        | Luciano Moreira da Cruz y Leonardo Federico Rosso |  Buenos Aires, Arg  |
+| 12:45 - 14:15 |                  Almuerzo                  |                                                   |                     |
+| 14:15 - 14:55 |       Bypass en dispositivos móviles       |                  Marcelo Romero                   |  Buenos Aires, Arg  |
+| 14:55 - 15:35 |   Inseguridad en alarmas para vehículos    |                  Leandro Ferrari                  | Mar del Plata, Arg. |
+| 15:35 - 16:05 |              Pausa para café               |                                                   |                     |
+| 16:05 - 16:45 | Malware bancario. Historia de un robo real |               Jaime Andrés Restrepo               | Manizales, Colombia |
+| 16:45 - 16:55 |                   Sorteo                   |                                                   |                     |
 
 ## ¿Dónde?
 
@@ -495,6 +490,66 @@ Neuquén
 
 ![<File:PosterLatamtour_2018-Patagonia.jpg>](PosterLatamtour_2018-Patagonia.jpg
 "File:PosterLatamtour_2018-Patagonia.jpg")
+
+# Latam Tour 2019
+
+## **OWASP Latam Tour en la Patagonia, Argentina**
+
+Invitamos a estudiantes, desarrolladores, expertos en seguridad
+informática y curiosos en general a compartir con la comunidad de OWASP
+un nuevo evento en la Patagonia\! Será una jornada de charlas técnicas,
+en un ambiente relajado e ideal para conocer otras personas interesadas
+en la seguridad en aplicaciones.
+
+![LatamTour2017-Patagonia.png](LatamTour2017-Patagonia.png
+"LatamTour2017-Patagonia.png")
+![Tour2015Patagonia_Break.JPG](Tour2015Patagonia_Break.JPG
+"Tour2015Patagonia_Break.JPG")
+![Tour2015Patagonia_Break2.JPG](Tour2015Patagonia_Break2.JPG
+"Tour2015Patagonia_Break2.JPG") ![Neuquen.png](Neuquen.png
+"Neuquen.png")
+
+## Registro
+
+El registro a las charlas es libre y gratuito.
+[<REGISTRO AQUI>](https://owasp-patagonia-latamtour19.eventbrite.com.ar)
+
+Viernes 26 de abril, Neuquén. De 9:00hs a 17:00hs
+
+## Agenda
+
+A partir de las 9:00hs estaremos en el salón para realizar la
+acreditación, a las 10:00hs inician las charlas.
+
+|     Hora      |                           Conferencia                            |    Expositor    |                                         Slides                                          |
+| :-----------: | :--------------------------------------------------------------: | :-------------: | :-------------------------------------------------------------------------------------: |
+| 09:00 - 10:00 |                           Acreditación                           |                 |                                                                                         |
+| 10:00 - 10:15 |                           Presentación                           |   Gaston Toth   |                                                                                         |
+| 10:15 - 10:55 |   The Art of Persistence: "Mr. Windows... I don't wanna go :("   |  Sheila Berta   |           [Descargar](media:Sheila-Berta-Malware-Persistance.pdf "wikilink")            |
+| 10:55 - 11:25 |                         Pausa para café                          |                 |                                                                                         |
+| 11:25 - 12:05 |           Quien no espía el mundo, es porque no quiere           |  Alvaro Chirou  |                  [Descargar](media:Alvaro-Chirou-OSINT.pdf "wikilink")                  |
+| 12:05 - 12:45 |               Rompiendo Autenticaciones Federadas                | Nahuel Grisolia |  [Descargar](media:Nahuel-Grisolia-Rompiendo-autenticaciones-federadas.pdf "wikilink")  |
+| 12:45 - 14:15 |                       Pausa para almuerzo                        |                 |                                                                                         |
+| 14:15 - 14:25 |                        Charla sobre CSIRT                        | Victor Figueroa |                 [Descargar](media:Victor-Figueroa-CSIRT.pdf "wikilink")                 |
+| 14:25 - 14:35 |                Pentesting de aplicaciones móviles                | Gustavo Sorondo | [Descargar](media:TourPatagonia2015_Mobile_Apps_and_How_to_Pentest_Them.pdf "wikilink") |
+| 14:35 - 15:05 |                         Pausa para café                          |                 |                                                                                         |
+| 15:05 - 15:45 | Accediendo a Secretos Corporativos a través de Videoconferencias | Yamila Levalle  |               [Descargar](media:Yamila-Levalle-M33tfinder.pdf "wikilink")               |
+| 15:45 - 16:25 |                    Let the RAT be your fr1end                    |  Daniel Isler   |                                                                                         |
+
+## Agradecimientos
+
+Agradecemos a Kosten Security y Dreamlab Technologies por colaborar con
+el Tour Latinoamericano de OWASP
+
+![Kosten.png](Kosten.png "Kosten.png") ![Dreamlab.png](Dreamlab.png
+"Dreamlab.png")
+
+## ¿Dónde?
+
+**Viernes 26**
+Aula Magna, Universidad Nacional del Comahue, Buenos Aires 1400,
+Neuquén
+![AulaMagna.png](AulaMagna.png "AulaMagna.png")
 
 # OWASP Day
 
@@ -565,8 +620,8 @@ CURZA, Monseñor Esandi y Ayacucho, Viedma, Rio Negro, Argentina
 
 ### Patrocinadores
 
-| align="center" width="200" | ![Logo-curza.png](Logo-curza.png "Logo-curza.png") | align="center" width="200" | ![Logo-altec.png](Logo-altec.png "Logo-altec.png") | align="center" width="200" | ![Legislatura.png](Legislatura.png "Legislatura.png") |
-| -------------------------- | -------------------------------------------------- | -------------------------- | -------------------------------------------------- | -------------------------- | ----------------------------------------------------- |
+| ![Logo-curza.png](Logo-curza.png "Logo-curza.png") | ![Logo-altec.png](Logo-altec.png "Logo-altec.png") | ![Legislatura.png](Legislatura.png "Legislatura.png") |
+| :------------------------------------------------: | :------------------------------------------------: | :---------------------------------------------------: |
 
 __NOTOC__ <headertabs></headertabs>
 

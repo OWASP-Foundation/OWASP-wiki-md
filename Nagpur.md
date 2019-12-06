@@ -5,7 +5,8 @@ the other resources
 
 **[`1.Persistent``   ``Systems``
  ``Ltd.`](http://www.persistent.com/)**
-**[`2.Deep``   ``Learning`](http://cluesys.com/)**
+**[`2.Cluesys`](http://cluesys.com/)**
+**[`3.CTZ``   ``Lab`](http://ctzlab.com/)**
 
 ## Information
 
@@ -13,11 +14,13 @@ This Chapter's vision is to spread awareness about the Application
 Security among the citizens of Nagpur.It will conduct meets every now
 and then about the trends in the security community.
 
+**Join OWASP Nagpur Google Group at link below**
+![Owaspnagpurwithnotext.png](Owaspnagpurwithnotext.png
+"Owaspnagpurwithnotext.png")\]
+
 ## Local News
 
 ## Upcoming Events & Meets
-
-**Will Be Updated Soon**
 
 **Note: The meetups of Chapter are always free to attend.Just come with
 an open mind and willingness to share and learn.**
@@ -36,6 +39,12 @@ Meet</u>](https://www.owasp.org/index.php/OWASP_Nagpur_Nov_2018)**
 <u>**[OWASP Nagpur Feb 2019 Monthly
 Meet](https://www.owasp.org/index.php/OWASP_Nagpur_Feb_2019)**</u>
 
+[**<u>OWASP Nagpur May 2019 Monthly
+Meet</u>**](https://www.owasp.org/index.php/OWASP_Nagpur_May_2019)
+
+**[<u>OWASP Nagpur Oct 2019 Monthly
+Meet</u>](https://www.owasp.org/index.php/OWASP_Nagpur_Oct_2019)**
+
 ## Gallery
 
 ![Attendees.jpg](Attendees.jpg "Attendees.jpg")
@@ -49,9 +58,8 @@ leaders on the email about your content/research.
 
 ## Twitter Handle
 
-![Click Here to [Follow](https://twitter.com/OwaspNagpur)
-|169x169px](Twitter_wide.jpg "Click Here to Follow |169x169px")
-**[Follow Us](https://twitter.com/OwaspNagpur) on Twitter to Stay
-updated about upcoming meets.**
+![Twitter_wide.jpg](Twitter_wide.jpg "Twitter_wide.jpg") **[Follow
+Us](https://twitter.com/OwaspNagpur) on Twitter to Stay updated about
+upcoming meets.**
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")

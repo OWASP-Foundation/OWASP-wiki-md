@@ -1,22 +1,18 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>width="700" align="center"</p></th>
-<th><p><br />
+<th style="text-align: center;"><p><br />
 </p></th>
-<th><p>width="500" align="center"</p></th>
-<th><p><br />
+<th style="text-align: center;"><p><br />
 </p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>align="center"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="OWASP_Poland_logo.png" title="Image:OWASP_Poland_logo.png" alt="Image:OWASP_Poland_logo.png" /><figcaption>Image:OWASP_Poland_logo.png</figcaption>
 </figure></td>
-<td><p>align="center"</p></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -38,7 +34,7 @@ Gołygowski](mailto:lgolygowski@gmail.com).
 
 ## Current events
 
-### [OWASP Poland Day](http://owaspday.pl/) - Oct 10 2018
+### [OWASP Poland Day](http://owaspday.pl/) - Oct 16 2019
 
 **Most accurate list of our events can be found at**
 [**Meetup**](http://www.meetup.com/owasp-poland/).
@@ -51,22 +47,29 @@ Papers [form](https://goo.gl/forms/BHdTGELgTxvkAQEt2).
 ## Chapter Supporters
 
 OWASP Poland thanks its Chapter Supporters:
-![Imperva_logo.png](Imperva_logo.png "Imperva_logo.png") - Platinum
+
+![Softserve_logo.jpg](Softserve_logo.jpg "Softserve_logo.jpg") -
+Platinum Chapter Supporter
+
+![EY_logo_150x150.png](EY_logo_150x150.png "EY_logo_150x150.png")-
+Platinum Chapter Supporter
+
+
+![Radware_logo.png](Radware_logo.png "Radware_logo.png")- Platinum
 Chapter Supporter
-![Qualys_logo.png](Qualys_logo.png "Qualys_logo.png") - Platinum
-Chapter Supporter
-![BlueSEC_logo.png](BlueSEC_logo.png "BlueSEC_logo.png") - Gold Chapter
-Supporter
+
+![Checkmarx_logo_OWASP.png](Checkmarx_logo_OWASP.png
+"Checkmarx_logo_OWASP.png")- Platinum Chapter Supporter
+
+
 ![Securing_logo_cmyk_150.png](Securing_logo_cmyk_150.png
 "Securing_logo_cmyk_150.png") - Gold Chapter Supporter
 ![KPMG_logo.png](KPMG_logo.png "KPMG_logo.png") - Silver Chapter
 Supporter
-![TestArmy_logo.png](TestArmy_logo.png "TestArmy_logo.png") - Silver
-Chapter Supporter
-![Logo_akquinet_150x80.jpg](Logo_akquinet_150x80.jpg
-"Logo_akquinet_150x80.jpg") - Silver Chapter Supporter
+![Bluesec.png](Bluesec.png "Bluesec.png") - Silver Chapter Supporter
 
-If your company wishes to support our chapter, please contact [Wojciech
+If your company wishes to support our chapter, please contact [Alexander
+Antukh](mailto:alexander.antukh@owasp.org) or [Wojciech
 Dworakowski](mailto:wojciech.dworakowski@owasp.org) (terms and
 conditions: <https://www.owasp.org/index.php/Membership>).
 

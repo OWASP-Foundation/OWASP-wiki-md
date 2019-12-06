@@ -55,6 +55,7 @@ Supporter](Single_Meeting_Supporter "wikilink")(過去1年間に会場をご提�
 
   - [学校法人ＫＢＣ学園　専修学校 国際電子ビジネス専門学校](http://www.kbc.ac.jp/) 様
   - [株式会社サイダス](http://www.cydas.com/) 様
+  - [株式会社モノクラム](https://www.monocram.co.jp/) 様
 
 ## Join OWASP Okinawa\!\!
 
@@ -89,9 +90,118 @@ Supporter](Single_Meeting_Supporter "wikilink")(過去1年間に会場をご提�
 OWASP OkinawaはOWASP
 Night/Meetingとして、セミナーや持ち込みのライトニングトークの形で行われる、Webセキュリティに関心のある方が集う、楽しくカジュアルな勉強会を開催しています。スキル、役職、業種、国籍、性別、年齢関係なく、遠慮なくお越しください。およそ、三ヶ月に一度の頻度で、このミーティングを開催していきます。
 
+### 2019/12/13 OWASP Evening Okinawa \#14
+
+  - 日時: 12月13日金曜日 18:30スタート
+      - 会場: 株式会社モノクラム 様
+      - 入場無料
+      - 定員 : 30人
+      - 事前登録/registration(ドタキャン禁止・事前登録必要):
+        <https://owasp-okinawa.doorkeeper.jp/events/100700>
+  - プログラム
+      - セッション「OWASP Top 10 2017 A8:2017 - 安全でないデシリアライゼーション」伊波さん(15分)
+      - セッション「自動で脆弱性診断を行うOWASP ZAP環境(in docker)の話」飯田さん(30分)
+      - LT
+          - 「タイトル未定」島尻さん(10分)
+          - 「開発未経験者がセキュリティエンジニアとしてキャリアを模索する話 Part2」石嶺さん(10分)
+          - 「Road to Ethical Hacker」多和田さん(10分)
+
+## NEWS
+
+### 2019/08
+
+[株式会社サイバーエージェント](https://www.cyberagent.co.jp/)様が、ローカルチャプターにドネーションしてくださり、ローカルチャプターサポーターとなりました。ありがとうございます。
+
+### 2019/08
+
+[株式会社シーエー・アドバンス](https://www.ca-adv.co.jp/)様が、ローカルチャプターにドネーションしてくださり、ローカルチャプターサポーターとなりました。ありがとうございます。
+
+### 2019/03/09
+
+OWASP
+OkinawaのメーリングリストがMailmanからGoogleグループに変わります(Okinawa以外のOWASPのメーリングリストも変わります)
+新しいメーリングリストは[こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/okinawa-chapter)です。現在のメーリングリストに登録されている方はお手数ですが、Googleグループの方に再登録をお願いします。
+手順はGoogleグループの[ページ](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/okinawa-chapter)か[こちら](https://docs.google.com/document/d/1sSZQRYZvsBbvu9c-okKID53RlmIc79xS8zRRnguR1uk)の資料をご確認ください。
+切り替えの経緯などは[こちらをご覧ください](Staff-Projects/Mailman-EOL "wikilink")。現在のMailmanのメーリングリストは2019/03/22にシャットダウンされます。
+
+### 2018/08/30
+
+株式会社サイバーエージェント様が、ローカルチャプターにドネーションしてくださり、ローカルチャプターサポーターとなりました。ありがとうございます。
+
+### 2018/08/29
+
+株式会社シーエー・アドバンス様が、ローカルチャプターにドネーションしてくださり、ローカルチャプターサポーターとなりました。ありがとうございます。
+
+### 2016/06/28
+
+株式会社シーエー・アドバンス様が、ローカルチャプターにドネーションしてくださり、ローカルチャプターサポーターとなりました。ありがとうございます。
+
+### 2016/06/21
+
+株式会社サイバーエージェント様が、ローカルチャプターにドネーションしてくださり、ローカルチャプターサポーターとなりました。ありがとうございます。
+
+# Closed Event / これまでのイベント
+
+## OWASP Night / Day Meeting
+
+### 2019
+
+### 2019/10/12 Attack & Defense in Okinawa \#2
+
+  - 日時: 10月12日土曜日 13:00スタート
+      - 会場: 株式会社モノクラム様
+      - 入場無料
+      - 定員 : 15人
+      - 事前登録/registration(ドタキャン禁止・事前登録必要):
+        <https://owasp-okinawa.doorkeeper.jp/events/97237>
+  - プログラム
+      - ワークショップ「Attack & Defense」
+
+### 2019/09/13 OWASP Evening Okinawa \#13
+
+  - 日時: 09月13日金曜日 18:30スタート
+      - 会場: 国際電子ビジネス専門学校 様
+      - 入場無料
+      - 定員 : 30人
+      - 事前登録/registration(ドタキャン禁止・事前登録必要):
+        <https://owasp-okinawa.doorkeeper.jp/events/96584>
+  - プログラム
+      - セッション「OWASP Top 10 2017 A7:2017 - クロスサイトスクリプティング
+        (XSS)」多和田さん(30分)
+      - セッション「脆弱性を修正する人たちに修正する技術を伝える活動」大城さん(30分)
+      - LT
+          - 「CSRF対策のこれから」安里さん(10分)
+          - 「セキュリティ業界動向」牧田さん(10分)
+
+### 2019/07/20 Attack & Defense in Okinawa \#1
+
+  - 日時: 06月21日土曜日 13:00スタート
+      - 会場: 株式会社モノクラム様
+      - 入場無料
+      - 定員 : 15人
+      - 事前登録/registration(ドタキャン禁止・事前登録必要):
+        <https://owasp-okinawa.doorkeeper.jp/events/93030>
+  - プログラム
+      - ワークショップ「Attack & Defense」
+
+### 2019/06/21 OWASP Evening Okinawa \#12
+
+  - 日時: 06月21日金曜日 18:30スタート
+      - 会場: 株式会社モノクラム様
+      - 入場無料
+      - 定員 : 30人
+      - 事前登録/registration(ドタキャン禁止・事前登録必要):
+        <https://owasp-okinawa.doorkeeper.jp/events/92628>
+  - プログラム
+      - セッション「OWASP Top 10 2017 A6:不適切なセキュリティ設定」大木さん(30分)
+      - セッション「Docker裏口入門」柏崎さん(30分)
+      - LT
+          - 「ぼくのかんがえたさいきょうのぱすわーどかんりじゅつ」川満昭範さん(10分)
+          - 「CTFd：CTFシステムのワークショップへの応用」shiromaさん(10分)
+
 ### 2019/03/07 OWASP Evening Okinawa \#11
 
-  - 日時: 03月07日**木**曜日 18:30スタート
+  - 日時: 03月07日木曜日 18:30スタート
       - 会場: 株式会社サイダス様
       - 入場無料
       - 定員 : 30人
@@ -106,38 +216,6 @@ Night/Meetingとして、セミナーや持ち込みのライトニングトー�
           - 「[OWASP
             ZAPで脆弱性診断士気分を味わってみた話](https://speakerdeck.com/pirox07_dora/owasp-zapde-cui-ruo-xing-zhen-duan-shi-qi-fen-wowei-watutemitahua)」石川さん(10分)
           - 「webアプリケーションエンジニアを卒業して脆弱性診断員になった話」大城さん(10分)
-
-## NEWS
-
-### 2019/03/09
-
-OWASP
-OkinawaのメーリングリストがMailmanからGoogleグループに変わります(Okinawa以外のOWASPのメーリングリストも変わります)
-新しいメーリングリストは[こちら](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/okinawa-chapter)です。現在のメーリングリストに登録されている方はお手数ですが、Googleグループの方に再登録をお願いします。
-手順はGoogleグループの[ページ](https://groups.google.com/a/owasp.org/forum/?hl=ja#!forum/okinawa-chapter)か[こちら](https://docs.google.com/document/d/1sSZQRYZvsBbvu9c-okKID53RlmIc79xS8zRRnguR1uk)の資料をご確認ください。
-切り替えの経緯などは[こちらをご覧ください](Staff-Projects/Mailman-EOL "wikilink")。現在のMailmanのメーリングリストは2019/03/22にシャットダウンされます。
-
-### 2018/08/30
-
-株式会社サイバーエージェント様が、ローカルチャプターにドネーションしてくださり、チャプターサポーターとなりました。ありがとうございます。
-
-### 2018/08/29
-
-株式会社シーエー・アドバンス様が、ローカルチャプターにドネーションしてくださり、チャプターサポーターとなりました。ありがとうございます。
-
-### 2016/06/28
-
-株式会社シーエー・アドバンス様が、ローカルチャプターにドネーションしてくださり、チャプターサポーターとなりました。ありがとうございます。
-
-### 2016/06/21
-
-株式会社サイバーエージェント様が、ローカルチャプターにドネーションしてくださり、チャプターサポーターとなりました。ありがとうございます。
-
-# Closed Event / これまでのイベント
-
-## OWASP Night / Day Meeting
-
-### 2019
 
 ### 2018
 
@@ -360,6 +438,7 @@ Supporter](Single_Meeting_Supporter "wikilink")(過去1年間に会場をご提�
 
   - [学校法人ＫＢＣ学園　専修学校 国際電子ビジネス専門学校](http://www.kbc.ac.jp/) 様
   - [株式会社サイダス](http://www.cydas.com/) 様
+  - [株式会社モノクラム](https://www.monocram.co.jp/) 様
 
 グローバルのThe OWASP Foundationや、沖縄ローカルの活動を担う OWASP
 Okinawaの活動を支援することに関心を持ってくださる企業・個人の皆様のために、会員制度があります。スポンサーのレベルに応じて、OWASPのグローバルメンバーシップページ、あるいはこのページにロゴと社名の掲示、リンクの設置などが可能になります。

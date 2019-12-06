@@ -24,9 +24,68 @@ Creative Common 3.0 license.
 
 ## Past OWASP Meetings
 
-**March 2019 Meeting / Container and Cloud Security (Talk + Workshop)**
+**October 2019 Meeting / Secure Coding Training/CTF** **(Talk +
+Workshop)**
 
-When: March 16, 2019
+When: Wednesday, October 30, 2019
+
+Where: [Procore](https://www.procore.com/) Offices - 6309 Carpinteria
+Avenue, Carpinteria, CA 93013
+
+<https://www.meetup.com/Santa-Barbara-OWASP-Chapter/events/265462401/>
+
+Lighting talk: OWASP Intro, by Walter Martín Villalba (OWASP) [Info /
+Slides /
+Pictures](https://drive.google.com/drive/folders/1EhwaR6MvnpMycCd5JCcYQm187ufV0kWQ?usp=sharing)
+
+Workshop: Secure Coding Training/CTF, by Laura Jilke (Secure Code
+Warrior) ----**August 2019 Meeting / Web-app Security Training/CTF
+(Workshop)**
+
+When: Thursday, August 22, 2019
+
+Where: [InTouch Health](https://www.intouchhealth.com) Offices - 7402
+Hollister Ave (Building 2), Goleta, CA 93117
+
+<https://www.meetup.com/Santa-Barbara-OWASP-Chapter/events/263596915/>
+
+Lighting talk: OWASP Intro, by Walter Martín Villalba (OWASP)
+[Pictures](https://drive.google.com/drive/folders/1z7NG6Q44uZIrhou4IvXlPw2TmElW_bDG?usp=sharing)
+
+Workshop: Web-app Security Training & CTF, by Security Innovation
+----**July 2019 Meeting / Network & Web-app Pentesting** **(Workshop)**
+
+When: Wednesday, July 31, 2019
+
+Where: [InTouch Health](https://www.intouchhealth.com) Offices - 7402
+Hollister Ave (Building 2), Goleta, CA 93117
+
+<https://www.meetup.com/Santa-Barbara-OWASP-Chapter/events/263498918/>
+
+Workshop: Basic Network & Web-app Pentesting, by Walter Martín Villalba
+& Armin Akhbari [Info /
+Pictures](https://drive.google.com/drive/folders/1h7EDg7GEweecnTMUk2VkClXeLiJBcgUN?usp=sharing)
+----**June 2019 Meeting / Web Application Security** **(Talk +
+Workshop)**
+
+When: Friday, June 28, 2019
+
+Where: [InTouch Health](https://www.intouchhealth.com) Offices - 7402
+Hollister Ave (Building 2), Goleta, CA 93117
+
+<https://www.meetup.com/Santa-Barbara-OWASP-Chapter/events/262349237/>
+
+<u>Speakers</u>
+
+  - Talk: Web API and React Security, by Jim Manico - [Slides /
+    Pictures](https://bit.ly/2L8apJc)
+  - Workshop: Learning Appsec Testing & OWASP Top Ten, by Jason Haddix
+    [Slides / Pictures](https://bit.ly/2L8apJc)
+
+\----**March 2019 Meeting / Container and Cloud Security (Talk +
+Workshop)**
+
+When: Saturday, March 16, 2019
 
 Where: [Lastline](https://www.lastline.com/) Offices - 6950 Hollister
 Ave \#101, Goleta, CA 93117
@@ -35,10 +94,12 @@ Ave \#101, Goleta, CA 93117
 
 <u>Speakers</u>
 
-  - Talk: Cloud Security on the Dollar Menu, by Michael Wylie -
-    [Slides](https://drive.google.com/drive/folders/1zT3ufrtwtikRJ6diENPdXNMrF4Kvxp8u?usp=sharing)
-  - Workshop: Securing Kubernetes the Hard Way, by Jimmy Mesta -
-    [Slides](https://drive.google.com/drive/folders/1zT3ufrtwtikRJ6diENPdXNMrF4Kvxp8u?usp=sharing)
+  - Talk: Cloud Security on the Dollar Menu, by Michael Wylie - [Slides
+    /
+    Pictures](https://drive.google.com/drive/folders/1zT3ufrtwtikRJ6diENPdXNMrF4Kvxp8u?usp=sharing)
+  - Workshop: Securing Kubernetes the Hard Way, by Jimmy Mesta - [Slides
+    /
+    Pictures](https://drive.google.com/drive/folders/1zT3ufrtwtikRJ6diENPdXNMrF4Kvxp8u?usp=sharing)
 
 \----**February 2019 Meeting / SB CTF (joint event)**
 
@@ -160,7 +221,8 @@ by Jason Haddix
 
 ## Upcoming Conferences
 
-AppSec California 2020 - Jan/Feb 2020, exact date TBD.
+AppSec California 2020 - Jan 21-24, 2020 --
+<https://2020.appseccalifornia.org/>
 
 ## Past Conferences
 

@@ -1,9 +1,185 @@
-## Upcoming Events
+__NOTOC__
 
-Events also need to be listed in the [OCMS
-system](https://www.tfaforms.com/301382).
+## OWASP New Zealand
+
+Welcome to the OWASP New Zealand chapter homepage.
+
+The chapter leaders are [Kim Carter](mailto:kim.carter@owasp.org)
+(Christchurch), [Kirk Jackson](mailto:kirk.jackson@owasp.org)
+(Wellington), and [John DiLeo](mailto:john.dileo@owasp.org) (Auckland).
+
+### Keeping in Touch
+
+  - Chapter Mailing List (Google Groups):
+    [New-Zealand-Chapter@owasp.org](mailto:new-zealand-chapter@owasp.org)
+    - [Join the
+    Group](https://groups.google.com/a/owasp.org/forum/#!forum/new-zealand-chapter/join)
+  - [InfoSecNZ Workspace](https://infosecnz.slack.com) on Slack - Be
+    sure to join the \#events channel for calendar notices (NOTE: By
+    design, we do not maintain a separate Slack Workspace for the New
+    Zealand chapter)
+  - Follow us on [Twitter](https://www.twitter.com/owaspnz) (@owaspnz)
+
+Some Global OWASP Resources:
+
+  - [Directory of OWASP's Google
+    Groups](https://groups.google.com/a/owasp.org/forum/?hl=en#!forumsearch/)
+  - [OWASP Workspace](https://owasp.slack.com) on Slack
+
+## OWASP New Zealand Chapter Board
+
+We are always looking for additional board members to evangelise the
+OWASP mission, help with meetings, projects and initiatives. As we all
+know, it takes time/effort to run a chapter. Please contact us if you
+are interested in joining the NZ OWASP board, would like to volunteer to
+help out or create a new Meetup/event, or for any queries related to
+OWASP NZ.
+
+  - <b>NZ Board Member (Leader - Christchurch)</b> [Kim
+    Carter](mailto:kim.carter@owasp.org)
+    ([@binarymist](https://www.twitter.com/binarymist))
+  - <b>NZ Board Member (Leader - Auckland)</b> [John
+    DiLeo](mailto:john.dileo@owasp.org)
+    ([@gr4ybeard](https://www.twitter.com/gr4ybeard))
+  - <b>NZ Board Member (Leader - Wellington)</b> [Kirk
+    Jackson](mailto:kirk.jackson@owasp.org)
+    ([@kirkj](https://www.twitter.com/kirkj))
+
+# Upcoming Events
+
+## Local Meetup Links
+
+  - [OWASP New Zealand
+    Chapter-Auckland](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/)
+  - [OWASP New Zealand
+    Chapter-Christchurch](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/)
+  - [OWASP New Zealand
+    Chapter-Wellington](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/)
+
+## ''' 2020 '''
+
+![NZDay_2020_web_banner.jpg](NZDay_2020_web_banner.jpg
+"NZDay_2020_web_banner.jpg")
+**19 - 21 February 2020**
+
+[OWASP New Zealand
+Day 2020](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2020) -
+University of Auckland Business School
+
+  -
+    One-day conference, with two tracks on Friday, 21 February -
+    Registration is FREE
+    Training sessions (half-day, one-day, or two-day) on Wednesday and
+    Thursday, 19 - 20 February - Registration: $325 for half-day; $625
+    for one-day; $1250 for two-day (plus EventBrite fees)
 
 ## *' 2019*'
+
+**10 December 2019**
+
+[Auckland
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141559/)
+
+  -
+    **Top Ten Discussion:** A7 - Cross-Site Scripting (XSS) - Led by
+    John DiLeo
+    **Presentation:** TBC
+    **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
+
+# Past Events
+
+## Past Events
+
+### 2019
+
+**8 October 2019**
+
+[Auckland
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141543/)
+
+  -
+    **Top Ten Discussion:** A6 - Security Misconfiguration - Led by
+    James Ting-Edwards
+    **Presentation:** What's In a Name? Law of Agency and Domain Name
+    Registrations - Judy Ting-Edwards
+    **Venue Host:** Simon White
+    **Location:** Middleware NZ, 104 Quay Street, CBD, Auckland
+
+<hr />
+
+<div style="background-color: black;">
+
+![Logo-security_ac_nz.png](Logo-security_ac_nz.png
+"Logo-security_ac_nz.png")
+
+</div>
+
+**24 - 25 August 2019**
+
+OWASP NZ is proud to invite you to our first <https://security.ac.nz>
+event. Please visit the [website](https://security.ac.nz) for details.
+
+  -
+    **Registration:** FREE
+    **Location:** Maclaurin Lecture Theatres, Victoria University of
+    Wellington
+
+<hr />
+
+**13 August 2019**
+
+[Auckland
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141559/)
+
+  -
+    **Top Ten Discussion:** A9 - Using Components with Known
+    Vulnerabilities - Led by John DiLeo
+    **Technical Discussion:** Addressing Vulnerable Components with
+    OWASP Projects and Tools - John DiLeo
+    **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
+
+<hr />
+
+**10 August 2019**
+
+[Auckland Training
+Day](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/262858250/)
+
+  -
+    **Threat Modelling: Getting from None to Done** - John DiLeo
+    **Registration:** $125.00 (plus EventBrite fees), inclusive of
+    morning and afternoon tea, lunch, and class materials
+    **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
+
+<hr />
+
+**11 June 2019**
+
+[Auckland
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141477/)
+
+  -
+    **Top Ten Discussion:** A5 - Broken Access Control - Led by John
+    DiLeo
+    **Technical Topic:** My Recent Adventures at OWASP Conferences -
+    John DiLeo
+    **Location:** Robert Walters, Level 9, 22 Fanshawe Street, CBD,
+    Auckland
+
+<hr />
+
+**9 April 2019**
+
+[Auckland
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/257141431/)
+
+  -
+    **Top Ten Discussion:** A4 - XML External Entities (XXE) - Led by
+    John DiLeo
+    **Open Discussion:** What do we want to do this year?
+    **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
+
+<hr />
 
 [<https://www.owasp.org/images/e/e3/NZDay_2019_web_banner.jpg>](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2019)
 **21 - 22 February 2019**
@@ -18,39 +194,41 @@ University of Auckland Business School
     Training sessions (half-day or full-day) on Thursday, 21 February -
     Registration: $500 for full-day; $250 for half-day
 
-## ''' 2018 '''
+<hr />
+
+### 2018
 
 **11 December 2018**
 
-[Meetup - OWASP New
-Zealand-Auckland](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/249448666/)
+[Auckland
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/249448666/)
 
   -
-    **Top Ten Focus:** A4 - XML External Entities (XXE)
-    **Technical Topic:** TBC
+    **Top Ten Discussion:** A2 - Broken Authentication - Led by John
+    DiLeo
+    **Technical Topic:** Some Thoughts on Threat Modelling - John DiLeo
     **Location:** Orion Health, [181 Grafton Road, Grafton,
     Auckland](https://www.google.co.nz/maps/place/181+Grafton+Rd,+Grafton,+Auckland+1010)
 
-<!-- end list -->
+<hr />
 
-  - 29 Oct 2018
+**29 October 2018**
 
-[OWASP NZ Wellington Meetup
-page](https://www.meetup.com/OWASP-Wellington/events/255158934/)
+[Wellington
+Meetup](https://www.meetup.com/OWASP-Wellington/events/255158934/)
 
   -
-    **Make the Cyber Safer with Multi-factor Authentication - with Kevin
-    Thomas**
+    **Presentation:** Make the Cyber Safer with Multi-factor
+    Authentication - Kevin Thomas
     **Video:** [1](https://www.youtube.com/watch?v=lAkw24tClvQ)
     **Location:** Wellington
-    **Presented by:** Kevin Thomas
 
-<!-- end list -->
+<hr />
 
-  - **9 October 2018**
+**9 October 2018**
 
-[Meetup - OWASP New
-Zealand-Auckland](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/255158934/)
+[Auckland
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/255158934/)
 
   -
     **Technical Topic:** Integrating the Weakforced Security API - Steve
@@ -58,86 +236,88 @@ Zealand-Auckland](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/even
     **Location:** Cornerstone On-Demand, Level 1, 29 Union Street,
     Auckland
 
-<!-- end list -->
+<hr />
 
-  - 27 Aug 2018
+**27 August 2018**
 
-[OWASP NZ Wellington Meetup
-page](https://www.meetup.com/OWASP-Wellington/events/253077472/)
+[Wellington
+Meetup](https://www.meetup.com/OWASP-Wellington/events/253077472/)
 
   -
-    **Developer's guide to Deserialization Attack with Felix Shi**
+    **Presentation:** Developer's guide to Deserialization Attack -
+    Felix Shi
     **Video:** [2](https://www.youtube.com/watch?v=Gi-Pk255Jyw)
     **Location:** Wellington
-    **Presented by:** Felix Shi
 
-<!-- end list -->
+<hr />
 
-  - **14 August 2018**
+**14 August 2018**
 
-[Meetup - OWASP New
-Zealand-Auckland](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/249448651/)
+[Auckland
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/249448651/)
 
   -
-    **Top Ten Focus:** A3 - Sensitive Data Exposure
-    **Technical Topic:** Web Application Penetration Testing Demo -
-    Shofe Miraz
+    **Top Ten Discussion:** A3 - Sensitive Data Exposure - Led by John
+    DiLeo
+    **Presentation:** Web Application Penetration Testing Demo - Shofe
+    Miraz
     **Location:** Orion Health, [181 Grafton Road, Grafton,
     Auckland](https://www.google.co.nz/maps/place/181+Grafton+Rd,+Grafton,+Auckland+1010)
 
-<!-- end list -->
+<hr />
 
-  - **12 June 2018**
+**12 June 2018**
 
-[Meetup - OWASP New
-Zealand-Auckland](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)
+[Auckland
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)
 
   -
-    **Top Ten Focus:** A2 - Broken Authentication
-    **Technical Topic:** GDPR and New Zealand Privacy Law - James
+    **Presentation:** GDPR and New Zealand Privacy Law - James
     Ting-Edwards
     **Location:** InternetNZ, 62 Victoria Street West, Auckland CBD,
     Auckland
 
-<!-- end list -->
+<hr />
 
-  - 11 June 2018
+**11 June 2018**
 
-[OWASP NZ Wellington Meetup
-page](https://www.meetup.com/OWASP-Wellington/events/250629813/)
+[Wellington
+Meetup](https://www.meetup.com/OWASP-Wellington/events/250629813/)
 
   -
-    **What are certificates? with Matt Cotterell**
+    **Presentation:** What are certificates? - Matt Cotterell
     **Location:** Wellington
-    **Presented by:** Matt Cotterell
 
-<!-- end list -->
+<hr />
 
-  - **10 April 2018**
+**10 April 2018**
 
-[Meetup - OWASP New
-Zealand-Auckland](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)
+[Auckland
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Auckland/events/mcvvmpyxgbnb/)
 
   -
-    **Top Ten Focus:** A1 - Injection
-    **Technical Topic:** OWASP Software Assurance Maturity Model (SAMM)
-    - John DiLeo
+    **Top Ten Discussion:** A1 - Injection - Led by John DiLeo
+    **Presentation:** OWASP Software Assurance Maturity Model (SAMM) -
+    John DiLeo
     **Location:** Orion Health, 181 Grafton Road, Grafton, Auckland
 
-<!-- end list -->
+<hr />
 
-  - ; 28 March 2018 [OWASP NZ Christchurch Meetup
-    page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241803609/)
-    : **CERT NZ**
+**28 March 2018**
+
+[Christchurch
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241803609/)
+
+  - : **CERT NZ**
     : **Location:** Christchurch
     : **Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
-<!-- end list -->
+<hr />
 
   - 26 Feb 2018
 
-[OWASP NZ Wellington Meetup
-page](https://www.meetup.com/OWASP-Wellington/events/246852662/)
+[Wellington
+Meetup](https://www.meetup.com/OWASP-Wellington/events/246852662/)
 
   -
     **CERT NZ - Who are we? How are websites getting hacked in real
@@ -146,87 +326,30 @@ page](https://www.meetup.com/OWASP-Wellington/events/246852662/)
     **Location:** Wellington
     **Presented by:** Declan Ingram
 
-<!-- end list -->
-
-  - 5 Feb 2018
+<hr />
 
 [<https://www.owasp.org/images/5/53/NZ_day_2018_web.jpg>](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2018)
 
-OWASP NZ Day 2018 will be held on Monday the 5th of February 2018 at the
-University of Auckland School of Business.
+**4 - 5 February 2018**
 
-**Gold Sponsors:**
+[OWASP New Zealand
+Day 2018](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2018) -
+University of Auckland Business School
 
-<table width="100%" border="0" cellspacing="7" cellpadding="0">
+  -
+    One-day conference, with two tracks on Monday, 5 February -
+    Registration is FREE
+    Training session (full-day) on Sunday, 4 February - Registration:
+    $500
 
-<tr>
+<hr />
 
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/2/27/Zx.png>](http://www.zxsecurity.co.nz/)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/e/ef/INSOMNIA.PNG>](http://www.insomniasec.com)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/e/ef/Aura_PBK_Colour.jpg>](http://www.aurainfosec.com/)
-
-</center>
-
-</td>
-
-</tr>
-
-</table>
-
-
-
-## ''' 2017 '''
+### 2017
 
   - 2 Oct 2017
 
-[OWASP NZ Wellington Meetup
-page](https://www.meetup.com/OWASP-Wellington/events/242968218/)
+[Wellington
+Meetup](https://www.meetup.com/OWASP-Wellington/events/242968218/)
 
   -
     **Presentation:** Same-origin policy: The core of web security
@@ -234,12 +357,12 @@ page](https://www.meetup.com/OWASP-Wellington/events/242968218/)
     **Location:** Wellington
     **Presented By:** Kirk Jackson
 
-<!-- end list -->
+<hr />
 
   - 27 Sept 2017
 
-[OWASP NZ Christchurch Meetup
-page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241328587/)
+[Christchurch
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/241328587/)
 
   -
     **Securing your data (your business) using SQL Server 2016**
@@ -247,12 +370,12 @@ page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/24132
     **Location:** Christchurch
     **Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
-<!-- end list -->
+<hr />
 
   - 31 July 2017
 
-[OWASP NZ Wellington Meetup
-page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/241187473/)
+[Wellington
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/241187473/)
 
   -
     **Presentation:** What is Cross-Site Request Forgery?
@@ -260,12 +383,12 @@ page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/2411874
     **Location:** Wellington
     **Presented By:** Vales Bakaitis
 
-<!-- end list -->
+<hr />
 
   - 28 June 2017
 
-[OWASP NZ Christchurch Meetup
-page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)
+[Christchurch
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)
 
   -
     **Web Developer Quiz Night**
@@ -276,12 +399,12 @@ page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/23634
     **Location:** Christchurch
     **Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
-<!-- end list -->
+<hr />
 
   - 29 May 2017
 
-[OWASP NZ Wellington Meetup
-page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/239202702/)
+[Wellington
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/239202702/)
 
   -
     **Presentation:** Developer's Guide to Preventing XSS
@@ -289,142 +412,26 @@ page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/2392027
     **Location:** Wellington
     **Presented By:** Felix Shi
 
-<!-- end list -->
-
-  - 19th and 20th of April 2017
+<hr />
 
 [<https://www.owasp.org/images/6/63/OWASP_NZ_Day_2017_logo.jpg>](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2017)
+**19 - 20 April 2017**
 
-At the University of Auckland School of Business
+[OWASP New Zealand
+Day 2017](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2017) -
+University of Auckland Business School
 
-**Gold Sponsors:**
+  -
+    One-day conference, with two tracks on Thursday, 20 April -
+    Registration is FREE
+    Training sessions (half-day and full-day) on Wednesday, 19 April
 
-<table width="100%" border="0" cellspacing="7" cellpadding="0">
-
-<tr>
-
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/4/41/SA_Logo_w_DD.gif>](http://www.security-assessment.com)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/e/ef/INSOMNIA.PNG>](http://www.insomniasec.com)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/e/ef/Aura_PBK_Colour.jpg>](http://www.aurainfosec.com/)
-
-</center>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/a/ab/Redshield.png>](https://www.redshield.co/)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/2/27/Zx.png>](http://www.zxsecurity.co.nz/)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/4/4e/Quantumblack3.png>](http://www.quantumsecurity.co.nz/)
-
-</center>
-
-</td>
-
-</tr>
-
-</table>
-
-
+<hr />
 
   - 29 March 2017
 
-[OWASP NZ Christchurch Meetup
-page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)
+[Christchurch
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/236349292/)
 
   -
     **PHP Hurts Programmers (and other tales)**
@@ -434,12 +441,12 @@ page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/23634
     **Locations:** Christchurch
     **Co-Sponsor:** [Catalyst](http://www.catalyst.net.nz/)
 
-<!-- end list -->
+<hr />
 
   - 27 Feb 2017
 
-[OWASP NZ Wellington Meetup
-page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/237712167/)
+[Wellington
+Meetup](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/237712167/)
 
   -
     **Presentation:** Building the ultimate login and signup
@@ -447,7 +454,9 @@ page](https://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/2377121
     **Location:** Wellington
     **Presented By:** Matt Cotterell
 
-<!-- end list -->
+<hr />
+
+### 2016
 
   - 29 November 2016
 
@@ -558,7 +567,7 @@ page](http://www.meetup.com/OWASP-New-Zealand-Chapter-Christchurch/events/226227
     **Co-Sponsor:** [Dimension Data](http://www.dimensiondata.com/en-NZ)
     and [BinaryMist Limited](http://binarymist.io/)
 
-## ''' 2016 '''
+<!-- end list -->
 
   - 3rd and 4th of February 2016
 
@@ -688,7 +697,7 @@ At the University of Auckland School of Commerce
 
 </table>
 
-## ''' 2015 '''
+### 2015
 
   - 25 November 2015
 
@@ -759,7 +768,7 @@ Department ](OWASP_NZ_Day_2015_logo_small.png
 
 At the University of Auckland Engineering Department
 
-## ''' 2014 '''
+### 2014
 
   - 26 November 2014
 
@@ -805,7 +814,7 @@ page](http://www.meetup.com/OWASP-New-Zealand-Chapter-Wellington/events/19378403
     **Presented By:** Adrian Hayes
     **Sponsor:** [Dimension Data](http://www.dimensiondata.com/en-NZ)
 
-## **2013**
+### 2013
 
   - 19 December 2013
 
@@ -846,7 +855,7 @@ RSVP](http://www.meetup.com/OWASP-New-Zealand-Chapter/events/115108982/)
     **Locations:** Wellington, Auckland, Webcast
     **Details:** All details are on the meetup page above
 
-## **2012**
+### 2012
 
   - 31st August 2012
 
@@ -893,7 +902,7 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     **Presented By:** Nick Freeman, Senior Security Consultant
     (Security-Assessment.com)
 
-## **2011**
+### 2011
 
   - 6th December 2011
     **Co-Sponsor:**
@@ -955,7 +964,7 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     **Presented By:** Kirk Jackson, Security Consultant (Aura Software
     Security)
 
-## **2010**
+### 2010
 
   - 15th July 2010
 
@@ -982,7 +991,7 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     **Presented By:** Scott Bell, Security Consultant
     (Security-Assessment.com)
 
-## **2009**
+### **2009**
 
   - 10th November 2009
     **Co-Sponsor:**
@@ -1027,7 +1036,7 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     **Presented By:** Roberto Suggi Liverani, Senior Security Consultant
     (Security-Assessment.com)
 
-## **2008**
+### **2008**
 
   - 5th November 2008
     **Co-Sponsor:** [Vodafone New Zealand](http://www.vodafone.co.nz)
@@ -1102,7 +1111,7 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     **Presented By:** Roberto Suggi Liverani, Security Consultant
     (Security-assessment.com)
 
-## **2007**
+### **2007**
 
   - 5th December 2007
     **Co-Sponsor:** [Veda
@@ -1141,14 +1150,48 @@ Day 2012](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2012)
     Advantage](http://www.vedaadvantage.com/home/home_default.aspx)
     **Locations:** Auckland
 
+# Activities
+
 ## Activities
 
 OWASP New Zealand members actively participate in various OWASP
-activities. The following are some recent activities undertaken by OWASP
-NZ members:
+activities. The following are some highlights of activities undertaken
+by OWASP NZ members:
 
-  - Denis Andzakovic has resigned from his position as OWASP New Zealand
-    Chapter Leader at OWASP NZ Day 2018
+### 2019
+
+  - John DiLeo presented an overview of the OWASP SAMM Project and tools
+    at the June 2019 meeting of the
+    [NZISF](https://security.org.nz/about-nzsa/nzisf/) in Auckland
+  - John DiLeo attended the [Open Security
+    Summit](https://open-security-summit.org/), June 2019 in the UK,
+    co-hosting a session on the Application Security Curriculum Project
+  - John DiLeo presented an update on the OWASP SAMM Project during the
+    Project Showcase at [Global AppSec-Tel
+    Aviv](https://telaviv.appsecglobal.org/) in May 2019
+  - John DiLeo became co-leader of the OWASP Application Security
+    Curriculum Project in March 2019
+
+### 2018
+
+  - John DiLeo joined the OWASP Software Assurance Maturity Model (SAMM)
+    project team, and attended the [Open Security
+    Summit](https://2018.open-security-summit.org/) in the UK, in June
+    2018
+  - John DiLeo signed on as Chair of the OWASP New Zealand Day
+    conference, in June 2018
+  - John DiLeo restarted the Auckland-area Meetup, which first met on 10
+    April 2018. The Meetup takes place on the second Tuesdays of April,
+    June, August, October, and December
+  - John DiLeo stepped up as Auckland-area Chapter Leader, and was
+    confirmed by the OWASP Foundation, in April 2018
+  - Dion Bramley, John DiLeo, and Christian Probst signed on Chapter
+    volunteers, at OWASP New Zealand Day 2018
+  - Denis Andzakovic resigned from his position as OWASP New Zealand
+    Chapter Leader, at OWASP NZ Day 2018
+
+### Older
+
   - Kim Carter ran a
     [workshop](http://www.meetup.com/owaspnycmetro/events/228716474/) at
     the NYC chapter
@@ -1181,220 +1224,6 @@ NZ members:
   - OWASP NZ has audio/video conference capability between Auckland and
     Wellington
 
-## OWASP NZ Members
-
-We are always looking for additional board members to evangelise the
-OWASP mission help with meetings, projects and initiatives as we all
-know it takes time/effort to run a chapter. Please contact us if you are
-interested to join the NZ OWASP board member or for any queries related
-to OWASP NZ.
-
-  - <b>NZ Board Member (Leader - Auckland)</b> [John
-    DiLeo](mailto:john.dileo@owasp.org),
-  - <b>NZ Board Member (Leader - Wellington)</b> [Kirk
-    Jackson](mailto:kirk.jackson@owasp.org)
-  - <b>NZ Board Member (Leader - Christchurch)</b> [Kim
-    Carter](mailto:kim.carter@owasp.org)
-  - **NZ Board Members (Auckland)** [Dion
-    Bramley](mailto:dionbramley@gmail.com), [Christian W
-    Probst](mailto:cwprobst@gmail.com)
-
-## Chapter Sponsors
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-<tr>
-
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/a/a4/Security-assessment_com.jpeg>](http://www.security-assessment.com)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<center>
-
-[www.security-assessment.com](http://www.security-assessment.com)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/d/d8/Touchpoint.jpg>](http://www.touchpoint.co.nz)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<center>
-
-[www.touchpoint.co.nz](http://www.touchpoint.co.nz)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<center>
-
-[<https://www.owasp.org/images/4/4c/BinaryMistLimited.png>](http://binarymist.io)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<center>
-
-[binarymist.io](http://binarymist.io)
-
-</center>
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-<td>
-
- 
-
-</td>
-
-</tr>
-
-</table>
+<headertabs></headertabs>
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
