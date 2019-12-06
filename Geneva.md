@@ -27,13 +27,14 @@ L'organisation et le détail des meetings sont communiqués via la [liste
 de
 diffusion](https://groups.google.com/a/owasp.org/forum/#!forum/geneva-chapter)
 et via le [compte Twitter](https://twitter.com/OWASP_Geneva) de la
-section.
+section. Ils sont également publiés sur [le
+calendrier](https://calendar.google.com/calendar/embed?src=owasp.org_durrij6j25be74fb82ls9868lk%40group.calendar.google.com&ctz=Europe%2FZurich)
+de la section.
 
-**PROCHAIN MEETING : mardi 4 juin 2019**
+**PROCHAIN MEETING : mardi 3 septembre 2019**
 Lieu: Genève (centre-ville)
 Thème: à venir
 Inscription: à venir
-
 Facility sponsor:
 [<https://www.owasp.org/images/4/4f/SonarSource_72_px.png>](https://www.sonarsource.com/?utm_source=owasp.org&utm_campaign=owaspgva)
 
@@ -109,6 +110,12 @@ Comité est composé des trois *Chapter Leaders* suivants:
 
 # Historique
 
+**Mardi 4 juin 2019 / Tuesday 4th June 2019** | Local Chapter meeting
+Lieu/Location: Genève/Geneva
+\- [Introduction
+slides](https://www.owasp.org/images/b/b4/OWASP_Geneva_20190604_Welcome.pdf)
+\- Conférence/Talk \#1: Christophe Vigouroux - "CH Vote 2.0: Modèle de
+sécurité" (Switzerland E-Voting 2.0: security model) (slides pending)
 **Mardi 12 mars 2019 / Tuesday 13th March 2019** | Local Chapter
 meeting
 Lieu/Location: Genève/Geneva
@@ -245,10 +252,11 @@ meeting](Geneva_Spring_2009_Meeting "wikilink").
 
   - C. Folini - OWASP ModSecurity Core Ruleset version 3
 
-'''Avril 2017 - Local Chapter meeting
-\* J. Bachmann - [A feedback on 10 years of pentesting and
-DFIR](https://www.owasp.org/images/d/d6/Owasp2017_jbachmann.pdf)
+**Avril 2017 - Local Chapter meeting
+**
 
+  - J. Bachmann - [A feedback on 10 years of pentesting and
+    DFIR](https://www.owasp.org/images/d/d6/Owasp2017_jbachmann.pdf)
   - T. Hofer - [Evolutions in the e-voting system of Canton
     Geneva](https://www.owasp.org/images/7/75/CHvote_%E2%80%93_towards_2.0.pdf)
 

@@ -4,57 +4,87 @@
 
 ![Veracode](Veracode_logo.png "Veracode")
 
-## Training in *Practical Web App Pentesting (PWAPT)* Waltham
-
-Sign-Up: regonline.com/PWAPTDB
-
-Cost:
-
-  - $1550 for Non Members (Earlybird - before January 10: $1450)
-  - $1500 for OWASP Members (Earlybird: $1400)
-
-When: Wednesday, February 21, 2018 8:30 AM - Friday, February 23, 2018
-5:30 PM (Eastern Time)
-
-Location: Dun and Bradstreet 610 Lincoln Street North Building Waltham,
-Massachusetts 02451
-
-Instructor: [Tim "lanmaster53"
-Tomes](https://www.lanmaster53.com/about/), who has taught at SANS, and
-presented at BlackHat & DerbyCon
-
-More information can be found below.
-
 ## Boston Application Security Conference
 
 ![Boston-Banner-468x60.gif](Boston-Banner-468x60.gif
 "Boston-Banner-468x60.gif") ![twitter_32.png](twitter_32.png
-"twitter_32.png") BASC, the Boston Application Security Conference will
-take place 8:30am to 6:30pm on Saturday, October 27th at Microsoft, 5
-Wayside Road, Burlington, MA. [Read more](2018_BASC_Homepage "wikilink")
+"twitter_32.png") BASC 2019, the Boston Application Security Conference
+will take place 8:30am to 6:30pm on Saturday, October 19th at Microsoft,
+5 Wayside Road, Burlington, MA. [Read
+more](2019_BASC_Homepage "wikilink")
 
-## Chapter Meetings --- Our Tenth Year
+## Chapter Meetings --- Our Fifteenth Year
 
 We now use [meetup](http://www.meetup.com/owaspboston/) to organize
 meetings.
 
-We usually meet the FIRST WEDNESDAY of EVERY MONTH (Unless a speaker can
-only present another night), 6:30 to 9 pm.
+We meet whenever a speaker and a venue have available dates, 6:30 to 9
+pm.
 
 Everyone is welcome to come to any meeting, there is no signup or
-joining criteria, just come if it sounds interesting. Feel free to sign
-up to the [OWASP Boston mailing
-list](http://lists.owasp.org/mailman/listinfo/owasp-boston). This list
-is very low volume (2 - 3 emails/month); it is used to remind people
-about each monthly meeting, inform about local application security
-events and special chapter offers. -- Information for meeting updates
-about this and other Boston area user groups can also be found at
-[BostonUserGroups](http://bug.bostonusergroups.org/Lists/Groups%20Calendar/calendar.aspx).
---\>
+joining criteria, just come if it sounds interesting. You can join the
+OWASP Boston Google group at
+<https://groups.google.com/a/owasp.org/forum/#!forum/boston-chapter>.
+This list is very low volume (2 - 3 emails/month); it is used to remind
+people about each monthly meeting, inform about local application
+security events and special chapter offers.
 
-### Upcoming Meeting
+Upcoming Meetings
 
-*`January``   ``29th,``   ``2019`*` - Cambridge `[`Partnered``
+**`May``   ``22,``   ``2019`**` - Watertown `[`CMD+CTRL``   ``Web``
+ ``App``   ``Hacking``   ``Cyber``   ``Range``   ``6:00-9:00pm``
+ ``Partnered``   ``w/Security``   ``Innovation``   ``&``
+ ``Athenahealth`](https://web.securityinnovation.com/athenahealth2019)
+
+YOU CAN ONLY REGISTER ON THE SECURITY INNOVATION REGISTRATION SITE AT
+[THIS LINK](https://web.securityinnovation.com/athenahealth2019)
+
+Location: [Athena Health
+Watertown](https://goo.gl/maps/rTHhZcawAX1jYnhP7)
+
+6PM \*sharp\*- **Just bring your computer and evil inner-doer and you
+are ready to roll\!**
+
+Want to test your skills in identifying web app vulnerabilities?  Join
+OWASP Boston, Athena Health and Security Innovation as members compete
+in CMD+CTRL, a web application cyber range where players exploit their
+way through hundreds of vulnerabilities that lurk in business
+applications today.  Success means learning quickly that attack and
+defense is all about thinking on your feet. Standard capture the flag
+using network and operating attack skills will not be much use here;
+understanding the OWASP Top 10 risks will help you find the
+vulnerabilities.
+
+For each vulnerability you uncover, you are awarded points. Climb the
+interactive leaderboard for a chance to win prizes\! CMD+CTRL is ideal
+for development teams to train and develop skills, but anyone involved
+in keeping your organization’s data secure can play - from developers
+and managers and even CISOs.
+
+Just bring a laptop. Pizza and soda will be provided.
+
+Venue/Location of the event:
+
+Athena Health 311 Arsenal St. Watertown, MA 02472
+
+<File:Athenahealth> Watertown Map.jpg|Athenahealth Watertown Map
+
+NOTE: <b>Park in only P2 visitor lot or in garages P1 and P3. Parking is
+free.</b>
+
+The main lobby door is at “S1” shuttle pickup icon.
+
+Enter the lobby and sign in at the front desk to pick up credentials.
+
+Directions to the event room will be provided at that time
+
+### Upcoming Training
+
+TBD
+
+### Past Meetings
+
+**`January``   ``29th,``   ``2019`**` - Cambridge `[`Partnered``
  ``with``   ``Security``
  ``Innovation`](https://web.securityinnovation.com/owaspboston2019)
 
@@ -75,14 +105,8 @@ tables, and expert led training sessions, platers take their shot at
 stealing money, manipulating share prices, and conducting other
 nefarious acts.
 
-### Upcoming Training
-
-TBD
-
-### Past Meetings
-
-*`June``   ``14th,``
- ``2017`*` - Burlington `[`Meetup`](https://www.meetup.com/owaspboston/events/240033562/)
+**`June``   ``14th,``
+ ``2017`**` - Burlington `[`Meetup`](https://www.meetup.com/owaspboston/events/240033562/)
 
 Location: [SalesForce (was Demandware) 5 Wall St., Burlington,
 MA](https://maps.google.com/maps?f=q&hl=en&q=5+Wall+St.%2C+Burlington%2C+MA%2C+us)
@@ -432,313 +456,6 @@ work has been featured in Wired Magazine and Fast Company. Kunal
 received a B.S. from Babson College.
 
 ### Past Training
-
-**`June``   ``12th``   ``thru``   ``14th``   ``2017`**` - Waltham `
-
-## February 21st thru 23d 2018 - Location: Dun and Bradstreet 610 Lincoln Street North Building Waltham, Massachusetts 02451
-
-8AM to 5PM **3 Day Developer Edition - Practical Web Application
-Penetration Testing (PWAPT)**
-
-The Developer Edition contains the same content as the original PWAPT
-course (Standard Edition), but adds a full day of code remediation
-lecture and exercises. The code remediation content includes discussions
-on the proper techniques for mitigating vulnerabilities, and exercises
-where the instructor and students will modify the application's source
-code to implement mitigating controls and test them for effectiveness.
-
-This course provides customized training on the latest open source tools
-and manual techniques for performing end-to-end web application
-penetration testing engagements. After a quick overview of the
-penetration testing methodology, the instructor will lead students
-through the process of testing and exploiting a target web application
-using the techniques and approaches developed from a career of real
-world application penetration testing experiences. Students will be
-introduced to the best open source tools currently available for the
-specific steps of the methodology, including Burp Suite Pro, and taught
-how to integrate these tools with manual testing techniques to maximize
-effectiveness. A major goal of this course is teaching students the glue
-that brings the tools and techniques together to successfully perform a
-web application penetration test from beginning to end, an oversight in
-most web application penetration testing courses.
-
-The majority of the course will be spent performing an instructor led,
-hands-on web application penetration test against a target application
-built specifically for this class using a modern technology stack
-(Python Flask) and including real vulnerabilities as encountered in the
-wild. No old-school vanilla PHP stuff here folks. Students won’t be
-given overly simplistic steps to execute independently. Rather, at each
-stage of the test, the instructor will present the goals that each
-testing task is to accomplish and perform the penetration test in front
-of the class while students do it on their own machine. Primary emphasis
-of these instructor led exercises will be placed on how to integrate the
-tools with manual testing procedures to improve the overall work flow.
-This experience will help students gain the confidence and knowledge
-necessary to perform web application penetration tests as an application
-security professional.
-
-PWAPT is a PortSwigger preferred [Burp Suite
-Training](https://portswigger.net/training) course. PWAPT students will
-learn basic and advanced usage techniques for Burp Suite Pro, as well as
-discover obscure functionality hidden within the vast capabilities of
-the tool. Students will also receive a 2 week trial license for Burp
-Suite Pro to use during the course.
-
-<h4 id="outline">
-
-Outline
-
-</h4>
-
-Day 1:
-
-  - Methodology
-  - Reconnaissance
-  - Mapping
-  - Automated Discovery
-  - Manual Discovery
-
-Day 2:
-
-  - Manual Discovery (cont.)
-  - Exploitation
-  - Web Services
-
-Day 3: (Developer Edition only)
-
-  - Remediation
-
-<h4 id="technical-requirements">
-
-Technical Requirements
-
-</h4>
-
-  - Laptop with at least two (2) USB ports.
-  - Latest VMware Player, VMware Workstation, or VWware Fusion
-    installed. Other virtualization software such as Parallels or
-    VirtualBox will probably work if the attendee is familiar with its
-    functionality. However, VMware Player should be prepared as a
-    backup.
-  - Ability to disable all security software on their laptop such as
-    Antivirus and/or firewalls (Administrator).
-  - At least twenty (20) GB of hard drive space.
-  - At least four (4) GB of RAM.
-
-Tim (lanmaster53) Tomes
-
-Christian, father, husband, veteran, code slinger, aspiring
-difference-maker and hacking enthusiast.
-
-## Training in *Tactical DevSecOps: Web Application Testing and Monitoring*
-
-Sign-Up: <http://tinyurl.com/OWASPDevSecOps>
-
-Cost:
-
-  - $900 for Non Members
-  - $850 for OWASP Members
-  - Some US Active Military, Law Enforcement & US Veteran seats are
-    being held aside for FREE entry per the enormous generosity of the
-    trainer\! Please be prepared to send us verification of status.
-
-Contact us at boston\[at\]owasp\[dot\]org
-
-When: Monday, June 12, 2017 8:00 AM to Wednesday, June 14th, 2017, 4:30
-PM ET
-
-Location: 610 lincoln street (north) Waltham, MA 02145
-
-Instructor: [Kevin "Professionally Evil"
-Johnson](https://www.secureideas.com/about-me.php?bio=kevin), who has
-taught at SANS, and presented at BlackHat & DerbyCon
-
-**`January``   ``25th``   ``thru``   ``27th``   ``2017`**` - Waltham `
-
-Location: Constant Contact
-[Map](https://www.google.com/maps/place/Constant+Contact/@42.4185837,-71.2586063,15z/data=!4m5!3m4!1s0x0:0xbcaab68dd299cf76!8m2!3d42.4185837!4d-71.2586063)
-location: 1601 Trapelo Rd, Waltham, MA 02451 - the building on the right
-furthest away from Trapelo Road
-
-8AM to 5PM **3 Day Developer Edition - Practical Web Application
-Penetration Testing (PWAPT)**
-
-The Developer Edition contains the same content as the original PWAPT
-course (Standard Edition), but adds a full day of code remediation
-lecture and exercises. The code remediation content includes discussions
-on the proper techniques for mitigating vulnerabilities, and exercises
-where the instructor and students will modify the application's source
-code to implement mitigating controls and test them for effectiveness.
-
-This course provides customized training on the latest open source tools
-and manual techniques for performing end-to-end web application
-penetration testing engagements. After a quick overview of the
-penetration testing methodology, the instructor will lead students
-through the process of testing and exploiting a target web application
-using the techniques and approaches developed from a career of real
-world application penetration testing experiences. Students will be
-introduced to the best open source tools currently available for the
-specific steps of the methodology, including Burp Suite Pro, and taught
-how to integrate these tools with manual testing techniques to maximize
-effectiveness. A major goal of this course is teaching students the glue
-that brings the tools and techniques together to successfully perform a
-web application penetration test from beginning to end, an oversight in
-most web application penetration testing courses.
-
-The majority of the course will be spent performing an instructor led,
-hands-on web application penetration test against a target application
-built specifically for this class using a modern technology stack
-(Python Flask) and including real vulnerabilities as encountered in the
-wild. No old-school vanilla PHP stuff here folks. Students won’t be
-given overly simplistic steps to execute independently. Rather, at each
-stage of the test, the instructor will present the goals that each
-testing task is to accomplish and perform the penetration test in front
-of the class while students do it on their own machine. Primary emphasis
-of these instructor led exercises will be placed on how to integrate the
-tools with manual testing procedures to improve the overall work flow.
-This experience will help students gain the confidence and knowledge
-necessary to perform web application penetration tests as an application
-security professional.
-
-PWAPT is a PortSwigger preferred [Burp Suite
-Training](https://portswigger.net/training) course. PWAPT students will
-learn basic and advanced usage techniques for Burp Suite Pro, as well as
-discover obscure functionality hidden within the vast capabilities of
-the tool. Students will also receive a 2 week trial license for Burp
-Suite Pro to use during the course.
-
-<h4 id="outline_2">
-
-Outline
-
-</h4>
-
-Day 1:
-
-  - Methodology
-  - Reconnaissance
-  - Mapping
-  - Automated Discovery
-  - Manual Discovery
-
-Day 2:
-
-  - Manual Discovery (cont.)
-  - Exploitation
-  - Web Services
-
-Day 3: (Developer Edition only)
-
-  - Remediation
-
-<h4 id="technical-requirements_2">
-
-Technical Requirements
-
-</h4>
-
-  - Laptop with at least two (2) USB ports.
-  - Latest VMware Player, VMware Workstation, or VWware Fusion
-    installed. Other virtualization software such as Parallels or
-    VirtualBox will probably work if the attendee is familiar with its
-    functionality. However, VMware Player should be prepared as a
-    backup.
-  - Ability to disable all security software on their laptop such as
-    Antivirus and/or firewalls (Administrator).
-  - At least twenty (20) GB of hard drive space.
-  - At least four (4) GB of RAM.
-
-Tim (lanmaster53) Tomes
-
-Christian, father, husband, veteran, code slinger, aspiring
-difference-maker and hacking enthusiast.
-
-**`July``   ``18th``   ``&``   ``19th``   ``2016`**` - Waltham`
-
-Location: Constant Contact
-[Map](https://www.google.com/maps/place/Constant+Contact/@42.4185837,-71.2586063,15z/data=!4m5!3m4!1s0x0:0xbcaab68dd299cf76!8m2!3d42.4185837!4d-71.2586063)
-location: 1601 Trapelo Rd, Waltham, MA 02451
-
-8AM to 5PM **Practical Web Application Penetration Testing - PWAPT**
-
-This course provides customized training on the latest open source tools
-and manual techniques for performing end-to-end web application
-penetration testing engagements. After a quick overview of the
-penetration testing methodology, the instructor will lead students
-through the process of testing and exploiting a target web application
-using the techniques and approaches developed from a career of real
-world application penetration testing experiences. Students will be
-introduced to the best open source tools currently available for the
-specific steps of the methodology, including Burp Suite Pro, and taught
-how to integrate these tools with manual testing techniques to maximize
-effectiveness. A major goal of this course is teaching students the glue
-that brings the tools and techniques together to successfully perform a
-web application penetration test from beginning to end, an oversight in
-most web application penetration testing courses.
-
-The majority of the course will be spent performing an instructor led,
-hands-on web application penetration test against a target application
-built specifically for this class using a modern technology stack
-(Python Flask) and including real vulnerabilities as encountered in the
-wild. No old-school vanilla PHP stuff here folks. Students won’t be
-given overly simplistic steps to execute independently. Rather, at each
-stage of the test, the instructor will present the goals that each
-testing task is to accomplish and perform the penetration test in front
-of the class while students do it on their own machine. Primary emphasis
-of these instructor led exercises will be placed on how to integrate the
-tools with manual testing procedures to improve the overall work flow.
-This experience will help students gain the confidence and knowledge
-necessary to perform web application penetration tests as an application
-security professional.
-
-PWAPT is a PortSwigger preferred [Burp Suite
-Training](https://portswigger.net/training) course. PWAPT students will
-learn basic and advanced usage techniques for Burp Suite Pro, as well as
-discover obscure functionality hidden within the vast capabilities of
-the tool. Students will also receive a 2 week trial license for Burp
-Suite Pro to use during the course.
-
-<h4 id="outline_3">
-
-Outline
-
-</h4>
-
-Day 1:
-
-  - Methodology
-  - Reconnaissance
-  - Mapping
-  - Automated Discovery
-  - Manual Discovery
-
-Day 2:
-
-  - Manual Discovery (cont.)
-  - Exploitation
-  - Web Services
-
-<h4 id="technical-requirements_3">
-
-Technical Requirements
-
-</h4>
-
-  - Laptop with at least two (2) USB ports.
-  - Latest VMware Player, VMware Workstation, or VWware Fusion
-    installed. Other virtualization software such as Parallels or
-    VirtualBox will probably work if the attendee is familiar with its
-    functionality. However, VMware Player should be prepared as a
-    backup.
-  - Ability to disable all security software on their laptop such as
-    Antivirus and/or firewalls (Administrator).
-  - At least twenty (20) GB of hard drive space.
-  - At least four (4) GB of RAM.
-
-Tim (lanmaster53) Tomes
-
-Christian, father, husband, veteran, code slinger, aspiring
-difference-maker and hacking enthusiast.
 
 **`March``   ``16,``
  ``2016`**` - Burlington - `[`Meetup`](http://www.meetup.com/owaspboston/events/229156529/)
@@ -2267,9 +1984,13 @@ Conference 2017](https://www.owasp.org/index.php/2017_BASC_Homepage)
 
 ## Boston OWASP Chapter Leaders
 
+**Contact**
+
+  - Email the [chapter leaders](mailto:boston-leaders@owasp.org).
+
 **President**
 
-\- [Jim Weiler](mailto:jim.weiler@owasp.org) 781 356 0067
+  - [Jim Weiler](mailto:jim.weiler@owasp.org)
 
 **Board of Directors**
 

@@ -18,11 +18,28 @@ Twitter Account](https://twitter.com/owaspchennai)**
 
 # **Upcoming Chapter Meetings**
 
-## OWASP Chennai | Null Chennai Combined Meet - 16th March, 2019 2:30 PM
+## OWASP Chennai | Null Chennai Combined Meet - 28th September, 2019 02:30 PM
 
 ### **Sessions**
 
-  - [1](https://null.co.in/events/566-chennai-null-chennai-meet-16-march-2019-null-owasp-combined-meet)
+  - [1](https://null.co.in/events/645-chennai-null-owasp-combined-meet)
+
+### **Venue**
+
+LatentView Analytics Pvt. Ltd
+5th Floor, Neville Tower, Block A3
+Ramanujan IT City SEZ,
+Rajiv Gandhi Salai (OMR), Taramani, Chennai-600 113, INDIA
+Please bring a Government issued ID card (Pan, Driving license, College
+ID etc).
+
+# **Past Chapter Meetings**
+
+## OWASP Chennai | Null Chennai Combined Meet - 10th August, 2019 02:30 PM
+
+### **Sessions**
+
+  - [2](https://null.co.in/events/622-chennai-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -31,16 +48,80 @@ Ascendas International Tech Park
 Zenith - 9th Floor, Tharamani Road,
 Taramani, Chennai,
 Tamil Nadu 600113
-Please bring a Government issued ID card (Pan, Driving license, College
-ID etc).
 
-# **Past Chapter Meetings**
+## OWASP Chennai | Null Chennai Combined Meet - 13th July, 2019 10:00 AM
+
+### **Sessions**
+
+  - [3](https://null.co.in/events/611-chennai-null-chennai-meet-13-july-2019-null-owasp-combined-meet)
+
+### **Venue**
+
+OrangeScape Technologies,
+TIDEL Park,
+Rajiv Gandhi IT Expy,
+Taramani, Chennai,
+Tamil Nadu 600113
+
+## OWASP Chennai | Null Chennai Combined Meet - 15th June, 2019 2:30 PM
+
+### **Sessions**
+
+  - [4](https://null.co.in/events/605-chennai-null-chennai-meet-15-june-2019-null-chennai-meet-15-june-2019-null-chennai-meet-15-june-2019-combined-null-owasp-meet)
+
+### **Venue**
+
+ThoughtWorks,
+Ascendas International Tech Park
+Zenith - 9th Floor, Tharamani Road,
+Taramani, Chennai,
+Tamil Nadu 600113
+
+## OWASP Chennai | Null Chennai Combined Meet - 25th May, 2019 10:00 AM
+
+### **Sessions**
+
+  - [5](https://null.co.in/events/598-chennai-null-chennai-meet-25-may-2019-null-owasp-combined-meet)
+
+### **Venue**
+
+ThoughtWorks,
+Ascendas International Tech Park
+Zenith - 9th Floor, Tharamani Road,
+Taramani, Chennai,
+Tamil Nadu 600113
+
+## OWASP Chennai | Null Chennai Combined Meet - 27th April, 2019 9:30 AM
+
+### **Sessions**
+
+  - [6](https://null.co.in/events/583-chennai-null-chennai-meet-27-april-2019-null-owasp-combined-meet)
+
+### **Venue**
+
+OrangeScape Technologies,
+TIDEL Park,
+Rajiv Gandhi IT Expy,
+Taramani, Chennai,
+Tamil Nadu 600113
+
+### **Sessions**
+
+  - [7](https://null.co.in/events/566-chennai-null-chennai-meet-16-march-2019-null-owasp-combined-meet)
+
+### **Venue**
+
+ThoughtWorks,
+Ascendas International Tech Park
+Zenith - 9th Floor, Tharamani Road,
+Taramani, Chennai,
+Tamil Nadu 600113
 
 ## OWASP Chennai | Null Chennai Combined Meet - 19th January, 2019 2:30 PM
 
 ### **Sessions**
 
-  - [2](https://null.co.in/events/542-chennai-null-chennai-meet-19-january-2019-null-owasp-combined-meet)
+  - [8](https://null.co.in/events/542-chennai-null-chennai-meet-19-january-2019-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -54,7 +135,7 @@ Tamil Nadu 600113
 
 ### **Sessions**
 
-  - [3](https://null.co.in/events/521-chennai-null-chennai-meet-15-december-2018-null-owasp-combined-meetup)
+  - [9](https://null.co.in/events/521-chennai-null-chennai-meet-15-december-2018-null-owasp-combined-meetup)
 
 ### **Venue**
 
@@ -67,7 +148,7 @@ Chennai-600096
 
 ### **Sessions**
 
-  - [4](https://null.co.in/events/509-chennai-null-chennai-meet-17-november-2018-null-owasp-combined-meetup)
+  - [10](https://null.co.in/events/509-chennai-null-chennai-meet-17-november-2018-null-owasp-combined-meetup)
 
 ### **Venue**
 
@@ -81,7 +162,7 @@ Tamil Nadu 600113
 
 ### **Sessions**
 
-  - [5](https://null.co.in/events/502-chennai-null-chennai-meet-27-october-2018-null-owasp-combined-meet)
+  - [11](https://null.co.in/events/502-chennai-null-chennai-meet-27-october-2018-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -95,7 +176,7 @@ Tamil Nadu
 
 ### **Sessions**
 
-  - [6](https://null.co.in/events/490-chennai-null-chennai-meet-22-september-2018-null-owasp-combined-meet)
+  - [12](https://null.co.in/events/490-chennai-null-chennai-meet-22-september-2018-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -109,7 +190,7 @@ Tamil Nadu 600113
 
 ### **Sessions**
 
-  - [7](https://null.co.in/events/480-chennai-null-chennai-meet-25-august-2018-null-owasp-combined-meet)
+  - [13](https://null.co.in/events/480-chennai-null-chennai-meet-25-august-2018-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -123,7 +204,7 @@ Tamil Nadu 600119
 
 ### **Sessions**
 
-  - [8](https://null.co.in/events/473-chennai-null-chennai-meet-21-july-2018-owasp-null-combined-meet)
+  - [14](https://null.co.in/events/473-chennai-null-chennai-meet-21-july-2018-owasp-null-combined-meet)
 
 ### **Venue**
 
@@ -139,7 +220,7 @@ ID etc).
 
 ### **Sessions**
 
-  - [9](https://null.co.in/events/461-chennai-null-chennai-meet-23-june-2018-null-owasp-combined-meet)
+  - [15](https://null.co.in/events/461-chennai-null-chennai-meet-23-june-2018-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -155,7 +236,7 @@ ID etc).
 
 ### **Sessions**
 
-  - [10](https://null.co.in/events/445-chennai-null-chennai-meet-19-may-2018-null-owasp-combined-meet)
+  - [16](https://null.co.in/events/445-chennai-null-chennai-meet-19-may-2018-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -168,7 +249,7 @@ Chennai, 603202
 
 ### **Sessions**
 
-  - [11](https://null.co.in/events/436-chennai-null-chennai-meet-21-april-2018-null-owasp-combined-meet)
+  - [17](https://null.co.in/events/436-chennai-null-chennai-meet-21-april-2018-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -181,7 +262,7 @@ Chennai-600096
 
 ### **Sessions**
 
-  - [12](https://null.co.in/events/428-chennai-null-chennai-meet-25-march-2018-null-owasp-combined-meet)
+  - [18](https://null.co.in/events/428-chennai-null-chennai-meet-25-march-2018-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -194,7 +275,7 @@ Chennai-600096
 
 ### **Sessions**
 
-  - [13](https://null.co.in/events/419-chennai-null-chennai-meet-17-february-2018-null-owasp-combined)
+  - [19](https://null.co.in/events/419-chennai-null-chennai-meet-17-february-2018-null-owasp-combined)
 
 ### **Venue**
 
@@ -207,7 +288,7 @@ Chennai-600096
 
 ### **Sessions**
 
-  - [14](https://null.co.in/events/408-chennai-null-chennai-meet-20-january-2018-null-owasp-combined-meet)
+  - [20](https://null.co.in/events/408-chennai-null-chennai-meet-20-january-2018-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -220,7 +301,7 @@ Chennai-600096
 
 ### **Sessions**
 
-  - [15](https://null.co.in/events/401-chennai-null-chennai-meet-23-december-2017-null-owasp-combined-meet)
+  - [21](https://null.co.in/events/401-chennai-null-chennai-meet-23-december-2017-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -233,7 +314,7 @@ Chennai-600096
 
 ### **Sessions**
 
-  - [16](https://null.co.in/events/393-chennai-null-chennai-meet-25-november-2017-combined-null-owasp-meet)
+  - [22](https://null.co.in/events/393-chennai-null-chennai-meet-25-november-2017-combined-null-owasp-meet)
 
 ### **Venue**
 
@@ -246,7 +327,7 @@ Chennai-600096
 
 ### **Sessions**
 
-  - [17](https://null.co.in/events/382-chennai-null-chennai-meet-28-october-2017-null-owasp-combined-meet)
+  - [23](https://null.co.in/events/382-chennai-null-chennai-meet-28-october-2017-null-owasp-combined-meet)
 
 ### **Venue**
 
@@ -259,7 +340,7 @@ Chennai-600096
 
 ### **Sessions**
 
-  - [18](https://null.co.in/events/368-chennai-null-chennai-meet-23-september-2017-combined-null-owasp-meet)
+  - [24](https://null.co.in/events/368-chennai-null-chennai-meet-23-september-2017-combined-null-owasp-meet)
 
 ### **Venue**
 
@@ -514,13 +595,15 @@ any vendor pitches or sales presentations at OWASP meetings\]
 
 Contact me at [Chintu Philips Koshy](mailto:chintu.koshy@owasp.org).
 
-### Aardash Nagalingam (March 2017 - Present)
-
 ### Santhosh Kumar (March 2017 - Present)
 
 ## Previous Chapter Leaders
 
-### Venki (2009 - 2015)
+### Aardash Nagalingam (March 2017 - August 2019)
+
+### Venkatesh Jagannathan (2009 - 2015)
+
+### Chandrasekar Umapathy(2009 - 2015)
 
 __NOTOC__ <headertabs></headertabs>
 

@@ -1,6 +1,6 @@
 __NOTOC__
 
-![OWASP Bangalore Chapter](Owasp_cuttack.png "OWASP Bangalore Chapter")
+![OWASP Cuttack Chapter](Owasp_cuttack.png "OWASP Cuttack Chapter")
 
 ## Chapter Sponsors
 
@@ -64,6 +64,7 @@ Cuttack Facebook Account](https://www.facebook.com/OwaspCuttack/)**
 | 06 | 01/09/2018 | Near The Law House, Khan Nagar Traffic post | 01:00 PM - 04:00 PM |
 | 07 | 02/03/2019 | Cuttack                                     | 04:00 PM - 05:15 PM |
 | 08 | 13/04/2019 | Cuttack                                     | 10:00 AM - 12:15 PM |
+| 08 | 29/06/2019 | Cuttack                                     | 10:00 AM - 12:00 PM |
 
 # **Meeting Summaries**
 
@@ -75,19 +76,23 @@ Cuttack Facebook Account](https://www.facebook.com/OwaspCuttack/)**
 
   - <b>Chapter-Leader -</b> [Ankush
     Mohanty](mailto:ankush.mohanty2011\(at\)gmail.com)
-  - <b>Co-Chapter-Leader -</b> [Tushar
-    Mendiratta](mailto:tusharnba007\(at\)gmail.com)
-  - <b>Co-Chapter-Leader -</b> [Dipak Kumar
-    Das](mailto:deepakdas288\(at\)gmail.com)
+  - <b>Co-Chapter-Leader -</b> [Milan
+    Sen](mailto:sen.milan\(at\)gmail.com)
 
 ### **<b>Board Of Advisors (BOA) </b>**
 
-[`Sashibhusan``   ``Nayak`](mailto:subham2013ctc\(at\)gmail.com)
-[`Samarendra``   ``Puhan`](mailto:puhan1\(at\)rediffmail.com)
+[`Rajesh``   ``Kumar`](mailto:rajeshvuham\(at\)gmail.com)
 
 ### **<b>Student Committee (SC) </b>**
 
 <b>`Lead- `[`Tanmay``   ``Nayak`](mailto:tanmayn36@gmail.com)</b>` `
+
+## Previous Board Members
+
+[`Dipak``   ``Kumar``   ``Das`](mailto:deepakdas288\(at\)gmail.com)
+[`Tushar``   ``Mendiratta`](mailto:tusharnba007\(at\)gmail.com)
+[`Sashibhusan``   ``Nayak`](mailto:subham2013ctc\(at\)gmail.com)
+[`Samarendra``   ``Puhan`](mailto:puhan1\(at\)rediffmail.com)
 
 </ul>
 

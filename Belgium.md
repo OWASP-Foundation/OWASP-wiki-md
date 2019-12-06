@@ -2,12 +2,11 @@
 
 ## Upcoming Chapter Meetings
 
-  - OWASP Belgium presents a summit working session on OWASP SAMM in
-    Antwerp on 30 April: Registration via
-    <https://www.eventbrite.com/e/open-security-summit-working-session-tickets-60456102831>
+  - OWASP BE chapter meeting: registration via
+    <https://owasp-belgium-2019-11-25.eventbrite.com/>
 
-See <https://www.owasp.org/index.php/Belgium#Chapter_Meetings> for more
-details and older meetings.
+See the {{\#switchtablink:Chapter Meetings|Chapter Meetings}} tab for
+more details and older meetings.
 
 ## Stay in Touch
 

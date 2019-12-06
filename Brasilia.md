@@ -11,12 +11,14 @@ Aproveito a oportunidade para falar sobre o excelente trabalho realizado
 nos últimos anos pelos amigos: Diogo Rispoli, Breno Silva, Ismael
 Gonçalves e Klaubert Herr da Silveira.
 ​A nova equipe é composta pelos seguintes membros: [Alcyon
-Junior](https://www.owasp.org/index.php/User:Alcyon.junior), Marcos
-Cícero - PGP Key
-[Media:0x48F7F727.zip](Media:0x48F7F727.zip "wikilink")​, <s>Paulo
-Lamellas</s>(2016-2018), <s>Régio Lopes</s>(2016-2018) e André Miranda e
-Rafael Salema. Esperamos realizar um trabalho agregador e disseminador
-de conhecimento em Brasília na área de Segurança da Informação. O ponto
+Junior](https://www.owasp.org/index.php/User:Alcyon.junior) A.k.A.
+AlcyJones, Marcos Cícero - PGP Key
+[Media:0x48F7F727.zip](Media:0x48F7F727.zip "wikilink")​, André Miranda
+e Renato Pacheco A.k.A Shrimp. Tivemos alguns membros (amigos) que
+deixaram suas marcas aqui como: <s>Paulo Lamellas</s>(2016-2018),
+<s>Régio Lopes</s>(2016-2018) e <s>Rafael Salema</s>(2018-2019).
+Esperamos continuar realizando um trabalho agregador e disseminador de
+conhecimento em Brasília na área de Segurança da Informação. O ponto
 focal da nova equipe é rapidamente agitar a comunidade de profissionais
 de Segurança da Informação e Comunicações, realizando encontros e
 eventos para bater papo de forma bem descontraída.
@@ -32,7 +34,70 @@ Grateful and sincerely,
 
 ## Próximos Eventos
 
-### CyberSecurity OWASP Conference 2019
+### 2º CyberSecurity Conference OWASP BSB 2019
+
+<div style="text-align: justify;">
+
+Neste segundo evento de 2019, a liderança do capítulo OWASP Brasília
+realizará mais um evento. Será realizado em um formato ja conhecido, em
+um ambiente acolhedor e sempre com uma pegada bem técnica. Nós
+contaremos com minicursos, palestras, espaço de convivência para os
+participantes poderem trocar experiências.
+
+**Chamadas**
+
+  - CFP - Call for Papers: <https://forms.gle/5Qrn6esW6pPG57JN9>
+  - Chamada de Voluntários: <https://forms.gle/he9NuwAHLxm7D8XQ7>
+
+**Informações do Evento**
+
+  - **Inscrição**:
+    <https://www.sympla.com.br/2-cybersecurity-conference-by-owasp-brasilia-2019__579825>
+  - **Data:** 21/09/2019 (08h00 às 18h00)
+  - **Local:** Auditorio do Departamento de Ciência da Computação - CIC
+  - **Endereço**: Departamento de Ciência da Computação - CIC  - Campus
+    Darcy Ribeiro, Asa Norte, Brasília - DF. CEP 70910-900
+  - **Valores**: ***Gratuito (Free of charge)***
+
+**Formato do evento**
+
+**Palestras**
+
+  - Palestras de 45 min com perguntas incluídas
+
+**Minicursos exclusivos (03 minicursos)**
+
+  - Turma de somente 30 pessoas que se inscreveram no site;
+  - 3 horas por minicurso;
+  - Os materias necessários no minicurso como VMs ou softwares serão
+    repassados pelos instrutores para viabilizar o minicurso;
+  - O notebook deverá ser levado pelo próprio aluno.
+
+**CTF - Capture The Flag**
+
+  - O CTF desse evento serão divulgadas na semana do evento em um link
+    de inscrição em nosso canal no Telegram (https://t.me/owaspbsb)
+
+**Programação**
+
+**Palestras**
+
+  - TBD - To be defined
+
+**Minicursos exclusivos (03 minicursos)**
+
+  - TBD - To be defined
+
+**CTF - Capture The Flag**
+
+  - O CTF desse evento serão divulgadas na semana do evento em um link
+    de inscrição em nosso canal no Telegram (https://t.me/owaspbsb)
+
+</div>
+
+## Eventos - 2019
+
+### 1º CyberSecurity Conference OWASP BSB 2019
 
 <div style="text-align: justify;">
 
@@ -85,8 +150,6 @@ incluso no valor da palestra e um espaço exclusivo para lanches.
     sobre segurança de computadores
 
 </div>
-
-## Eventos - 2019
 
 ## Eventos - 2018
 
@@ -146,13 +209,13 @@ Dominicana, Uruguai, Venezuela, Brasil e México.
 
 | HORÁRIO | PALESTRANTE    | TALK                                                                                         |
 | ------- | -------------- | -------------------------------------------------------------------------------------------- |
-| 8:30    | colspan="2"    | Credenciamento                                                                               |
+| 8:30    | Credenciamento |                                                                                              |
 | 9:00    | Alcyon Junior  | Abertura                                                                                     |
 | 9:30    | Laios Barbosa  | Defesa Contra Ataques Avançados - Preparação e Emprego de Equipes de Segurança da Informação |
 | 10:15   | Artur          | Segurança para IoT                                                                           |
 | 11:00   | Laios Barbosa  | Técnicas de Pivoteamento e Movimento Lateral em Testes de Invasão de Redes                   |
 | 11:45   | Jow            | Cross-Domain Deep Face Matching for Banking Security Systems                                 |
-| 12:30   | colspan="2"    | Almoço                                                                                       |
+| 12:30   | Almoço         |                                                                                              |
 | 13:30   | Alcyon Junior  | SEGURANÇA DA INFORMAÇÃO E A TRANSFORMAÇÃO DIGITAL: COMO SOBREVIVER NESTE NOVO CENÁRIO        |
 | 14:15   | Marcos Cicero  | Security Awareness Trainings: The paranoids\!                                                |
 | 15:00   | Fábio Henrique | Broken Authentication and Session Management - Privilege Escalation - CBC Bit Flipping       |

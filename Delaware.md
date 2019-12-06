@@ -1,6 +1,32 @@
 ![<File:De-owasp-logo.png>](De-owasp-logo.png "File:De-owasp-logo.png")
 
-## Delaware Chapter Survey
+## Oct 2019 - Delaware Chapter meetup in flux
+
+We are transitioning away from Meetup (99% sure...unless OWASP Global
+can take over the account and get the $/RSVP fee waived as a
+non-profit).
+
+Meanwhile, this is the place to watch for news about the chapter, and
+the meeting service we might use in the near future.
+
+Please sign up to the mailing list at:
+<https://groups.google.com/a/owasp.org/d/forum/delaware-chapter>
+
+**Also follow & like us on social media:**
+
+We are on Twitter at: https://twitter.com/owaspde
+
+And on Facebook at https://facebook.com/groups/OWASP.Delaware
+
+Admittedly, our social media has been a bit...malnourished.  Contact me
+(<david.rhoades@owasp.org>) if you'd like to help.  
+
+We can shower you with fame and glory\* in return for your help.
+
+(\* Fame and glory not included.  But you can have a cool title and the
+proper street cred that goes with it.)
+
+## Chapter Survey
 
 Do you want to attend local chapter meetings? Thinking about it? Then
 let your voice be heard by filling out our survey here:
@@ -11,74 +37,58 @@ to meet, etc.
 ## OWASP Delaware
 
 Welcome to the official OWASP Delaware chapter homepage.
-<b>[Click here](http://lists.owasp.org/mailman/listinfo/owasp-Delaware)
-to join the local chapter mailing list or browse the archives. </b>
+<b>[Click
+here](https://groups.google.com/a/owasp.org/d/forum/delaware-chapter) to
+join the local chapter mailing list (a Google Group) or browse the
+archives. </b>
+NOTE: The mailing list migrated to Google Groups in 2019 and was not
+promoted until Oct 2019. So it is a bit sparse at the moment.
+
 It is a low volume mailing list, and the easiest way to stay informed.
-![<File:Meetup-logo-2x.png>](Meetup-logo-2x.png
-"File:Meetup-logo-2x.png") Our chapter has a Meetup.com page at
+<s> Our chapter has a Meetup.com page at
 <http://www.meetup.com/OWASP-Delaware-Chapter/>.
 The short link is <http://bit.ly/owaspDE>.
-If the meeting advertises food then be sure to **RSVP for meetings** at
-the Meetup page so we can plan enough [food](food "wikilink").
+</s>
+
+If the meeting advertises <u>food</u> then be sure to **RSVP for
+meetings** at the Meetup page so we can plan enough
+[food](food "wikilink").
 If you don't RSVP you might go hungry. You've been warned.
+
+
 The chapter leader is [David Rhoades](mailto:David.Rhoades@owasp.org).
 Contact him if you have questions or want to get involved.
 
-## Local Security Event - November 2015
+## Local Security Events - 2019
 
-Be sure to check out Security BSides Delaware 2015 at Wilmington
-University in New Castle Delaware this November 13 through 14, 2015.
-They will have a Capture the Flag (CTF) event too. There are bound to be
-some web apps to hack at that event.
-
-Check here for more info: <http://www.bsidesdelaware.com/>
+COMING SOON
 
 ## Meetings
 
 
-Always check our Meetup page
+<s>Always check our Meetup page
 (http://www.meetup.com/OWASP-Delaware-Chapter/) for the most current
 details
+</s>
 
-**NOTE:** We are aiming for *the first Tuesday of the month* moving
-forward in 2015. However, that does not always work out. The location is
-likely to be mostly New Castle, DE at Wilmington University.
-**Next Meeting**
+**`Next``   ``Meeting`**
 
-**When:** Tuesday, July 7, 2015. From 6:00 PM to \~ 7:30 PM.
-**Location and RSVP:**
-<http://www.meetup.com/OWASP-Delaware-Chapter/events/222983336/>
+**When:** Oct 22, 2019. Testing web app security - 6 PM to 8 PM.
 
-
-**Agenda:** Node.js Security
-See <http://www.meetup.com/OWASP-Delaware-Chapter/events/222983336/> for
-details - sorry but keeping both sites up-to-date is annoying and seems
-unnecessary.
-If using Meetup exclusively for your chapter is good enough for NYC
-chapter, then it should be good enough for DE chapter. :-)
-
+**Location and RSVP:** <http://www.meetup.com/OWASP-Delaware-Chapter>
 
 -----
 
 **`Recent``   ``Meetings`**
 
-June 2015: Mobile API Security: Exploiting the Unseen
-May 2015: Hands-on with ZAP
-April 2015: Chapter leadership meeting
-March 4, 2015. Agenda: Year of the Goat...WebGoat - live demos of v5 and
-v6
-February 3, 2015. Agenda: Why SSL Matters - Live demo
-January 6, 2015. Agenda: Hands-on intro to Web Security Dojo
-(https://dojo.mavensecurity.com)
-December 18, 2014
-
-June 19, 2014
-
-July 10, 2014
+See**:** <http://www.meetup.com/OWASP-Delaware-Chapter>
 
 ## File Archive
 
-These are presentations given at our chapter meetings.
+These are presentations given at our chapter meetings. If Meetup offers
+file hosting (again) we will also use that.
+
+
 For those "rare" times I forget to post slides here, you should look
 under the Files menu of our Meetup page.
 [OWASP DE Meetup file

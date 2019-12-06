@@ -16,10 +16,11 @@ las reuniones que organicemos mensualmente en la ciudad. Además, podrás
 extender tus capacidades mediante talleres que se organizan con
 frecuencia.
 
-El capítulo es posible gracias al apoyo de la Universidad de la Costa
-quienes nos brindan sus instalaciones para los principales encuentros
-que se realizan en la ciudad. También agradecemos a todas las empresas y
-demás universidades que apoyan estas iniciativas que buscan generar
-conciencia dentro de la sociedad estudiantil y profesional.
+El capítulo es posible gracias al apoyo de la [Universidad Libre de
+Barranquilla](http://unilibrebaq.edu.co) y a la facultad de ingeniería
+de sistemas quienes nos brindan sus instalaciones para los principales
+encuentros que se realizan en la ciudad. También agradecemos a todas las
+empresas y demás universidades que apoyan estas iniciativas que buscan
+generar conciencia dentro de la sociedad estudiantil y profesional.
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")

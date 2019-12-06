@@ -1,0 +1,1 @@
+1.  REDIRECT [Atlanta_Georgia](Atlanta_Georgia "wikilink")

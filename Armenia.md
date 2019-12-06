@@ -6,6 +6,32 @@
 
 ## Chapter Meetings
 
+\----OWASP meetup
+
+October 4, 2019, at AUA, Room 398E.
+
+  - From Cloud to Containers - Cassio Goldshmidt
+  - ArmSec 2019 readiness
+
+-----
+
+\----**ArmBounty** CTF/BugBounty June 29 at Mergelyan Cluster.
+
+OWASP Armenia and ArmSec community organize bug bounty for local
+vendors.
+
+<https://armbounty.com/>
+![Screen_Shot_2019-08-16_at_11.31.38_AM.png](Screen_Shot_2019-08-16_at_11.31.38_AM.png
+"Screen_Shot_2019-08-16_at_11.31.38_AM.png") ----OWASP meetup
+
+Jan 23, 2018, at The Italian on Hanrapeturyan str.
+
+  - ArmSec foundation and OWASP cooperation
+  - ArmSec 2019 readiness
+  - round table
+
+-----
+
 ##### **ArmCTF 2018**
 
 Nov 24 at 8 PM – Nov 25 at 8 PM

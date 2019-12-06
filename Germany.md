@@ -11,27 +11,31 @@ __NOTOC__
 
 <div style="background:lightblue;text-align:center;font-weight:bold;padding:2em">
 
-OWASP <u>[Germany Chapter
-Meeting](Germany/Chapter_Meetings "wikilink")</u> am 10.04.2019 ab 13:00
-Uhr
-in der Brauerstraße 48 in Karlsruhe
+Der nächste <u>[German OWASP Day](https://god.owasp.de)</u> findet am
+10.12.2019 in Karlsruhe statt\! Das [Programm steht
+online](https://god.owasp.de/schedule) und [der Vorverkauf hat
+begonnen](https://www.eventbrite.com/e/german-owasp-day-2019-karlsruhe-tickets-82951101979)\!.
+Folge uns [auf Twitter](https://twitter.com/owasp_de) oder aboniere
+[unsere
+Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/),
+um auf dem aktuellen Stand zu bleiben\!
 
 </div>
 
 ## Über OWASP
 
 OWASP ist eine unabhängige, weltweite Community mit dem Ziel, die
-Bedeutung der Sicherheit von Webanwendungen »sichtbar zu machen«
-Know-How zur Entwicklung und den Betrieb sicherer Webanwendungen zu
-verbreiten und frei zur Verfügung zu stellen. Sämtliche
-OWASP-Instrumente, wie Dokumente, Videos, Slides, Podcasts etc. sind
-kostenlos unter einer freien Lizenz verwendbar.
+Awarenese für die Sicherheit von Webanwendungen zu schaffen, Know-How
+zur Entwicklung und den Betrieb sicherer Anwendungen zu verbreiten und
+frei zur Verfügung zu stellen. Sämtliche OWASP-Instrumente, wie
+Dokumente, Tools, Videos, Slides, Podcasts etc. sind kostenlos unter
+freien Lizenzen verwendbar.
 
 OWASP ist frei, offen und herstellerunabhängig. Alle Interessierten sind
 herzlich willkommen etwa in
 [Projekten](:Category:OWASP_Project "wikilink") mitzuarbeiten oder nur
 am Wissen zu partizipieren. Eine prima Gelegenheit sich einen Eindruck
-zu verschaffen, sind die [OWASP
+zu verschaffen, sind die offenen [OWASP
 Stammtische](OWASP_German_Chapter_Stammtisch_Initiative "wikilink"), die
 regelmäßig in vielen deutschen Großstädten stattfinden.
 
@@ -53,7 +57,8 @@ Hemkemeier](mailto:boris@owasp.org), [Christian
 Becker](mailto:christian.becker@owasp.org), [Christian
 Dresen](mailto:christian.dresen@owasp.org), [Daniel
 Gora](mailto:danielgora@owasp.org), [Henrik
-Willert](mailto:henrik.willert@owasp.org), [Ingo
+Willert](mailto:henrik.willert@owasp.org), [Dirk
+Wetter](mailto:dirk@owasp.org), [Ingo
 Hanke](mailto:ingo.hanke@owasp.org), [Ives
 Laaf](mailto:ives.laaf@gmail.com), [Jan
 Wolff](mailto:jan.wolff@owasp.org), [Johannes
@@ -77,7 +82,8 @@ auf die Beine gestellt hat, kann sich blicken lassen\! Ein Ausschnitt:
   - OWASP Juice Shop
   - OWASP Top 10 Privacy Risks Project
   - OWASP Top 10 für Entwickler
-  - OWASP Top 10 2013: Deutsche Übersetzung
+  - OWASP Top 10 207 (und 2013): Deutsche Übersetzung
+  - OWASP Docker Top 10
   - Best Practices: Web Application Firewalls
 
 Details findet ihr auf der Liste der [deutschen
@@ -85,65 +91,117 @@ Projekte](Germany/Projekte "wikilink").
 
 # Treffen
 
-## OWASP Stammtisch-Initiative
+## OWASP-Stammtisch-Initiative
 
-In mehreren Städten gibt es
-[OWASP-Stammtische](Germany/Stammtisch_Initiative "wikilink"), bei denen
-man sich in lockerer Runde trifft, um sich auszutauschen, nette Leute
-kennenzulernen oder ernsthafte Sicherheitsthemen zu diskutieren --
-meinstens mit Vortrag.
+In mehreren Städten gibt es *OWASP-Stammtische*, bei denen man sich in
+lockerer Runde trifft, um sich auszutauschen, nette Leute kennenzulernen
+oder ernsthafte Sicherheitsthemen zu diskutieren – meist mit Vortrag.
+Dies sind offene Treffen. *Jeder* ist herzlich eingeladen,
+vorbeizukommen, einfach zu lauschen oder mit zu diskutieren.
 
-Aktive Stammtische gibt es (Stand August 2017) in:
+Aktive Stammtische gibt es (Stand Oktober 2019) in:
 [München](OWASP_German_Chapter_Stammtisch_Initiative/München "wikilink"),
 [Frankfurt](OWASP_German_Chapter_Stammtisch_Initiative/Frankfurt "wikilink"),
+[Hamburg](OWASP_German_Chapter_Stammtisch_Initiative/Hamburg "wikilink"),
 [Stuttgart](OWASP_German_Chapter_Stammtisch_Initiative/Stuttgart "wikilink"),
 [Köln](OWASP_German_Chapter_Stammtisch_Initiative/Köln "wikilink"),
-[Hamburg](OWASP_German_Chapter_Stammtisch_Initiative/Hamburg "wikilink"),
+[Hannover](OWASP_German_Chapter_Stammtisch_Initiative/Hannover "wikilink"),
 [Karlsruhe](OWASP_German_Chapter_Stammtisch_Initiative/Karlsruhe "wikilink"),
 [Dresden](OWASP_German_Chapter_Stammtisch_Initiative/Dresden "wikilink"),
 [Ruhrpott](OWASP_German_Chapter_Stammtisch_Initiative/Ruhrpott "wikilink"),
-<u>[Heilbronn-Franken
-<b>(neu)</b>](http://lists.owasp.org/pipermail/owasp-germany/2017-August/001012.html)</u>
+[Heilbronn-Franken](http://lists.owasp.org/pipermail/owasp-germany/2017-August/001012.html)</u>
 
 ## German OWASP Day
 
 Der [German OWASP Day](German_OWASP_Day "wikilink") ist die jährlich
-stattfindende Konferez des German OWASP Chapter. Die ​Zielgruppe ​sind
-​Entwickler, ​IT-Sicherheitsverantwortliche, ​DV-Leiter ​und ​die
-​klassische ​“security ​crowd”. ​Der ​German ​OWASP ​Day ​ist ​eine
-​Security-Konferenz ​mit ​Fachvorträgen ​zu ​sicherer ​Entwicklung,
-​Betrieb, ​Test ​und ​Management ​im ​Umfeld ​von ​(webbasierten)
-​Anwendungen. ​Auch ​fachübergreifende, ​nicht-technische ​Themen
-​sind ​willkommen. ​OWASP ​und ​OWASP-Konferenzen ​sind
-​herstellerneutral ​und ​ohne ​Marketingvorträge.
+stattfindende Konferez des German OWASP Chapter. Das Publikum ist
+gemischt und reicht von der klassischen “security crowd” über
+Entwickler, IT-Sicherheitsverantwortliche bzw. IT-Leiter. Die
+Veranstaltung OWASP Day bietet Fachvorträgen zu sicherer Entwicklung,
+Betrieb und Test im Umfeld von Anwendungen, sowie
+Security-Managementthemen oder ab und wann mal heiße Themen außerhalb
+der klassischen OWASP-Thematik. OWASP-Konferenzen sind wie die
+Organisation OWASP, herstellerneutral und ohne Marketingvorträge.
 
-Der letzte German OWASP Day [fand am 20.11.2018 in Münster
-statt](https://god.owasp.de/archive/2018/). Der nächste wird in
-Karlsruhe sein und befindet sich derzeit noch in Planung\! Informationen
-werden (sobald verfügbar) über die Website bekanntgegeben: '''
-<https://god.owasp.de> '''.
+Der nächste German OWASP Day [findet am 10.12.2019 in Karlsruhe
+statt](https://god.owasp.de/). Der [Call for
+Presentations](https://god.owasp.de/cfp) ist geschlossen und der
+Vorverkauf startet in Kürze. Folge uns [auf
+Twitter](https://twitter.com/owasp_de) oder abboniere [die
+Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/),
+um auf dem aktuellen Stand zu bleiben\!
 
 ## Chapter Meetings
 
 Das German Chapter trifft sich in unregelmäßigen Abständen, um die
 Arbeit innerhalb des German Chapter zu organisieren. Unser Chapter hat
-die Besonderheit, dass wir unter unserem Dach, die einzelnen Stammtische
-haben -- die in anderen Ländern als Chapter organisiert sind. Insofern
-sind unsere Chapter Meetings eine Mischung aus Vortrag und Organisation.
+die Besonderheit, dass wir unter einem Dach die einzelnen Stammtische
+haben – die in anderen Ländern als Chapter organisiert sind.
 
-Gemäß dem *O* in OWASP für *open* sind diese Treffen öffentlich.
+Gemäß dem O in OWASP (open) sind auch diese Treffen öffentlich.
 Jedermann kann daran teilnehmen und sich an der Arbeit im Chapter
-beteiligen. Der Termin zum Treffen -- Chapter Meeting -- wird auf dieser
-Seite bekannt gegeben, zusammen mit der Agenda. Selbstverständlich sind
-auch alle Ergebnisse der Treffen öffentlich. Was auf den vergangenen
-Treffen jeweils besprochen / beschlossen wurde ist auf der [Chapter
-Meetings](Germany/Chapter_Meetings "wikilink")-Seite zu finden.
+beteiligen. Das nächste Meeting wird am Tag vor dem German OWASP Day
+(also am 09.12.) in Karlsruhe stattfinden. Selbstverständlich sind auch
+alle Ergebnisse der Treffen öffentlich. Was auf den vergangenen Treffen
+jeweils besprochen / beschlossen wurde, ist auf der
+Chapter-Meetings-Seite zu finden. Eine OWASP-Mitgliedschaft ist keine
+Voraussetzung zur Teilnahme\! Lediglich für die Abstimmungen ist eine
+Mitgliedschaft notwendig. Details zu Agenda und Ort sind hier auf der
+[Chapter Meetings](Germany/Chapter_Meetings "wikilink")-Seite zu finden.
 
-Das nächste Chapter Meeting wird am 10. April in Karlsruhe stattfinden.
-Eine OWASP Mitgliedschaft ist **keine** Voraussetzung zur Teilnahme\!
-Lediglich für die Abstimmungen ist eine Mitgliedschaft notwendig.
-Details zu Agenda und Ort sind [hier auf der Chapter Meeting Seite zu
-finden](Germany/Chapter_Meetings#OWASP_Germany_Chapter_Meeting_am_10.04.2019_in_Karlsruhe "wikilink").
+# Aktionen
+
+## Open Security Summit 2019 Sponsoring
+
+The OWASP German Chapter is offering stipends for up to two
+participants*\[1\]* in the upcoming [Open Security
+Summit 2019](https://open-security-summit.org)\! Please read the
+following paragraphs carefully before applying\!
+
+### Stipend Scope
+
+Each stipend includes
+
+  - **1 Standard Summit Ticket (with accomodation)** worth up to 1,500
+    GBP*\[2\]*
+
+The stipends do **not** include
+
+  - travel cost reimbursement
+  - any other costs of the participant
+
+### Rules
+
+To apply for one of the two stipends you must send a written application
+via email to <germany-chapter-leaders@owasp.org> with the following
+minimum content:
+
+1.  Name and short work-life and open source biography
+2.  Description of the working and/or user sessions you will *host
+    yourself* at the summit
+3.  Other tracks and/or sessions you want *to participate in* during the
+    summit
+4.  Description of the tangible outcome you plan to achieve for OWASP
+    and the application security community from 2. and/or 3.
+
+### Deadlines
+
+We are looking forward to your applications\! Please mind the following
+timeline for this offer:
+
+  - **Application deadline is May 12th 2019**
+  - Evaluation results will be delivered latest by May 19th 2019
+
+-----
+
+*\[1\]* = The OWASP German Chapter Board will pick the best applications
+that meet their minimum quality requirements by voting. The number of
+provided total stipends depends on the number of sufficiently convincing
+applications being submitted and might effectively range from 0 to 2.
+
+*\[2\]* = The ticket will be purchased by the OWASP German Chapter and
+delivered to the participant via email. Previously purchased tickets are
+not eligible for reimbursement under any circumstances.
 
 # Archiv
 
@@ -238,12 +296,9 @@ Eine Liste aller vom OWASP German Chapter durchgeführten Konferenzen ist
 
 # Kontakt
 
-/
-
 ### So erreichen Sie uns
 
-  - E-Mail: \< Befindet sich gerade in Abstimmung. Bis dahin bitte die
-    Adressen der Boardmember nutzen. \>
+  - E-Mail: <germany-chapter-leaders@owasp.org>
     Twitter: [Twitter:
     @OWASP_de](https://twitter.com/#!/search/OWASP_de)
     <u>[Mailingliste](https://groups.google.com/a/owasp.org/group/germany-chapter/)</u>:
@@ -276,10 +331,8 @@ Informationen für die Presse finden sich
 | ![Schutzwerk-300x29.png](Schutzwerk-300x29.png "Schutzwerk-300x29.png")                                                               | ![secuvera_8700px.png](secuvera_8700px.png "secuvera_8700px.png") |
 | ![sicsec_logo_was_OWASP_20121218_small.png](sicsec_logo_was_OWASP_20121218_small.png "sicsec_logo_was_OWASP_20121218_small.png") | ![Logo-bitinspect.png](Logo-bitinspect.png "Logo-bitinspect.png")  |
 |                                                                                                                                       |                                                                    |
-| ![xing_logo.png](xing_logo.png "xing_logo.png")                                                                                      |                                                                    |
-|                                                                                                                                       |                                                                    |
-|                                                                                                                                       |                                                                    |
-|                                                                                                                                       |                                                                    |
+| ![xing_logo.png](xing_logo.png "xing_logo.png")                                                                                      | |- |                                                               |
+|                                                                                                                                       | |- |                                                               |
 
 Unser Angebot an Sponsoren / Offer for Chapter Sponsors: [OWASP German
 Chapter Sponsorship](Germany/Chaptersponsor "wikilink").

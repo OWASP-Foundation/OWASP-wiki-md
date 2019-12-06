@@ -47,4 +47,5 @@ can have an accurate count for food.
     news about OWASP Charlotte.
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:North Carolina](Category:North_Carolina "wikilink")

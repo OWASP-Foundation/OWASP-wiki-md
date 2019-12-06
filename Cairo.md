@@ -4,11 +4,123 @@
 
 -----
 
-##### OWASP AppSec Africa
+##### AppSec Africa
 
+Day Two Event announcing pended on foundation review/approval
+
+**AppSec Africa Day One**
+Day One is open and free.
+Event sessions are served in the way of First Come First Served. The
+event hall has a limited number of seats. If you are interested to
+attend please try to be there before the session start by a good amount
+of time and be sure to register for the event.
+
+**Date:**
+1st September 2019
+Event starts by 5 PM
+
+**Location:**
+InterContinental City Stars Cairo - Hambra Ballroom (-2), Nasr City,
+Cairo, EGYPT
+Event Registration link: <https://forms.gle/o8PrYk6GCLbG2uAm8>
+
+'''Event Agenda: *'
+
+The OWASP Top Ten Proactive Controls 2018
+(By: **Jim Manico**)
+Software developers are the foundation of any application. In order to
+achieve secure software, developers must be supported and helped by the
+organization they author code for. As software developers author code
+that makes up a web application, they need to embrace and practice a
+wide variety of secure coding techniques. The OWASP Top Ten Proactive
+Controls (2018) is an OWASP documentation project that lists critical
+security techniques that should be included in every software
+development project. This document was written by developers for
+developers to assist those new to secure development.
+
+Bypassing iOS Security using Enterprise Provisioning Hooks and
+Enterprise Mobility Management
+(By: **Georgia Weidman**)
+This talk demonstrates how features Apple includes in their iOS
+ecosystem to support corporate enterprise provisioning and management
+can be used to exploit all iOS devices. We will cover the faculties that
+Apple includes to allow enterprises and mobile security vendors to
+remotely provision settings and load applications and how a malicious
+attacker could take advantage of these vectors. We will discuss
+Configuration Profile options with security implications and using the
+Enterprise Development Program to bypass Apple’s anti-malware app
+controls. Though Apple considers this a “feature not a bug” and a
+phishing issue, no anti-phishing training readily available for either
+consumers or corporations specifically address these phishing attacks.
+However, according to the Verizon Breach Report over 90% of enterprise
+compromises came in through endpoints, largely from phishing. Mobile
+devices open up a wide range of additional phishing options than the
+email scenarios. We will demonstrate how penetration testers and red
+teams can simulate these attacks to raise user awareness and perform
+impact analysis of a potential breach begun by a compromised iOS
+device.
+
+Egypt Cyber and Privacy Security Requirements for Software Developers.
+(By: **Mohamed Alfateh**)
+
+In this session, we will discuss number of Cyber law clauses that should
+be considered in developing software applications, we will go through
+the final draft of the executive regulation to highlight the additional
+controls that should be implemented in the applications, that will add
+extra layer of security and ensure the compliance with the Cyber law
+requirements.
+
+*'Event Speakers **
+**Jim Manico**
+Jim Manico is the founder of Manicode Security where he trains software
+developers on secure coding and security engineering. He is also an
+investor/advisor for KSOC, Nucleus Security, Signal Sciences, Secure
+Circle and BitDiscovery. Jim is a frequent speaker on secure software
+practices, is a member of the Java Champion community, and is the author
+of "Iron-Clad Java: Building Secure Web Applications" from Oracle Press.
+Jim also volunteers for the OWASP foundation as the project co-lead for
+the OWASP Application Security Verification Standard and the OWASP
+Proactive Controls. For more information, see
+<http://www.linkedin.com/in/jmanico>.
+
+**Georgia Weidman'''
+Georgia Weidman is a serial entrepreneur, penetration tester, security
+researcher, speaker, trainer, and author. She is a member of the
+CyberWatch Center's National Visiting Committee, on the board of
+advisors at Cybrary, and an Adjunct Professor at UMUC and Tulane
+University. She is a New America Cybersecurity Policy Fellow. She has
+presented or conducted training around the world and is regularly
+featured internationally in print and on television. She authored
+Penetration Testing: A Hands-On Introduction to Hacking. Georgia founded
+the security consulting firm Bulb Security and was awarded a DARPA Cyber
+Fast Track grant for her work in mobile device security culminating in
+the release of the Smartphone Pentest Framework. She founded Shevirah
+whose products assess and manage the risk of mobile devices in the
+enterprise and is a graduate of the Mach37 cybersecurity accelerator.
+She was the 2015 Women’s Society of CyberJutsu Pentest Ninja. She holds
+a MS in computer science and CISSP, CEH, and OSCP certifications.
+
+**Mohamed Alfateh**
+Alfateh is the OWASP Cairo chapter leader, he has deep experience in
+secure SDLC, code review & application threat modeling, DevSecOps and
+security compliance. Mohamed has many contributions for OWASP, he is the
+author for the “OWASP application threat modeling cheat sheet” and a
+board member of OWASP Middle-East. He is currently Sr. Consultant at
+ZINAD IT, holding GSSP-JAVA, GSNA, GSEC, ISO27001 LA/LI & Lead SCADA
+Security Professional certificates.
+
+**Location:**
+Cairo, Egypt (Hotel location will be updated)
+
+**AppSec Africa Day Two**
+**Call For Paper**
+
+[Call For
+Paper](https://docs.google.com/forms/d/e/1FAIpQLSd01JoNAUKNXGvWe7M17T2LTP3a9E3HGVa7xT4E9uetS6rQxg/viewform?vc=0&c=0&w=1)
 **Call For Event Volunteers**
-This year, OWASP Egypt is hosting AppSec Africa, the premier application
-security conference for African developers and security experts.
+This year, OWASP Egypt is planning to host AppSec Africa, the premier
+application security conference for African developers and security
+experts.
 AppSec Africa will provide attendees with insight into key application
 security topics and exposure to best practices in cybersecurity.
 In OWASP we strongly believe in the power of the community and we rely

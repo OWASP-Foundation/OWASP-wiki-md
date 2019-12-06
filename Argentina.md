@@ -1,38 +1,13 @@
 __NOTOC__
 
-<table>
-<thead>
-<tr class="header">
-<th><p>width="700" align="center"</p></th>
-<th><p><br />
-</p></th>
-<th><p>width="500" align="center"</p></th>
-<th><p><br />
-</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>align="center"</p></td>
-<td><figure>
-<img src="Owasp_Latam_Tour_2019_v1_Logo.jpg" title="Owasp_Latam_Tour_2019_v1_Logo.jpg" alt="Owasp_Latam_Tour_2019_v1_Logo.jpg" width="600" height="600" /><figcaption>Owasp_Latam_Tour_2019_v1_Logo.jpg</figcaption>
-</figure></td>
-<td><p>align="center"</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
 # Bienvenidos
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="width: 100%; color: rgb(0, 0, 0);"</p></td>
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p>style="width: 95%; color: rgb(0, 0, 0);"</p></td>
 <td><p><font size="2pt"> Bienvenido al capitulo local de OWASP Argentina <a href="https://twitter.com/owasp_arg">Seguinos en Twitter!</a> </font></p>
 <h2 id="actividades_locales_1">Actividades Locales</h2>
 <p>Hay muchas formas de colaborar y contribuir con el capitulo OWASP Argentina.<br />
@@ -49,22 +24,18 @@ __NOTOC__
 </tr>
 </tbody>
 </table></td>
-<td><p>style="border: 0px solid rgb(204, 204, 204); width: 100%; font-size: 95%; color: rgb(0, 0, 0);"</p></td>
 <td><figure>
 <img src="Owasp_Latam_Tour_2019_v1_Logo.jpg" title="Owasp_Latam_Tour_2019_v1_Logo.jpg" alt="Owasp_Latam_Tour_2019_v1_Logo.jpg" width="300" height="300" /><figcaption>Owasp_Latam_Tour_2019_v1_Logo.jpg</figcaption>
 </figure>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border: 1px solid rgb(204, 204, 204); width: 100%; font-size: 95%; color: rgb(0, 0, 0); background-color: rgb(236, 236, 236);"</p></td>
 <td><p>Use the <strong><a href="http://search.twitter.com/search?q=%23LATAMTOUR2019">#Latamtour</a></strong> hashtag for your tweets for Latam Tour (What are <a href="http://hashtags.org/">hashtags</a>?)</p>
 <p><strong>@AppSecLatam Twitter Feed (<a href="http://twitter.com/AppSecLatam">follow us on Twitter!</a>)</strong></p></td>
-<td><p>style="width: 110px; font-size: 95%; color: rgb(0, 0, 0);"</p></td>
 <td></td>
 </tr>
 </tbody>
 </table></td>
-<td><p>style="width: 110px; font-size: 95%; color: rgb(0, 0, 0);"</p></td>
 <td></td>
 </tr>
 </tbody>

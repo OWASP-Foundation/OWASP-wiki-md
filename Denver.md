@@ -1,3 +1,11 @@
+\== Sponsorship == We can't do what we do alone, its takes a concerted
+effort and generous sponsors. If you or your company is interested in
+sponsoring an upcoming chapter meeting or event, please reach out to
+Serge Borso: serge 'dot' borso 'at' owasp.org. The OWASP foundation, as
+well as the Denver chapter, is a 501(c)(3) non-profit organization;
+**your sponsorship is not only greatly appreciated but is considered a
+tax deductible donation**.
+
 ## About the chapter
 
 The Denver OWASP chapter is comprised of Denver metro area (and beyond)
@@ -6,110 +14,58 @@ chapter meetups consisted of <b>3-5</b> people talking about appsec in a
 donated meeting space. From there we have migrated to holding meetings
 of <b>15-25</b> people at the Hosting.com building in Denver, to
 <b>30-40</b> people on the Community College of Aurora campus, to maxing
-out capacity at the Chinook Tavern to our current location of Dave &
-Busters (maxing out the <b>120+</b> capacity at this venue as well on
-many nights). The Denver OWASP chapter is about the community,
-application security, and discussing advances in technology that impact
-us all.
+out capacity at the Chinook Tavern as well as Dave & Busters (on many
+nights). The Denver OWASP chapter is focused on our security community,
+and discussing advances in technology that impact us all.
+
+
 Chapter Meetings are held the 3rd Wednesday of designated months, see
 the [MeetUp.com](http://www.meetup.com/Denver-OWASP/) site for regular
 updates and meeting information.
-
 A large part of why 100+ people regularly attend our meetings is due to
 our presenters (spectacular networking with intelligent individuals
 coupled with great food and drinks certainly helps). As such, we are
 always looking for talented speakers ready to share interesting
 information on a wide variety of topics: Please reach out to Denver
-OWASP Chapter Leader Steve Kosten: steve 'dot' kosten 'at' owasp.org if
-you are interested in presenting at one of our regular meetups.
+OWASP President Serge Borso: serge 'dot' borso 'at' owasp.org if you are
+interested in presenting at one of our regular meetups.
 
-\--
+## Submit your presentation
 
-### THANK YOU TO OUR SPONSORS
-
-![<File:SolutionsIILogo.jpg>](SolutionsIILogo.jpg
-"File:SolutionsIILogo.jpg")
-
-A big thank you to [Solutions II](http://solutions-ii.com/) for being
-our primary monthly meeting sponsor (ongoing now for several years)\!\!
-It is much appreciated\!
-
-Solutions II is nationally recognized for world class innovation in
-virtualization, business continuance, data lifecycle management and
-information security, networking and compliance. Solutions II’s security
-practice specializes in risk and compliance, including mobile device
-management, SIEM, Next Generation Firewalls, IDS/IPS, encryption and
-more. Solutions II assists clients every day to leverage technologies
-and services that drive the cost out of IT. Solutions II's commitment to
-success includes a professional services practice dedicated to
-increasing customer service levels and decreasing the time and support
-required for implementations to keep their Clients "Performing Ahead of
-the Curve.”. --\> -- All chapter meetings will be announced via email to
-those who sign up for Denver OWASP from this page and also at our [:
-Denver OWASP Meetup location](http://www.meetup.com/Denver-OWASP/)
-**Thanks to [Solutions II](http://solutions-ii.com/) for providing food
-and drinks for our meetings...** --\>
+If you are interested in presenting at a regular chapter meeting please
+submit the following information to serge 'dot' borso 'at' owasp.org:
+Presentation Title, Presentation Abstract and Speaker(s) BIO. The
+Information Security field is very broad and essentially any information
+security topic is welcome including: New and exciting research,
+presentations on appsec, breaches, crypto, WIFI, cloud, emerging
+technology/trends, etc.
 
 ## Chapter Board of Directors
 
 Here's the team that's putting it all together:
 
-  - Chairman/Chapter Leader - Steve Kosten
-  - Board Member: Serge Borso
-  - Board Member: Aaron Cure
-  - Board Member: Matt Shufeldt
-  - Board Member: Kathy Thaxton
-  - Board Member: Frank Vianzon
-
-\-- NOTE: PLEASE CONSIDER FOLLOWING US AT @OWASP303 ON TWITTER AND/OR
-[SUBSCRIBE TO THE MAILING
-LIST](http://lists.owasp.org/mailman/listinfo/owasp-denver) AND/OR join
-the OWASP Denver Linked In group.
-
-`=====Missed the con?=====`
-
-  - [Vids from
-    Schmoocon 2011](http://www.reddit.com/r/netsec/comments/fgetw/shmoocon_2011_video_collection/)
-  - [Vids
-    from 27c3](http://media.ccc.de/browse/congress/2010/index.html)
-  - [Vids from
-    AppsecDC 2010](http://vimeo.com/groups/asdc10/videos/sort:newest)
-
-\--\>
+  - Chapter President: [Serge
+    Borso](https://www.linkedin.com/in/sergeborso)
+  - Board Member: [Aaron Cure](https://www.linkedin.com/in/aaron-cure)
+  - Board Member: [Brad Gable](https://www.linkedin.com/in/bradgable/)
+  - Board Member: [Steve
+    Kosten](https://www.linkedin.com/in/stevekosten)
+  - Board Member: [Matt
+    Shufeldt](https://www.linkedin.com/in/matt-shufeldt-283677)
+  - Board Member: [Frank
+    Vianzon](https://www.linkedin.com/in/frank-vianzon)
 
 ##### OWASP Podcast
 
 [OWASP Podcast](http://www.owasp.org/index.php/OWASP_Podcast)
 
-\-- =====Wassup Boulder===== Boulder has built a strong chapter over the
-past 3 years. Any individuals up north of Denver have a great resource.
-We hope to share some resources and communication with the Boulder
-chapter. If you're interested in meeting with the Boulder chapter please
-let us know\!
-
-<paypal>Denver</paypal>
-
-<hr>
-
-\--\>
-
 ## Questions, Comments
 
 Questions can be directed to
 
-  - Steve Kosten, Denver OWASP: steve 'dot' kosten 'at' owasp.org
+  - Serge Borso, Denver OWASP: serge 'dot' borso 'at' owasp.org
 
 <hr />
-
-\--
-
-#### Chapter Meetings
-
-Meetings are usually the 3rd Wednesday of every other month. If you
-can't make the Denver meeting, the [Boulder](Boulder "wikilink") meeting
-is usually the 3rd Thursday of the month.
-
-\--\>
 
 ## Past Meetings
 
@@ -151,7 +107,7 @@ hands-on](Denver_May_2012_meeting "wikilink")
 [April 18th 2012: Tim Van Cleave "Intro to WebScarab and
 WebGoat"](Denver_April_2012_meeting "wikilink")
 
-Denver January 2012 meeting January 18th, 2012 | Greg Knaddison ["How
+Denver January 2012 meeting January 18th, 2012| Greg Knaddison ["How
 Does Drupal Security Stack
 up?"](http://2011.badcamp.net/program/sessions/how-does-drupal-security-stack)
 
@@ -229,22 +185,6 @@ Revisited](Denver_February_2008_meeting "wikilink")
 Join the [OWASP Denver Mailing
 List](http://lists.owasp.org/mailman/listinfo/owasp-denver) to receive
 meeting notifications via email
-
-\--
-
-#### Twitter Feed @owasp303
-
-Denver OWASP has created a [Twitter feed
-@owasp303](http://twitter.com/owasp303) to keep you in the loop. Whilst
-the mailing list is primarily intended to be low-traffic and only
-provide updates regarding the times, locations, and topics for chapter
-meetings, the Twitter feed will also provide noteworthy appsec updates.
-
-|                                                                                                                                       |                                                                                                                |                                                            |  |
-| ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |  |
-| style="border: 1px solid rgb(204, 204, 204); width: 100%; font-size: 95%; color: rgb(0, 0, 0); background-color: rgb(236, 236, 236);" | **@OWASP303 Twitter Feed ([follow us on Twitter\!](http://twitter.com/OWASP303))** <twitter>55021150</twitter> | style="width: 110px; font-size: 95%; color: rgb(0, 0, 0);" |  |
-
-\--\>
 
 ##### Key OWASP Resources
 

@@ -17,32 +17,124 @@ social networking groups:**
 
 ### Announcements
 
-## April Meeting
+## November Meeting
 
-**When:** Tuesday, April 16, 2019 - 6:00 PM
+**When:** Wednesday, November 6, 2019 - 6:30 PM
 
-'''Topic: ''' Happy hour at Flying Saucer in Addison. Appetizers and
-drinks until 8:00 PM or we run out of money, whichever comes first. :)
+'''Topic: ''' CMD+CTRL Web Application Cyber Range
 
-**Who:** You and other DFW OWASPers
+Want to test your skills in identifying web app vulnerabilities? Join
+the Dallas OWASP Chapter and Security Innovation as members compete in
+CMD+CTRL, a web application cyber range where players exploit their way
+through hundreds of vulnerabilities that lurk in business applications
+today. Success means learning quickly that attack and defense is all
+about thinking on your feet.
 
-**Where:** We will be on the rooftop - Flying Saucer Draught Emporium -
-14999 Montfort Dr - Dallas, TX
+For each vulnerability you uncover, you are awarded points. Climb the
+interactive leaderboard for a chance to win fantastic prizes\! CMD+CTRL
+is ideal for development teams to train and develop skills, but anyone
+involved in keeping your organization’s data secure can play - from
+developers and managers and even CISOs.
 
-The meeting food & drinks will be sponsored by OWASP Dallas.
+Prizes will be awarded for first, second, and third place finishes.
+
+**Who:** Chad Holmes is a Product Marketing Manager for Security
+Innovation with a focus on educating customers on emerging Cyber Range
+technologies and how they can improve security education within
+organizations. Prior to joining Security Innovation Chad was a
+Penetration Tester, Product Manager, Security Program Manager and team
+lead at Cigital, Veracode and Red Hat.
+
+**Where:** Toyota Motor North America, Inc. 6565 Headquarters Drive -
+Plano
+
+Guests may park in the visitors parking area on Headquarters Dr. right
+outside main lobby in front of W1 and E1 buildings. Enter the main lobby
+to sign in. Meeting will be in the Corolla W1-0C-18 / Camry W1-0C-30
+conference rooms.
+
+IMPORTANT Meeting Notes:
+
+This office is a gun-free zone. Please do not attempt to bring in any
+guns, holsters, ammo, etc. into their office space.
+
+The meeting food & drinks will be sponsored by TBD.
 
 ### Previous Meetings
 
+## October Meeting
+
+**When:** Tuesday, October 22, 2019 - 6:00 PM
+
+'''Topic: ''' The Pulse of AppSec: 2019 Trends and Insights
+
+**Who:** Phil Guraedy is a Technical Consultant with Micro Focus.
+
+**Where:** Epsilon - 6021 Connection Drive - Irving, TX
+
+## September Meeting
+
+**When:** Tuesday, September 17, 2019 - 6:00 PM
+
+'''Topic: ''' Bug Hunting - An adventure in free time
+
+**Who:** Rich Mirch has been in IT for over 21 years; Rich is currently
+a member of the Red Team at State Farm.
+
+**Where:** State Farm Insurance - 3661 N. Plano Rd. Suite 1000 -
+Richardson, TX - [Map](Media:Citylink_map.pdf "wikilink")
+
+## July Meeting
+
+**When:** Tuesday, July 23, 2019 - 6:00 PM
+
+'''Topic: ''' Cloud, the Hard Way
+
+**Who:** Will Bengtson is the Director of Cloud Security, Distinguished
+Engineer at Capital One.
+
+**Where:** Toyota Motor North America, Inc. - 6565 Headquarters Drive,
+Plano, TX
+
+[Media:Cloud_-_The_Hard_Way.pdf](Media:Cloud_-_The_Hard_Way.pdf "wikilink")
+
+## June Meeting
+
+**When:** Tuesday, June 25, 2019 - 6:00 PM
+
+'''Topic: ''' Anti-Phish Codes -- Addressing credential compromise that
+lead to Data breaches and Fraud
+
+**Who:** Dr. Chiruvolu brings in more than two decades of expertise,
+insights on technology and cyber security in several market verticals
+such as Finance, Healthcare, Enterprise and Govt./Education.
+
+**Where:** Capital Factory + The DEC - 3102 Oak Lawn Ave - Dallas, TX
+
+[Media:UberPasscodes-AntiPhishing2FA-PresArchive.pdf](Media:UberPasscodes-AntiPhishing2FA-PresArchive.pdf "wikilink")
+
+## May Meeting
+
+**When:** Thursday, May 23, 2019 - 6:00 PM
+
+'''Topic: ''' Microservices: What Am I Securing Again?
+
+**Who:** Travis Biehn is a Principal Consultant at Synopsys and
+consulting research lead for the Synopsys Cybersecurity Research Center.
+David Bohannon is a Senior Security Consultant at Synopsys.
+
+**Where:** The Garage at Capital One - 8000 Dominion Pkwy - Plano, TX -
+Building with TC out front
+[Media:Microservices_OWASP_Preso_Sanitized.pptx](Media:Microservices_OWASP_Preso_Sanitized.pptx "wikilink")
+
 ## March Meeting
 
-**When:** Tuesday, March 19, 2019 - 6:00 PM
+**When:** Thursday, May 23, 2019 - 6:00 PM
 
 '''Topic: ''' Tineola: Taking a Bite Out of Enterprise Blockchain
 
 **Who:** Stark Riedesel is a senior consultant at Synopsys with six
 years of security industry experience.
-
-**Where:** Needs a location
 
 ## February Meeting
 

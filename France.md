@@ -65,6 +65,36 @@ Chapitre OWASP France devienne un de vos contacts de référence.
 
 # 2019
 
+## Meeting le 14/11/2019
+
+LE [Meeting de
+Novembre 2019](https://www.meetup.com/fr-FR/owasp-france/events/265767065/)
+aura lieu 23-5 Rue du Bouloi, 75001 Paris
+
+## Meeting le 10/10/2019
+
+Le [meeting du 10/10/2019](https://www.nuxeo.com/fr/events/owasp/) aura
+lieu chez
+[Nuxeo](https://www.nuxeo.com/fr/media-center/nouveaux-bureaux/) à 19h.
+N'oubliez pas votre pièce d'identité pour les raisons de sécurité. .
+Comme d'habitude le lien d'inscription se fait sur meetup :
+<https://www.meetup.com/owasp-france/events/265045137/>
+
+## Meeting de la rentrée le 9/9/2019
+
+Prochain meeting le 9/9/2019 a 19h chez OCTO Technology Informations ici
+<https://www.meetup.com/fr-FR/owasp-france/events/263769738/>
+
+## Meeting le 27/06/2019
+
+Prochain meeting le 4 avril chez Theodo (48 Boulevard des Batignolles).
+Informations ici <http://meetu.ps/e/GQYLF/5HK3v/d>
+
+## Meeting le 22/05/2019
+
+Meeting le 22 Mai chez OCTO Technology. Informations ici
+<http://meetu.ps/e/GFGrj/5HK3v/d>
+
 ## Meeting le 4/4/2019
 
 Prochain meeting le 4 avril chez OCTO Technology. Informations ici

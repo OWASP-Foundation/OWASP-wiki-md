@@ -29,49 +29,38 @@ more involved contact any of the following people:
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>Jan 2019 Meeting - Christiaan Beek</strong></p></td>
+<td style="text-align: center;"><p><strong>Jan 2019 Meeting - Christiaan Beek</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' 5th Jan 2019</em>'<br />
+<td style="text-align: center;"><p><em>' 5th Jan 2019</em>'<br />
 Doors: 6pm</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><a href="https://drive.google.com/file/d/1k7_FZJNhGZ2Th_48jP17igkGynaPiaJH/view?usp=sharing">Slides - Christiaan Beek: Threat Group Fingerprints</a></p></td>
+<td style="text-align: center;"><p><a href="https://drive.google.com/file/d/1k7_FZJNhGZ2Th_48jP17igkGynaPiaJH/view?usp=sharing">Slides - Christiaan Beek: Threat Group Fingerprints</a></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><strong>Talk Details</strong></p>
+<td style="text-align: center;"><p><strong>Talk Details</strong></p>
 <p>The Lazarus, Silent Chollima, Group 123, Hidden Cobra, DarkSeoul, Blockbuster, Operation Troy and 10 Days of Rain attacks are all believed to originate from North Korea. But how can they be attributed with certainty? And what connection does a DDoS and disk-wiping attack from 4 July 2009 have with WannaCry, one of the largest cyber attacks in the history of the cyber sphere?</p>
 <p>From the Mydoom variant Brambul, to the more recent FallChill, WannaCry, and targeting of cryptocurrency exchanges, there is a distinct timeline of attacks beginning from the moment North Korea entered the world stage as a significant threat actor. Bad actors have a tendency to unwittingly leave fingerprints on their attacks, allowing researchers to connect the dots between them. North Korean actors have left many of these clues in their wake and throughout the evolution of their malware arsenal. In this session, attendees will view code analysis illustrating key similarities between samples attributed to North Korea, a shared networking infrastructure, and other revealing data hidden within the binaries. All of these puzzle pieces will be put together and using a VR demo to illustrate the connections between the many attacks attributed to North Korea and to categorize different tools used by specific teams of their cyber army.</p>
 <p><strong>About Christiaan</strong></p>
@@ -80,8 +69,7 @@ Doors: 6pm</p></td>
 <p>As usual we will hang around for chats and maybe a beer.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -93,54 +81,42 @@ Doors: 6pm</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>December 2018 Meeting - OWASP Cork Leaders Meetup</strong></p></td>
+<td style="text-align: center;"><p><strong>December 2018 Meeting - OWASP Cork Leaders Meetup</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' TBD</em>'<br />
+<td style="text-align: center;"><p><em>' TBD</em>'<br />
 Doors: TBD</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>N/A</p></td>
+<td style="text-align: center;"><p>N/A</p></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><strong>Whats this?</strong></p>
+<td style="text-align: center;"><p><strong>Whats this?</strong></p>
 <p>Meetup for new leadership team to get to know each other and discuss the chapter.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -150,49 +126,38 @@ Doors: TBD</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>October 2018 Meeting - Exploring the Digital Underworld and Mitre Att&amp;ck Technique Automation</strong></p></td>
+<td style="text-align: center;"><p><strong>October 2018 Meeting - Exploring the Digital Underworld and Mitre Att&amp;ck Technique Automation</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><strong>16 Nov 2018</strong><br />
+<td style="text-align: center;"><p><strong>16 Nov 2018</strong><br />
 Doors: 7pm</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>TBD</p></td>
+<td style="text-align: center;"><p>TBD</p></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>Gavin O'Gorman with "Exploring the Digital Underworld" and Eamonn Ryan with "Mitre Att&amp;ck Technique Automation"</p>
+<td style="text-align: center;"><p>Gavin O'Gorman with "Exploring the Digital Underworld" and Eamonn Ryan with "Mitre Att&amp;ck Technique Automation"</p>
 <p><strong>Talk 1: Gavin O’Gorman</strong></p>
 <p>Gavin has been working in Symantec for the past nine years, Gavin is an intelligence analyst on the attack investigations team. Before moving to the attack investigations team in 2013, he worked as a reverse engineer, and as an incident handler. Gavin's primary role is to gather together information from both Symantec data sources, and open sources, to build a comprehensive picture of an attack, or attackers. Another aspect of the job is to work with law enforcement to assist in the investigation of e-crime where possible. Prior to working in Symantec, Gavin spent several years researching network security in Dublin City University, and currently lectures part-time for the DCU Masters in Security &amp; Forensics course</p>
 <p><em>Talk Description - "Exploring the Digital Underworld"</em><br />
@@ -205,8 +170,7 @@ Gavin will be talking about how over the past year, researchers in Symantec have
 <p>We will hang around for chats and maybe a beer.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -218,51 +182,40 @@ Gavin will be talking about how over the past year, researchers in Symantec have
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>December 2017 Meeting - OWASP Ireland Secure Coding Tournament</strong></p></td>
+<td style="text-align: center;"><p><strong>December 2017 Meeting - OWASP Ireland Secure Coding Tournament</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' Monday<br />
+<td style="text-align: center;"><p><em>' Monday<br />
 5 Dec 2017</em>'<br />
 Doors: 18:30<br />
 Tournament starts: 19:00</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>n/a</p></td>
+<td style="text-align: center;"><p>n/a</p></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><strong>OWASP Ireland Secure Coding Tournament</strong></p>
+<td style="text-align: center;"><p><strong>OWASP Ireland Secure Coding Tournament</strong></p>
 <p>Have you got what it takes to be one of Ireland’s most secure coders?</p>
 <p>Join the first ever OWASP Ireland Secure Coding Tournament. Whether you are eager to prove your web application AppSec knowledge of the OWASP Top 10 … and watch as you climb to the top of the leaderboard or simply want to learn more at your ease about how to code more securely.</p>
 <p>EVERYONE is welcome.</p>
@@ -279,8 +232,7 @@ Tournament starts: 19:00</p></td>
 <p>As usual we will hang around for some chats.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -292,52 +244,41 @@ Tournament starts: 19:00</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>October 2016 Chapter Meeting - Anatomy of an Attack</strong></p></td>
+<td style="text-align: center;"><p><strong>October 2016 Chapter Meeting - Anatomy of an Attack</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' Monday<br />
+<td style="text-align: center;"><p><em>' Monday<br />
 10 Oct 2016</em>'<br />
 Doors: 20:00<br />
 Talks start: 20:10</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-iZGJVbTZpYmkzTWc/view?usp=sharing">Anatomy of an Attack by Owen Pendlebury</a></p>
+<td style="text-align: center;"><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-iZGJVbTZpYmkzTWc/view?usp=sharing">Anatomy of an Attack by Owen Pendlebury</a></p>
 <p>Since we had sound problems for one of the videos, they can be found here: <a href="http://www2.deloitte.com/global/en/pages/risk/articles/new-cyber-security-video.html">Cyber Security. Evolved.</a> and <a href="http://www2.deloitte.com/global/en/pages/risk/articles/cybervideo-companies-like-yours.html">Companies Like Yours</a></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><strong>The Anatomy of an Attack</strong></p>
+<td style="text-align: center;"><p><strong>The Anatomy of an Attack</strong></p>
 <p>Stories of organisations getting hacked are becoming so frequent that it would be easy to believe that there’s no real way to avoid being the next target. I will outline what we know, what incident data tells us and what the typical motive is behind these hacks. Furthermore, I will walk you through the three stages of an attack (footprinting, scanning and exploitation) and discuss some recent hacks and what we can learn from them.</p>
 <p><strong>Speaker Bio: Owen Pendlebury</strong></p>
 <p>Owen has been involved in the OWASP Foundation since 2009. He has been an active and dedicated chapter leader, who has organised regular activities for the OWASP Dublin chapter that benefit the local information security community greatly over the past 7 years. Some of the projects that Owen has been involved in include, AppSec EU 2016/ 2017 Committee/ Training Committee chair, AppSec EU 2017 successful bid, DaggerCon, Cyber Startup Summit, Source Dublin, Advanced Threat Intelligence Seminars and numerous security workshops.</p>
@@ -347,8 +288,7 @@ Talks start: 20:10</p></td>
 <p>We will bring in some pizza and grab some beers from downstairs in the Roundy.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -358,52 +298,41 @@ Talks start: 20:10</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>March 2016 Chapter Meeting - Deserialization is bad, and you should feel bad</strong></p></td>
+<td style="text-align: center;"><p><strong>March 2016 Chapter Meeting - Deserialization is bad, and you should feel bad</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' Monday<br />
+<td style="text-align: center;"><p><em>' Monday<br />
 11 March 2016</em>'<br />
 Doors: 19:00<br />
 Talks start: 19:10</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-ibXBMVm50WmV5TTQ/view?usp=sharing">Meeting Intro</a></p>
+<td style="text-align: center;"><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-ibXBMVm50WmV5TTQ/view?usp=sharing">Meeting Intro</a></p>
 <p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-iak9tVDRDUHU1Qmc/view?usp=sharing">Deserialization is bad, and you should feel bad! By Gabriel Lawrence</a></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><strong>Deserialization is bad, and you should feel bad</strong></p>
+<td style="text-align: center;"><p><strong>Deserialization is bad, and you should feel bad</strong></p>
 <p>This chapter meeting will be delivered by Gabriel Lawrence who will be speaking about object deserialization bugs within some of the most popular programming languages, web servers and sites. This is a major application security vulnerability which he and Chris Frohoff advanced the research and released generalized exploit tools at AppSec Cali 2015. It was almost a year later, when specific working exploits were released across many major Java services, that the world realized how much of a big deal the findings from their research into deserialization were. Sites including PayPal and a number of Java based systems including WebLogic, Websphere, JBoss and Jenkins were found to be remotely exploitable to provide the attacker with full remote access to the associated server. To this day, and without a doubt well into the future, desearialization vulnerabilities will continue to be discovered as a result of this work.</p>
 <p><strong>Speaker Bio: Gabriel Lawrence</strong></p>
 <p>Gabriel Lawrence leads the Application Security team at Qualcomm, San Diego, doing Application Security Assessments, Penetration Tests, Incident Response, Reverse Engineering, and anything else that comes his way. Gabe is an active member of the very successful San Diego OWASP Chapter and has been involved with OWASP as an organization from the time of its inception.</p>
@@ -411,8 +340,7 @@ Talks start: 19:10</p></td>
 <p>We will bring in some pizza and grab some beers from downstairs in the Roundy.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -424,51 +352,40 @@ Talks start: 19:10</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>November Chapter Meeting - PCI DSS Pen Testing / IAM (Identity &amp; Access Mgmt)</strong></p></td>
+<td style="text-align: center;"><p><strong>November Chapter Meeting - PCI DSS Pen Testing / IAM (Identity &amp; Access Mgmt)</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' Thursday 12th Nov 2015<br />
+<td style="text-align: center;"><p><em>' Thursday 12th Nov 2015<br />
 <br />
 </em>' Doors: 19:00<br />
 Talks start: 19:10</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>TBD - After event</p></td>
+<td style="text-align: center;"><p>TBD - After event</p></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>On Thursday November 12th we have two great speakers lined up for our next chapter meeting. Both posses great experience in their respective areas, so can get across the information and answer your questions that might not be so easy to find in the books. Stephen O'Boyle will talk about PCI DSS (Payment Card Industry - Data Security Standard), the set of compliance guidelines that you must adhere to if you store, transmit or process credit card information. This will be followed up with Barry Mulcahy's valuable information on management of identity and access to data across systems.</p>
+<td style="text-align: center;"><p>On Thursday November 12th we have two great speakers lined up for our next chapter meeting. Both posses great experience in their respective areas, so can get across the information and answer your questions that might not be so easy to find in the books. Stephen O'Boyle will talk about PCI DSS (Payment Card Industry - Data Security Standard), the set of compliance guidelines that you must adhere to if you store, transmit or process credit card information. This will be followed up with Barry Mulcahy's valuable information on management of identity and access to data across systems.</p>
 <p>Also, thanks to the kind sponsorship from Espion on the night there will be some food and drinks provided too. No doubt, this should be a great night :)</p>
 <p><strong>Talk #1 - PCI DSS v3.1 Scanning and Penetration Testing</strong></p>
 <p>Stephen will discuss the key changes in PCI DSS Version 3.1, examine penetration testing methodology from the auditor’s point of view, and how you can maintain compliance.</p>
@@ -491,8 +408,7 @@ Talks start: 19:10</p></td>
 <p>We are having the talks in Cashman's Bar on Academy Street so we will stay on there.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -502,51 +418,40 @@ Talks start: 19:10</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>OWASP Top 10 Workshop #5 (Broken Auth &amp; Session Mgmt, Security Misconfiguration and Sensitive Data Exposure)</strong></p></td>
+<td style="text-align: center;"><p><strong>OWASP Top 10 Workshop #5 (Broken Auth &amp; Session Mgmt, Security Misconfiguration and Sensitive Data Exposure)</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' THursday 15th Oct 2015<br />
+<td style="text-align: center;"><p><em>' THursday 15th Oct 2015<br />
 <br />
 </em>' Doors: 19:00<br />
 Talks start: 19:10</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-iTnhUZW03S2lWVnc/view?usp=sharing">Slides - A2, A5 and A6</a></p></td>
+<td style="text-align: center;"><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-iTnhUZW03S2lWVnc/view?usp=sharing">Slides - A2, A5 and A6</a></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>'''Topics:</p>
+<td style="text-align: center;"><p>'''Topics:</p>
 <p>'''- A5 Security Misconfiguration</p>
 <p>'''- A2 Broken Authentication and Session Management</p>
 <p>'''- A6 Sensitive Data Exposure</p>
@@ -576,8 +481,7 @@ Talks start: 19:10</p></td>
 <p>Darren &amp; Fiona (OWASP Cork Team)</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -587,51 +491,40 @@ Talks start: 19:10</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>OWASP Top 10 Workshop #4 (XSS &amp; Unvalidated Redirects and Forwards)</strong></p></td>
+<td style="text-align: center;"><p><strong>OWASP Top 10 Workshop #4 (XSS &amp; Unvalidated Redirects and Forwards)</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' Thursday 10th Sept 2015<br />
+<td style="text-align: center;"><p><em>' Thursday 10th Sept 2015<br />
 <br />
 </em>' Doors: 19:00<br />
 Talks start: 19:10</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-iemN6YVNVNHJ3aEk/view?usp=sharing">A3 - Cross Site Scripting (XSS) &amp; A10 - Unvalidated Redirects and Forwards</a></p></td>
+<td style="text-align: center;"><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-iemN6YVNVNHJ3aEk/view?usp=sharing">A3 - Cross Site Scripting (XSS) &amp; A10 - Unvalidated Redirects and Forwards</a></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><strong>Detecting and Preventing XSS, the Most Common Web App Security Flaw.</strong></p>
+<td style="text-align: center;"><p><strong>Detecting and Preventing XSS, the Most Common Web App Security Flaw.</strong></p>
 <p>On Thursday, September 10th, we are having the fourth of our free series of workshops based on OWASP's most well known flagship project, the OWASP Top 10 (2013) <a href="https://www.owasp.org/index.php/Top10">https://www.owasp.org/index.php/Top10</a>. The goal of these workshops is to learn by doing, which is usually the best approach to learning anything. In that light, we will speak a little about each of the areas from the Top 10, then take that learning to the next level by attacking vulnerable sites and investigating vulnerable code and configurations.</p>
 <p>This month our guest speaker, Damilare Fagbemi, will mainly be investigating Cross Site Scripting (XSS) which claims the third highest spot (A3) in the top 10 and will also touch on A10 - Unvalidated Redirects and Forwards.</p>
 <p>Damilare is a software engineer and information security professional with expertise in Software Security and Data Analytics. He is a software security engineer in the Partner team at Intel Security Group where is responsible for developing strategies to improve security in the software development process while ensuring that software products built and shipped for Intel Security's partners are secure.</p>
@@ -655,8 +548,7 @@ Talks start: 19:10</p></td>
 <p>Chapter meetings are provided free of charge although OWASP membership is encouraged and besides supporting the organisation, will provide the holder with benefits in other areas such as free/discounted entry to conferences, etc.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -666,51 +558,40 @@ Talks start: 19:10</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>OWASP Top 10 Workshop #3 (Injection)</strong></p></td>
+<td style="text-align: center;"><p><strong>OWASP Top 10 Workshop #3 (Injection)</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' Tuesday 28 July 2015<br />
+<td style="text-align: center;"><p><em>' Tuesday 28 July 2015<br />
 <br />
 </em>' Doors: 19:00<br />
 Talks start: 19:10</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-iQnhDcjBMYWJTQ1k/view?usp=sharing">A1 - SQL Injection (SQLi)</a></p></td>
+<td style="text-align: center;"><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-iQnhDcjBMYWJTQ1k/view?usp=sharing">A1 - SQL Injection (SQLi)</a></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>Tuesday July 28 will see the third of our free series of workshops based on OWASP's most well known flagship project, the OWASP Top 10 (2013) <a href="https://www.owasp.org/index.php/Top10">https://www.owasp.org/index.php/Top10</a>. The goal of these workshops is to learn by doing, which is usually the best approach to learning anything. In that light, we will speak a little about each of the areas from the Top 10, then take that learning to the next level by attacking vulnerable sites and investigating vulnerable code and configurations.</p>
+<td style="text-align: center;"><p>Tuesday July 28 will see the third of our free series of workshops based on OWASP's most well known flagship project, the OWASP Top 10 (2013) <a href="https://www.owasp.org/index.php/Top10">https://www.owasp.org/index.php/Top10</a>. The goal of these workshops is to learn by doing, which is usually the best approach to learning anything. In that light, we will speak a little about each of the areas from the Top 10, then take that learning to the next level by attacking vulnerable sites and investigating vulnerable code and configurations.</p>
 <p>We will also be having our summer social event, with some free food and beer, after the talks - see below for more details.</p>
 <p>This month we will be looking at Injection flaws which are #1 in the top 10. This is the top item as successful exploitation can lead to complete control of your systems by a malicious user.</p>
 <p>Note: During the previous workshops we set up our machines.</p>
@@ -731,8 +612,7 @@ Talks start: 19:10</p></td>
 <p>Chapter meetings are provided free of charge although OWASP membership is encouraged and besides supporting the organisation, will provide the holder with benefits in other areas such as free/discounted entry to conferences, etc.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -742,56 +622,44 @@ Talks start: 19:10</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>OWASP Top 10 Workshop #2 (CSRF &amp; Insecure Components)</strong></p></td>
+<td style="text-align: center;"><p><strong>OWASP Top 10 Workshop #2 (CSRF &amp; Insecure Components)</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' Thursday 25 June 2015<br />
+<td style="text-align: center;"><p><em>' Thursday 25 June 2015<br />
 <br />
 </em>' Doors: 19:00<br />
 Talks start: 19:10</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-iT2l0RmJJNFN4aXM/view?usp=sharing">Cross Site Request Forgery (CSRF)</a><br />
+<td style="text-align: center;"><p><a href="https://drive.google.com/file/d/0B8BFOgbEfp-iT2l0RmJJNFN4aXM/view?usp=sharing">Cross Site Request Forgery (CSRF)</a><br />
 <a href="https://drive.google.com/file/d/0B8BFOgbEfp-iOUJkOVhwbWctUUE/view?usp=sharing">Using Insecure Components</a></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>Thursday 25 June will see the second of our free series of workshops based on OWASP's most well known flagship project, the OWASP Top 10 (2013) <a href="https://www.owasp.org/index.php/Top10">https://www.owasp.org/index.php/Top10</a>. The goal of these workshops is to learn by doing, which is usually the best approach to learning anything. In that light, we will speak a little about each of the areas from the Top 10, then take that learning to the next level by attacking vulnerable sites and investigating vulnerable code and configurations.</p>
+<td style="text-align: center;"><p>Thursday 25 June will see the second of our free series of workshops based on OWASP's most well known flagship project, the OWASP Top 10 (2013) <a href="https://www.owasp.org/index.php/Top10">https://www.owasp.org/index.php/Top10</a>. The goal of these workshops is to learn by doing, which is usually the best approach to learning anything. In that light, we will speak a little about each of the areas from the Top 10, then take that learning to the next level by attacking vulnerable sites and investigating vulnerable code and configurations.</p>
 <p>Note: During the previous workshop we set up our machines.</p>
 <p>Anyone who has set up their machines during the last workshop can continue to use that and will have all tools in place, but if you have not, no problem, we can just set up the one or two main tools that we will need for that night. If would like some assistance in getting set-up then we will be there from 18:45 to help. Alternatively, you can contact one of the organisers (Fiona or Darren) in advance and we will let you know what you need.</p>
 <p>Having a machine isn't a requirement for attending, there will be talks and demos as well as the practical elements.</p>
@@ -811,8 +679,7 @@ Talks start: 19:10</p></td>
 <p>After giving some time for individually attempting to carry out the exploitation, a walk-through of the exploit technique will be given for each of the examples outlined. The OWASP team will be at hand to help with any issues that might arise through this phase.</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -822,57 +689,45 @@ Talks start: 19:10</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>OWASP Top 10 Workshop #1 (Test Environment Setup &amp; Direct Object Reference)</strong></p></td>
+<td style="text-align: center;"><p><strong>OWASP Top 10 Workshop #1 (Test Environment Setup &amp; Direct Object Reference)</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' Thursday 28 May 2015<br />
+<td style="text-align: center;"><p><em>' Thursday 28 May 2015<br />
 <br />
 </em>' Doors: 19:00<br />
 Talks start: 19:10</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
+<td style="text-align: center;"><p><strong>SLIDES FOR THIS MONTH</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>[<a href="https://drive.google.com/file/d/0B8BFOgbEfp-iNk1ab2R4Uy1lalU/view?usp=sharing">https://drive.google.com/file/d/0B8BFOgbEfp-iNk1ab2R4Uy1lalU/view?usp=sharing</a>, Setting Up a Hacking Environment]<br />
+<td style="text-align: center;"><p>[<a href="https://drive.google.com/file/d/0B8BFOgbEfp-iNk1ab2R4Uy1lalU/view?usp=sharing">https://drive.google.com/file/d/0B8BFOgbEfp-iNk1ab2R4Uy1lalU/view?usp=sharing</a>, Setting Up a Hacking Environment]<br />
 [<a href="https://drive.google.com/file/d/0B8BFOgbEfp-iYlRucmVRSG5pWTQ/view?usp=sharing">https://drive.google.com/file/d/0B8BFOgbEfp-iYlRucmVRSG5pWTQ/view?usp=sharing</a>, Direct Object Reference &amp; Broken Functional Access Control]<br />
 </p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>Thursday 28 May will see the first of our free series of workshops based on OWASP's most well known flagship project, the OWASP Top 10 (2013) <a href="https://www.owasp.org/index.php/Top10">https://www.owasp.org/index.php/Top10</a>. The goal of these workshops is to learn by doing, which is usually the best approach to learning anything. In that light, we will speak a little about each of the areas from the Top 10, then take that learning to the next level by attacking vulnerable sites and investigating vulnerable code and configurations.</p>
+<td style="text-align: center;"><p>Thursday 28 May will see the first of our free series of workshops based on OWASP's most well known flagship project, the OWASP Top 10 (2013) <a href="https://www.owasp.org/index.php/Top10">https://www.owasp.org/index.php/Top10</a>. The goal of these workshops is to learn by doing, which is usually the best approach to learning anything. In that light, we will speak a little about each of the areas from the Top 10, then take that learning to the next level by attacking vulnerable sites and investigating vulnerable code and configurations.</p>
 <p>Note: To get the most out of these workshops, it would be best to bring your own laptop. This should have &gt;1 GB of RAM, &gt;5 GB of free storage and a reasonably fast processor. Failing these laptop requirements we could probably work around it, but this would be best for following the standard approach that will be taken by most.</p>
 <p>This month's workshop will be divided into three phases:</p>
 <p><strong>1. Setting Up Your Test Environment</strong></p>
@@ -891,8 +746,7 @@ Talks start: 19:10</p></td>
 <p>2. Offensive - Attacking vulnerable sites from a malicious attacker or software tester's perspective.</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -902,24 +756,20 @@ Talks start: 19:10</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>Amalgamating IT Security Best Practices Within an Organisation</strong></p></td>
+<td style="text-align: center;"><p><strong>Amalgamating IT Security Best Practices Within an Organisation</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>On March 24th we held a joing security event with CorkSec, ISACA, and (ISC)2. Slides from the talks are available here:<br />
+<td style="text-align: center;"><p>On March 24th we held a joing security event with CorkSec, ISACA, and (ISC)2. Slides from the talks are available here:<br />
 [<a href="https://drive.google.com/file/d/0B2v5SuBDC0ejWHUyUkJtLThpSUE/view?usp=sharing">https://drive.google.com/file/d/0B2v5SuBDC0ejWHUyUkJtLThpSUE/view?usp=sharing</a>, Securing Innovation]<br />
 [<a href="https://drive.google.com/file/d/0B2v5SuBDC0ejYXhRUEhtOEdTWVU/view?usp=sharing">https://drive.google.com/file/d/0B2v5SuBDC0ejYXhRUEhtOEdTWVU/view?usp=sharing</a>, The Weakest Link]<br />
 </p>
 <p>Chapter meetings are provided free of charge although OWASP membership is encouraged and besides supporting the organisation, will provide the holder with benefits in other areas such as free/discounted entry to conferences, etc.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -934,43 +784,34 @@ Meet-Up page: <http://www.meetup.com/OWASP-Cork/>**
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>Chapter Meeting - December 11 2014</strong></p></td>
+<td style="text-align: center;"><p><strong>Chapter Meeting - December 11 2014</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' Thursday 11 December 2014<br />
+<td style="text-align: center;"><p><em>' Thursday 11 December 2014<br />
 <br />
 </em>' Doors: 19:00<br />
 Talks start: 19:15</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>The next OWASP Cork Chapter meeting is taking place on Thursday December 11th in UCC (Western Gateway Building, WGB G04) at 7PM.</p>
+<td style="text-align: center;"><p>The next OWASP Cork Chapter meeting is taking place on Thursday December 11th in UCC (Western Gateway Building, WGB G04) at 7PM.</p>
 <p>Hope to see you there. There are two talks lined up:</p>
 <p>Talk 1: Eoin Carroll - Android Webview Exploitation</p>
 <p>Bio:</p>
@@ -989,8 +830,7 @@ Talks start: 19:15</p></td>
 <p>Chapter meetings are provided free of charge although OWASP membership is encouraged and besides supporting the organisation, will provide the holder with benefits in other areas such as free/discounted entry to conferences, etc.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -1000,43 +840,34 @@ Talks start: 19:15</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>Chapter Meeting - September 22 2014</strong></p></td>
+<td style="text-align: center;"><p><strong>Chapter Meeting - September 22 2014</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' Monday 22nd September<br />
+<td style="text-align: center;"><p><em>' Monday 22nd September<br />
 <br />
 </em>' Doors: 19:00<br />
 Talks start: 19:15</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>The next OWASP Cork Chapter meeting is taking place on Monday September 22nd in UCC (WGB G.14) at 7PM.</p>
+<td style="text-align: center;"><p>The next OWASP Cork Chapter meeting is taking place on Monday September 22nd in UCC (WGB G.14) at 7PM.</p>
 <p>We would like to treat all attendees to some beer and pizza after the talks in the Woolshed bar (Mardyke - <a href="http://www.woolshedbaa.com/cork/">http://www.woolshedbaa.com/cork/</a>)</p>
 <p>Hope to see you there.</p>
 <p>There are two talks lined up:</p>
@@ -1050,8 +881,7 @@ Talks start: 19:15</p></td>
 <p>Chapter meetings are provided free of charge although OWASP membership is encouraged and besides supporting the organisation, will provide the holder with benefits in other areas such as free/discounted entry to conferences, etc.</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -1061,43 +891,34 @@ Talks start: 19:15</p></td>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" height="30" style="background:#CCCCEE;" colspan="2"</p></td>
-<td><p><strong>Chapter Meeting - Joint event with CorkSec</strong></p></td>
+<td style="text-align: center;"><p><strong>Chapter Meeting - Joint event with CorkSec</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" colspan="0"</p></td>
-<td><p><strong>When</strong></p></td>
+<td style="text-align: center;"><p><strong>When</strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="middle" bgcolor="#EEEEEE" align="center"</p></td>
-<td><p><em>' Tuesday 2nd September<br />
+<td style="text-align: center;"><p><em>' Tuesday 2nd September<br />
 <br />
 </em>' Doors: 19:00<br />
 Talks start: 19:15</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>valign="center" bgcolor="#CCCCEE" align="center" colspan="2"</p></td>
-<td><p><strong>DESCRIPTION</strong></p></td>
+<td style="text-align: center;"><p><strong>DESCRIPTION</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>valign="left" height="80" bgcolor="#EEEEEE" align="left" colspan="2"</p></td>
-<td><p>The first OWASP Cork Chapter meeting is taking place on Tuesday September 1st upstairs in SoHo bar on Grand Parade. This meeting is a joint event with the CorkSec group (http://www.meetup.com/CorkSec/). We would love if you could stay around after for a chat and some networking.</p>
+<td style="text-align: center;"><p>The first OWASP Cork Chapter meeting is taking place on Tuesday September 1st upstairs in SoHo bar on Grand Parade. This meeting is a joint event with the CorkSec group (http://www.meetup.com/CorkSec/). We would love if you could stay around after for a chat and some networking.</p>
 <p>There are two talks lined up:</p>
 <p>Talk 1: Web to Shell by Darren Fitzpatrick</p>
 <p>Darren will introduce the concept of getting a shell through a website. This basically means remotely taking over the server on which a web application is installed. After a little theory, he will go about delivering demonstrations of this in action. Demos will include common attack vectors of this type and one recent and quite common ruby on rails specific remote exploit.</p>
@@ -1114,8 +935,7 @@ Talks start: 19:15</p></td>
 </ul></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>

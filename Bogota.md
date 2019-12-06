@@ -4,7 +4,7 @@
 
 El capítulo desde el 2017 ha logrado realizar reuniones de manera activa
 gracias al apoyo continuo de los miembros de HackLab Bogotá, la Escuela
-Colombiana de Ingeniería Julio Garavito, el HacjLab Bogotá y CSIETE, los
+Colombiana de Ingeniería Julio Garavito, el HackLab Bogotá y CSIETE, los
 invitamos a ser parte activa del Capítulo Bogotá y crear una comunidad
 que genera conocimiento en torno a las aplicaciones seguras y muchos
 otros proyectos activos de OWASP Global.
@@ -28,14 +28,24 @@ nuestro capítulo, puedes seguirnos en nuestra cuenta de twitter
 
 # PRÓXIMOS EVENTOS
 
-La participación de Bogotá en el **OWASP Latam Tour 2019** se ha
-confirmado, gracias al apoyo de la [Universidad Sergio
-Arboleda](https://www.usergioarboleda.edu.co/) el evento ser llevará a
-cabo el próximo **27 de Mayo** en [Hall74](http://www.hall74.com/), toda
-la información se encuentra en la página del [LATAM
-Tour 2019](https://www.owasp.org/index.php/LatamTour2019#tab=COLOMBIA_-_Bogot_C3_A1).
+## OWASP Latam Tour 2019
 
-![Latam_Tour_2019.jpg](Latam_Tour_2019.jpg "Latam_Tour_2019.jpg")
+![OWASP-LatamTour2019-Portada-EventBrite-2.jpg](OWASP-LatamTour2019-Portada-EventBrite-2.jpg
+"OWASP-LatamTour2019-Portada-EventBrite-2.jpg") Todo se encuentra
+confirmado, Bogotá será parte del próximo [LATAM
+Tour 2019](https://www.owasp.org/index.php/LatamTour2019#tab=COLOMBIA_-_Bogot_C3_A1),
+el registro esta abierto en este
+[link](https://www.eventbrite.com/myevent?eid=60937069415) y toda la
+información la puede encontrar en la página del
+[evento](https://www.owasp.org/index.php/LatamTour2019#tab=COLOMBIA_-_Bogot_C3_A1),
+su apoyo es fundamental para que el capítulo siga creciendo y trabajando
+directamente por su comunidad, los esperamos.
+
+Este evento es un espacio muy especial para nosotros ya que nos permite
+de manera masiva poder compartir con todos los interesados, diferentes
+temas de seguridad de la mano de grandes representantes del tema a nivel
+mundial, esperamos pronto compartir con todos y disfrutar este espacio
+construido pensado en ustedes, nuestra comunidad OWASP Bogotá.
 
 # EVENTOS PASADOS
 
@@ -115,6 +125,28 @@ Solutions por los premios que fueron entregados en el evento.
 Este evento sería imposible sin todos los conferencistas y cada uno de
 los participantes del evento... a todos y cada uno de ustedes, gracias,
 esperamos contar con ustedes en todas las actividades del capítulo.
+
+Aquí se encuentra un resumen completo de lo que fue este evento
+
+El video de las charlas y presentaciones de nuestro OWASP Latam Tour
+2017 las pueden encontrar aquí ![OLTB_Final.jpg](OLTB_Final.jpg
+"OLTB_Final.jpg")
+
+|                         Expositor                          |                               Charla                                |             Video              |    Presentación     |
+| :--------------------------------------------------------: | :-----------------------------------------------------------------: | :----------------------------: | :-----------------: |
+|                    Giovanni Cruz Forero                    |                            Esto es OWASP                            | <https://youtu.be/ycPUFt_KjHQ> | <http://v.ht/oltb1> |
+|                     Ricardo Supo Picón                     |          Del Top 10 OWASP al Cumplimiento de PCI-DSS v 3.2          | <https://youtu.be/KCajqcXSw7w> |         N/A         |
+|               Jeffrey Steve Borbón Sanabria                |    ¿Y cómo editamos sistemas legados que nadie sabe cómo sirven?    | <https://youtu.be/_7hm4UzTmdE> | <http://v.ht/oltb2> |
+|   Juan Pablo Arévalo Merchán - Andrés Felipe Vega Torres   |             OWASP Mobile Project and Internet of Things             | <https://youtu.be/mMl7RKIlTQs> | <http://v.ht/oltb3> |
+| Hugo Ferney Álvarez Lucena - Maria Alejandra Blanco Uribe  |               Offensive Web Testing Framework (OWTF)                | <https://youtu.be/ZG974If8E18> | <http://v.ht/oltb4> |
+|                 Edgar Felipe Duarte Porras                 |           Malware: Burlando los antivirus con JavaScripts           | <https://youtu.be/kunue1cRVw0> | <http://v.ht/oltb5> |
+| Tatiana Andrea Higuera Munevar - Nicolas Moreno Guataquira |                     OWASP SeraphimDroid Project                     | <https://youtu.be/ujfLHzysPXs> | <http://v.ht/oltb6> |
+|                      Oscar Mondragon                       |                         Antidefacement Web                          | <https://youtu.be/i0Yl97UBvT8> |         N/A         |
+|  David Esteban Useche Peláez – Maria Paula Bueno Martinez  | The OWASP Enterprise Security API (ESAPI): Security Control Library | <https://youtu.be/xk5dGYzLH20> | <http://v.ht/oltb7> |
+|                      Jonathan Maderos                      |                       Hackeando una Elección                        | <https://youtu.be/LJmjbuIhjR0> | <http://v.ht/oltb8> |
+|                                                            |                                                                     |                                |                     |
+
+<headertabs></headertabs>
 
 ## Reunión OWASP Bogotá en el HackLab Bogotá
 
@@ -211,30 +243,6 @@ dejo el link para más información.
 
 [Registrate
 Aquí](http://www.regonline.com/Register/Checkin.aspx?EventID=1492446)
-
-# LATAM TOUR 2017
-
-El video de las charlas y presentaciones de nuestro OWASP Latam Tour
-2017 las pueden encontrar aquí ![OLTB_Final.jpg](OLTB_Final.jpg
-"OLTB_Final.jpg")
-
-### **OWASP LATAM TOUR BOGOTÁ 2017**
-
-| align="center" width="200"                                 | Expositor                                                           | align="center" width="320"     | Charla              | align="center" width="450" | Video | align="center" width="150" | Presentación |
-| ---------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------ | ------------------- | -------------------------- | ----- | -------------------------- | ------------ |
-| Giovanni Cruz Forero                                       | Esto es OWASP                                                       | <https://youtu.be/ycPUFt_KjHQ> | <http://v.ht/oltb1> |                            |       |                            |              |
-| Ricardo Supo Picón                                         | Del Top 10 OWASP al Cumplimiento de PCI-DSS v 3.2                   | <https://youtu.be/KCajqcXSw7w> | N/A                 |                            |       |                            |              |
-| Jeffrey Steve Borbón Sanabria                              | ¿Y cómo editamos sistemas legados que nadie sabe cómo sirven?       | <https://youtu.be/_7hm4UzTmdE> | <http://v.ht/oltb2> |                            |       |                            |              |
-| Juan Pablo Arévalo Merchán - Andrés Felipe Vega Torres     | OWASP Mobile Project and Internet of Things                         | <https://youtu.be/mMl7RKIlTQs> | <http://v.ht/oltb3> |                            |       |                            |              |
-| Hugo Ferney Álvarez Lucena - Maria Alejandra Blanco Uribe  | Offensive Web Testing Framework (OWTF)                              | <https://youtu.be/ZG974If8E18> | <http://v.ht/oltb4> |                            |       |                            |              |
-| Edgar Felipe Duarte Porras                                 | Malware: Burlando los antivirus con JavaScripts                     | <https://youtu.be/kunue1cRVw0> | <http://v.ht/oltb5> |                            |       |                            |              |
-| Tatiana Andrea Higuera Munevar - Nicolas Moreno Guataquira | OWASP SeraphimDroid Project                                         | <https://youtu.be/ujfLHzysPXs> | <http://v.ht/oltb6> |                            |       |                            |              |
-| Oscar Mondragon                                            | Antidefacement Web                                                  | <https://youtu.be/i0Yl97UBvT8> | N/A                 |                            |       |                            |              |
-| David Esteban Useche Peláez – Maria Paula Bueno Martinez   | The OWASP Enterprise Security API (ESAPI): Security Control Library | <https://youtu.be/xk5dGYzLH20> | <http://v.ht/oltb7> |                            |       |                            |              |
-| Jonathan Maderos                                           | Hackeando una Elección                                              | <https://youtu.be/LJmjbuIhjR0> | <http://v.ht/oltb8> |                            |       |                            |              |
-|                                                            |                                                                     |                                |                     |                            |       |                            |              |
-
-<headertabs></headertabs>
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Latin America](Category:Latin_America "wikilink")

@@ -7,9 +7,9 @@ is Adam Leisring. The OWASP chapter meetings are free and open to anyone
 interested in information security, risk management, data protection and
 application security. Chapter meetings are usually held monthly. If you
 have never attended a meeting before and you are interested to attend
-one in the future, please join the [mailing
-list](https://lists.owasp.org/mailman/listinfo/owasp-cincinnati). The
-mailing list is also used for sharing application security knowledge
+one in the future, please join the [Mailing
+List](https://groups.google.com/a/owasp.org/forum/#!forum/cincinnati-chapter).
+The mailing list is also used for sharing application security knowledge
 among the local community members. You can also review the [email
 archives](https://lists.owasp.org/pipermail/owasp-cincinnati/) to see
 what local folks have been talking about.
@@ -24,6 +24,101 @@ please send an abstract and bio to the [chapter chair (Adam
 Leisring)](mailto:adam.leisring@owasp.org). Prior to participating,
 please review the [Chapter
 Rules](https://www.owasp.org/index.php/Chapter_Rules).
+
+## October 2019 Meeting
+
+### The Softer Side of Security
+
+**Discussion Abstract:** Having technical skills to help solve problems
+is a necessity, but what about navigating the world of execution?
+Ultimately we depend on many others to achieve our objectives. As
+skilled professionals we need to hone more than just our technical
+skills. Join us in a discussion that explores what a well-rounded
+security professional needs in order to build an effective application
+security program.
+
+**Speaker Biography**: Allison Shubert has over 19 years experience in
+information technology, application security architecture, and risk
+management. She combines her development background and risk management
+skills to assists businesses in managing the changing landscape of cyber
+security. She hold a master’s of science degree in information assurance
+and the CISSP and the CSSLP certifications. She regularly serves as a
+SME to ISC@ for the exam creation. She has also served on the paper
+selection committee for the OWASP global conferences for the last three
+years.
+
+**Presentation:**
+<https://www.owasp.org/images/e/ed/Allison-Shubert_The-Softer-Side-of-Security.pdf>
+
+## August 2019 Meeting
+
+### Server Side Request Forgery (SSRF) Attack Scenario and Defense Options
+
+**When**: August 28th, 2019. 11:30 AM
+
+**Where**: Paycor, 4811 Montgomery Road, Norwood, Ohio 45212
+
+**Discussion Abstract**: SSRF - Attack scenario and Defense options A
+relatively new attack in today's threat landscape is the Server Side
+Request Forgery, or SSRF. Theorized by many to have been the initial
+attack vector in the recent Capital One breach, this attack could
+provide external "command proxy" type access to an interested threat
+actor in a difficult to mitigate fashion. During this session, CBTS will
+talk about the typical flow of an SSRF attack, execute a demo attack
+against a target, and discuss possible defense scenarios that can be
+used to detect and/or protect an organization from this potential
+exposure.
+
+**Speaker Biography**:
+
+Nate Fair - Currently an information security consultant for CBTS
+Security Services Team. Our team performs security services for 5-man
+shops and Fortune 5's. Services performed include network and wireless
+penetration testing, vulnerability assessments, security architecture
+and program reviews, web application testing, and physical security
+assessments. Nate also teaches penetration testing at the University of
+Cincinnati and is part of the team behind BSides Cincinnati, helping
+create it's CTF competition.
+
+Ryan Hamrick - While gaining experience in a number of business
+verticals including manufacturing, finance/banking, and technology
+consultancy, Ryan Hamrick has performed at a high level in the security
+industry for the past 11 years. In an IT career spanning 20+ years, Ryan
+has gained expertise in wide variety of areas spanning software
+engineering, web application design and deployment, desktop support,
+security incident response, and security engineering. He is currently
+applying the knowledge gained through these experiences in order to
+provide expert level security consulting services for CBTS customers
+focusing on security policy and procedure design, holistic security
+architecture review, web application assessments, external and internal
+penetration testing and vulnerability assessments, social engineering
+assessments, and cloud security assessments.
+
+**Link to Presentation**: <https://www.owasp.org/images/6/65/SSRF.pdf>
+
+## June 2019 Meeting
+
+### Managing Open Source Library Risk
+
+**Discussion Abstract:** The rate at which modern applications are
+growing is beyond comprehension. To aid faster development, a major
+chunk of the code being developed comprises of open source components,
+making it difficult to be managed by developers/development teams alone.
+
+The use of these components can inadvertently bring in security and
+compliance risks to the product and company. This presentation will
+focus on the importance of managing the open source components and risks
+associated with them.
+
+**Speaker Biography:** Dhanashree is an Application security Analyst
+with Paycor Inc. Apart from Pentesting Web and mobile applications, her
+focus areas include working with development teams to help build
+security in the SDLC. She has formerly worked as a Security consultant
+and Team lead with Security services providing companies in Telecom and
+Healthcare domains.
+
+**Presentation**:
+<https://www.owasp.org/images/0/0c/Managing_Open_Source_Library_Risks.pdf>
 
 ## March 2019 Meeting
 
@@ -429,8 +524,6 @@ When: Nov 4, 2017 12:00 PM to 1:30 PM (ET)
 <b>Meeting Sponsor</b>
 [<https://www.owasp.org/images/6/6a/OWASP_Cincy.png>](https://www.owasp.org/index.php/cincinnati)
 
-\-- --\>
-
 # 2016 Presentations
 
 ## October 2016 Meeting
@@ -490,10 +583,6 @@ Allison Shubert
     day to day life.
 
 `   Meeting Sponsorship Provided by OWASP`
-
-\--
-
-\-- --\>
 
 # 2015 Presentations
 
@@ -650,18 +739,6 @@ tools and SDLC methodologies, and leveraging DevOps practices for
 consistency and agility.
 
 `   Meeting Sponsorship Provided by `[<https://www.owasp.org/images/a/ad/Cigital-Logo-FullColorTagline-01-3.png>](https://www.cigital.com)
-
-\--
-
-\--
-
-## 2014 Meeting Calendar
-
-  - <b>March 18</b> - Matt Clemens, Security Solutions Architect for
-    [Arxan Technologies](http://www.arxan.com/) on the "OWASP Mobile Top
-    Ten 2014 The New "Lack of Binary Protection" Category"
-
-\--\>
 
 # 2014 Presentations
 

@@ -180,6 +180,10 @@ Acompanhe as atividades da comunidade pela adicione os eventos em sua
 agenda. [Calendario
 Oficial](https://calendar.google.com/calendar/embed?src=owasp.org_2dlqbcecuri6ivgmhh041i61os%40group.calendar.google.com&ctz=America/Cuiaba)
 
+{{\#widget:Google Calendar
+|id=owasp.org_2dlqbcecuri6ivgmhh041i61os@group.calendar.google.com
+|title=OWASP Chapter Cuiabá (: }}
+
 # Chapter Leaders
 
 The chapter Leader is [Kembolle Amilkar](User:Kembolle "wikilink")
@@ -191,10 +195,14 @@ Ribeiro ,\* [Ricardo Germano](User:Ricardo_A._Germano "wikilink").
 
 # Locais Organização
 
-  - [Fatec-Faculdade de Tecnologia SENAI Mato
+  - [FATEC - Faculdade de Tecnologia Mato
     Grosso](http://www.senaimt.com.br/site/fatec/)
   - [UFMT-Universidade de Mato Grosso](http://www.ufmt.br/ufmt/site/)
   - [IFMT-Instituto Federal de Mato Grosso](http://ifmt.edu.br/)
+  - [UNIC- Universidade de Cuiabá](http://www.unic.br/Paginas/Home.aspx)
+  - [UNIVAG - Centro Universitário de Várzea
+    Grande](http://www.univag.com.br/)
+  - [Faculdade FASIPE - CUIABÁ](http://www.fasipecpa.com.br/)
 
 <headertabs></headertabs>
 

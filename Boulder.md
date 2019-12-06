@@ -2,10 +2,9 @@
 
 The continued sponsorship of Aerstone, Applied Trust, and Coalfire keep
 the chapter running strong. Thank you.
-
-|                                                                                        |                                                          |                                              |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------- |
-| ![BoulderSponsorAerstone.png](BoulderSponsorAerstone.png "BoulderSponsorAerstone.png") | ![AppliedTrust.png](AppliedTrust.png "AppliedTrust.png") | ![Coalfire.png](Coalfire.png "Coalfire.png") |
+![BoulderSponsorAerstone.png](BoulderSponsorAerstone.png
+"BoulderSponsorAerstone.png") ![AppliedTrust.png](AppliedTrust.png
+"AppliedTrust.png") ![Coalfire.png](Coalfire.png "Coalfire.png")
 
 __NOTOC__ <font size="2">
 
