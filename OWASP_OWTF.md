@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><p><a href="https://www.openhub.net/p/owasp-owtf/reviews/new">Review this project</a></p>
 <figure>
 <img src="OWTFLogo.png" title="OWTFLogo.png" alt="OWTFLogo.png" /><figcaption>OWTFLogo.png</figcaption>
@@ -57,51 +56,14 @@
 <h2 id="presentation_and_talks">Presentation and talks</h2>
 <p>The following links provide access to materials for OWTF talks (video, slides, etc.):</p>
 <p><a href="http://blog.7-a.org/search/label/OWTF%20Talks">OWTF Talks at 7-a.org</a></p>
-<p>You can see what OWASP OWTF is all about in the following video:{{#ev:youtube</p></td>
-<td><p>H6Ut8U9a5KE}}</p>
-<p>OWASP OWTF 1.0 "Lionheart" - Brucon 2014 5x5: {{#ev:youtube</p></td>
-<td><p>j2UoAsOLMB4}}</p>
-<p>OWASP AppSec EU 2013: Introducing OWASP OWTF 5x5: {{#ev:youtube</p></td>
-<td><p>Vpca4-OlZqs}}</p>
+<p>You can see what OWASP OWTF is all about in the following video:{{#ev:youtube|H6Ut8U9a5KE}}</p>
+<p>OWASP OWTF 1.0 "Lionheart" - Brucon 2014 5x5: {{#ev:youtube|j2UoAsOLMB4}}</p>
+<p>OWASP AppSec EU 2013: Introducing OWASP OWTF 5x5: {{#ev:youtube|Vpca4-OlZqs}}</p>
 <p>For more videos please see the <a href="http://www.youtube.com/user/owtfproject">YouTube channel</a></p>
 <h2 id="licensing">Licensing</h2>
 <p><a href="https://github.com/owtf/owtf/blob/develop/LICENSE.md">LICENSE</a></p>
 <h2 id="openhub">Openhub</h2>
-<p><a href="https://www.openhub.net/p/owasp-owtf">https://www.openhub.net/p/owasp-owtf</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Flagship_projects.jpg" title="Flagship_projects.jpg" alt="Flagship_projects.jpg" width="100" /><figcaption>Flagship_projects.jpg</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
+<p><a href="https://www.openhub.net/p/owasp-owtf">https://www.openhub.net/p/owasp-owtf</a></p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li><a href="https://owtf.github.io/#download">Download now</a></li>

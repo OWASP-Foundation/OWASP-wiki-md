@@ -60,26 +60,13 @@ Batista](mailto:laureano.batista@owasp.org)
 
 ## Related Committees
 
-  - OWASP WIA (Women in AppSec) Committee
-
-|OWASP WIA (Women in AppSec) Committee:
-<https://www.owasp.org/index.php/Women_In_AppSec#Women_in_Application_Security_Program>
-and meetup: <https://www.meetup.com/womeninappsec>
-
+  - OWASP WIA (Women in AppSec) Committee|OWASP WIA (Women in AppSec)
+    Committee:
+    <https://www.owasp.org/index.php/Women_In_AppSec#Women_in_Application_Security_Program>
+    and meetup: <https://www.meetup.com/womeninappsec>
   - OWASP Learning Gateway Project Meetup:
     <https://www.meetup.com/owasplearninggateway>
-  - OWASP Mentors Initiative
-
-|OWASP Mentors Initiative
-
-## Classifications
-
-|                                         |                                                                                              |
-| --------------------------------------- | -------------------------------------------------------------------------------------------- |
-| colspan="2" align="center"              | ![Project_Type_Files_CODE.jpg](Project_Type_Files_CODE.jpg "Project_Type_Files_CODE.jpg") |
-| align="center" valign="top" width="50%" | ![Owasp-builders-small.png](Owasp-builders-small.png "Owasp-builders-small.png")             |
-| align="center" valign="top" width="50%" | ![Owasp-defenders-small.png](Owasp-defenders-small.png "Owasp-defenders-small.png")          |
-| colspan="2" align="center"              | ![Agplv3-155x51.png](Agplv3-155x51.png "Agplv3-155x51.png")                                  |
+  - OWASP Mentors Initiative|OWASP Mentors Initiative
 
 ## News and Events
 

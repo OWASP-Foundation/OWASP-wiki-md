@@ -10,17 +10,22 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_devslop_tool_project">OWASP <a href="http://devslop.co">DevSlop</a> Tool Project</h2>
-<p><em>The hacker jungle gym built on DevOps disasters.</em><img src="DevSlop_Logo.jpg" title="fig:DevSlop_Logo.jpg" alt="DevSlop_Logo.jpg" /></p>
+<p><em>DevSlop: learning how application security professionals fit into DevOps.</em><img src="DevSlop_Logo.jpg" title="fig:DevSlop_Logo.jpg" alt="DevSlop_Logo.jpg" /></p>
 <p>Project Website: <a href="http://devslop.co">DevSlop</a></p>
-<p>Modern applications often use APIs, microservices and containerization to deliver faster and better products and services.   There has been a massive migration away from monolithic web applications to this new, highly scalable architecture.  However, there are currently few training grounds for security testing in these areas. In comes DevSlop, OWASP's newest project, a collection of DevOps-driven applications, specifically designed to showcase security catastrophes and vulnerabilities for use in security testing, software testing, learning and teaching for both developers and security professionals.</p>
+<p>Modern applications often use APIs, microservices and containerization to deliver faster and better products and services, however this changing landscape means security people need to step up their game. DevSlop, "Sloppy DevOps", is an exploration into this area, via several different modules consisting of pipelines, vulnerable apps, and <a href="https://www.youtube.com/channel/UCSmjcWvgVBqF3x_7e5rfe3A">The DevSlop Show</a>, where project members learn and share.</p>
 <h2 id="description">Description</h2>
-<p>DevSlop's <strong>Pixi</strong>, the first of many applications to come for this OWASP project, is currently publicly available for your hacking and learning pleasure. Pixi is available in several docker containers and consists of a vulnerable web app and API service.  The intent is to teach users how to test modern web applications and API's for security issues and how to write more secure API's in the future.<img src="Pixi_logo.png" title="fig:Pixi_logo.png" alt="Pixi_logo.png" /></p>
+<p>DevSlop has many modules, including:</p>
+<p><strong>Patty</strong> - An Azure DevSecOps pipeline, with constantly changing components, which published the project's website, <a href="http://devslop.co">DevSlop.co</a>.</p>
+<p><strong>Pixi-CRS</strong> &amp; <strong>Pixi-CRS-ZAP</strong> are two Circle-CI pipelines that demonstrate adding a WAF to your pipeline for automatic tuning before moving your apps to prod.</p>
+<p><strong>Pixi</strong> is an intentionally vulnerable app and consists of a vulnerable web app and API service. </p>
+<p><a href="https://www.youtube.com/channel/UCSmjcWvgVBqF3x_7e5rfe3A"><strong>The DevSlop Show</strong></a> is a video streaming series where project members build things live, interview members of the OWASP and InfoSec community, and learn where they fit into DevOps.</p>
+<figure>
+<img src="Pixi_logo.png" title="Pixi_logo.png" alt="Pixi_logo.png" /><figcaption>Pixi_logo.png</figcaption>
+</figure>
 <p>As more pieces of <a href="http://devslop.co">DevSlop</a> are released they will be introduced here.</p>
 <h2 id="licensing">Licensing</h2>
 <p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation. OWASP DevSlop and any contributions are Copyright © by Nicole Becher &amp; Tanya Janca 2017.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><a href="https://github.com/DevSlop/">Source Code</a></p>
 <p><a href="https://github.com/thedeadrobots/pixi.git">What's New (Revision History)</a></p>
@@ -33,9 +38,9 @@
 <td><p>target=_blank</p></td>
 <td><p>budget=OWASP DevSlop }}</p>
 <h2 id="project_leader">Project Leader</h2>
-<p><a href="User:Nicolebecher" title="wikilink">Nicole Becher</a> <a href="https://twitter.com/thedeadrobots">Twitter</a></p>
 <p><a href="User:Tanyajanca" title="wikilink">Tanya Janca</a> <a href="https://twitter.com/shehackspurple">Twitter</a></p>
-<p><a href="User:Secfigo" title="wikilink">Mohammed A. Imran</a> <a href="https://twitter.com/secfigo">Twitter</a></p>
+<p>Nancy Gariché <a href="https://twitter.com/nanzgtweets">Twitter</a></p>
+<p><a href="User:Nicolebecher" title="wikilink">Nicole Becher</a> <a href="https://twitter.com/thedeadrobots">Twitter</a></p>
 <h2 id="team_members">Team Members</h2>
 <p><a href="User:Franziskabuehler" title="wikilink">Franziska Bühler</a> <a href="https://twitter.com/bufrasch">Twitter</a></p>
 <p><a href="User:Mordecai_Kraushar" title="wikilink">Mordecai Kraushar</a></p>
@@ -43,39 +48,10 @@
 <ul>
 <li><a href="OWASP_Juice_Shop_Project" title="wikilink">OWASP Juice Shop Project</a></li>
 <li><a href="OWASP_WebGoat_Project" title="wikilink">OWASP WebGoat Project</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Agplv3-155x51.png" title="Agplv3-155x51.png" alt="Agplv3-155x51.png" /><figcaption>Agplv3-155x51.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
+</ul></td>
 <td><h2 id="news_and_events">News and Events</h2>
 <ul>
+<li>Nancy Gariché was promoted to leader, making 3 leaders of this project! </li>
 <li><a href="http://devslop.co/Home/Schedule">Check out our schedule!</a> </li>
 <li>[July 2] Tanya Janca will be giving the "Hack Your Own Apps" workshop at the <a href="https://www.spaconference.org/spa2018">SPA Conference in London</a>, England. </li>
 <li>[June 4-6, 2018] The entire DevSlop team will be at the <a href="https://owaspsummit.org/">Open Security Summit</a> in London, England. </li>
@@ -127,7 +103,7 @@ You can do the math. :)
 
 **How can I follow updates on the project?**
 
-[Nicole Becher on Twitter](https://twitter.com/thedeadrobots)
+[DevSlop on Twitter](https://twitter.com/OWASP_DevSlop)
 
 [Tanya Janca on Twitter](https://twitter.com/shehackspurple)
 
@@ -158,11 +134,10 @@ Tanya. Contributors include: Mordecai Kraushar.
 
 The first contributors to the project were:
 
-  - Nicole Becher [Twitter](https://twitter.com/thedeadrobots)
   - [Tanya Janca](User:Tanyajanca "wikilink")
     [Twitter](https://twitter.com/shehackspurple)
-  - [Mohammed A. Imran](User:Secfigo "wikilink")
-    [Twitter](https://twitter.com/secfigo) 
+  - Nancy Gariché [Twitter](https://twitter.com/nanzgtweets) 
+  - Nicole Becher [Twitter](https://twitter.com/thedeadrobots) 
   - [Franziska Bühler](User:Franziskabuehler "wikilink")
     [Twitter](https://twitter.com/bufrasch)
 

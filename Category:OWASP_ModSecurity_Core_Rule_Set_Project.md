@@ -9,19 +9,16 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_modsecurity_core_rule_set_crs">OWASP ModSecurity Core Rule Set (CRS)</h2>
 <p><strong>The 1st Line of Defense Against Web Application Attacks</strong></p>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="vertical-align:top;"</p></td>
 <td><p>The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with <a href="https://modsecurity.org">ModSecurity</a> or compatible web application firewalls. The CRS aims to protect web applications from a wide range of attacks, including the <a href="Top10" title="wikilink">OWASP Top Ten</a>, with a minimum of false alerts. The CRS provides protection against many common attack categories, including SQL Injection, Cross Site Scripting, Locale File Inclusion, etc.</p>
 <figure>
 <img src="CRS-logo-full_size-512x257.png" title="CRS-logo-full_size-512x257.png" alt="CRS-logo-full_size-512x257.png" width="512" /><figcaption>CRS-logo-full_size-512x257.png</figcaption>
 </figure>
 <p>'''The offical website of the project can be found at <a href="https://coreruleset.org"><a href="https://coreruleset.org">https://coreruleset.org</a></a>.</p></td>
-<td><p>style="text-align:right;"</p></td>
 <td><figure>
 <img src="CRS3-movie-poster-thumb.jpeg" title="CRS3-movie-poster-thumb.jpeg" alt="CRS3-movie-poster-thumb.jpeg" width="300" /><figcaption>CRS3-movie-poster-thumb.jpeg</figcaption>
 </figure></td>
@@ -50,7 +47,6 @@
 <tr class="header">
 <th><p>Trustwave</p></th>
 <th><p>Avi Networks</p></th>
-<th></th>
 <th><p>cPanel, Inc</p></th>
 </tr>
 </thead>
@@ -59,15 +55,15 @@
 <td><figure>
 <img src="SpiderLabs_Logo_2011.JPG" title="SpiderLabs_Logo_2011.JPG" alt="SpiderLabs_Logo_2011.JPG" width="200" /><figcaption>SpiderLabs_Logo_2011.JPG</figcaption>
 </figure></td>
-<td></td>
 <td><figure>
 <img src="Avi_Networks.jpg" title="Avi_Networks.jpg" alt="Avi_Networks.jpg" width="200" /><figcaption>Avi_Networks.jpg</figcaption>
 </figure></td>
-<td></td>
+<td><figure>
+<img src="CPanel_logo.svg.png" title="CPanel_logo.svg.png" alt="CPanel_logo.svg.png" width="200" /><figcaption>CPanel_logo.svg.png</figcaption>
+</figure></td>
 </tr>
 </tbody>
 </table></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="website">Website</h2>
 <p><a href="https://coreruleset.org"><a href="https://coreruleset.org">https://coreruleset.org</a></a></p>
 <h2 id="social_channels">Social Channels</h2>
@@ -97,35 +93,6 @@
 <p><a href="https://github.com/SpiderLabs/owasp-modsecurity-crs">GitHub Project</a></p>
 <h2 id="news_and_events">News and Events</h2>
 <p>We publish a monthly newsletter on the official website at <a href="https://coreruleset.org/"><a href="https://coreruleset.org">https://coreruleset.org</a></a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-flagship-trans-85.png" title="Owasp-flagship-trans-85.png" alt="Owasp-flagship-trans-85.png" /><figcaption>Owasp-flagship-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center" width="50%"</p></td>
-<td><p><a href="http://www.apache.org/licenses/LICENSE-2.0.html">License: ASLv2</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 <h2 id="donate">Donate</h2>
 <p><paypal>ModSecurity Core Rule Set Project</paypal></p></td>
 </tr>

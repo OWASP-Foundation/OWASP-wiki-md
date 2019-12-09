@@ -8,7 +8,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_about">Project About</h2>
 <p><span style="color:#ff0000"></p>
 <p>The deliverable of the project will consist of a methodology to perform a Cloud Security Testing activity.</p>
@@ -25,12 +24,11 @@
 <h2 id="getting_involved">Getting Involved</h2>
 <p><span style="color:#ff0000"></p>
 <p>Involvement in the development and promotion of <strong>OWASP Cloud Testing Guide</strong> is actively encouraged! You do not have to be a security expert or a programmer to contribute. Please send an email to: <a href="mailto:stefano@owasp.org">Stefano Di Paola</a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><span style="color:#ff0000"></p>
 <p></span></p>
 <p><a href="https://www.owasp.org/images/a/aa/OWASPCloudTestingMar19.pdf">Presentation</a></p>
-<p><a href="https://github.com/OWASP/OWASP_Cloud_Testing_Guide">GitHub</a></p>
+<p><a href="https://github.com/OWASP/Cloud-Testing-Guide">GitHub</a></p>
 <p><a href="https://www.owasp.org/index.php?title=OWASP_Cloud_Testing_Guide_Table_of_Contents">Wiki Home Page</a></p>
 <h2 id="project_leader">Project Leader</h2>
 <p><span style="color:#ff0000"></p>
@@ -40,36 +38,7 @@
 <p></span></p>
 <ul>
 <li><a href="OWASP_Testing_Project" title="wikilink">OWASP_Testing_Project</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Creative%20Commons.png" title="Creative%20Commons.png" alt="Creative%20Commons.png" width="90" /><figcaption>Creative%20Commons.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

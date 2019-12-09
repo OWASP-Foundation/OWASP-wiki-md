@@ -15,7 +15,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="owasp_appsensor">OWASP AppSensor</h2>
 <p>The AppSensor project defines a conceptual framework and methodology that offers prescriptive guidance to implement <a href="https://www.owasp.org/index.php/ApplicationLayerIntrustionDetection">intrusion detection and automated response</a> into applications.</p>
 <p>The project offers a comprehensive guide and a reference implementation. These resources can be used by architects, developers, security analyst and system administrators to plan, implement and monitor an AppSensor system.</p>
@@ -56,7 +55,6 @@
 <h3 id="reference_implementation">Reference Implementation</h3>
 <p>The reference implementation is licensed under the <a href="http://opensource.org/licenses/MIT">MIT License</a>, which is a permissive (commercial-friendly) license only requiring you to include a copy of the license upon distribution or copying.</p>
 <p>© OWASP Foundation</p></td>
-<td><p>style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="what_is_appsensor">What is AppSensor?</h2>
 <p>Detect and respond to attacks from within the application. This project includes both a well documented idea (the Guide) and a reference implementation (the Code).</p>
 <h2 id="intro_for_developers">Intro for Developers</h2>
@@ -86,7 +84,6 @@
 <ul>
 <li><a href=":Category:OWASP_ModSecurity_Core_Rule_Set_Project" title="wikilink">OWASP ModSecurity Core Rule Set</a></li>
 </ul></td>
-<td><p>style="padding-left:25px;width:200px;" valign="top"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li>OWASP AppSensor Guide v2 EN
@@ -122,54 +119,7 @@
 <figure>
 <img src="AppSensor2_small.jpg" title="AppSensor2_small.jpg" alt="AppSensor2_small.jpg" /><figcaption>AppSensor2_small.jpg</figcaption>
 </figure>
-<p>The <a href="http://www.lulu.com/shop/owasp-foundation/appsensor-guide/paperback/product-22290600.html">AppSensor Guide</a> and <a href="http://www.lulu.com/shop/owasp-foundation/appsensor-ciso-briefing/paperback/product-22121723.html">CISO Briefing</a> can be purchased at cost as print on demand books.</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" align="center" width="50%" valign="top"</p></td>
-<td><figure>
-<img src="Mature_projects.png" title="Mature_projects.png" alt="Mature_projects.png" width="100" /><figcaption>Mature_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" width="50%" valign="top"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" width="50%" valign="top"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p>The <a href="http://www.lulu.com/shop/owasp-foundation/appsensor-guide/paperback/product-22290600.html">AppSensor Guide</a> and <a href="http://www.lulu.com/shop/owasp-foundation/appsensor-ciso-briefing/paperback/product-22121723.html">CISO Briefing</a> can be purchased at cost as print on demand books.</p></td>
 </tr>
 </tbody>
 </table>
@@ -190,71 +140,62 @@ at the OWASP Summit 2011 in Portugal and the AppSensor Summit at AppSec
 USA 2011. Without all their efforts, the project would not have
 progressed to this point, and this guide would not have been completed.
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="left" width="200" valign="top"</p></td>
-<td><ul>
-<li>Josh Amishav-Zlatin</li>
-<li>Ryan Barnett</li>
-<li>Simon Bennetts</li>
-<li>Joe Bernik</li>
-<li>Rex Booth</li>
-<li>Luke Briner</li>
-<li>Rauf Butt</li>
-<li>Juan C Calderon</li>
-<li>Fabio Cerullo</li>
-<li>Marc Chisinevski</li>
-<li>Robert Chojnacki</li>
-<li>Michael Coates</li>
-<li>Dinis Cruz</li>
-<li>Sumanth Damaria</li>
-<li>August Detlefsen</li>
-<li>Ryan Dewhurst</li>
-<li>Sean Fay</li>
-</ul></td>
-<td><p>align="left" width="200" valign="top"</p></td>
-<td><ul>
-<li>Timo Goosen</li>
-<li>Dennis Groves</li>
-<li>Randy Janida</li>
-<li>Chetan Karande</li>
-<li>Eoin Keary</li>
-<li>Alex Lauerman</li>
-<li>Junior Lazuardi</li>
-<li>Benjamin-Hugo LeBlanc</li>
-<li>Jason Li</li>
-<li>Manuel López Arredondo</li>
-<li>Bob Maier</li>
-<li>Jim Manico</li>
-<li>Sherif Mansour Farag</li>
-<li>John Melton</li>
-<li>Mark Miller</li>
-<li>Rich Mogull</li>
-<li>Craig Munson</li>
-</ul></td>
-<td><p>align="left" width="200" valign="top"</p></td>
-<td><ul>
-<li>Louis Nadeau</li>
-<li>Giri Nambari</li>
-<li>Erlend Oftedal</li>
-<li>Jay Reynolds</li>
-<li>Chris Schmidt</li>
-<li>Sahil Shah</li>
-<li>Eric Sheridan</li>
-<li>John Steven</li>
-<li>Raphael Taban</li>
-<li>Alex Thissen</li>
-<li>Don Thomas</li>
-<li>Christopher Tidball</li>
-<li>Stephen de Vries</li>
-<li>Kevin W Wall</li>
-<li>Colin Watson</li>
-<li>Mehmet Yilmaz</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+  - Josh Amishav-Zlatin
+  - Ryan Barnett
+  - Simon Bennetts
+  - Joe Bernik
+  - Rex Booth
+  - Luke Briner
+  - Rauf Butt
+  - Juan C Calderon
+  - Fabio Cerullo
+  - Marc Chisinevski
+  - Robert Chojnacki
+  - Michael Coates
+  - Dinis Cruz
+  - Sumanth Damaria
+  - August Detlefsen
+  - Ryan Dewhurst
+  - Sean Fay
+
+<!-- end list -->
+
+  - Timo Goosen
+  - Dennis Groves
+  - Randy Janida
+  - Chetan Karande
+  - Eoin Keary
+  - Alex Lauerman
+  - Junior Lazuardi
+  - Benjamin-Hugo LeBlanc
+  - Jason Li
+  - Manuel López Arredondo
+  - Bob Maier
+  - Jim Manico
+  - Sherif Mansour Farag
+  - John Melton
+  - Mark Miller
+  - Rich Mogull
+  - Craig Munson
+
+<!-- end list -->
+
+  - Louis Nadeau
+  - Giri Nambari
+  - Erlend Oftedal
+  - Jay Reynolds
+  - Chris Schmidt
+  - Sahil Shah
+  - Eric Sheridan
+  - John Steven
+  - Raphael Taban
+  - Alex Thissen
+  - Don Thomas
+  - Christopher Tidball
+  - Stephen de Vries
+  - Kevin W Wall
+  - Colin Watson
+  - Mehmet Yilmaz
 
 ## OWASP Summer of Code 2008
 
@@ -585,10 +526,10 @@ RP4 Change to Environment Threat Level
 
 ## Introductory Briefings
 
-|                                       |                                                                                                 |            |                             |                                       |                                                                                                   |                             |       |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------- | --------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------- | ----- |
-| align="center" valign="top"           | Developers                                                                                      |            | align="center" valign="top" | Architects                            |                                                                                                   | align="center" valign="top" | CISOs |
-| align="left" width="200" valign="top" | ![Appsensor-developer-small.jpg](Appsensor-developer-small.jpg "Appsensor-developer-small.jpg") | width="20" |                             | align="left" width="200" valign="top" | ![Appsensor_crosstalk_small.jpg](Appsensor_crosstalk_small.jpg "Appsensor_crosstalk_small.jpg") | width="20"                  |       |
+|                                                                                                 |  |                                                                                                   |  |                                                                                                          |
+| :---------------------------------------------------------------------------------------------: |  | :-----------------------------------------------------------------------------------------------: |  | :------------------------------------------------------------------------------------------------------: |
+|                                           Developers                                            |  |                                            Architects                                             |  |                                                  CISOs                                                   |
+| ![Appsensor-developer-small.jpg](Appsensor-developer-small.jpg "Appsensor-developer-small.jpg") |  | ![Appsensor_crosstalk_small.jpg](Appsensor_crosstalk_small.jpg "Appsensor_crosstalk_small.jpg") |  | ![Appsensor-cisobriefing-small.jpg](Appsensor-cisobriefing-small.jpg "Appsensor-cisobriefing-small.jpg") |
 
 The CISO briefing is also available to [buy at cost in
 print](http://www.lulu.com/shop/owasp-foundation/appsensor-ciso-briefing/paperback/product-22121723.html).

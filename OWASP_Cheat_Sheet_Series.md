@@ -2,7 +2,7 @@
 
 <div style="width:100%;height:90px;border:0,margin:0;overflow: hidden;">
 
-![_lab_big.jpg](_lab_big.jpg "_lab_big.jpg")
+![_flagship_big.jpg](_flagship_big.jpg "_flagship_big.jpg")
 
 </div>
 
@@ -16,14 +16,16 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="our_goal">Our goal</h2>
 <p>The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics. We hope that the OWASP Cheat Sheet Series provides you with excellent security guidance in an easy to read format.</p>
-<p>If you have any questions about the OWASP Cheat Sheet Series, please email the project leaders <a href="mailto:dominique.righetto@owasp.org">Dominique Righetto</a> or <a href="mailto:jim.manico@owasp.org">Jim Manico</a>, contact us on the project's Slack channel or on our <a href="https://groups.google.com/a/owasp.org/forum/#!forum/cheat-sheets-project">Google Group</a> (<strong>Slack is highly preferred over the Google Group</strong>).</p>
+<p>If you have any questions about the OWASP Cheat Sheet Series, please email the project leader <a href="mailto:jim.manico@owasp.org">Jim Manico</a>, contact us on the project's Slack channel, or on our <a href="https://groups.google.com/a/owasp.org/forum/#!forum/cheat-sheets-project">Google Group</a> (<strong>Slack is highly preferred over the Google Group</strong>).</p>
 <p>The archives of the old mailing list can be consulted <a href="https://lists.owasp.org/pipermail/owasp-cheat-sheets/index">here</a>.</p>
+<h2 id="official_website">Official website</h2>
+<p>The official website on which all the cheat sheets are hosted is <a href="https://cheatsheetseries.owasp.org">https://cheatsheetseries.owasp.org</a> .</p>
 <h2 id="migration_to_github">Migration to GitHub</h2>
 <p>Project has been fully migrated to <a href="https://github.com/OWASP/CheatSheetSeries">GitHub</a>.</p>
 <p>This page is used as the OWASP homepage of the project, all the project content is hosted on the <a href="https://github.com/OWASP/CheatSheetSeries">GitHub repository</a> and we work <strong>only from</strong> this repository, <strong>wiki is not used anymore</strong>.</p>
+<p>The <a href="https://github.com/OWASP/CheatSheetSeries">GitHub</a> repository is used for the work on the cheat sheets and the released ones are deployed on the <a href="https://cheatsheetseries.owasp.org">official website</a>.</p>
 <p>So, from now, only a GitHub account is needed to contribute :)</p>
 <h2 id="bridge_between_the_projects_owasp_proactive_controlsowasp_application_security_verification_standard_and_owasp_cheat_sheet_series">Bridge between the projects OWASP Proactive Controls/OWASP Application Security Verification Standard and OWASP Cheat Sheet Series</h2>
 <p>A work channel has been created between these 2 projects and the Cheat Sheet Series using the following process (<em>OPC = OWASP Proactive Controls / OASVS = OWASP Application Security Verification Standard / OCS = OWASP Cheat Sheet</em>):</p>
@@ -39,17 +41,24 @@
 </ul>
 <p>It is not mandatory that a request for a new Cheat Sheet (or for an update) come only from OPC/OASVS, it is just a extra channel.</p>
 <pre><code>Requests from OPC/OASVS are flagged with a special label in the GitHub repository issues list in order to identify them and set them as a top level priority.</code></pre>
-<h2 id="project_leaders">Project Leaders</h2>
+<h2 id="project_leaders">Project leaders</h2>
 <ul>
 <li><a href="https://www.owasp.org/index.php/User:Jmanico">Jim Manico</a> <a href="mailto:jim.manico@owasp.org">@</a></li>
-<li><a href="https://www.owasp.org/index.php/User:Dominique_RIGHETTO">Dominique Righetto</a> <a href="mailto:dominique.righetto@owasp.org">@</a></li>
+</ul>
+<h2 id="core_team">Core team</h2>
+<ul>
+<li><a href="https://github.com/ThunderSon">Elie Saad</a></li>
+<li><a href="https://github.com/mackowski">Jakub Maćkowski</a></li>
+<li><a href="https://github.com/rbsec">Robin Bailey</a></li>
+<li><a href="https://www.owasp.org/index.php/User:Jmanico">Jim Manico</a></li>
 </ul>
 <h2 id="contributors_of_the_v1_of_the_project">Contributors of the V1 of the project</h2>
 <p>Paweł Krawczyk, Mishra Dhiraj, Shruti Kulkarni, Torsten Gigler, Michael Coates, Jeff Williams, Dave Wichers, Kevin Wall, Jeffrey Walton, Eric Sheridan, Kevin Kenan, David Rook, Fred Donovan, Abraham Kang, Dave Ferguson, Shreeraj Shah, Raul Siles, Colin Watson, Neil Matatall, Zaur Molotnikov, Manideep Konakandla, Santhosh Tuppad and <strong>many more</strong>!</p>
 <h2 id="contributors_of_the_v2_of_the_project">Contributors of the V2 of the project</h2>
 <p>See <a href="https://github.com/OWASP/CheatSheetSeries/graphs/contributors">here</a> for a complete list.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
-<td><h2 id="github_repository">GitHub repository</h2>
+<td><h2 id="official_website_1">Official website</h2>
+<p>Website of the <a href="https://cheatsheetseries.owasp.org">here</a>.</p>
+<h2 id="github_repository">GitHub repository</h2>
 <p>Repository is <a href="https://github.com/OWASP/CheatSheetSeries">here</a>.</p>
 <h2 id="offline_cheat_sheets_collection">Offline Cheat Sheets collection</h2>
 <p>A offline website of all Cheat Sheets can be obtained <a href="https://github.com/OWASP/CheatSheetSeries#offline-website">here</a>.</p>
@@ -67,89 +76,12 @@
 <li>The Slack channel for announcement and technical discussion.</li>
 <li>The Twitter hash tag for announcement only.</li>
 </ul>
-<h2 id="project_classifications">Project classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="3" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Midlevel_projects.png" title="Midlevel_projects.png" alt="Midlevel_projects.png" width="130" /><figcaption>Midlevel_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="center" width="50%"</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 <h2 id="licensing">Licensing</h2>
 <p>The OWASP <i>Cheat Sheet Series</i> is free to use under the <a href="https://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons ShareAlike 3 License</a>.</p>
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <li><a href="OWASP_Proactive_Controls" title="wikilink">OWASP Proactive Controls</a></li>
 <li><a href="https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project">OWASP Application Security Verification Standard Project</a></li>
-</ul>
-<h2 id="news_and_events">News and Events</h2>
-<ul>
-<li>[Mar 30 2019] <a href="https://github.com/OWASP/CheatSheetSeries/blob/master/README.md#core-technical-review-team">Core technical review team</a> created.</li>
-<li>[Mar 29 2019] Add link to Mailman archives.</li>
-<li>[Mar 09 2019] Move from Mailman to Google Group.</li>
-<li>[Feb 23 2019] V2 released, from now see all the update <a href="https://github.com/OWASP/CheatSheetSeries/pulse">here</a>.</li>
-<li>[Feb 22 2019] Migration to <a href="https://github.com/OWASP/CheatSheetSeries">GitHub</a> finished.</li>
-<li>[Dec 28 2018] Start migration of the cheat sheets collection to <a href="https://github.com/OWASP/CheatSheetSeries">GitHub</a>.</li>
-<li>[Dec 01 2018] <a href="Injection_Prevention_Cheat_Sheet_in_Java" title="wikilink">Injection Prevention Cheat Sheet in Java</a> updated</li>
-<li>[Nov 24 2018] <a href="Securing_Cascade_Style_Sheets_(CSS)_Cheat_Sheet" title="wikilink">Securing Cascade Style Sheets Cheat Sheet</a> added to project</li>
-<li>[Nov 08 2018] Creation and sharing of the project logos</li>
-<li>[Oct 13 2018] <a href="Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet" title="wikilink">CSRF Prevention Cheat Sheet</a> refactored</li>
-<li>[Sep 25 2018] <a href="Abuse_Case_Cheat_Sheet" title="wikilink">Abuse Case Cheat Sheet</a> added to project</li>
-<li>[Aug 25 2018] Cleanup of Cheat Sheets finished</li>
-<li>[Jul 15 2018] <a href="Error_Handling_Cheat_Sheet" title="wikilink">Error Handling Cheat Sheet</a> added to project</li>
-<li>[Jun 12 2018] Made available the PDF book of all Cheat Sheets</li>
-<li>[May 10 2018] <a href="Protect_FileUpload_Against_Malicious_File" title="wikilink">Protect File Upload Against Malicious File Cheat Sheet</a> updated</li>
-<li>[Mar 18 2018] <a href="Password_Storage_Cheat_Sheet" title="wikilink">Password Storage Cheat Sheet</a> updated</li>
-<li>[Feb 21 2018] <a href="HTML5_Security_Cheat_Sheet" title="wikilink">HTML5 Security Cheat Sheet</a> updated</li>
-<li>[Feb 18 2018] <a href="Password_Storage_Cheat_Sheet" title="wikilink">Password Storage Cheat Sheet</a> updated</li>
-<li>[Jan 14 2018] <a href="Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet" title="wikilink">Insecure Direct Object Reference Prevention Cheat Sheet</a> updated</li>
-<li>[Dec 04 2017] <a href="Ruby_on_Rails_Cheatsheet" title="wikilink">Ruby On Rails Cheat Sheet</a> updated</li>
-<li>[Nov 19 2017] <a href="JSON_Web_Token_(JWT)_Cheat_Sheet_for_Java" title="wikilink">JWT Cheat Sheet for Java</a> updated</li>
-<li>[Nov 17 2017] <a href="OS_Command_Injection_Defense_Cheat_Sheet" title="wikilink">OS Command Injection Defense Cheat Sheet</a> added to project</li>
-<li>[Nov 04 2017] <a href="Authorization_Testing_Automation" title="wikilink">Authorization Testing Automation Cheat Sheet</a> added to project</li>
-<li>[Jan 17 2017] <a href="XML_Security_Cheat_Sheet" title="wikilink">XML Security Cheat Sheet</a> added to project</li>
-<li>[Feb 06 2016] New navigation template rolled out project-wide</li>
-<li>[Jun 11 2015] <a href="SAML_Security_Cheat_Sheet" title="wikilink">SAML Cheat Sheet</a> added to project</li>
-<li>[Feb 11 2015] <a href="https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf">Cheat Sheet "book"</a> added to project</li>
-<li>[Apr 04 2014] All non-draft cheat sheets moved to new wiki template!</li>
-<li>[Feb 04 2014] Project-wide cleanup started</li>
 </ul></td>
 </tr>
 </tbody>

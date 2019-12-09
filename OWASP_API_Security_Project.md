@@ -10,131 +10,161 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
-<td><h2 id="owasp_api_security_project">OWASP API Security Project</h2>
-<h3 id="dec_2018">[24-Dec-2018]</h3>
-<p><strong>The OWASP API Security Project is now under new leadership.</strong> <strong>A new roadmap and call for contribution will be published by the end of Feb 2019.</strong></p>
-<p>This project is designed to address the ever-increasing number of organizations that are deploying potentially sensitive APIs as part of their software offerings. These APIs are used for internal tasks and to interface with third parties. Unfortunately, many APIs do not undergo the rigorous security testing that would render them secure from attack.</p>
-<p>The OWASP API Security Project seeks to provide value to software developers and security assessors by underscoring the potential risks in insecure APIs and illustrating how these risks may be mitigated. In order to facilitate this goal, the OWASP API Security Project will create and maintain a <strong>Top 10 API Security Risks</strong> document, as well as a <strong>documentation portal</strong> for best practices when creating or assessing APIs.</p>
-<h2 id="description">Description</h2>
-<p>While working as developers or information security consultants, many people have encountered APIs as part of a project. While there are some resources to help create and evaluate these projects (such as the OWASP REST Security Cheat Sheet), there has not be a comprehensive security project designed to assist builders, breakers, and defenders in the community.</p>
-<p>This project aims to create:</p>
-<ul>
-<li>The OWASP Top Ten API Security Risks document, which can easily underscore the most common risks in the area.</li>
-<li>Create a documentation portal for developers to build APIs in a secure manner.</li>
-<li>Work with the security community to maintain living documents that evolve with security trends.</li>
-</ul>
-<h2 id="licensing">Licensing</h2>
-<p><strong>The OWASP API Security Project documents are free to use!</strong></p>
-<p>The OWASP API Security Project is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</a> Creative Commons Attribution-ShareAlike 3.0 license], so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
-<td><h2 id="what_is_this_project">What is this project?</h2>
-<p>The OWASP API Security Project seeks to deliver actionable documentation on creating and deploying verifiably secure web APIs, as well as illustrating the major risks and shortfalls that APIs may encounter. By helping developers create resilient software, and helping assessors understand the subtle risks an API may entail, the goal of this project is to bring security to an increasingly programmatic world.</p>
-<p>The primary deliverables of this project are the <strong>OWASP Top Ten API Security Risks</strong> and a secure API development <strong>documentation portal.</strong></p>
-<h2 id="presentation">Presentation</h2>
-<p>The OWASP API Security Project will be presented at <a href="https://telaviv.appsecglobal.org/">OWASP Global AppSec Tel Aviv, May 2019</a>.</p>
-<h2 id="project_leaders">Project Leaders</h2>
-<ul>
-<li><a href="https://www.owasp.org/index.php/User:ErezYalon">Erez Yalon</a></li>
-<li>Inon Shkedy</li>
-</ul>
-<h2 id="related_projects">Related Projects</h2>
-<ul>
-<li><a href="REST_Security_Cheat_Sheet" title="wikilink">REST_Security_Cheat_Sheet</a></li>
-<li><a href="https://www.owasp.org/index.php/Category:OWASP_Enterprise_Security_API">Enterprise Security API</a></li>
-</ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
-<td><h2 id="quick_download">Quick Download</h2>
-<p>Once API Security documents are created, they will be available for direct download here.</p>
-<p>The initial version of this document, including an up-to-date table of contents, is available <a href="https://www.owasp.org/images/f/f6/Owasp_api_security_toc.pdf">here</a>.</p>
-<h2 id="news_and_events">News and Events</h2>
-<p>There has not yet been press coverage of this project.</p>
-<h2 id="classifications">Classifications</h2>
+<td><h2 id="what_is_api_security">What is API Security?</h2>
+<p>A foundational element of innovation in today’s app-driven world is the API. From banks, retail and transportation to IoT, autonomous vehicles and smart cities, APIs are a critical part of modern mobile, SaaS and web applications and can be found in customer-facing, partner-facing and internal applications. By nature, APIs expose application logic and sensitive data such as Personally Identifiable Information (PII) and because of this have increasingly become a target for attackers. Without secure APIs, rapid innovation would be impossible.</p>
+<p>API Security focuses on strategies and solutions to understand and mitigate the unique vulnerabilities and security risks of Application Programming Interfaces (APIs).</p>
+<h2 id="api_security_top_10_release_candidate_is_here">API Security Top 10 Release Candidate is Here!</h2>
+<p>The RC version is finally ready and was presented during Global AppSec DC 2019 and Global AppSec Amsterdam 2019. Links to the presentations can be found in the News section on the right. Here is a sneak peek:</p>
 <table>
 <tbody>
 <tr class="odd">
-<td><p>rowspan="3" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="New_projects.png" title="New_projects.png" alt="New_projects.png" width="100" /><figcaption>New_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
+<td><p>API1</p></td>
+<td><p>Broken Object Level Authorization</p></td>
+<td><p>APIs tend to expose endpoints that handle object identifiers, creating a wide attack surface Level Access Control issue. Object-level authorization checks should be considered in every function that accesses a data source using input from the user.</p></td>
 </tr>
 <tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-breakers-small.png" title="Owasp-breakers-small.png" alt="Owasp-breakers-small.png" /><figcaption>Owasp-breakers-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
+<td><p>API2</p></td>
+<td><p>Broken Authentication</p></td>
+<td><p>Authentication mechanisms are often implemented incorrectly, allowing attackers to compromise authentication tokens or to exploit implementation flaws to assume other user's identities temporarily or permanently. Compromising system's ability to identify the client/user, compromises API security overall.</p></td>
 </tr>
 <tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
+<td><p>API3</p></td>
+<td><p>Excessive Data Exposure</p></td>
+<td><p>Looking forward to generic implementations, developers tend to expose all object properties without considering their individual sensitivity, relying on clients to perform the data filtering before displaying it to the user.</p></td>
 </tr>
 <tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
+<td><p>API4</p></td>
+<td><p>Lack of Resources &amp; Rate Limiting</p></td>
+<td><p>Quite often, APIs do not impose any restrictions on the size or number of resources that can be requested by the client/user. Not only can this impact the API server performance, leading to Denial of Service (DoS), but also leaves the door open to authentication flaws such as brute force.</p></td>
 </tr>
 <tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
+<td><p>API5</p></td>
+<td><p>Broken Function Level Authorization</p></td>
+<td><p>Complex access control policies with different hierarchies, groups, and roles, and an unclear separation between administrative and regular functions, tend to lead to authorization flaws. By exploiting these issues, attackers gain access to other users’ resources and/or administrative functions.</p></td>
+</tr>
+<tr class="even">
+<td><p>API6</p></td>
+<td><p>Mass Assignment</p></td>
+<td><p>Binding client provided data (e.g., JSON) to data models, without proper properties filtering based on a whitelist, usually lead to Mass Assignment. Either guessing objects properties, exploring other API endpoints, reading the documentation, or providing additional object properties in request payloads, allows attackers to modify object properties they are not supposed to.</p></td>
+</tr>
+<tr class="odd">
+<td><p>API7</p></td>
+<td><p>Security Misconfiguration</p></td>
+<td><p>Security misconfiguration is commonly a result of insecure default configurations, incomplete or ad-hoc configurations, open cloud storage, misconfigured HTTP headers, unnecessary HTTP methods, permissive Cross-Origin resource sharing (CORS), and verbose error messages containing sensitive information.</p></td>
+</tr>
+<tr class="even">
+<td><p>API8</p></td>
+<td><p>Injection</p></td>
+<td><p>Injection flaws, such as SQL, NoSQL, Command Injection, etc. occur when untrusted data is sent to an interpreter as part of a command or query. The attacker's malicious data can trick the interpreter into executing unintended commands or accessing data without proper authorization.</p></td>
+</tr>
+<tr class="odd">
+<td><p>API9</p></td>
+<td><p>Improper Assets Management</p></td>
+<td><p>APIs tend to expose more endpoints than traditional web applications, making proper and updated documentation highly important. Proper hosts and deployed API versions inventory also play an important role to mitigate issues such as deprecated API versions and exposed debug endpoints.</p></td>
+</tr>
+<tr class="even">
+<td><p>API10</p></td>
+<td><p>Insufficient Logging &amp; Monitoring</p></td>
+<td><p>Insufficient logging and monitoring, coupled with missing or ineffective integration with incident response, allows attackers to further attack systems, maintain persistence, pivot to more systems to tamper with, extract, or destroy data. Most breach studies demonstrate the time to detect a breach is over 200 days, typically detected by external parties rather than internal processes or monitoring.</p></td>
 </tr>
 </tbody>
-</table></td>
+</table>
+<h2 id="licensing">Licensing</h2>
+<p><strong>The OWASP API Security Project documents are free to use!</strong></p>
+<p>The OWASP API Security Project is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</a> Creative Commons Attribution-ShareAlike 3.0 license], so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
+<td><h2 id="project_leaders">Project Leaders</h2>
+<ul>
+<li><a href="User:ErezYalon" title="wikilink">Erez Yalon</a></li>
+<li><a href="User:Inon" title="wikilink">Inon Shkedy</a></li>
+</ul>
+<p><strong>Main Collaborator</strong></p>
+<ul>
+<li><a href="User:PauloASilva" title="wikilink">Paulo Silva</a></li>
+</ul>
+<h2 id="quick_links">Quick Links</h2>
+<p><a href="https://groups.google.com/a/owasp.org/d/forum/api-security-project">Google Group</a></p>
+<p><a href="https://github.com/OWASP/API-Security">GitHub</a></p>
+<p><a href="https://github.com/OWASP/API-Security/raw/master/2019/en/dist/owasp-api-security-top-10.pdf">PDF version of API Security Top 10</a></p>
+<p><a href="https://www.owasp.org/images/5/59/API_Security_Top_10_RC.pdf">Presentation of the Release Candidate of the API Security Top 10</a></p>
+<h2 id="news">News</h2>
+<h3 id="sep_30_2019">Sep 30, 2019</h3>
+<p>The RC of API Security Top-10 List was published during <a href="https://ams.globalappsec.org/">OWASP Global AppSec Amsterdam</a></p>
+<figure>
+<embed src="API_Security_Top_10_RC_-_Global_AppSec_AMS.pdf" title="API_Security_Top_10_RC_-_Global_AppSec_AMS.pdf" /><figcaption>API_Security_Top_10_RC_-_Global_AppSec_AMS.pdf</figcaption>
+</figure>
+<h3 id="sep_13_2019">Sep 13, 2019</h3>
+<p>The RC of API Security Top-10 List was published during <a href="https://dc.globalappsec.org/">OWASP Global AppSec DC</a></p>
+<figure>
+<embed src="API_Security_Top_10_RC.pdf" title="API_Security_Top_10_RC.pdf" /><figcaption>API_Security_Top_10_RC.pdf</figcaption>
+</figure>
+<h3 id="may_30_2019">May 30, 2019</h3>
+<p>The API Security Project was Kicked-Off during <a href="https://telaviv.appsecglobal.org/">OWASP Global AppSec Tel Aviv</a></p>
+<figure>
+<embed src="OWASP_APIs_Security_Project_Kick_Off.pdf" title="File:OWASP APIs Security Project Kick Off.pdf" /><figcaption><a href="File:OWASP">File:OWASP</a> APIs Security Project Kick Off.pdf</figcaption>
+</figure></td>
 </tr>
 </tbody>
 </table>
 
-# FAQ
+# Acknowledgments
 
-## How can I participate in your project?
+## Founders
 
-This project welcomes contributors of all sorts. The easiest way to get
-involved is to contact the Project Leader, and indicate that you're
-willing to help.
+  - Erez Yalon
+  - Inon Shkedy
 
-## What type of contributors are you seeking?
+## Sponsors
 
-We're currently looking for software developers who have experience
-building out resilient APIs, and security assessors who have assessed
-APIs. This project is currently in the "research" stage, meaning that
-the more you can contribute to building out the project, the better\!
+![Checkmarx-Logo-Horizontal-black-512px.png](Checkmarx-Logo-Horizontal-black-512px.png
+"Checkmarx-Logo-Horizontal-black-512px.png")
+![SALT_Logo.jpg](SALT_Logo.jpg "SALT_Logo.jpg")
 
-## Can I still participate if I'm not a developer/assessor?
+## Main Maintainer
 
-Sure -- we just need to figure out the correct role. If you're strong
-with technical writing, that would be great; if there are other skill
-sets you think you can bring to the table, please let us know.
-
-# Acknowledgements
+  - Paulo Silva
 
 ## Contributors
 
-The OWASP API Security Project is small, but will be maintained by
-volunteers. If you'd like to volunteer, please contact the Project
-Leader.
+  - David Sopas
+  - Chris Westphal
+
+# Join
+
+## Google Group
+
+Join the discussion on the [OWASP API Security Project Google
+group](https://groups.google.com/a/owasp.org/d/forum/api-security-project).
+
+This is the best place to introduce yourself, ask questions, suggest and
+discuss any topic that is relevant to the project.
+
+## GitHub
+
+The project is maintained in the [OWASP API Security Project
+repo](https://github.com/OWASP/API-Security).
+
+**The latest changes are under the [develop
+branch](https://github.com/OWASP/API-Security/tree/develop).**
+
+Feel free to open or solve an
+[issue](https://github.com/OWASP/API-Security/issues).
+
+Ready to contribute directly into the repo? Great\! Just make you you
+read the [How to Contribute
+guide](https://github.com/OWASP/API-Security/blob/master/CONTRIBUTING.md).
 
 # Road Map
 
-![API_Security_Project_Road_map_2019a.png](API_Security_Project_Road_map_2019a.png
-"API_Security_Project_Road_map_2019a.png")
+## Planned Projects
 
-# Project About
+  - API Security Top 10
+  - API Security Cheat Sheet
+  - crAPI (**C**ompletely **R**idiculous **API** - an intentionally
+    vulnerable API project)
+
+## Road Map
+
+![Roadmap.png](Roadmap.png "Roadmap.png")
 
 __NOTOC__ <headertabs />
 

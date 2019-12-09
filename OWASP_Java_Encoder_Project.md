@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_java_encoder_project">OWASP Java Encoder Project</h2>
 <p>The OWASP Java Encoder is a Java 1.5+ simple-to-use drop-in high-performance encoder class with no dependencies and little baggage. This project will help Java web developers defend against Cross Site Scripting!</p>
 <p>Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious scripts (primarily JavaScript) are injected into otherwise trusted web sites. You can read more about Cross Site Scripting here: <a href="Cross-site_Scripting_%28XSS%29" title="wikilink">Cross-site_Scripting_%28XSS%29</a>. One of the primary defenses to stop Cross Site Scripting is a technique called <i>Contextual Output Encoding</i>. <b>WARNING</b>: Please note that XSS prevention requires other defensive strategies besides encoding! For more information, please read about Cross Site Scripting prevention here: <a href="XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet" title="wikilink">XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet</a>.</p>
@@ -22,7 +21,6 @@
 <p>Happy Encoding!</p>
 <h2 id="licensing">Licensing</h2>
 <p>The OWASP Java Encoder is free to use under the <a href="http://opensource.org/licenses/BSD-3-Clause">New BSD License</a>.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_this">What is this?</h2>
 <p>The OWASP Java Encoder provides:</p>
 <ul>
@@ -48,7 +46,6 @@
 <li><a href="https://code.google.com/p/keyczar/">Google KeyCzar</a></li>
 <li><a href="http://shiro.apache.org/">Apache SHIRO</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li><a href="https://search.maven.org/remotecontent?filepath=org/owasp/encoder/encoder/1.2.2/encoder-1.2.2.jar">encoder-1.2.2.jar</a></li>
@@ -68,44 +65,7 @@
 <li>[4 Feb 2014] 1.1.1 Released</li>
 </ul>
 <h2 id="in_print">In Print</h2>
-<p>We will be releasing a user guide soon!</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><p><a href="http://opensource.org/licenses/BSD-3-Clause">New BSD License</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p>We will be releasing a user guide soon!</p></td>
 </tr>
 </tbody>
 </table>

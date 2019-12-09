@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_html_sanitizer_project">OWASP HTML Sanitizer Project</h2>
 <p>The OWASP HTML Sanitizer is a fast and easy to configure HTML Sanitizer written in Java which lets you include HTML authored by third-parties in your web application while protecting against XSS. The existing dependencies are on guava and JSR 305. The other jars are only needed by the test suite. The JSR 305 dependency is a compile-only dependency, only needed for annotations. This code was written with security best practices in mind, has an extensive test suite, and has undergone adversarial security review. A great place to get started using the OWASP Java HTML Sanitizer is here: <a href="https://github.com/OWASP/java-html-sanitizer/blob/master/docs/getting_started.md">https://github.com/OWASP/java-html-sanitizer/blob/master/docs/getting_started.md</a>.</p>
 <h2 id="benefits">Benefits</h2>
@@ -24,7 +23,6 @@
 </ul>
 <h2 id="licensing">Licensing</h2>
 <p>The OWASP HTML Sanitizer is free to use and is dual licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2 License</a> and the <a href="http://opensource.org/licenses/BSD-3-Clause">New BSD License</a>.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_this">What is this?</h2>
 <p>The OWASP HTML Sanitizer Projects provides Java based HTML sanitization of untrusted HTML!</p>
 <h2 id="code_repo">Code Repo</h2>
@@ -52,7 +50,6 @@ Project Manager<br />
 <ul>
 <li><a href="https://www.ohloh.net/p/owasp-java-html-sanitizer">https://www.ohloh.net/p/owasp-java-html-sanitizer</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <p><a href="https://search.maven.org/#search%7Cga%7C1%7Cowasp%20html%20sanitizer">OWASP HTML Sanitizer at Maven Central</a><br />
 </p>
@@ -69,44 +66,7 @@ Project Manager<br />
 <li>[4 Sept 2013] v209 Released</li>
 </ul>
 <h2 id="change_log">Change Log</h2>
-<p>For recent release notes, please visit the <a href="https://github.com/OWASP/java-html-sanitizer/blob/master/change_log.md">changelog on GitHub</a>.</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><p><a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2 License</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p>For recent release notes, please visit the <a href="https://github.com/OWASP/java-html-sanitizer/blob/master/change_log.md">changelog on GitHub</a>.</p></td>
 </tr>
 </tbody>
 </table>

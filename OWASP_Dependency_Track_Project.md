@@ -9,34 +9,49 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_dependency_track">OWASP Dependency-Track</h2>
-<p>Modern applications leverage the availability of existing components for use as building blocks in application development. By using existing components, organizations can dramatically decrease time-to-market. Reusing existing components however, comes at a cost. Organizations that build on top of existing components assume risk for software they did not create. Vulnerabilities in third-party components are inherited by all applications that use those components. The <a href="OWASP_Top_Ten" title="wikilink">OWASP Top Ten</a> (2013 and 2017) both recognize the risk of <a href="Top_10_2013-A9-Using_Components_with_Known_Vulnerabilities" title="wikilink">using components with known vulnerabilities</a>.</p>
-<p>Dependency-Track is a Software Composition Analysis (SCA) platform that keeps track of all third-party components used in all the applications an organization creates or consumes. It integrates with multiple vulnerability databases including the <a href="https://nvd.nist.gov/">National Vulnerability Database</a> (NVD), <a href="https://www.npmjs.com/advisories">NPM Public Advisories</a>, <a href="https://ossindex.sonatype.org/">Sonatype OSS Index</a>, and <a href="https://vulndb.cyberriskanalytics.com">VulnDB</a> from <a href="https://www.riskbasedsecurity.com">Risk Based Security</a>. Dependency-Track monitors all applications in its portfolio in order to proactively identify vulnerabilities in components that are placing your applications at risk. Use of Dependency-Track can play a vital role in an overall <a href="https://csrc.nist.gov/Projects/Supply-Chain-Risk-Management">Cyber Supply Chain Risk Management</a> (C-SCRM) program by fulfilling many of the recommendations laid out by <a href="https://www.safecode.org/wp-content/uploads/2017/05/SAFECode_TPC_Whitepaper.pdf">SAFECode</a>.</p>
-<p>Dependency-Track is designed to be used in an automated DevOps environment where BoM (bill-of-material) formats are automatically ingested during CI/CD. Use of the <a href="https://plugins.jenkins.io/dependency-track">Dependency-Track Jenkins Plugin</a> is highly recommended for this purpose and is well suited for use in Jenkins Pipeline. In such an environment, Dependency-Track enables your DevOps teams to accelerate while still keeping tabs on component usage and any inherited risk.</p>
-<p>Dependency-Track can also be used to monitor vulnerabilities in COTS (commercial off-the-shelf) software.</p>
+<p>Dependency-Track is an intelligent Software <a href="Component_Analysis" title="wikilink">Supply Chain Component Analysis</a> platform that allows organizations to identify and reduce risk from the use of third-party and open source components. Dependency-Track takes a unique and highly beneficial approach by leveraging the capabilities of Software Bill-of-Materials (SBOM). This approach provides capabilities that traditional Software Composition Analysis (SCA) solutions cannot achieve.</p>
+<p>Dependency-Track monitors component usage across all versions of every application in its portfolio in order to proactively identify risk across an organization. The platform has an API-first design and is ideal for use in Continuous Integration (CI) and Continuous Delivery (CD) environments.</p>
 <figure>
 <img src="Integrations.png" title="Integrations.png" alt="Integrations.png" /><figcaption>Integrations.png</figcaption>
 </figure>
 <h2 id="features">Features</h2>
 <ul>
-<li>Increases visibility into the use of vulnerable and outdated components</li>
-<li>Flexible data model supporting an unlimited number of projects and components</li>
-<li>Tracks vulnerabilities and inherited risk
+<li>Tracks application, library, framework, operating system, and hardware components</li>
+<li>Tracks component usage across all version of every application in an organizations portfolio</li>
+<li>Identifies multiple forms of risk including
 <ul>
-<li>by component</li>
-<li>by project</li>
-<li>across entire portfolio</li>
+<li>Components with known vulnerabilities</li>
+<li>Out-of-date components</li>
+<li>Modified components</li>
+<li>License risk</li>
+<li>More coming soon...</li>
 </ul></li>
-<li>Tracks usage of out-of-date components</li>
+<li>Integrates with multiple sources of vulnerability intelligence including:
+<ul>
+<li><a href="https://nvd.nist.gov">National Vulnerability Database</a> (NVD)</li>
+<li><a href="https://www.npmjs.com/advisories">NPM Public Advisories</a></li>
+<li><a href="https://ossindex.sonatype.org">Sonatype OSS Index</a></li>
+<li><a href="https://vulndb.cyberriskanalytics.com">VulnDB</a> from <a href="https://www.riskbasedsecurity.com">Risk Based Security</a></li>
+<li>More coming soon.</li>
+</ul></li>
+<li>Ecosystem agnostic with built-in repository support for:
+<ul>
+<li>Ruby Gems</li>
+<li>Maven</li>
+<li>NPM</li>
+<li>NuGet</li>
+<li>Python (Pypi)</li>
+<li>More coming soon.</li>
+</ul></li>
 <li>Includes a comprehensive auditing workflow for triaging results</li>
 <li>Configurable notifications supporting Slack, Microsoft Teams, Webhooks, and Email</li>
 <li>Supports standardized SPDX license ID’s and tracks license use by component</li>
-<li>Supports <a href="http://cyclonedx.org">CycloneDX</a> and <a href="https://spdx.org/">SPDX</a> bill-of-material formats and Dependency-Check XML</li>
+<li>Supports importing <a href="https://cyclonedx.org">CycloneDX</a> and <a href="https://spdx.org/">SPDX</a> Software Bill-of-Materials (SBOM) formats</li>
 <li>Easy to read metrics for components, projects, and portfolio</li>
-<li>Provides a reliable mirror of the NVD data feed</li>
+<li>Native support for Kenna Security, Fortify SSC, and ThreadFix</li>
 <li>API-first design facilitates easy integration with other systems</li>
-<li>API documentation available in Swagger 2.0 (OpenAPI 3 support coming soon)</li>
+<li>API documentation available in OpenAPI format</li>
 <li>Supports internally managed users, Active Directory/LDAP, and API Keys</li>
 <li>Simple to install and configure. Get up and running in just a few minutes</li>
 </ul>
@@ -49,7 +64,6 @@
 </ul>
 <h2 id="licensing">Licensing</h2>
 <p>OWASP Dependency-Track is licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0 license</a>.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:300px;"</p></td>
 <td><figure>
 <img src="Dependency-Track-logo-300x100.png" title="Dependency-Track-logo-300x100.png" alt="Dependency-Track-logo-300x100.png" width="250" /><figcaption>Dependency-Track-logo-300x100.png</figcaption>
 </figure>
@@ -61,21 +75,16 @@
 </ul>
 <h2 id="news_and_events">News and Events</h2>
 <ul>
+<li>[28 Sep 2019] v3.6.0 Released</li>
+<li>[17 Jul 2019] v3.5.1 Released</li>
+<li>[07 Jun 2019] v3.5.0 Released</li>
+<li>[16 Apr 2019] v3.4.1 Released</li>
 <li>[22 Dec 2018] v3.4.0 Released</li>
-<li>[13 Nov 2018] v3.3.1 Released</li>
-<li>[25 Oct 2018] v3.3.0 Released</li>
-<li>[02 Oct 2018] v3.2.2 Released</li>
-<li>[21 Sep 2018] v3.2.1 Released</li>
-<li>[06 Sep 2018] v3.2.0 Released</li>
-<li>[19 Jun 2018] v3.1.0 Released</li>
-<li>[02 May 2018] v3.0.4 Released</li>
-<li>[13 Apr 2018] v3.0.3 Released</li>
-<li>[30 Mar 2018] v3.0.2 Released</li>
-<li>[27 Mar 2018] v3.0.1 Released</li>
-<li>[26 Mar 2018] v3.0.0 Released</li>
-<li>[08 Oct 2017] v3.0 <a href="https://groups.google.com/forum/#!topic/dependency-track/0PUJI5rNgzI">Updates to community</a></li>
-<li>[16 Jun 2017] <a href="https://www.youtube.com/watch?v=88YAlzuDH04&amp;t=50s">Presentation at OWASP Summit 2017</a></li>
-<li>[10 Dec 2016] Work begins on v3.0</li>
+</ul>
+<h2 id="community_integrations">Community Integrations</h2>
+<ul>
+<li><a href="https://github.com/ozonru/dtrack-audit">dtrack-audit</a></li>
+<li><a href="https://github.com/pmckeown/dependency-track-maven-plugin">Dependency-Track Maven plugin</a></li>
 </ul>
 <h2 id="media">Media</h2>
 <p><a href="https://www.youtube.com/channel/UC8xdttysl3gNAQYvk1J9Efg">OWASP Dependency-Track Channel (YouTube)</a></p>
@@ -87,28 +96,7 @@
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <li><a href="OWASP_Dependency_Check" title="wikilink">OWASP Dependency-Check</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Mature_projects.png" title="Mature_projects.png" alt="Mature_projects.png" width="100" /><figcaption>Mature_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="middle" width="50%"</p></td>
-<td><p><img src="Owasp-builders-small.png" title="fig:Owasp-builders-small.png" alt="Owasp-builders-small.png" /> <img src="Owasp-defenders-small.png" title="fig:Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /></p></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center" valign="top" width="100%"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

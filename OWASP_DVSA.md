@@ -8,7 +8,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="dvsa">DVSA</h2>
 <h3 id="a_damn_vulnerable_serverless_application">a Damn Vulnerable Serverless Application</h3>
 <p>Damn Vulnerable Serverless Application (DVSA) is a deliberately vulnerable application aiming to be an aid for security professionals to test their skills and tools in a legal environment, help developers better understand the processes of securing serverless applications and to aid both students &amp; teachers to learn about serverless application security in a controlled class room environment.</p>
@@ -50,7 +49,6 @@
 <h2 id="getting_involved">Getting Involved</h2>
 <p>You do not have to be a security expert or a programmer to contribute.</p>
 <p>Contact the Project Leader(s) to get involved, we welcome any type of suggestions and comments.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><a href="https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:889485553959:applications~DVSA">AWS Application Repository</a></p>
 <p><a href="http://serverless.fail">Online version</a></p>
@@ -70,36 +68,7 @@
 <li>[08 Jan 2019]: <a href="https://www.computerweekly.com/news/252455429/Protego-Labs-launches-serverless-app-security-tool">Computer Weekly</a></li>
 <li>[08 Jan 2019]: <a href="https://technical.ly/baltimore/2019/01/08/protego-has-a-new-open-source-tool-to-provide-serverless-security-training/">Technical.ly</a></li>
 <li>[09 Jan 2019]: <a href="https://github.com/owasp/dvsa">Beta release!</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Agplv3-155x51.png" title="Agplv3-155x51.png" alt="Agplv3-155x51.png" /><figcaption>Agplv3-155x51.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

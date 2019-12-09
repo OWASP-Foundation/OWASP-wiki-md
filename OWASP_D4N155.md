@@ -8,10 +8,7 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
-<td><h2 id="project_about">Project About</h2>
-<p><span style="color:#ff0000"> {{Template:Project_About</p></td>
-<td><p>leader_name1=Julio Lira }}</p>
+<td><p><span style="color:#ff0000"></p>
 <h2 id="owasp_tool_project_d4n155">OWASP Tool Project D4N155</h2>
 <p>OWASP Tool Project D4N155The project uses <a href="https://en.wikipedia.org/wiki/Open-source_intelligence">OSINT</a> for dynamic and smart attack of brute force, using a complex operation and get the word list using expressions find</p>
 <h2 id="description">Description</h2>
@@ -62,8 +59,10 @@
 <code>iwalk</code></p>
 <p></span></p>
 <p>Using this script are possible see in practical with 4 values <code>"John","have","easy","pass"</code>, run:</p>
-<p><code> wget -qO- "</code><a href="https://gist.githubusercontent.com/Jul10l1r4/a5edfae6b0f206b4e491152c9f6b4347/raw/6c246b3a32db2f19fe5c68394663a1c995d8f625/mess.py"><code>https://gist.githubusercontent.com/Jul10l1r4/a5edfae6b0f206b4e491152c9f6b4347/raw/6c246b3a32db2f19fe5c68394663a1c995d8f625/mess.py</code></a><code>" </code></p></td>
-<td><p>python3 <img src="Calc.png" title="fig:Calc.png" alt="Calc.png" /></p>
+<p><code> wget -qO- "</code><a href="https://gist.githubusercontent.com/Jul10l1r4/a5edfae6b0f206b4e491152c9f6b4347/raw/6c246b3a32db2f19fe5c68394663a1c995d8f625/mess.py"><code>https://gist.githubusercontent.com/Jul10l1r4/a5edfae6b0f206b4e491152c9f6b4347/raw/6c246b3a32db2f19fe5c68394663a1c995d8f625/mess.py</code></a><code>" | python3</code></p>
+<figure>
+<img src="Calc.png" title="Calc.png" alt="Calc.png" /><figcaption>Calc.png</figcaption>
+</figure>
 <h2 id="licensing">Licensing</h2>
 <p>GNU GPL v3 License (allows commercial use, but requires that modifications to your code stay open source, thus prohibiting proprietary forks of your project)</p>
 <h2 id="changelog">CHANGELOG</h2>
@@ -112,13 +111,12 @@
 </ol></li>
 </ol>
 <p><a href="https://framindmap.org/c/maps/655325/public">UML at D4N155</a></p></td>
-<td><p>style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
-<p><a href="https://adasecurity.github.io/D4N155/">Installation Package</a></p>
-<p><a href="https://github.com/adasecurity/D4N155">Source Code</a></p>
+<p><a href="https://github.com/OWASP/D4N155">Installation Package</a></p>
+<p><a href="https://github.com/OWASP/D4N155">Source Code</a></p>
 <p><a href="https://github.com/adasecurity/D4N155/blob/master/CHANGELOG.md">What's New (Revision History)</a></p>
-<p><a href="https://adasecurity.github.io/D4N155/">Documentation</a></p>
-<p><a href="https://github.com/adasecurity/D4N155/issues">Issue Tracker</a></p>
+<p><a href="https://d4n155.rtfd.io">Documentation</a></p>
+<p><a href="https://github.com/OWASP/D4N155/issues">Issue Tracker</a></p>
 <p><a href="https://asciinema.org/a/222527">Video</a></p>
 <p><a href="https://adasecurity.github.io/D4N155/theories/#operation-of-d4n155">Operation of D4N155</a></p>
 <h2 id="colaborators">Colaborators</h2>
@@ -126,42 +124,12 @@
 <p>Fernando Eloi(@EloiAlbuquerque)</p>
 <p>Guilmour Rossi (<a href="https://guilmour.org">@guilmour</a>)</p>
 <p>Julio Lira (<a href="https://jul10l1r4.github.io/">@jul10l1r4</a>)</p>
-<p>Kádson Breno (<a href="mailto:kadsonbreno@hotmail.com">@kr4m3r</a>)</p>
+<p>Kádson Breno (<a href="https://github.com/att4ck3rs3cur1ty">@kr4m3r</a>)</p>
 <p>Matheus Oliveira (<a href="https://www.linkedin.com/in/matheus-0liveira/">@Matheus_0liveira</a>)</p>
 <h2 id="related_projects">Related Projects</h2>
 <ul>
-<li><a href="OWASP_Code_Project_Template" title="wikilink">OWASP_Code_Project_Template</a></li>
-<li><a href="OWASP_Documentation_Project_Template" title="wikilink">OWASP_Documentation_Project_Template</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" width="50%" valign="top"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" width="50%" valign="top"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Agplv3-155x51.png" title="Agplv3-155x51.png" alt="Agplv3-155x51.png" /><figcaption>Agplv3-155x51.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+<li><a href="https://youtu.be/z6-B-eqhyI4">Posso quebrar sua senha? D4N155 - CPBSB</a></li>
+</ul></td>
 </tr>
 </tbody>
 </table>

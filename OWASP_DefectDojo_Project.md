@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_defectdojo_tool_project">OWASP DefectDojo Tool Project</h2>
 <p>An open source vulnerability management tool that streamlines the testing process by offering templating, report generation, metrics, and baseline self-service tools.</p>
 <p>DefectDojo is an Application Security Program tool written in Python / Django. DefectDojo was created in 2013 and open-sourced on March 13th, 2015. The project was started to make optimizing vulnerability tracking less painful. The top goal of DefectDojo is to reduce the amount of time security professionals spend logging vulnerabilities. DefectDojo accomplishes this by offering a templating system for vulnerabilities, imports for common vulnerability scanners, report generation, and metrics.</p>
@@ -33,39 +32,6 @@
 <ul>
 <li><a href="https://www.owasp.org/index.php/OWASP_AppSec_Pipeline">OWASP AppSec Pipeline</a></li>
 </ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 <h2 id="news_and_events">News and Events</h2>
 <ul>
 <li>[23 July 2018] <a href="https://github.com/OWASP/django-DefectDojo/releases/tag/1.5.1">Version 1.5.1 Released</a></li>

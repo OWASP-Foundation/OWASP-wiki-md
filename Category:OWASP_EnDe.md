@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_ende">OWASP EnDe</h2>
 <p>OWASP EnDe is an Encoder, Decoder, Converter, Transformer, Calculator, for various codings used in the wild wide web. Collection of functions (herein called actions) for various codings, encodings, decodings and convertions. The aim is/was mainly driven by the requirements for HTTP/HTML-based functionality.</p>
 <h3 id="introduction">Introduction</h3>
@@ -58,7 +57,6 @@ The tools are:</p>
 :ASCII↔Unicode, text↔URL-encoded, text↔Base64, text↔uuencode, MD4, MD5, SHA, SHA256, CRC-16, AES, Block TEA, Unix Timestamp↔Windows Timestamp↔ASP.NET Timestamp, dezimal dottet IP↔IPv6↔Integer↔binary, ... <sub>where <em>text</em> means any valid Unicode data</sub></p>
 <h2 id="licensing">Licensing</h2>
 <p>OWASP EnDe is free to use. It is licensed under the GPL v2 license.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_ende">What is EnDe?</h2>
 <p>OWASP EnDe provides:</p>
 <ul>
@@ -85,7 +83,6 @@ The tools are:</p>
 <li><a href="http://ende.my-stp.net/EnDe.man.html#TARGET_AUDIENCE">Target Audience: builders, breakers, defenders</a></li>
 </ul>
 <h2 id="ohloh">Ohloh</h2></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li><a href="http://ende.my-stp.net/EnDe-1.0rc12.tgz">EnDe version 1.0RC12</a></li>
@@ -100,46 +97,7 @@ The tools are:</p>
 <li>[2012] latest tested and stable tarball</li>
 </ul>
 <p>Please see <a href="https://github.com/OWASP/EnDe"><a href="https://github.com/OWASP/EnDe">https://github.com/OWASP/EnDe</a></a> for latest version.</p>
-<h2 id="in_print">In Print</h2>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Midlevel_projects.png" title="Midlevel_projects.png" alt="Midlevel_projects.png" width="100" /><figcaption>Midlevel_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<h2 id="in_print">In Print</h2></td>
 </tr>
 </tbody>
 </table>

@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_hackademic_challenges_project">OWASP Hackademic Challenges Project</h2>
 <figure>
 <img src="Hackademic_transp_logo.png" title="Hackademic_transp_logo.png" alt="Hackademic_transp_logo.png" width="500" /><figcaption>Hackademic_transp_logo.png</figcaption>
@@ -46,7 +45,6 @@
 <code>Irc Channel #hackademic-dev on freenode</code></p>
 <h2 id="licensing">Licensing</h2>
 <p>OWASP Hackademic Challenges Project is free to use. It is licensed under the Apache License V2.0</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_are_hackademic_challenges">What are Hackademic Challenges?</h2>
 <p>OWASP Hackademic Challenges Project provides:</p>
 <ul>
@@ -62,7 +60,6 @@
 <p><a href="mailto:venieris@owasp.gr">Andreas Venieris (Core Developer) (Founder)</a></p>
 <h2 id="related_projects">Related Projects</h2>
 <h2 id="ohloh">Ohloh</h2></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <p><a href="https://github.com/Hackademic/hackademic/">Download</a></p>
 <h2 id="email_list">Email List</h2>
@@ -70,46 +67,7 @@
 <li><a href="https://lists.owasp.org/mailman/listinfo/owasp-hackademic-challenges">mailing list</a></li>
 </ul>
 <h2 id="news_and_events">News and Events</h2>
-<h2 id="in_print">In Print</h2>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Midlevel_projects.png" title="Midlevel_projects.png" alt="Midlevel_projects.png" width="100" /><figcaption>Midlevel_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<h2 id="in_print">In Print</h2></td>
 </tr>
 </tbody>
 </table>

@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="introduction">Introduction</h2>
 <table>
 <tbody>
@@ -33,7 +32,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>colspan="2"</p></td>
 <td><p>Existing DevOps processes already know what software is being built and when it is being deployed.</p>
 <p>What if we leveraged those DevOps processes to gather crucial information about the organization’s software applications?</p></td>
 </tr>
@@ -41,12 +39,6 @@
 <td><figure>
 <img src="Jupiter.png" title="Jupiter.png" alt="Jupiter.png" /><figcaption>Jupiter.png</figcaption>
 </figure></td>
-<td><p>Having quality application inventory data enables:</p>
-<ul>
-<li>Improved insight into what is being built and deployed across the software portfolio</li>
-<li>Efficient onboarding to Application Security tools and processes (static analysis, dynamic analysis, open source software component analysis, penetration testing, vulnerability management)</li>
-<li>Enhanced metrics capabilities to determine tool and process coverage as well as the organization’s Application Security maturity level</li>
-</ul></td>
 </tr>
 </tbody>
 </table>
@@ -94,39 +86,11 @@
 </tbody>
 </table>
 <h2 id="inventory_management_console_coming_soon">Inventory Management Console (COMING SOON)</h2>
-<p>login.png | Jupiter Inventory Management Console Home antecessors.png |Manage Antecessors collectors.png |Manage Collector Instances</p></td>
-<td><p>style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;" valign="top"</p>
-<h2 id="project_resources">Project Resources</h2>
+<p>login.png|Jupiter Inventory Management Console Home antecessors.png|Manage Antecessors collectors.png|Manage Collector Instances</p></td>
+<td><h2 id="project_resources">Project Resources</h2>
 <p><a href="https://github.com/xpert98?tab=repositories">Source Code</a></p>
 <h2 id="project_leader">Project Leader</h2>
-<p>Matt Stanchek</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center"</p></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p>Matt Stanchek</p></td>
 </tr>
 </tbody>
 </table>

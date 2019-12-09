@@ -87,15 +87,6 @@ for when we engage with other professional bodies.
 
 ## Related Projects
 
-## Classifications
-
-|                                                     |                                                                                              |
-| --------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| colspan="2" align="center"                          | ![Project_Type_Files_DOC.jpg](Project_Type_Files_DOC.jpg "Project_Type_Files_DOC.jpg")    |
-| rowspan="2" width="50%" valign="top" align="center" | ![Owasp-incubator-trans-85.png](Owasp-incubator-trans-85.png "Owasp-incubator-trans-85.png") |
-| width="50%" valign="top" align="center"             | ![Owasp-defenders-small.png](Owasp-defenders-small.png "Owasp-defenders-small.png")          |
-| colspan="2" align="center"                          | ![Creative%20Commons.png](Creative%20Commons.png "Creative%20Commons.png")                   |
-
 |}
 
 __NOTOC__ <headertabs />

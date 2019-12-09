@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><p>ESAPI (The OWASP Enterprise Security API) is a free, open source, web application security control library that makes it easier for programmers to write lower-risk applications. The ESAPI libraries are designed to make it easier for programmers to retrofit security into existing applications. The ESAPI libraries also serve as a solid foundation for new development.</p>
 <p>Allowing for language-specific differences, all OWASP ESAPI versions have the same basic design:</p>
 <ul>
@@ -25,7 +24,6 @@
 <p>This project source code is licensed under the <a href="http://en.wikipedia.org/wiki/BSD_license">BSD license</a>, which is very permissive and about as close to public domain as is possible. The project documentation is licensed under the <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative Commons</a> license. You can use or modify ESAPI however you want, even include it in commercial products.</p>
 <p>The following organizations are a few of the many organizations that are starting to adopt ESAPI to secure their web applications: <a href="http://www.americanexpress.com/">American Express</a>, <a href="http://www.apache.org/">Apache Foundation</a>, <a href="http://www.boozallen.com">Booz Allen Hamilton</a>, <a href="http://www.aspectsecurity.com/">Aspect Security</a>, <a href="http://www.coraid.com">Coraid</a>, <a href="http://www.thehartford.com/">The Hartford</a>, <a href="http://www.infinitecampus.com">Infinite Campus</a>, <a href="http://www.lockheedmartin.com/">Lockheed Martin</a>, <a href="http://cwe.mitre.org/top25/index.html">MITRE</a>, <a href="http://enterprise.spawar.navy.mil/">U.S. Navy - SPAWAR</a>, <a href="http://www.worldbank.org/">The World Bank</a>, <a href="http://www.sans.org/top25errors/">SANS Institute</a>.</p>
 <p>Please let us know how your organization is using OWASP ESAPI. Include your name, organization's name, and brief description of how you are using it. The project co-leads can be reached <a href="mailto:kevin.w.wall@gmail.com">here</a> and <a href="mailto:xeno6696@gmail.com">here</a>.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:300px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="lets_talk_here">Let's talk here</h2>
 <p><img src="Asvs-bulb.jpg" title="fig:Image:Asvs-bulb.jpg" alt="Image:Asvs-bulb.jpg" /><strong>ESAPI Communities</strong></p>
 <p>Further development of ESAPI occurs through mailing list discussions and occasional workshops, and suggestions for improvement are welcome. For more information, please subscribe to one of the lists below.</p>
@@ -51,9 +49,7 @@
 <li>ESAPI for other languages developer onboarding instructions -- coming soon!</li>
 </ul>
 <h2 id="project_sponsors">Project Sponsors</h2>
-<p>The ESAPI project is sponsored by {{MemberLinks</p></td>
-<td><p>link=<a href="http://www.aspectsecurity.com">http://www.aspectsecurity.com</a></p></td>
-<td><p>logo=Aspect_logo_owasp.jpg}}</p></td>
+<p>The ESAPI project is sponsored by </p></td>
 </tr>
 </tbody>
 </table>
@@ -70,14 +66,12 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><p><img src="Asvs-step1.jpg" title="fig:Image:Asvs-step1.jpg" alt="Image:Asvs-step1.jpg" /><strong>1. About ESAPI</strong></p>
 <ul>
 <li>Data sheet(<a href="http://www.owasp.org/images/8/81/Esapi-datasheet.pdf">PDF</a>,<a href="http://www.owasp.org/images/3/32/Esapi-datasheet.doc">Word</a>)</li>
 <li>Project presentation (<a href="http://owasp-esapi-java.googlecode.com/files/OWASP%20ESAPI.ppt">PowerPoint</a>)</li>
 <li>Video presentation (<a href="http://www.youtube.com/watch?v=QAPD1jPn04g">YouTube</a>)</li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:33%;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><p><img src="Asvs-step2.jpg" title="fig:Image:Asvs-step2.jpg" alt="Image:Asvs-step2.jpg" /><strong>2. Get ESAPI</strong></p>
 <ul>
 <li><a href="https://search.maven.org/#search%7Cga%7C1%7Cesapi">ESAPI for Java Downloads (binaries)</a></li>
@@ -94,13 +88,12 @@
 <li>ESAPI for ColdFusion &amp; CFML</li>
 <li>ESAPI for Python</li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:33%;"</p></td>
 <td><p><img src="Asvs-step3.jpg" title="fig:Image:Asvs-step3.jpg" alt="Image:Asvs-step3.jpg" /><strong>3. Learn ESAPI</strong></p>
 <ul>
 <li>ESAPI design patterns (not language-specific): <a href="http://www.owasp.org/images/8/82/Esapi-design-patterns.pdf">(PDF</a>, <a href="http://www.owasp.org/index.php/File:Esapi-design-patterns.doc">Word</a>, <a href="http://www.owasp.org/images/8/87/Esapi-design-patterns.ppt">PPT)</a></li>
 <li>The <a href="ESAPI_Swingset" title="wikilink">ESAPI Swingset</a> sample application demonstrates how to leverage ESAPI to protect a web application.</li>
 <li>LAMP should be spelled LAMPE (<a href="http://www.owasp.org/images/a/ac/LAMP_Should_be_Spelled_LAMPE.pdf">PDF</a>)</li>
-<li>ESAPI for Java interface documentation (<a href="http://www.javadoc.io/doc/org.owasp.esapi/esapi/2.1.0">JavaDocs</a>)</li>
+<li>ESAPI for Java interface documentation (<a href="http://www.javadoc.io/doc/org.owasp.esapi/esapi/2.2.0.0">JavaDocs</a>)</li>
 </ul></td>
 </tr>
 </tbody>

@@ -8,7 +8,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_tool_project">OWASP Tool Project</h2>
 <h2 id="description">Description</h2>
 <h3 id="problem">Problem</h3>
@@ -35,7 +34,6 @@
 <p></strong></p>
 <h2 id="getting_involved">Getting Involved</h2>
 <p>Feel free to contact the <a href="mailto:sriharsha.g@owasp.org">leader</a> to know how can you be part project growth.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><a href="https://github.com/OWASP/Intelligent-Intrusion-Detection-System/">Installation Package</a></p>
 <p><a href="https://github.com/OWASP/Intelligent-Intrusion-Detection-System/">Source Code</a></p>
@@ -46,36 +44,7 @@
 <p><a href="https://github.com/OWASP/Intelligent-Intrusion-Detection-System/">Slide Presentation</a></p>
 <p><a href="https://github.com/OWASP/Intelligent-Intrusion-Detection-System/">Video</a></p>
 <h2 id="project_leader">Project Leader</h2>
-<p><a href="mailto:sriharsha.g@owasp.org">Sri Harsha Gajavalli</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Gplv3-127x51.png" title="Gplv3-127x51.png" alt="Gplv3-127x51.png" /><figcaption>Gplv3-127x51.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+<p><a href="mailto:sriharsha.g@owasp.org">Sri Harsha Gajavalli</a></p></td>
 </tr>
 </tbody>
 </table>

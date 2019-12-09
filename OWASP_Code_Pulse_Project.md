@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="about_code_pulse">About Code Pulse</h2>
 <p>The OWASP Code Pulse Project is a tool that provides insight into the real-time code coverage of black box testing activities. It is a cross-platform desktop application that runs on most major platforms.</p>
 <figure>
@@ -22,7 +21,6 @@
 <p>Code Pulse presents the coverage information in a visual form to make it easy to understand at-a-glance which parts of an application have been covered, and how much. The real-time coverage feedback makes it easy to adjust testing activity based on the observed coverage. In addition for testing activities relying on multiple techniques (a variety of dynamic analysis tools for instance), it’s fairly easy to split up the recorded activity to understand which code was covered by each tool independently or to view where the coverage overlaps between multiple tools.</p>
 <h2 id="licensing">Licensing</h2>
 <p>OWASP Code Pulse project is free to use. It is licensed under the Apache 2.0 License.</p></td>
-<td><p>style="padding-left:25px;width:300px;border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="quick_links">Quick Links</h2>
 <ul>
 <li><a href="http://code-pulse.com">Code Pulse Website</a></li>
@@ -50,46 +48,7 @@
 <li><a href="OWASP_Attack_Surface_Detector_Project" title="wikilink">OWASP Attack Surface Detector Project</a></li>
 <li><a href="OWASP_Zed_Attack_Proxy_Project" title="wikilink">OWASP Zed Attack Proxy Project</a></li>
 <li><a href="OWASP_Dependency_Check" title="wikilink">OWASP Dependency Check</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="New_projects.png" title="New_projects.png" alt="New_projects.png" width="100" /><figcaption>New_projects.png</figcaption>
-</figure></td>
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-breakers-small.png" title="Owasp-breakers-small.png" alt="Owasp-breakers-small.png" /><figcaption>Owasp-breakers-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

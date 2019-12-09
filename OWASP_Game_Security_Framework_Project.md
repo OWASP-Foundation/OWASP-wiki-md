@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_game_security_framework_gsf">OWASP Game Security Framework (GSF)</h2>
 <p><strong>The OWASP Game Security Framework (GSF) represents a modular approach to understanding the security issues that surround video game ecosystems.</strong></p>
 <p>In 2016 the videogame market became 99.6 Billion dollar industry... any why shouldn't it be? Some of the most prolific and complex software developed today are video games. They are professionally played, sponsored, scrutinized, monetized, and celebrated, just like many sports. They handle clients, servers, web components, monetary transfers, social interactions, virtual markets, etc, with every bit the need of security that most internet hosted apps have (if not more in some cases). The GSF is designed to help threat model gaming issues that have devastated new games. Most importantly we hope the GSF can help new developers and security testers alike root out bugs in your favorite titles.</p>
@@ -40,7 +39,6 @@
 <p><strong>3. Examples of real-world examples of previous attacks against games, and how the attacks map to the GSF framework components.</strong></p>
 <h2 id="licensing">Licensing</h2>
 <p>The OWASP Game Security Framework is free to use. It is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</a> Creative Commons Attribution-ShareAlike 3.0 license], so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_the_owasp_game_security_framework">What is the OWASP Game Security Framework?</h2>
 <p>The goal of the OWASP Game Security Framework is to provide a structure for discussing the various aspects around the security of video games.</p>
 <p>The target audience for the project includes:</p>
@@ -73,7 +71,6 @@
 <li><a href="OWASP_Top_Ten_Project" title="wikilink">OWASP Web Top 10</a></li>
 <li><a href="OWASP_Mobile_Security_Project" title="wikilink">OWASP Mobile Security</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="collaboration">Collaboration</h2>
 <p><a href="https://game-security.slack.com">The Slack Channel</a></p>
 <h2 id="quick_download">Quick Download</h2>
@@ -82,46 +79,7 @@
 <ul>
 <li>January, 2017: Doing a complete redesign of the project.</li>
 <li>March 2017: Presenting version 1.0 at HouSecCon 2017.</li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -138,7 +96,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="attack_surfaces_1">Attack Surfaces</h2>
 <p>The following is a list of the attack surfaces that can be found in video games of various types.</p>
 <table>
@@ -175,7 +132,6 @@
 </tr>
 </tbody>
 </table></td>
-<td><p>valign="top" style="padding-left:25px;width:300px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_the_attack_surfaces_section">What is the Attack Surfaces Section?</h2>
 <p>This section provides an overview of the various places an attacker can target to harm a given game infrastructure.</p>
 <h2 id="sub_project_leader">Sub-project Leader</h2>
@@ -213,7 +169,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="game_security_vulnerabilities">Game Security Vulnerabilities</h2>
 <p>The following is a list of the vulnerabilities that can be found in video games of various types, and the attack surfaces they're likely to be associated with.</p>
 <table>
@@ -276,7 +231,6 @@
 </tr>
 </tbody>
 </table></td>
-<td><p>valign="top" style="padding-left:25px;width:300px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_the_game_security_vulnerabilities_project">What is the Game Security Vulnerabilities Project?</h2>
 <p>The Security Vulnerabilities Project provides information on what types of vulnerabilities exist within games, and which attack surfaces they fall under.</p>
 <h2 id="sub_project_leader_1">Sub-project Leader</h2>
@@ -314,7 +268,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="exploits_1">Exploits</h2>
 <p>This list refers to what a given attacker might use to take advantage of a given bug within the game.</p>
 <table>
@@ -355,7 +308,6 @@
 </tr>
 </tbody>
 </table></td>
-<td><p>valign="top" style="padding-left:25px;width:300px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="the_exploits_project">The Exploits Project</h2>
 <p>The Exploits provides information on what types of tools and techniques an attacker might use to accomplish his/her goal.</p>
 <h2 id="sub_project_leader_2">Sub-project Leader</h2>
@@ -393,7 +345,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="attacker_goals_1">Attacker Goals</h2>
 <p>This list refers to what a given attacker might be trying to accomplish within the game by performing a given attack. This could relate very closely (or not) with the technical impact or business impact cause by the behavior.</p>
 <table>
@@ -434,7 +385,6 @@
 </tr>
 </tbody>
 </table></td>
-<td><p>valign="top" style="padding-left:25px;width:300px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_the_attacker_goals_project">What is the Attacker Goals Project</h2>
 <p>The Attacker Goals Project provides information on what types of outcomes attackers might try to achieve within or outside of the game they're attacking.</p>
 <h2 id="sub_project_leader_3">Sub-project Leader</h2>
@@ -472,7 +422,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="negative_outcomes_1">Negative Outcomes</h2>
 <p>The following is a list of possible negative outcomes that can occur as the result of someone successfully attacking a given game.</p>
 <table>
@@ -517,7 +466,6 @@
 </tr>
 </tbody>
 </table></td>
-<td><p>valign="top" style="padding-left:25px;width:300px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_the_negative_outcomes_project">What is the Negative Outcomes Project?</h2>
 <p>The Negative Outcomes Project provides information on what types of situations could manifest within the game if bugs or exploits are not successfully addressed.</p>
 <h2 id="project_leader">Project Leader</h2>
@@ -555,7 +503,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="defenses_1">Defenses</h2>
 <p>These are some of the common defenses that can be used to counter attacks against various components of a game.</p>
 <table>
@@ -596,7 +543,6 @@
 </tr>
 </tbody>
 </table></td>
-<td><p>valign="top" style="padding-left:25px;width:300px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_the_game_security_vulnerabilities_project_1">What is the Game Security Vulnerabilities Project?</h2>
 <p>The Security Vulnerabilities Project provides information on what types of vulnerabilities exist within games, and which attack surfaces they fall under.</p>
 <h2 id="project_leaders_1">Project Leaders</h2>
@@ -628,14 +574,14 @@
 
 *Vulnerability*
 
-| ID  | style="font-weight: bold;"                          | Vulnerabilty Name                                                                                                                                                                                                                                                                                                                                                                                                                               | style="font-weight: bold;" | Description             | style="font-weight: bold;" | Surface Area                | style="font-weight: bold;"                    | Goal                                                                                            | style="font-weight: bold;" | Techical Impact | Business Impact | style="font-weight: bold;" | Defense | Ref | Game | Genre |
-| --- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ----------------------- | -------------------------- | --------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------- | --------------- | --------------- | -------------------------- | ------- | --- | ---- | ----- |
-| V1  | Local Resource Modification, Client-side Logic Flaw | In 2015 The Division experienced an exploit that allowed an attacker to switch weapons rapidly, applying weapon buffs in a stacking manner, with no cap.                                                                                                                                                                                                                                                                                        | Game Client                | Unfair Player Advantage | Player Anger               | Players leave, Lost Revenue | Cryptographic Integrity Checks on Game Client | <http://www.gamesradar.com/theres-a-division-damage-stacking-glitch-if-youve-got-fast-fingers/> |                            | 3PS/1PS/MMO     |                 |                            |         |     |      |       |
-| VN1 | colspan="10" style="text-align: center;"            | "The attacker attacked and edited the `LOCAL GAME CLIENT (Attack Surface)`, which had a `LACK OF CLIENT INTEGRITY CONTROLS (Vulnerability)`, which allowed her to `ARTIFICIALLY INCREASE HER ABILITIES (Attacker Goal)`, ultimately leading to an `UNHAPPY PLAYER BASE (Negative Outcome)` and `DECLINING GAME REVENUE (Negative Outcome)` due to cheating, which could have been prevented by `CRYPTOGRAPHIC INTEGRITY CHECKS ON GAME CLIENT`” |                            |                         |                            |                             |                                               |                                                                                                 |                            |                 |                 |                            |         |     |      |       |
-|     |                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                            |                         |                            |                             |                                               |                                                                                                 |                            |                 |                 |                            |         |     |      |       |
-|     |                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                            |                         |                            |                             |                                               |                                                                                                 |                            |                 |                 |                            |         |     |      |       |
-|     |                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                            |                         |                            |                             |                                               |                                                                                                 |                            |                 |                 |                            |         |     |      |       |
-|     |                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                            |                         |                            |                             |                                               |                                                                                                 |                            |                 |                 |                            |         |     |      |       |
+| ID  | Vulnerabilty Name                                                                                                                                                                                                                                                                                                                                                                                                                               | Description                                                                                                                                              | Surface Area | Goal                    | Techical Impact | Business Impact             | Defense                                       | Ref                                                                                             | Game | Genre       |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ----------------------- | --------------- | --------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---- | ----------- |
+| V1  | Local Resource Modification, Client-side Logic Flaw                                                                                                                                                                                                                                                                                                                                                                                             | In 2015 The Division experienced an exploit that allowed an attacker to switch weapons rapidly, applying weapon buffs in a stacking manner, with no cap. | Game Client  | Unfair Player Advantage | Player Anger    | Players leave, Lost Revenue | Cryptographic Integrity Checks on Game Client | <http://www.gamesradar.com/theres-a-division-damage-stacking-glitch-if-youve-got-fast-fingers/> |      | 3PS/1PS/MMO |
+| VN1 | "The attacker attacked and edited the `LOCAL GAME CLIENT (Attack Surface)`, which had a `LACK OF CLIENT INTEGRITY CONTROLS (Vulnerability)`, which allowed her to `ARTIFICIALLY INCREASE HER ABILITIES (Attacker Goal)`, ultimately leading to an `UNHAPPY PLAYER BASE (Negative Outcome)` and `DECLINING GAME REVENUE (Negative Outcome)` due to cheating, which could have been prevented by `CRYPTOGRAPHIC INTEGRITY CHECKS ON GAME CLIENT`” |                                                                                                                                                          |              |                         |                 |                             |                                               |                                                                                                 |      |             |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                          |              |                         |                 |                             |                                               |                                                                                                 |      |             |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                          |              |                         |                 |                             |                                               |                                                                                                 |      |             |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                          |              |                         |                 |                             |                                               |                                                                                                 |      |             |
+|     |                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                          |              |                         |                 |                             |                                               |                                                                                                 |      |             |
 
 *Working Data Collection Spreadsheet:*
 

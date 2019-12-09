@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_top_10_2017_released">OWASP Top 10 2017 Released</h2>
 <p>The <a href="Media:OWASP_Top_10-2017_(en).pdf.pdf" title="wikilink">OWASP Top 10 - 2017</a> is now available.</p>
 <h2 id="owasp_top_10_most_critical_web_application_security_risks">OWASP Top 10 Most Critical Web Application Security Risks</h2>
@@ -31,13 +30,9 @@
 </ul>
 <h2 id="project_sponsors">Project Sponsors</h2>
 <p>The OWASP Top 10 - 2017 project is sponsored by</p>
-<p>{{MemberLinks</p></td>
-<td><p>link=<a href="https://www.autodesk.com">https://www.autodesk.com</a></p></td>
-<td><p>logo=Autodesk-logo.png}}</p>
 <p>Thanks to <a href="https://www.aspectsecurity.com">Aspect Security</a> for sponsoring earlier versions.</p>
 <h2 id="licensing">Licensing</h2>
 <p>The OWASP Top 10 is free to use. It is licensed under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 license</a>.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li><a href="Media:OWASP_Top_10-2017_(en).pdf.pdf" title="wikilink">OWASP Top 10 - 2017 - PDF</a></li>
@@ -69,46 +64,7 @@
 <li><a href="User:vanderaj" title="wikilink">Andrew van der Stock</a></li>
 <li><a href="User:Neil_Smithline" title="wikilink">Neil Smithline</a></li>
 <li><a href="User:T.Gigler" title="wikilink">Torsten Gigler</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-flagship-trans-85.png" title="Owasp-flagship-trans-85.png" alt="Owasp-flagship-trans-85.png" /><figcaption>Owasp-flagship-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -144,6 +100,11 @@ with some hints to help you with your translation.
 2.  翻译人员：陈亮、王厚奎、王颉、王文君、王晓飞、吴楠、徐瑞祝、夏天泽、杨璐、张剑钟、赵学文（排名不分先后，按姓氏拼音排列）
 3.  审查人员：Rip、包悦忠、李旭勤、杨天识、张家银（排名不分先后，按姓氏拼音排列）
 4.  汇编人员：赵学文
+
+<!-- end list -->
+
+  - <b>French:</b> <u>[OWASP Top 10 2017 in French
+    (Git/Markdown)](https://github.com/OWASP/Top10/tree/master/2017/fr)</u>
 
 <!-- end list -->
 

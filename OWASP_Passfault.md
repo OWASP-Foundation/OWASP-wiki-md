@@ -15,7 +15,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_passfault">OWASP Passfault</h2>
 <p>OWASP Passfault evaluates the strength of passwords accurately enough to predict the time to crack. It makes creating passwords and password policies significantly more intuitive and simple. Passwords don't have to be annoying!</p>
 <h2 id="introduction">Introduction</h2>
@@ -32,7 +31,6 @@ Powerful : Empowers administrators to know and control the strength and risk of 
 <p>When setting a password policy, OWASP Passfault simplifies configuration to one simple meaningful measurement: <strong>the number of passwords found in the password patterns</strong>. This measurement is made more intuitive and meaningful with an estimated time to crack.</p>
 <h2 id="licensing">Licensing</h2>
 <p>OWASP Passfault is free to use. It is licensed under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License version 2.0</a> .</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_passfault">What is Passfault?</h2>
 <p>OWASP Passfault provides:</p>
 <ul>
@@ -50,7 +48,6 @@ Powerful : Empowers administrators to know and control the strength and risk of 
 <h2 id="research">Research</h2>
 <p><em>Passfault: an Open Source Tool for Measuring Password Complexity and Strength</em> <embed src="Artigo-Passfault.pdf" title="fig:File:Artigo-Passfault.pdf" /></p>
 <p><em>General Framework for Evaluating Password Complexity and Strength</em> <a href="http://arxiv.org/abs/1512.05814">Cornell University Library</a> "...This is something that has not been captured by any previous password strength or complexity measures, with the exception of [OWASP] Passfault"</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <p><a href="https://github.com/owasp/passfault/releases">downloads</a></p>
 <h2 id="demo_page">Demo Page</h2>
@@ -60,46 +57,7 @@ Powerful : Empowers administrators to know and control the strength and risk of 
 <h2 id="related_projects">Related Projects</h2>
 <p><a href="Password_Storage_Cheat_Sheet" title="wikilink">Password_Storage_Cheat_Sheet</a></p>
 <h2 id="ohloh">Ohloh</h2>
-<p><a href="https://www.ohloh.net/p/passfault">https://www.ohloh.net/p/passfault</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-labs-trans-85.png" title="Owasp-labs-trans-85.png" alt="Owasp-labs-trans-85.png" /><figcaption>Owasp-labs-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Apache-feather-small.gif" title="Apache-feather-small.gif" alt="Apache-feather-small.gif" /><figcaption>Apache-feather-small.gif</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p><a href="https://www.ohloh.net/p/passfault">https://www.ohloh.net/p/passfault</a></p></td>
 </tr>
 </tbody>
 </table>

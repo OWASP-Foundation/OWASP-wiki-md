@@ -10,13 +10,11 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_json_sanitizer_project">OWASP JSON Sanitizer Project</h2>
 <p>Our Mission: Given JSON-like content, convert it to valid JSON! The OWASP JSON Sanitizer Project is a simple to use Java library that can be attached at either end of a data-pipeline to help satisfy Postel's principle: <i>be conservative in what you do, be liberal in what you accept from others.</i> When applied to JSON-like content from others, this project will produce well-formed JSON that should satisfy any parser you use. When applied to your output before you send, it will coerce minor mistakes in encoding and make it easier to embed your JSON in HTML and XML.</p>
 <p>This library is very easy to use. For more information, visit the <a href="https://code.google.com/p/json-sanitizer/wiki/GettingStarted">getting started guide</a>.</p>
 <h2 id="licensing">Licensing</h2>
 <p>The OWASP JSON Sanitizer is free to use under the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2 License</a>.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_this">What is this?</h2>
 <p>The OWASP JSON Sanitizer Projects provides:</p>
 <ul>
@@ -42,7 +40,6 @@ Project Manager<br />
 <li><a href="https://code.google.com/p/keyczar/">Google KeyCzar</a></li>
 <li><a href="http://shiro.apache.org/">Apache SHIRO</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li><a href="https://search.maven.org/#artifactdetails%7Ccom.mikesamuel%7Cjson-sanitizer%7C1.1%7Cjar">v1.1 home at Maven Central</a></li>
@@ -54,44 +51,7 @@ Project Manager<br />
 <li>[July 5, 2014] v1 Released at Maven Central!</li>
 <li>[March 29, 2014] Template and Doc cleanup!</li>
 <li>[Oct 17, 2012] .9 Released!</li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><p><a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2 License</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

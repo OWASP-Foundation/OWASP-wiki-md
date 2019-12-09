@@ -8,7 +8,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><p><span style="color:#ff0000"> Instructions are in RED text and should be removed from your document by deleting the text with the span tags. This document is intended to serve as an example of what is required of an OWASP project wiki page. The text in red serves as instructions, while the text in black serves as an example. Text in black is expected to be replaced entirely with information specific to your OWASP project. </span></p>
 <h2 id="project_about">Project About</h2>
 <p><span style="color:#ff0000"> </p>
@@ -45,7 +44,6 @@
 <p></strong></p>
 <h2 id="getting_involved">Getting Involved</h2>
 <p><span style="color:#ff0000"> Involvement in the development and promotion of <strong>Documentation Project Template</strong> is actively encouraged! You do not have to be a security expert or a programmer to contribute. Some of the ways you can help are as follows:</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><span style="color:#ff0000"></p>
 <p><code>   This is where you can link to the key locations for project files, including setup programs, the source code repository, online documentation, a Wiki Home Page, threaded discussions about the project, and Issue Tracking system, etc. </code></p>
@@ -70,36 +68,7 @@
 <ul>
 <li><a href="OWASP_Code_Project_Template" title="wikilink">OWASP_Code_Project_Template</a></li>
 <li><a href="OWASP_Tool_Project_Template" title="wikilink">OWASP_Tool_Project_Template</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Creative%20Commons.png" title="Creative%20Commons.png" alt="Creative%20Commons.png" width="90" /><figcaption>Creative%20Commons.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

@@ -16,7 +16,6 @@ make crawlers happy;-)
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="o_saft">O-Saft</h2>
 <dl>
 <dt>OWASP SSL advanced forensic tool / OWASP SSL audit for testers</dt>
@@ -104,6 +103,26 @@ make crawlers happy;-)
 <dd><em>o-saft.tcl your.tld</em>
 </dd>
 </dl>
+<ul>
+<li>Kali 2019</li>
+</ul>
+<dl>
+<dt></dt>
+<dd><em>apt install o-saft</em> # installs version 19.01.19
+</dd>
+<dd><em>apt install libidn11-dev libidn2-0-dev libzip-dev libsctp-dev libkrb5-dev</em>
+</dd>
+<dd><em>cd /usr/share/o-saft</em>
+</dd>
+<dd># get updated script
+</dd>
+<dd><em>curl -O contrib/install_openssl.sh <a href="https://raw.githubusercontent.com/OWASP/O-Saft/master/contrib/install_openssl.sh">https://raw.githubusercontent.com/OWASP/O-Saft/master/contrib/install_openssl.sh</a></em>
+</dd>
+<dd><em>sh contrib/install_openssl.sh --m</em>
+</dd>
+<dd># enjoy commands as described before ...
+</dd>
+</dl>
 <h4 id="description">Description</h4>
 <p>The main idea is to have a tool which works on common platforms and can simply be automated.</p>
 <dl>
@@ -116,8 +135,8 @@ make crawlers happy;-)
 <p>:* check for ciphers provided in your own libssl.so and libcrypt.so</p>
 <p>:* check for ciphers without any dependency to a library (+cipherall)</p>
 <p>:* checks the server's priority for ciphers (+cipherall)</p>
-<p>:* check for special HTTP(S) support (like SNI, HSTS, certificate pinning)</p>
-<p>:* check for protections against attacks (BEAST, CRIME, DROWN, FREAK, Heartbleed, Lucky 13, POODLE, RC4 Bias, Sweet32 ...)</p>
+<p>:* check for special HTTP(S) support (like SNI, HSTS, certificate pinning, SSTP)</p>
+<p>:* check for vulnerabilities (BEAST, CRIME, DROWN, FREAK, Heartbleed, Lucky 13, POODLE, RC4 Bias, Sweet32 ...)</p>
 <p>:* check the length of Diffie Hellman Parameters by the cipher (+cipherall needs option '--experimental')</p>
 <p>:* may check for a single attribute</p>
 <p>:* may check multiple targets at once</p>
@@ -149,7 +168,6 @@ new option --togglesni tests without and with sni in one call</p>
 <ul>
 <li>please give us feedback via the <a href="https://lists.owasp.org/mailman/listinfo/o-saft">mailinglist</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_o_saft">What is O-Saft?</h2>
 <p>O-Saft provides:</p>
 <ul>
@@ -164,22 +182,13 @@ new option --togglesni tests without and with sni in one call</p>
 <li>supports STARTTLS and Proxy (for most commands)</li>
 </ul>
 <h2 id="screen_shots">Screen Shots</h2>
-<p>-- code stolen from generated page and improved 9/2016</p>
-<div class="thumbcaption">
-<div class="magnify">
-<p><a href="/index.php/File:O-Saft_cipherCLI.png" class="internal" title="Enlarge"><img src="/File:O-Saft_cipherCLI.png" width="15" height="11" alt="O-Saft +cipher ..." /></a></p>
-</div>
-<p>O-Saft +cipher ...</p>
-</div>
-<p>--&gt;</p>
-<p>-- original wiki code 9/2016 <img src="O-Saft_cipherCLI.png" title="fig:O-Saft_cipherCLI.png" alt="O-Saft_cipherCLI.png" /> --&gt;</p>
 <h2 id="documentation">Documentation</h2>
 <ul>
 <li><a href="O-Saft/Documentation" title="wikilink">help/man page</a></li>
 </ul>
 <h2 id="presentations">Presentations</h2>
 <ul>
-<li>03.04.2015 O-Saft Workshop at <u><a href="https://sites.google.com/view/bsidesmunich2017">BSides Munich 2017</a></u></li>
+<li>03.04.2017 O-Saft Workshop at <u><a href="https://sites.google.com/view/bsidesmunich2017">BSides Munich 2017</a></u></li>
 </ul>
 <ul>
 <li>Workshop <u>[<a href="http://www.it-security-konferenz.de/programm.html#workshop3%7C3">http://www.it-security-konferenz.de/programm.html#workshop3|3</a>. Kölner IT-Security-Konferenz]</u></li>
@@ -198,9 +207,6 @@ new option --togglesni tests without and with sni in one call</p>
 <dd>There will be a training <u><a href="http://2015.appsec.eu/trainings/#train4">TLS/SSL in Practice</a></u> which in particular covers O-Saft.
 </dd>
 </dl>
-<p>-- wenn wir eine bessere Beschreibung brauchen:</p>
-<p><code>    </code><a href="http://appseceurope2014.sched.org/event/0e316b9ea5c28375dcc8fd41baedd481"><code>http://appseceurope2014.sched.org/event/0e316b9ea5c28375dcc8fd41baedd481</code></a></p>
-<p>--&gt;</p>
 <ul>
 <li>09.12.2014 Presentation '' Richtig verschlüsseln mit SSL/TLS'' at <u><a href="German_OWASP_Day_2014" title="wikilink">German OWASP Day 2014</a></u>, program see <u><a href="German_OWASP_Day_2014/Programm" title="wikilink">here</a></u></li>
 <li><u><a href="https://2014.appsec.eu/">AppSecEU 2014</a></u>, Cambridge</li>
@@ -228,7 +234,6 @@ new option --togglesni tests without and with sni in one call</p>
 <ul>
 <li><u><a href="https://www.ohloh.net/p/O-Saft">https://www.ohloh.net/p/O-Saft</a></u></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li><strong>Stable Release (19.01.19)</strong>: <u><a href="https://github.com/OWASP/O-Saft/archive/19.01.19.tar.gz">o-saft.tgz</a></u></li>
@@ -238,6 +243,7 @@ new option --togglesni tests without and with sni in one call</p>
 <p>A Docker Container can be found at <u><a href="https://hub.docker.com/r/owasp/o-saft/">https://hub.docker.com/r/owasp/o-saft/</a></u></p>
 <h2 id="news_and_events">News and Events</h2>
 <ul>
+<li>[2019] O-Saft is available as package in <strong>Kali 2019</strong></li>
 <li>[12. - 16.06.17] <u><a href="https://owaspsummit.org/Working-Sessions/Owasp-Projects/O-Saft.html">O-Saft Track</a></u> (at OWASP Summit, London)</li>
 <li><strong>2013 Top Security Tools</strong></li>
 </ul>
@@ -247,46 +253,7 @@ new option --togglesni tests without and with sni in one call</p>
 </dd>
 </dl>
 <h2 id="in_print_media">In Print / Media</h2>
-<p>Find a OWASP 24/7 podcast about the tool <a href="http://trustedsoftwarealliance.com/2014/07/01/achim-hoffman-and-the-o-saft-project-for-scanning-ssl-connections/">here</a>.</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-labs-trans-85.png" title="Owasp-labs-trans-85.png" alt="Owasp-labs-trans-85.png" /><figcaption>Owasp-labs-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p>Find a OWASP 24/7 podcast about the tool <a href="http://trustedsoftwarealliance.com/2014/07/01/achim-hoffman-and-the-o-saft-project-for-scanning-ssl-connections/">here</a>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -388,26 +355,13 @@ Some of the ways you can help:
   - Give some ideas how to implement scoring
   - Need help in implementing
 
-\--
-
-:\* SSL for other protocols using STARTTLS, ...
-(currently, February 2015, we have STARTTLS functionality for LDAP,
-IMAP, POP3, SMTP, RDP, FTP, XMPP,...) --\>
-
-:\* authentication for proxies (BASIC, NTLM) -- done 12/2015
-
-:\* to check the size of Diffie Hellmann Parameters --\>
+:\* authentication for proxies (BASIC, NTLM)
 
 :\* check for more SSL/TLS-Extensions (including obsolete ones)
 
 :\* check for more vulnerabilities
 
-:\* check the full certificate chain -- don't include legacy project
-template, just for information here
-
-# Project About
-
-} --\>
+:\* check the full certificate chain
 
 # Change Log
 
@@ -441,11 +395,7 @@ template, just for information here
     http-equiv
   - 16.05.2016 code quality improved using perlcritic
 
-\-- not yet ready to announce
-
-  - 07.01.2016 simple **check for SLOTH** added (experimental)
-
-\--\>
+<!-- end list -->
 
   - 15.12.2015 Stable Release **15.12.15**
   - 15.11.2015 Stable Release **15.11.15**

@@ -8,12 +8,11 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_csvs">What is CSVS?</h2>
 <p>The Container Security Verification Standard (CSVS) is a community-effort to establish a framework of security requirements and controls that focus on normalizing the functional and non-functional security controls required when designing, developing and testing container-based solutions with a focus on Docker.</p>
 <h2 id="download_csvs">Download CSVS</h2>
-<p><a href="https://github.com/Redguard/csvs/releases/download/v1.0/container_security_verification_standard_v1.0_en.pdf">PDF Download</a></p>
-<p><a href="https://github.com/Redguard/csvs/releases/download/v1.0/container_security_verification_standard_v1.0_en.docx">Word Download</a></p>
+<p><a href="https://github.com/OWASP/Container-Security-Verification-Standard/releases/download/v1.0/container_security_verification_standard_v1.0_en.pdf">PDF Download</a></p>
+<p><a href="https://github.com/OWASP/Container-Security-Verification-Standard/releases/download/v1.0/container_security_verification_standard_v1.0_en.docx">Word Download</a></p>
 <p><a href="https://github.com/OWASP/Container-Security-Verification-Standard">Source Code (GitHub)</a></p>
 <h2 id="use_cases">Use Cases</h2>
 <ul>
@@ -41,19 +40,13 @@
 <li>The document looks similar to the OWASP Application Security Verification Standard. How is it related?
 <dl>
 <dt></dt>
-<dd>We love the work done by OWASP and indeed the overall structure and e.g. the scripts to export the CSVS to other formats is comming from the ASVS.
-</dd>
-</dl></li>
-<li>If it's somewhat related to the OWASP ASVS project why not make the CSVS an OWASP project too?
-<dl>
-<dt></dt>
-<dd>That's exactly what we plan to do. Once we've gathered some feedback and have a first version we're looking forward to donate the CSVS in full to OWASP.
+<dd>We love the work done by the OWASP ASVS project team and indeed the overall structure and e.g. the scripts to export the CSVS to different formats is coming from the ASVS.
 </dd>
 </dl></li>
 <li>Topic XYZ is missing. Why?
 <dl>
 <dt></dt>
-<dd>Either it didn't cross our minds yet or we thought it is already covered in one of the requirements in the CSVS. Anyway, please <a href="https://github.com/redguard/csvs/issues/new">open an issue</a> to let us know or even better fork the CSVS and send us a pull request with your changes.
+<dd>Either it didn't cross our minds yet or we thought it is already covered in one of the requirements in the CSVS. Anyway, please let us know by <a href="https://github.com/OWASP/Container-Security-Verification-Standard/issues/new">opening an issue</a> or even fork the CSVS and send us a pull request with your proposed changes.
 </dd>
 </dl></li>
 <li>There are already other documents that cover container security like the <a href="https://www.cisecurity.org/benchmark/docker/">CIS Docker Benchmark</a> or <a href="https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-190.pdf">NIST Application Container Security Guide</a>. Why do we need the CSVS?
@@ -77,7 +70,6 @@
 <li><a href="http://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project">OWASP Top Ten Risks</a></li>
 <li><a href="https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series">OWASP Cheatsheet Series</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><a href="https://github.com/Redguard/csvs/releases/download/v1.0/container_security_verification_standard_v1.0_en.pdf">PDF Download</a></p>
 <p><a href="https://github.com/Redguard/csvs/releases/download/v1.0/container_security_verification_standard_v1.0_en.docx">Word Download</a></p>
@@ -85,36 +77,7 @@
 <h2 id="project_leader">Project Leader</h2>
 <p>Sven Vetsch <a href="mailto:sven.vetsch@owasp.org">@</a></p>
 <h2 id="licensing">Licensing</h2>
-<p><a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution ShareAlike 4.0</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Creative%20Commons.png" title="Creative%20Commons.png" alt="Creative%20Commons.png" width="90" /><figcaption>Creative%20Commons.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+<p><a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution ShareAlike 4.0</a></p></td>
 </tr>
 </tbody>
 </table>

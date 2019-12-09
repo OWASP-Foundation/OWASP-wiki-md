@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="introduction">Introduction</h2>
 <p><a href="https://en.wikipedia.org/wiki/Information_privacy">Privacy</a> is daily reality for many internet users. Eavesdropping user's content and using it for various reason is not desired by many of the application users. Putting trust on communication channel, service provider or government not to intercept your content is not a good idea.</p>
 <p>OTR framework solves this problem by cryptographically processing the users content in transit and at rest. No eavesdropper can read the content, not even the service provider</p>
@@ -35,7 +34,6 @@
 <p>Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at</p>
 <p><a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a></p>
 <p>Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><p><a href="https://github.com/JigarJoshi/otr">Source Code</a></p>
 <p><a href="https://github.com/JigarJoshi/otr/blob/master/README.md">Documentation</a></p>
 <p><a href="https://www.owasp.org/index.php/OWASP_Off_the_record_4_Java_Project">Wiki Home Page</a></p>
@@ -43,31 +41,7 @@
 <h2 id="project_leader">Project Leader</h2>
 <p>Project Leader - <a href="https://www.owasp.org/index.php/User:Jigarjm">Jigar Joshi</a> ( <a href="mailto:jigar.joshi@owasp.org">jigar.joshi@owasp.org</a> )</p>
 <h2 id="related_projects">Related Projects</h2>
-<p><a href="https://www.owasp.org/index.php/OWASP_Java_Encoder_Project">JavaEncoderProject</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
+<p><a href="https://www.owasp.org/index.php/OWASP_Java_Encoder_Project">JavaEncoderProject</a></p></td>
 <td><h2 id="news_and_events">News and Events</h2>
 <ul>
 <li>[22 Dec 2016] 1.0-SNAPSHOT is available</li>

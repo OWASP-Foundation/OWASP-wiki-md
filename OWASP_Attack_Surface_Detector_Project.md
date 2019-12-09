@@ -14,7 +14,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><p><span style="color:#ff0000"></span></p>
 <h2 id="introduction">Introduction</h2>
 <p><span style="color:#000000"></p>
@@ -23,8 +22,8 @@
 <h2 id="what_is_the_attack_surface_detector">What is the Attack Surface Detector?</h2>
 <p>The Attack Surface Detector tool uncovers the endpoints of a web application, the parameters these endpoints accept, and the data type of those parameters. This includes the unlinked endpoints a spider won't find in client-side code, or optional parameters totally unused in client-side code. It also has the capability to calculate the changes in attack surface between two versions of an application.<br />
 The Attack Surface Detector is available as a plugin to both ZAP and Burp Suite, and a Command Line Interface (CLI) tool is also available. The CLI tool exports the attack surface as a JSON output, which can then be used by the ZAP and Burp Suite plugin. This is helpful for cases where the source code is not provided to the penetration tester directly. The CLI tool can also be used for other custom integration where you want to discover an application attack surface or changes in the attack surface.<br />
-For a quick overview of the Attack Surface Detection tool, see this YouTube video:</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=jUUJNRcmqwI">YouTube Video</a></p>
+For a quick overview of the Attack Surface Detection tool, see this YouTube video:</p>
+<p>{{#ev:youtube|jUUJNRcmqwI}}</p>
 <p>Below is a screenshot of the Burp Suite Attack Surface Detector plugin where you can see a list of endpoints, endpoint details, and their corresponding requests: <img src="ASD-Endpoint-Screens.png" title="fig:ASD-Endpoint-Screens.png" alt="ASD-Endpoint-Screens.png" /></p>
 <h2 id="how_it_works">How it Works</h2>
 <p><span style="color:#000000"> The Attack Surface Detector performs static code analyses to identify web application endpoints by parsing routes and identifying parameters (with supported languages and frameworks). This data is made available in ZAP and Burp Suite to help improve testing coverage. </span></p>
@@ -61,7 +60,6 @@ Finally, we are really interested in what the community thinks will help improve
 <p><span style="color:#000000"> The Attack Surface Detector plugin is free to use. It is licensed under the <a href="https://www.mozilla.org/en-US/MPL/2.0/">link Mozilla Public License 2.0</a>. </span></p>
 <h2 id="acknowledgements">Acknowledgements</h2>
 <p><span style="color:#000000"> The Attack Surface Detection project is led by <a href="https://securedecisions.com/">Secure Decisions</a> and was developed in collaboration with <a href="https://www.denimgroup.com/">Denim Group</a> under a research grant sponsored by the Department of Homeland Security (DHS) Science and Technology Directorate, Cyber Security Division (DHS S&amp;T/CSD), BAA via contract number HHSP233201600058C. </span></p></td>
-<td><p>style="padding-left:25px;width:275px;border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><span style="color:#ff0000"></span></p>
 <p>The Attack Surface Detector is available in the ZAP Marketplace and PortSwigger BApp Store, and can be installed directly from within those tools.</p>
@@ -97,38 +95,7 @@ Finally, we are really interested in what the community thinks will help improve
 <ul>
 <li><a href="OWASP_Zed_Attack_Proxy_Project" title="wikilink">OWASP Zed Attack Proxy Project</a></li>
 <li><a href="OWASP_Code_Pulse_Project" title="wikilink">OWASP Code Pulse Project</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="New_projects.png" title="New_projects.png" alt="New_projects.png" width="100" /><figcaption>New_projects.png</figcaption>
-</figure></td>
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-breakers-small.png" title="Owasp-breakers-small.png" alt="Owasp-breakers-small.png" /><figcaption>Owasp-breakers-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

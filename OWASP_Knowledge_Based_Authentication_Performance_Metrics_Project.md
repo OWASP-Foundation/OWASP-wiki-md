@@ -10,30 +10,21 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="news_and_events">News and Events</h2>
 <p>Our first KBAPMP draft is finished. It is temporary hosted at github: <a href="https://github.com/luisenriquez/kbapmp">KBAPMP_DRAFT</a>. We are building a dynamic KBA sandbox for testing purposes. We need contributors.</p>
 <p>KBAPMP Archive: Please see the <a href="https://www.owasp.org/index.php/OWASP_Knowledge_Based_Authentication_Performance_Metrics_Project#News">News</a> and <a href="https://www.owasp.org/index.php/OWASP_Knowledge_Based_Authentication_Performance_Metrics_Project#Talks">Talks</a> tabs</p>
 <h2 id="what_is_kba_pmp">What is KBA-PMP</h2>
 <p>There is a lack of standard performance metrics regarding the use of knowledge based authentication (KBA) for remote identity proofing. KBA-PMP's goal is to establish standard performance metrics for knowledge based authentication, following a transnational perspective.</p>
 <h2 id="kba_pmp_best_practices"><strong>KBA-PMP Best Practices</strong></h2>
-<p>-- In this project, we are focused on Dynamic KBA. However the methodology described here can also be suitable for static KBA. Data is such a broad category. We live in the Big Data era, and information is gold. Today, KBA service providers can get data sources from public records, social networks, and many others. Tose sources can be used for remote identity proofing.</p>
-<p>However, legal restrictions such as personal data protection and the right of privacy, are legal restrictions in the fields of data transfers to third countries, data retention, data processing, and so on. The methodology established on this standard tries to solve these privacy issues.</p>
-<h4 id="kba_pmp_project_supports_the_nstic_guiding_principles">KBA-PMP Project Supports the NSTIC Guiding Principles</h4>
-<p>KBA-PMP Project is dedicated to developing KBA Standards in alignment the the NSTIC Guiding Principle. To that end KBA-PMP Project has answered the IDESG Standards Committee Solicitation to develop Knowledge Based Authentication Performance Metrics Standards.</p>
-<p>The IDESG, its components, and its members shall at all times operate in accordance with four Guiding Principles set forth in the NSTIC. They are:</p>
-<p><strong>1. Identity solutions will be privacy-enhancing and voluntary.</strong></p>
 <p><strong>2. Identity solutions will be secure and resilient.</strong></p>
 <p><strong>3. Identity solutions will be interoperable.</strong></p>
 <p><strong>4. Identity solutions will be cost-effective and easy to use.</strong></p>
 <h2 id="related_projects">Related Projects</h2>
-<p>-- OWASP Security Labeling System Project <a href="https://www.owasp.org/index.php/Projects/OWASP_Security_Labeling_System_Project">1</a> --&gt;</p>
 <p><a href="ASVS" title="wikilink">ASVS</a></p>
-<p>[<a href="https://www.owasp.org/index.php/Choosing_and_Using_Security_Questions_Cheat_Sheet">2</a> Choosing and Using Security Questions Cheat Sheet]</p>
+<p>[<a href="https://www.owasp.org/index.php/Choosing_and_Using_Security_Questions_Cheat_Sheet">1</a> Choosing and Using Security Questions Cheat Sheet]</p>
 <p>OWASP NNI (NIST NSTIC IDESG) Initiative: <a href="https://www.owasp.org/index.php/OWASP_NNI_Initiative">https://www.owasp.org/index.php/OWASP_NNI_Initiative</a></p>
 <h2 id="licensing">Licensing</h2>
 <p>Creative Commons Attribution ShareAlike 3.0 License</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_leaders">Project Leaders</h2>
 <ul>
 <li><a href="mailto:luis.enriquez@owasp.org">Luis Enriquez</a></li>
@@ -48,34 +39,7 @@
 <h4 id="agenda">AGENDA</h4>
 <p>We will be presenting the KBAPMP standard at the OWASP APP SEC USA 2016 in Washington between October 11th and October 14th. For more information about the OWASP APP Sec USA 2016, please visit this link: <a href="https://2016.appsecusa.org/">USA_APPSEC_2016</a></p>
 <p>All Meetings are Open and All are Welcome</p>
-<h2 id="kba_pmp_project_metrics">KBA-PMP Project Metrics</h2>
-<p>-- <a href="https://github.com/luisenriquez/kbapmp">3</a> We are working on a ruby based performance metrics demo for the KBA-PMP standard--&gt;</p>
-<p>--== Quick Download ==</p>
-<h2 id="section"><a href="https://github.com/luisenriquez/kbapmp">4</a></h2>
-<p>--&gt;</p>
-<h2 id="classification">Classification</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="New_projects.png" title="New_projects.png" alt="New_projects.png" width="100" /><figcaption>New_projects.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+<h2 id="kba_pmp_project_metrics">KBA-PMP Project Metrics</h2></td>
 </tr>
 </tbody>
 </table>

@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="the_owasp_anti_ransomware_guide">The OWASP Anti-Ransomware Guide</h2>
 <p>Open up any newspaper or news site and an increasingly common headline is becoming “hospital held for ransom”. While hospitals and other organizations often have downtime procedures that let them revert back to paper for dealing with power outages and other disasters, it is still a nightmare scenario to find your entire organization's IT infrastructure screeching to a halt all because someone clicked on a malicious link or opened a questionable email attachment. Moreover, many organizations have a significant number of legacy systems that make security a challenge and beyond very basic security provisions often do not have a corporate culture that is heavily focused on information security. This has left many organizations struggling with how to handle ransomware attacks. The below is meant to serve as a comprehensive defense in depth based checklist and guide to preventing ransomware from taking a foothold in your organization as well as ensuring the proper procedures are in place to deal with an actual ransomware outbreak in your environment. Given the prevalence of Windows systems as ransomware targets, the guide is geared towards a Windows environment but is designed to be product agnostic. Please note that the list is designed to be comprehensive and as such not all controls may be applicable to all environments.</p>
 <h2 id="project_description">Project Description</h2>
@@ -19,7 +18,6 @@
 <p>'''The OWASP Anti-Ransomware guide is free to use. In fact it is encouraged</p></td>
 <td><p>! '' Additionally, we also encourage you to contribute back to the project.</p>
 <p>The OWASP Anti-Ransomware Guide is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 license</a>, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_leaders">Project Leaders</h2>
 <ul>
 <li><a href="https://www.owasp.org/index.php/User:Cfrenz">Christopher M Frenz</a></li>
@@ -55,36 +53,7 @@
 <h2 id="scripts">Scripts</h2>
 <ul>
 <li><a href="https://www.owasp.org/images/b/b8/DomainSubs.zip">Compute Phishing Domain Substitutions</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="New_projects.png" title="New_projects.png" alt="New_projects.png" width="100" /><figcaption>New_projects.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

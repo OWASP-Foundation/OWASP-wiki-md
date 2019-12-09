@@ -9,11 +9,9 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_embedded_application_security_project">OWASP Embedded Application Security Project</h2>
 <p>Every year the prevalent use of embedded software within enterprise and consumer devices continues to rise exponentially. With widespread publicity of the Internet of Things (IoT), more and more devices are becoming network connected evidencing how essential it is to create secure coding guidelines for embedded software. Embedded Application Security is often not a high priority for embedded developers when they are producing devices such as routers, managed switches, medical devices, Industrial Control Systems (ICS), VoIP phones, IoT devices, and ATM Kiosks due to other challenges outside of development. Other challenges developers face may include, but are not limited to, the Original Design Manufacturer (ODM) supply chain, limited memory, a small stack, and the challenge of pushing firmware updates securely to an endpoint. The goals of this project are to create a list of best practices, provide practical guidance to embedded developers, and to draw on the existing OWASP resources that can bring application security expertise to the embedded world. It is important to note, each of the items and guidance points listed below are longstanding within software security. This document purely tailors issues that OWASP has previously provided guidance upon (e.g. OWASP Top 10, Mobile Top 10, etc.) to the embedded community. <em>Given the prevalence of Linux kernels utilized within embedded devices, all code examples are geared towards a POSIX environment but the principles are designed to be platform agnostic.</em></p>
 <p>For the most up to date best practices document, please visit <a href="https://scriptingxss.gitbooks.io/embedded-appsec-best-practices//"><a href="https://scriptingxss.gitbooks.io/embedded-appsec-best-practices/">https://scriptingxss.gitbooks.io/embedded-appsec-best-practices/</a></a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="mailing_list_group_communication">Mailing List / Group Communication</h2>
 <p><a href="https://groups.google.com/a/owasp.org/forum/?hl=en#!forum/embedded-appsec">Embedded Sec Mailing List</a> <a href="http://owasp.herokuapp.com/">Please join our OWASP Slack channel; look for the #embeddedappsec</a></p>
 <h2 id="project_leaders">Project Leaders</h2>
@@ -26,51 +24,11 @@
 <li><a href="OWASP_Mobile_Security_Project" title="wikilink">OWASP Mobile Security Project</a></li>
 <li><a href="IoT_Firmware_Analysis" title="wikilink">IoT Firmware Analysis</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="news_and_events">News and Events</h2>
 <h2 id="releases">Releases</h2>
 <p><a href="https://scriptingxss.gitbooks.io/top-10-embedded-appsec-best-practices/content/">Living Document (GitBook)</a></p>
 <p><a href="https://www.gitbook.com/download/pdf/book/scriptingxss/top-10-embedded-appsec-best-practices">Version 1 (2017)</a></p>
-<p>Version 2 scheduled for Fall 2018</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p>Version 2 scheduled for Fall 2018</p></td>
 </tr>
 </tbody>
 </table>

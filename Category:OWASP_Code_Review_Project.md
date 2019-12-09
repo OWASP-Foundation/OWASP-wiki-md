@@ -17,7 +17,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="the_release_candidate_for_the_owasp_code_review_guide_is_now_available">The Release Candidate for the OWASP Code Review Guide is now available!</h2>
 <p>Please forward to all the developers and development teams you know</p></td>
 <td><p>We would like to immediately start raising awareness about this OWASP resource. We plan to release the final version in Aug. 2017 after a public comment period ending July 31, 2017.</p>
@@ -31,7 +30,6 @@
 <p>All feedback is critical to the continued success of the OWASP Code Review Guide.</p>
 <h2 id="licensing">Licensing</h2>
 <p>OWASP Code Review Guide is free to use. It is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</a> Creative Commons Attribution-ShareAlike 3.0 license], so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_leader">Project Leader</h2>
 <ul>
 <li>Larry Conklin <a href="mailto:larry.conklin@owasp.org">1</a></li>
@@ -53,7 +51,6 @@
 </figure>
 <h2 id="related_projects">Related Projects</h2>
 <p>OWASP Testing Guide <a href="https://www.owasp.org/index.php/OWASP_Testing_Project">4</a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li><a href="https://www.owasp.org/index.php/File:OWASP_Code_Review_Guide_v2.pdf">Code Review Guide 2.0</a></li>

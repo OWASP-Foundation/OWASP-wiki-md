@@ -10,14 +10,12 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_blt_project">OWASP BLT Project</h2>
 <p>OWASP BLT (Bug Logging Tool) allows anyone to submit an issue from any website. For example if you saw a broken button on Amazon.com you can report the issue through BLT and then get a point! The more bugs you find the more points you get. Bugs can be verified for extra points and companies can get involved and help out.</p>
 <h2 id="description">Description</h2>
 <p>OWASP BLT is meant for everyone that uses the internet to help fix it. Any type of issue can be submitted from a button being the wrong color to a serious security vulnerability. BLT follows responsible disclosure ethics.</p>
 <h2 id="licensing">Licensing</h2>
 <p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP Bugheist and any contributions are Copyright © by the Project Leader(s) 2016.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><a href="https://www.bugheist.com">Bugheist Website (powered by BLT)</a></p>
 <h2 id="home_chapter">Home Chapter</h2>
@@ -29,37 +27,7 @@
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <li><a href="OWASP_Zed_Attack_Proxy_Project" title="wikilink">OWASP_Zed_Attack_Proxy_Project</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Agplv3-155x51.png" title="Agplv3-155x51.png" alt="Agplv3-155x51.png" /><figcaption>Agplv3-155x51.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
+</ul></td>
 <td><h2 id="news_and_events">News and Events</h2>
 <ul>
 <li>[12 Sep 2016] BLT becomes an official OWASP project.</li>

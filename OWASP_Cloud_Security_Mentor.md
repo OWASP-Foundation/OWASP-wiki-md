@@ -8,7 +8,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="overview">Overview</h2>
 <p>With the rise of cloud computing, a lot of companies have moved their workload to the cloud. Cloud allows organizations of all sizes to manage their application lifecycle more effectively and efficiently. Because of its design, Cloud has its own set of unique security challenges. There is already an abundance of documentation and open source projects to raise awareness about cloud-specific security issues. Sometimes, consuming this information may feel like drinking from a firehose. This project aims to teach the cloud security fundamentals in a consolidated and actionable manner. The primary goal of the project is to empower cloud defenders with practical cloud security knowledge. This project provides hands-on cloud security tutorials that the audience can conveniently consume in their public cloud accounts to learn at their own pace. The target audience for this project are system administrators, software developers, and solutions architects.<span style="color:#ff0000"></p>
 <h2 id="description">Description</h2>
@@ -27,30 +26,29 @@
 <h2 id="licensing">Licensing</h2>
 <p>Apache License 2.0<span style="color:#ff0000"></p>
 <h2 id="roadmap">Roadmap</h2>
-<p>2019 Q1:</p>
+<p>2019 Q1 &amp; Q2:</p>
 <ul>
 <li>Seek input on the project proposal from other members of the community</li>
 <li>Come up with the design and architecture for the technological framework that would be used for authoring cloud security tutorials</li>
 </ul>
-<p>2019 Q2:</p>
+<p>2019 Q3:</p>
 <ul>
 <li>Choose a cloud service, a set of applicable vulnerabilities, and a public cloud service provider for the initial implementation.</li>
 <li>Complete a PoC for the generic technological framework using a cloud vulnerability identified step #1.</li>
 </ul>
-<p>2019 Q3:</p>
+<p>2019 Q4:</p>
 <ul>
 <li>Improve the framework engineering fundamentals (reliability, performance, logging, etc.) if required</li>
 <li>Leverage the framework for authoring tutorials for all chosen vulnerabilities from step #1 of the 2019 Q2 plan</li>
 </ul>
-<p>2019 Q4:</p>
+<p>2020 Q1:</p>
 <ul>
-<li>Continue with the 2019 Q3 #2 objective</li>
+<li>Continue with the 2019 Q4 #2 objective</li>
 <li>Extend the project to cover other cloud resources under the chosen public cloud provider</li>
 </ul>
 <p><span style="color:#ff0000"></p>
 <h2 id="getting_involved">Getting Involved</h2>
 <p>If you would like to contribute, then please get in touch with the project leader.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><a href="https://github.com/OWASP/Cloud-Security-Mentor">Installation Package</a></p>
 <p><a href="https://github.com/OWASP/Cloud-Security-Mentor">Source Code</a></p>
@@ -66,36 +64,7 @@
 <ul>
 <li><a href="OWASP_Tool_Project_Template" title="wikilink">OWASP_Tool_Project_Template</a></li>
 <li><a href="OWASP_Documentation_Project_Template" title="wikilink">OWASP_Documentation_Project_Template</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Agplv3-155x51.png" title="Agplv3-155x51.png" alt="Agplv3-155x51.png" /><figcaption>Agplv3-155x51.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="owasp_online_academy_project">OWASP Online Academy Project</h2>
 <figure>
 <img src="OwaspACADEMY.png" title="OwaspACADEMY.png" alt="OwaspACADEMY.png" width="500" /><figcaption>OwaspACADEMY.png</figcaption>
@@ -33,7 +32,6 @@
 <p>If you would like to inquire about donations email <a href="mailto:john.patrick.lita@owasp.org">John Patrick Lita</a>. For suggestions on the website and promotions email <a href="mailto:jan.jansalin@owasp.org">Jan Jansalin</a>.</p>
 <h2 id="licensing">Licensing</h2>
 <p>OWASP online academy is under the OWASP Licensing Policy.</p></td>
-<td><p>style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="benefits_of_owasp_online_academy">Benefits of OWASP Online Academy</h2>
 <p>OWASP Online Academy Provides:</p>
 <ul>
@@ -51,7 +49,6 @@
 <ul>
 <li><a href="https://www.owasp.org/index.php/OWASP_Hackademic_Challenges_Project">HACKADEMIC</a></li>
 </ul></td>
-<td><p>style="padding-left:25px;width:200px;" valign="top"</p></td>
 <td><h2 id="platform_link">Platform Link</h2>
 <p><a href="http://owasp-academy.teachable.com">http://owasp-academy.teachable.com</a></p>
 <h2 id="email_list">Email List</h2>
@@ -60,46 +57,7 @@
 <li><a href="https://lists.owasp.org/mailman/listinfo/owasp-manila">mailing list</a></li>
 </ul>
 <h2 id="news_and_events">News and Events</h2>
-<h2 id="in_print">In Print</h2>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Midlevel_projects.png" title="Midlevel_projects.png" alt="Midlevel_projects.png" width="100" /><figcaption>Midlevel_projects.png</figcaption>
-</figure></td>
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<h2 id="in_print">In Print</h2></td>
 </tr>
 </tbody>
 </table>

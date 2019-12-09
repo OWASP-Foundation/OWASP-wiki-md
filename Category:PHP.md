@@ -3,7 +3,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="about">About</h2>
 <p>There are 1.8 billion websites on the internet today. Nearly 80% are powered by the PHP programming language. Freedom, privacy, security, and protection from totalitarianism are not possible if PHP is insecure. This project seeks to be the clearing house for the best ways of protecting PHP websites, apps, and the data they have. Thank you for reading. ​</p>
 <h2 id="what_does_php_security_mean">What Does PHP Security Mean?</h2>
@@ -25,7 +24,6 @@
 <li>How can you harden your WordPress or Drupal site?</li>
 </ul>
 <p>​</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="team">Team</h2>
 <p>Lead: Dan Ehrlich</p>
 <p>Please email dan.ehrlich@owasp.org if you would like to help out.</p>
@@ -179,15 +177,12 @@ Project](https://www.owasp.org/index.php/OWASP_PHPRBAC_Project)
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray; padding-right:25px; width:30%; float:left;"</p></td>
 <td><h1 id="get_involved">Get involved</h1>
 <p>To get involved join the mailing list: <a href="https://lists.owasp.org/mailman/listinfo/owasp-php">OWASP PHP Mailing List</a></p>
 <h2 id="mailing_list">Mailing List</h2>
 <p><a href="http://lists.owasp.org/mailman/listinfo/php-project">OWASP PHP Project Mailing List</a></p></td>
-<td><p>valign="top" style="padding-left:25px; width:30%; min-width:30%; border-right:1px dotted gray; padding-right:25px; float:left;"</p></td>
 <td><h2 id="twitter_feed">Twitter Feed</h2>
 <p>(none)</p></td>
-<td><p>valign="top" style="padding-left:25px; width:30%; float:left;"</p></td>
 <td><h2 id="code_repository">Code Repository</h2>
 <p>(none)</p></td>
 </tr>

@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="mth3l3m3nt_framework_project">Mth3l3m3nt Framework Project</h2>
 <p><img src="Mth3l3m3nt-dashboard.PNG" title="fig:Mth3l3m3nt-dashboard.PNG" alt="Mth3l3m3nt-dashboard.PNG" /> OWASP Mth3l3m3nt Framework is a penetration testing aiding tool and exploitation framework. Mth3l3m3nt provides the ability to create or do custom LFI and RFI exploits fast with little or no effort at all. It also enables you to store all your quick wins based on its ability to manage HTTP bots, say no to runaway web shells and yes to centrally managed herds in large penetration testing engagements.</p>
 <h2 id="description">Description</h2>
@@ -31,7 +30,6 @@
 <h2 id="licensing">Licensing</h2>
 <p>'''The OWASP Mth3l3m3nt Framework is free to use. '' Additionally, I also encourage you to contribute back to the project. I have no monopoly on this knowledge; however, we all have pieces of this knowledge from our experience. Let's begin by putting our individual pieces together to make something great. Great things happen when people work together.</p>
 <p>The OWASP Mth3l3m3nt Framework is licensed under the <a href="http://www.gnu.org/licenses/agpl-3.0.en.html">GNU AGPL v3 License</a>, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_the_owasp_mth3l3m3nt_framework_project">What is the OWASP Mth3l3m3nt Framework Project</h2>
 <p>It's a tool to exploit the web using the web when simply put. Imagine testing applications on the go, checking for vulnerabilities and analysing assets with no need for complex environments, just your simple web server and a database server, yes it can run on your tab too. tested with Palapa webserver on android running on Lighttpd and MySQL and it works well there also. This project aims to be that tool on the go and with time it will achieve its full potential.</p>
 <h2 id="project_leader">Project Leader</h2>
@@ -59,7 +57,6 @@
 </ul>
 <h2 id="issue_tracker">Issue Tracker</h2>
 <p><a href="https://github.com/alienwithin/OWASP-mth3l3m3nt-framework/issues">Submit Issues/Bugs/Feature Requests</a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <p>The home of the OWASP Mth3l3m3nt Framework is on <a href="https://github.com/alienwithin/mth3l3m3nt-framework">GitHub.</a> You are encouraged to fork, edit and push your changes back to the project through git or edit the project directly on github.</p>
 <p>However, if you like you may also download the master repository from the following links:</p>
@@ -76,46 +73,7 @@
 <li>Nov-19-2015: Added <a href="https://github.com/alienwithin/OWASP-mth3l3m3nt-framework/wiki">User Guide</a> to the Git Repository</li>
 <li>Nov-18-2015: Added <a href="https://github.com/alienwithin/OWASP-mth3l3m3nt-framework/commit/55e0a9bb38c5d29eaf6034ba9a8c1c0e07c3d2fc">CVE-2015-7254 Exploit</a> to the framework.</li>
 <li>Aug-13-2015: Added <a href="https://github.com/alienwithin/OWASP-mth3l3m3nt-framework/tree/master/dev-docs">Developer Documentation</a> to the project.</li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="New_projects.png" title="New_projects.png" alt="New_projects.png" width="100" /><figcaption>New_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-breakers-small.png" title="Owasp-breakers-small.png" alt="Owasp-breakers-small.png" /><figcaption>Owasp-breakers-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Agplv3-155x51.png" title="Agplv3-155x51.png" alt="Agplv3-155x51.png" /><figcaption>Agplv3-155x51.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

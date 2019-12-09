@@ -8,7 +8,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="about_docker_top_10">About Docker Top 10</h2>
 <p>The OWASP Docker Top 10 project is giving you ten bullet points to plan and implement a secure docker container environment. Those 10 points are ordered by relevance. They don't represent risks as each single point in the OWASP Top 10, they represent security controls. The controls range from baseline security to more advanced controls, depending on your security requirements.</p>
 <p>You should use it as a</p>
@@ -17,6 +16,8 @@
 <li>for auditing a docker environment,</li>
 <li>also for procurement it could provide a basis for specifying requirements in contracts.</li>
 </ul>
+<h2 id="where_is_it_getting_involved">Where is it? / Getting Involved</h2>
+<p>The development and discussions take place @ <a href="https://github.com/OWASP/Docker-Security">Github</a>. After release you will find the released version also here.</p>
 <h2 id="description">Description</h2>
 <p><span style="color:#ff0000"></p>
 <p>This guide is for developers, auditors, architects, system and networking engineers. As indicated above you can also use this guide for externals to add formal technical requirements in your contract. The information security officer should have some interest too to meet security requirements.</p>
@@ -32,7 +33,6 @@ Albeit the name of this project carries the word "Docker", it also can be used w
 
 If you run more than 3 containers you probably have an orchestration solution to manage them. '''Specific''' security pitfalls of those are currently beyond the scope of this document. That doesn't mean that this guide just looking at one or a few containers managed manually -- on the contrary. It means only that we're looking at the containers including their networking and their host systems in such an orchestrated environment and not on special pitfalls of e.g. ''Kubernetes'', ''Swarm'', ''Mesos'' or'' OpenShift''.
 
-
 ==Licensing==
 
 The Docker OWASP Top 10 document is licensed under the [https://creativecommons.org/licenses/by-nc-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0 license] (CC BY-NC-SA 4.0). Some rights reserved.
@@ -40,7 +40,8 @@ The Docker OWASP Top 10 document is licensed under the [https://creativecommons.
 [[File:CC-BY-SA-NC.4.0.size88x31.png|link=https://creativecommons.org/licenses/by-nc-sa/4.0/]]
 
 ==Roadmap==
-As of <strong>November 2018</strong>, the highest priorities for the next 2 months are: <strong></p>
+The highest priorities for the next months are:
+<strong></p>
 <ul>
 <li>Publish and work on a first draft of the documentation</li>
 <li>Complete this first draft</li>
@@ -54,15 +55,12 @@ As of <strong>November 2018</strong>, the highest priorities for the next 2 mont
 <li>Go from Draft to Release</li>
 <li>Being promoted from an Incubator Project to a Lab Project</li>
 </ul>
-<p></strong></p>
-<h2 id="getting_involved">Getting Involved</h2>
-<p>For all communication, releases and more please use <a href="https://github.com/OWASP/Docker-Security">Github</a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
+<p></strong></p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><strong>Github</strong><br />
-* Actions take place @ <a href="https://github.com/OWASP/Docker-Security">Github</a><br />
+* See <a href="https://github.com/OWASP/Docker-Security">Github</a><br />
 <strong>Slides</strong><br />
-* Dirk Wetter: (<a href="https://www.owasp.org/images/8/81/Dirk_Wetter_-_Docker_Top10-HH.pdf">long version</a>), (<a href="https://www.owasp.org/images/7/7e/Dirk_Wetter_-_Docker_Security_GOD2018.pdf">short version @ German OWASP Day 2018</a>),</p>
+* Dirk Wetter: (<a href="https://www.owasp.org/images/f/fd/Dirk_Wetter_-_Docker_Top10-OWASP_KA.pdf">long version, talk in Karlsruhe</a>), (<a href="https://www.owasp.org/images/7/7e/Dirk_Wetter_-_Docker_Security_GOD2018.pdf">short version @ German OWASP Day 2018</a>),</p>
 <ul>
 <li>Dirk Wetter, older talks from <a href="https://www.owasp.org/images/1/17/Dirk_Wetter_-_Docker_Security_Brussels.pdf">Belgium Chapter Meeting</a>, <a href="https://2018.appsec.eu/presos/DevOps_Docker_201_Security_Dirk-Wetter_AppSecEU2018.pdf">OWASP AppSec Europe 2018</a></li>
 </ul>
@@ -72,41 +70,12 @@ As of <strong>November 2018</strong>, the highest priorities for the next 2 mont
 <h2 id="project_leader">Project Leader</h2>
 <p>Dirk Wetter</p>
 <h2 id="related_projects">Related Projects</h2>
-<p>--</p>
+<p>&lt;!--</p>
 <ul>
 <li><a href="OWASP_Code_Project_Template" title="wikilink">OWASP_Code_Project_Template</a></li>
 <li><a href="OWASP_Tool_Project_Template" title="wikilink">OWASP_Tool_Project_Template</a></li>
 </ul>
-<p>--?</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Creative%20Commons.png" title="Creative%20Commons.png" alt="Creative%20Commons.png" width="90" /><figcaption>Creative%20Commons.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+<p>--?</p></td>
 </tr>
 </tbody>
 </table>

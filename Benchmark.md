@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_benchmark_project">OWASP Benchmark Project</h2>
 <p>The OWASP Benchmark for Security Automation (OWASP Benchmark) is a free and open test suite designed to evaluate the speed, coverage, and accuracy of automated software vulnerability detection tools and services (henceforth simply referred to as 'tools'). Without the ability to measure these tools, it is difficult to understand their strengths and weaknesses, and compare them to each other. Each version of the OWASP Benchmark contains thousands of test cases that are fully runnable and exploitable, each of which maps to the appropriate CWE number for that vulnerability.</p>
 <p>You can use the OWASP Benchmark with <a href="Source_Code_Analysis_Tools" title="wikilink">Static Application Security Testing (SAST)</a> tools, <a href=":Category:Vulnerability_Scanning_Tools" title="wikilink">Dynamic Application Security Testing (DAST)</a> tools like OWASP <a href="ZAP" title="wikilink">ZAP</a> and Interactive Application Security Testing (IAST) tools. Benchmark is implemented in Java. Future versions may expand to include other languages.</p>
@@ -62,75 +61,60 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>style="background:#DDDDDD"</p></th>
 <th><p>Security Category</p></th>
 <th><p>TP</p></th>
 <th><p>FN</p></th>
 <th><p>TN</p></th>
 <th><p>FP</p></th>
-<th><p>style="background:#DDDDDD"</p></th>
 <th><p>Total</p></th>
 <th><p>TPR</p></th>
 <th><p>FPR</p></th>
-<th><p>style="background:#DDDDDD"</p></th>
 <th><p>Score</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>style="background:#DDDDDD" valign="top" width="11%"</p></td>
 <td><p>General security category for test cases.</p></td>
-<td><p>valign="top" width="11%"</p></td>
 <td><p><strong>True Positives</strong>: Tests with real vulnerabilities that were correctly reported as vulnerable by the tool.</p></td>
-<td><p>valign="top" width="11%"</p></td>
 <td><p><strong>False Negative</strong>: Tests with real vulnerabilities that were not correctly reported as vulnerable by the tool.</p></td>
-<td><p>valign="top" width="11%"</p></td>
 <td><p><strong>True Negative</strong>: Tests with fake vulnerabilities that were correctly not reported as vulnerable by the tool.</p></td>
-<td><p>valign="top" width="11%"</p></td>
 <td><p><strong>False Positive</strong>:Tests with fake vulnerabilities that were incorrectly reported as vulnerable by the tool.</p></td>
-<td><p>style="background:#DDDDDD" valign="top" width="11%"</p></td>
 <td><p>Total test cases for this category.</p></td>
+<td><p><strong>True Positive Rate</strong>: TP / ( TP + FN ) - Also referred to as Precision, as defined at <a href="https://en.wikipedia.org/wiki/Precision_and_recall">Wikipedia</a>.</p></td>
+<td><p><strong>False Positive Rate</strong>: FP / ( FP + TN ).</p></td>
+<td><p>Normalized distance from the “guess line” TPR - FPR.</p></td>
 </tr>
 <tr class="even">
-<td><p>style="background:#DDDDDD"</p></td>
 <td><p>Command Injection</p></td>
 <td><p>...</p></td>
 <td><p>...</p></td>
 <td><p>...</p></td>
 <td><p>...</p></td>
-<td><p>style="background:#DDDDDD"</p></td>
 <td><p>...</p></td>
 <td><p>...</p></td>
 <td><p>...</p></td>
-<td><p>style="background:#DDDDDD"</p></td>
 <td><p>...</p></td>
 </tr>
 <tr class="odd">
-<td><p>style="background:#DDDDDD"</p></td>
 <td><p>Etc...</p></td>
 <td><p>...</p></td>
 <td><p>...</p></td>
 <td><p>...</p></td>
 <td><p>...</p></td>
-<td><p>style="background:#DDDDDD"</p></td>
 <td><p>...</p></td>
 <td><p>...</p></td>
 <td><p>...</p></td>
-<td><p>style="background:#DDDDDD"</p></td>
 <td><p>...</p></td>
 </tr>
 <tr class="even">
-<td><p>style="background:#DDDDDD"</p></td>
 <td></td>
 <td><p>Total TP</p></td>
 <td><p>Total FN</p></td>
 <td><p>Total TN</p></td>
 <td><p>Total FP</p></td>
-<td><p>style="background:#DDDDDD"</p></td>
 <td><p>Total TC</p></td>
 <td><p>Average TPR</p></td>
 <td><p>Average FPR</p></td>
-<td><p>style="background:#DDDDDD"</p></td>
 <td><p>Average Score</p></td>
 </tr>
 </tbody>
@@ -153,7 +137,6 @@
 <li><a href="http://samate.nist.gov/SARD/testsuite.php">NSA's Juliet for Java</a></li>
 <li><a href="http://sectoolmarket.com/">The Web Application Vulnerability Scanner Evaluation Project (WAVSEP)</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <p>All test code and project files can be downloaded from <a href="https://github.com/OWASP/benchmark">OWASP GitHub</a>.</p>
 <h2 id="project_intro_video">Project Intro Video</h2>
@@ -171,44 +154,7 @@
 <li>July 10, 2015 - Benchmark Scorecard generator and open source scorecards released</li>
 <li>May 23, 2015 - Benchmark Version 1.1 Released</li>
 <li>April 15, 2015 - Benchmark Version 1.0 Released</li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><p><a href="http://choosealicense.com/licenses/gpl-2.0/">GNU General Public License v2.0</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -475,12 +421,15 @@ The Benchmark can generate results for the following tools:
 
   - [PMD](https://pmd.github.io/) (which really has no security rules) -
     .xml results file
-  - [Findbugs](http://findbugs.sourceforge.net/) - .xml results file
-    (Note: The 'new' Findbugs is now at: <https://spotbugs.github.io/>)
-  - FindBugs with the [FindSecurityBugs
-    plugin](http://find-sec-bugs.github.io/) - .xml results file
+  - [FindBugs](http://findbugs.sourceforge.net/) - .xml results file
+    (Note: FindBugs hasn't been updated since 2015. Use SpotBugs instead
+    (see below))
   - [SonarQube](https://www.sonarqube.org/downloads/) - .xml results
     file
+  - [SpotBugs](https://spotbugs.github.io/) - .xml results file. This is
+    the successor to FindBugs.
+  - SpotBugs with the [FindSecurityBugs
+    plugin](http://find-sec-bugs.github.io/) - .xml results file
 
 Note: We looked into supporting
 [Checkstyle](http://checkstyle.sourceforge.net/) but it has no security
@@ -494,35 +443,41 @@ ciphers (CWE-327)\], but that's it.
 **Commercial SAST Tools:**
 
   - [CAST Application Intelligence Platform
-    (AIP)](http://www.castsoftware.com/products/application-intelligence-platform)
+    (AIP)](https://www.castsoftware.com/products/application-intelligence-platform)
     - .xml results file
   - [Checkmarx
     CxSAST](https://www.checkmarx.com/products/static-application-security-testing/)
     - .xml results file
-  - [Synopsys Static Analysis (Formerly Coverity Code Advisor)
-    (On-Demand and stand-alone
-    versions)](https://www.synopsys.com/content/dam/synopsys/sig-assets/datasheets/SAST-Coverity-datasheet.pdf)
-    - .json results file (You can scan Benchmark w/Coverity for free.
-    See: <https://scan.coverity.com/>)
-  - [Micro Focus (Formally HPE) Fortify (On-Demand and stand-alone
-    versions)](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview)
-    - .fpr results file
   - [IBM AppScan Source (Standalone and
     Cloud)](https://www.ibm.com/us-en/marketplace/ibm-appscan-source) -
     .ozasmt or .xml results file
   - [Julia
     Analyzer](https://juliasoft.com/solutions/julia-for-security/) -
     .xml results file
+  - [Kiuwan Code Security](https://www.kiuwan.com/code-security-sast/) -
+    .threadfix results file
+  - [Micro Focus (Formally HPE) Fortify (On-Demand and stand-alone
+    versions)](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview)
+    - .fpr results file
   - [Parasoft Jtest](https://www.parasoft.com/products/jtest/) - .xml
     results file
+  - [Semmle LGTM](https://semmle.com/lgtm) - .sarif results file
   - [ShiftLeft SAST](https://www.shiftleft.io/product/) - .sl results
     file (Benchmark specific format. Ask vendor how to generate this)
+  - [Snappycode Audit's SnappyTick Source Edition
+    (SAST)](https://snappycodeaudit.com/category/static-code-analysis) -
+    .xml results file
   - [SourceMeter](https://www.sourcemeter.com/features/) - .txt results
     file of ALL results from VulnerabilityHunter
+  - [Synopsys Static Analysis (Formerly Coverity Code Advisor)
+    (On-Demand and stand-alone
+    versions)](https://www.synopsys.com/content/dam/synopsys/sig-assets/datasheets/SAST-Coverity-datasheet.pdf)
+    - .json results file (You can scan Benchmark w/Coverity for free.
+    See: <https://scan.coverity.com/>)
   - [Thunderscan SAST](https://www.defensecode.com/thunderscan.php) -
     .xml results file
   - [Veracode
-    SAST](http://www.veracode.com/products/binary-static-analysis-sast)
+    SAST](https://www.veracode.com/products/binary-static-analysis-sast)
     - .xml results file
   - [XANITIZER](https://www.rigs-it.com/xanitizer/) - xml results file
     ([Their white paper on how to setup Xanitizer to scan
@@ -530,8 +485,9 @@ ciphers (CWE-327)\], but that's it.
     (Free trial available)
 
 We are looking for results for other commercial static analysis tools
-like: [Grammatech CodeSonar](http://www.grammatech.com/codesonar),
-[Klocwork](http://www.klocwork.com/products-services/klocwork), etc. If
+like: [Grammatech
+CodeSonar](https://www.grammatech.com/products/codesonar), [RogueWave's
+Klocwork](https://www.roguewave.com/products-services/klocwork), etc. If
 you have a license for any static analysis tool not already listed above
 and can run it on the Benchmark and send us the results file that would
 be very helpful.
@@ -570,28 +526,20 @@ their results. If you notice any problems, let us know.
     results file (Generated using [command line interface (see
     Chapter 10.)](https://www.acunetix.com/resources/wvs7manual.pdf)
     /ExportXML switch)
-  - [Burp Pro](https://portswigger.net/burp/) - .xml results file
-      - You must use Burp Pro v1.6.30+ to scan the Benchmark due to a
-        limitation fixed in v1.6.30.
+  - [Burp Pro](https://portswigger.net/burp) - .xml results file
+  - [IBM
+    AppScan](https://www.ibm.com/us-en/marketplace/appscan-standard) -
+    .xml results file
   - [Micro Focus (Formally HPE)
     WebInspect](https://software.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/overview)
     - .xml results file
-  - [This was IBM AppScan (but I believe IBM sold this product off. To
-    whom?](http://www-03.ibm.com/software/products/en/appscan) - .xml
-    results file
   - [Netsparker](https://www.netsparker.com/web-vulnerability-scanner/)
     - .xml results file
+  - [Qualys Web App
+    Scanner](https://www.qualys.com/apps/web-app-scanning/) - .xml
+    results file
   - [Rapid7 AppSpider](https://www.rapid7.com/products/appspider/) -
     .xml results file
-
-<!-- end list -->
-
-  - Qualys - We ran Qualys against v1.2 of the Benchmark and it found
-    none of the vulnerabilities we test for as far as we could tell. So
-    we haven't implemented a scorecard generator for it. If you get
-    results where you think it does find some real issues, send us the
-    results file and, if confirmed, we'll produce a scorecard generator
-    for it.
 
 If you have access to other DAST Tools, PLEASE RUN THEM FOR US against
 the Benchmark, and send us the results file so we can build a scorecard

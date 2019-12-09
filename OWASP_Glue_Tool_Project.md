@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_glue_tool_project">OWASP Glue Tool Project</h2>
 <p>The OWASP Glue Tool Project is a tools based project intended to make security automation easier. It is essentially a ruby gem that co-ordinates the running of different analysis tools and reporting from those tools.</p>
 <h2 id="description">Description</h2>
@@ -18,7 +17,6 @@
 <h2 id="licensing">Licensing</h2>
 <p>Apache 2.0 License</p>
 <p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.apache.org/licenses/LICENSE-2.0">link Apache 2.0 License</a> as published by the Apache Software Foundation. Any contributions are Copyright © by OWASP 2015.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><a href="https://github.com/OWASP/glue">Source Code</a></p>
 <h2 id="project_leader">Project Leader</h2>
@@ -27,31 +25,7 @@
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <li><a href="OWASP_AppSec_Pipeline" title="wikilink">OWASP_AppSec_Pipeline</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
+</ul></td>
 <td><h2 id="news_and_events">News and Events</h2>
 <ul>
 <li>[6 Sep 2018] <a href="https://github.com/OWASP/glue/releases/tag/0.10.0">0.10.0</a></li>

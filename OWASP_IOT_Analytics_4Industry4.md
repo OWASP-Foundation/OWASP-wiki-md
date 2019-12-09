@@ -8,16 +8,28 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><span style="color:#ff0000"> Instructions are in RED text and should be removed from your document by deleting the text with the span tags. This document is intended to serve as an example of what is required of an OWASP project wiki page. The text in red serves as instructions, while the text in black serves as an example. Text in black is expected to be replaced entirely with information specific to your OWASP project. </span></p>
+<td><p><span style="color:#333300"> This Project "Analytics 4 Industry 4.0 (A414)" offers a technical guide and documentation of the strategy and approach to develop IOT data analytics to be applied in industry 4.0 of mineral extraction operations, agriculture or similar.</p>
+<p>Project Deliverables "Technical documentation" of implementation strategy. "POC projects" in fabric 4.0 that offers prescriptive guidance to implement similar automated platform into operative plants. </span></p>
 <h2 id="project_about">Project About</h2>
-<p><span style="color:#ff0000"> </p>
+<p><span style="color:#ff0000"> {{:Template:Project About</p></td>
+<td><p>project_name=IOT Analytics 4Industry4</p></td>
+<td><p>leader_name1=Carlos Allendes</p></td>
+<td><p>leader_email1=carlos.allendes@owasp.org }}</p>
 <h2 id="owasp_documentation_project_template">OWASP Documentation Project Template</h2>
-<p><span style="color:#ff0000"></p>
-<p><code>   This section should include an overview of what the project is, why the project was started, and what security issue is being addressed by the project deliverable. Some readers may be discouraged from looking further at the project if they do not understand the significance of the security concern that is being addressed, so provide enough context so the average reader will continue on with reading the description. You shouldn't assume the reader will understand the objective by providing security terminology, e.g. this project builds cryptographic algorithms, but should also endeavor to explain what they are used for.</code></p>
+<p><span style="color:#333300"> Project roadmap</p>
+<ul>
+<li>Seek alliances with universities in areas of extractive mining or agricultural operation</li>
+<li>Enlist volunteers among student teachers and alumni</li>
+<li>Train coaches in iot labs (now available)</li>
+<li>Define evaluation scales for poc projects</li>
+<li>Carry out challenges of the poc projects type, to solve real problems of the industry</li>
+<li>Evaluate and assign success scores to each team</li>
+<li>Make releases of the documentation of the work done</li>
+</ul>
 <p></span></p>
-<p>The OWASP Documentation Template Project is a template designed to help Project Leaders create suitable project pages for OWASP Projects. By following the instructional text in red (and then deleting it) it should be easier to understand what information OWASP and the project users are looking for. And it's easy to get started by simply creating a new project from the appropriate project template.</p>
+<p>The project documentation will be improve soon.</p>
 <h2 id="description">Description</h2>
-<p><span style="color:#ff0000"></p>
+<p><span style="color:#333300"></p>
 <p><code>   This is where you need to add your more robust project description. A project description should outline the purpose of the project, how it is used, and the value it provides to application security. Ideally, project descriptions should be written in such a way that there is no question what value the project provides to the software security community. This section will be seen and used in various places within the Projects Portal. Poorly written project descriptions therefore detract from a project’s visibility, so project leaders should ensure that the description is meaningful.  </code></p>
 <p></span></p>
 <p>The Documentation Project Template is simply a sample project that was developed for instructional purposes that can be used to create default project pages for a Documentation project. After copying this template to your new project, all you have to do is follow the instructions in red, replace the sample text with text suited for your project, and then delete the sections in red. Doing so should make it clearer to both consumers of this project, as well as OWASP reviewers who are trying to determine if the project can be promoted to the next category. The information requested is also intended to help Project Leaders think about the roadmap and feature priorities, and give guidance to the reviews as a result of that effort.</p>
@@ -60,7 +72,7 @@
 <p><span style="color:#ff0000"></p>
 <p><code>   A project leader is the individual who decides to lead the project throughout its lifecycle. The project leader is responsible for communicating the project’s progress to the OWASP Foundation, and he/she is ultimately responsible for the project’s deliverables. The project leader must provide OWASP with his/her real name and contact e-mail address for his/her project application to be accepted, as OWASP prides itself on the openness of its products, operations, and members.</code></p>
 <p></span></p>
-<p>Deborah Chang</p>
+<p><a href="mailto://carlos.allendes@owasp.org">Carlos Allendes</a></p>
 <h2 id="related_projects">Related Projects</h2>
 <p><span style="color:#ff0000"></p>
 <p><code>   This is where you can link to other OWASP Projects that are similar to yours. </code></p>
@@ -72,3 +84,8 @@
 </tr>
 </tbody>
 </table>
+
+__NOTOC__ <headertabs />
+
+[Category:OWASP Project](Category:OWASP_Project "wikilink")
+[Category:OWASP_Document](Category:OWASP_Document "wikilink")

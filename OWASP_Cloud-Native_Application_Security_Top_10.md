@@ -8,7 +8,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="introduction">Introduction</h2>
 <p>Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, cloud functions (serverless), service meshes, micro-services, immutable infrastructure, and declarative APIs exemplify this approach. Cloud-Native Applications is a fundamentally new and exciting approach to designing and building software. However, it also raises a completely new set of security challenges. For example, when you move to a microservice model, end-to-end visibility, monitoring and detection become more complex and difficult to execute.</p>
 <p><strong>Note:</strong> This project is a continuation of a previous project - "<a href="https://www.puresec.io/press_releases/sas_top_10_2018_released">The Serverless Security Top 10 Most Common Weaknesses Guide</a>", which was released on January 17th 2018 by PureSec, with collaboration of industry thought leaders from: IBM, iRobot, Denim Group, Cisco, Nordstrom, Asurion, Capital One, Microsoft, Check Point, A Cloud Guru and Cloud Academy.</p>
@@ -36,7 +35,6 @@
 <li>Translation efforts (later stages)</li>
 <li>Individuals and organizations that will contribute to the project will listed on the acknowledgments page.</li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p>TBD</p>
 <h2 id="project_leader">Project Leader</h2>
@@ -48,36 +46,7 @@
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <li><a href=":Category:OWASP_Top_Ten_Project" title="wikilink">:Category:OWASP Top Ten Project</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Creative%20Commons.png" title="Creative%20Commons.png" alt="Creative%20Commons.png" width="90" /><figcaption>Creative%20Commons.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

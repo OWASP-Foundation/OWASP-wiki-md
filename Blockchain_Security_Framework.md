@@ -8,7 +8,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="about_the_project">About the Project</h2>
 <p>The blockchain security framework project is aimed at creating a comprehensive framework that covers everything about blockchain security for organizations from the ideation stage till the production stage ensuring maximum security at each stage of the product/solution development.<span style="color:#ff0000"></p>
 <h2 id="owasp_documentation_project___blockchain_security_framework">OWASP Documentation Project - Blockchain Security Framework</h2>
@@ -46,41 +45,8 @@
 <li>Refer like-minded people to participate/help with the project</li>
 <li>Assist/Invite with events related to blockchain to help promote the project or interact with people from the community to help spread the word and refine the project with their opinions</li>
 </ol></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
-<p><a href="https://github.com/OWASP/Blockchain-Security-Framework">https://github.com/OWASP/Blockchain-Security-Framework</a></p>
-<h2 id="project_leader">Project Leader</h2>
-<p><strong>Deepak R Pandey</strong></p>
-<p><a href="https://www.linkedin.com/in/deepak-r-pandey/">https://www.linkedin.com/in/deepak-r-pandey/</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Creative%20Commons.png" title="Creative%20Commons.png" alt="Creative%20Commons.png" width="90" /><figcaption>Creative%20Commons.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+<p><a href="https://github.com/OWASP/Blockchain-Security-Framework">https://github.com/OWASP/Blockchain-Security-Framework</a></p></td>
 </tr>
 </tbody>
 </table>

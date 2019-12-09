@@ -15,13 +15,11 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_cornucopia">OWASP Cornucopia</h2>
 <p>OWASP Cornucopia is a mechanism in the form of a card game to assist software development teams identify security requirements in Agile, conventional and formal development processes. It is language, platform and technology agnostic.</p>
 <h2 id="introduction">Introduction</h2>
 <p>The idea behind Cornucopia is to help development teams, especially those using Agile methodologies, to identify application security requirements and develop security-based user stories. Although the idea had been waiting for enough time to progress it, the final motivation came when <a href="http://www.safecode.org/">SAFECode</a> published its <a href="http://www.safecode.org/publications/SAFECode_Agile_Dev_Security0712.pdf">Practical Security Stories and Security Tasks for Agile Development Environments</a> in July 2012.</p>
-<p>The Microsoft SDL team had already published its super <a href="http://www.microsoft.com/security/sdl/adopt/eop.aspx">Elevation of Privilege: The Threat Modeling Game</a> (EoP) but that did not seem to address the most appropriate kind of issues that web application development teams mostly have to address. EoP is a great concept and game strategy, and was <a href="http://blogs.msdn.com/b/sdl/archive/2010/03/02/announcing-elevation-of-privilege-the-threat-modeling-game.aspx">published under</a> a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</a>. Cornucopia {{#switchtablink:Ecommerce Website Edition</p></td>
-<td><p>Ecommerce Website Edition}} is based the concepts and game ideas in EoP, but those have been modified to be more relevant to the types of issues ecommerce website developers encounter. It attempts to introduce threat-modelling ideas into development teams that use Agile methodologies, or are more focused on web application weaknesses than other types of software vulnerabilities or are not familiar with STRIDE and DREAD.</p>
+<p>The Microsoft SDL team had already published its super <a href="http://www.microsoft.com/security/sdl/adopt/eop.aspx">Elevation of Privilege: The Threat Modeling Game</a> (EoP) but that did not seem to address the most appropriate kind of issues that web application development teams mostly have to address. EoP is a great concept and game strategy, and was <a href="http://blogs.msdn.com/b/sdl/archive/2010/03/02/announcing-elevation-of-privilege-the-threat-modeling-game.aspx">published under</a> a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</a>. Cornucopia {{#switchtablink:Ecommerce Website Edition|Ecommerce Website Edition}} is based the concepts and game ideas in EoP, but those have been modified to be more relevant to the types of issues ecommerce website developers encounter. It attempts to introduce threat-modelling ideas into development teams that use Agile methodologies, or are more focused on web application weaknesses than other types of software vulnerabilities or are not familiar with STRIDE and DREAD.</p>
 <h2 id="the_card_decks">The Card Decks</h2>
 <p><em>Ecommerce Website Edition</em></p>
 <p>Instead of EoP’s STRIDE suits, Cornucopia suits were selected based on the structure of the <a href="https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide">OWASP Secure Coding Practices - Quick Reference Guide</a> (SCP), but with additional consideration of sections in the <a href="https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project">OWASP Application Security Verification Standard</a>, the <a href="https://www.owasp.org/index.php/OWASP_Testing_Project">OWASP Testing Guide</a> and David Rook’s <a href="http://www.securityninja.co.uk/secure-development/the-principles-place/">Principles of Secure Development</a>. These provided five suits, and a sixth called “Cornucopia” was created for everything else:</p>
@@ -45,7 +43,6 @@
 <h2 id="other_security_gamification">Other Security Gamification</h2>
 <p>If you are interested in using gaming for security, also see <a href="http://www.microsoft.com/security/sdl/adopt/eop.aspx">Elevation of Privilege: The Threat Modeling Game</a> mentioned above, <a href="http://securitycards.cs.washington.edu/">Security Cards</a> from the University of Washington, the commercial card game <a href="http://www.controlalthack.com/">Control-Alt-Hack</a> (<a href="http://media.blackhat.com/bh-us-12/Briefings/Kohno/BH_US_12_Kohno_Control_Alt_Hack_Slides.pdf">presentation</a> for latter), <a href="https://www.owasp.org/index.php/OWASP_Snakes_and_Ladders">OWASP Snakes and Ladders</a>, and web application security training tools incorporating gamification such as <a href="https://www.owasp.org/index.php/OWASP_Hackademic_Challenges_Project">OWASP Hackademic Challenges Project</a>, <a href="https://www.owasp.org/index.php/OWASP_Security_Shepherd">OWASP Security Shepherd</a> and <a href="http://itsecgames.blogspot.co.uk/">ITSEC Games</a>.</p>
 <p>Additionally, Adam Shostack maintains a list of tabletop security games and related resources at <a href="http://adam.shostack.org/games.html">security games</a>.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_cornucopia">What is Cornucopia?</h2>
 <p>OWASP Cornucopia is a card game used to help derive application security requirements during the software development life cycle. To start using Cornucopia:</p>
 <ul>
@@ -56,10 +53,7 @@
 <li>Invite business owners, architects, developers, testers along for a card game</li>
 <li>Get those infosec folk to provide chocolate, pizza, beer, flowers or all four as prizes</li>
 <li>Select a portion of the deck to start with</li>
-<li>{{#switchtablink:How to Play</li>
-</ul></td>
-<td><p>Play the game}} to discuss &amp; document security requirements (and to win rounds)</p>
-<ul>
+<li>{{#switchtablink:How to Play|Play the game}} to discuss &amp; document security requirements (and to win rounds)</li>
 <li>Remember, points make prizes!</li>
 </ul>
 <p>Listen to the <a href="http://trustedsoftwarealliance.com/2014/03/21/the-owasp-cornucopia-project-with-colin-watson/">OWASP 24/7 Podcast</a> about Cornucopia.</p>
@@ -78,14 +72,12 @@
 <li><a href="OWASP_Secure_Coding_Practices_-_Quick_Reference_Guide" title="wikilink">OWASP Secure Coding Practices - Quick Reference Guide</a></li>
 <li><a href=":Category:OWASP_Application_Security_Verification_Standard_Project" title="wikilink">OWASP Application Security Verification Standard</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_links">Quick Links</h2>
 <ul>
 <li><a href="https://youtu.be/i5Y0akWj31k">How to Play</a> video</li>
 <li><a href="https://www.owasp.org/index.php/File:Cornucopia-scoresheet.pdf">Scoresheet</a></li>
-<li>{{#switchtablink:Get the Cards</li>
-</ul></td>
-<td><p>All sources and downloads...}}</p>
+<li>{{#switchtablink:Get the Cards|All sources and downloads...}}</li>
+</ul>
 <h2 id="reference_files">Reference Files</h2>
 <ul>
 <li><a href="https://www.owasp.org/index.php/File:OWASP_SCP_Quick_Reference_Guide_v2.pdf">OWASP SCP requirements</a></li>
@@ -115,46 +107,7 @@
 <figure>
 <img src="Cornucopia-pcidss-ecommerce-guidelines-small.jpg" title="Cornucopia-pcidss-ecommerce-guidelines-small.jpg" alt="Cornucopia-pcidss-ecommerce-guidelines-small.jpg" /><figcaption>Cornucopia-pcidss-ecommerce-guidelines-small.jpg</figcaption>
 </figure>
-<p>OWASP Cornucopia Ecommerce Website Edition is referenced in the current <a href="https://www.pcisecuritystandards.org">Payment Card Industry Security Standards Council</a> information supplement <a href="https://www.pcisecuritystandards.org/pdfs/PCI_DSS_v2_eCommerce_Guidelines.pdf">PCI DSS E-commerce Guidelines</a> v2, January 2013</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-labs-trans-85.png" title="Owasp-labs-trans-85.png" alt="Owasp-labs-trans-85.png" /><figcaption>Owasp-labs-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p>OWASP Cornucopia Ecommerce Website Edition is referenced in the current <a href="https://www.pcisecuritystandards.org">Payment Card Industry Security Standards Council</a> information supplement <a href="https://www.pcisecuritystandards.org/pdfs/PCI_DSS_v2_eCommerce_Guidelines.pdf">PCI DSS E-commerce Guidelines</a> v2, January 2013</p></td>
 </tr>
 </tbody>
 </table>
@@ -173,7 +126,7 @@ Professionally printed decks are available by two methods:
         budgets [Chapter and Project Merchandise Request
         form](https://docs.google.com/a/owasp.org/forms/d/e/1FAIpQLSez9mV97HuqvYhCldE2hYhX3UjQM1oO5bLy44HkOZSpni0OzQ/viewform?formkey=dF85bGtvdWdrd2JjYldNZ1gxSkJxaEE6MQ)
       - For other individuals, organisations and companies, please email
-        <dawn.aitken@owasp.org> with purchase enquiries
+        <lisa.jones@owasp.com> with purchase inquiries.
   - Request a free deck of cards gifted by [Blackfoot UK
     Limited](http://blackfootuk.com/) or download their donated
     print-ready artwork:
@@ -188,20 +141,16 @@ Cornucopia - Ecommerce Website Edition:
   - v1.2 (current version)
       - [EN
         DOC](https://www.owasp.org/index.php/File:OWASP-Cornucopia-Ecommerce_Website.docx)
-
-| [FR
-DOC](https://github.com/grandtom/OWASP-Cornucopia-Translate-Cards---FR)
-| [PT-BR
-DOC](https://github.com/wagnerfusca/OWASP-Cornucopia-Translate-Cards---PT)
-
-  -   - [EN
+        | [FR
+        DOC](https://github.com/grandtom/OWASP-Cornucopia-Translate-Cards---FR)
+        | [PT-BR
+        DOC](https://github.com/wagnerfusca/OWASP-Cornucopia-Translate-Cards---PT)
+      - [EN
         PDF](https://www.owasp.org/index.php/File:Owasp-cornucopia-ecommerce_website.pdf)
       - [Print-Ready design
         files](https://drive.google.com/open?id=0ByNJ8mfWALwjNXpQMUNBYnJsT2QyQ0lkb3VNX1BCM3JLNlBZ)
         24Mb zip
-
   - v1.1 EN
-
       - DOC - see current version link above for previous versions of
         DOC including with track changes
       - PDF - see current version link above for previous versions of
@@ -210,9 +159,7 @@ DOC](https://github.com/wagnerfusca/OWASP-Cornucopia-Translate-Cards---PT)
       - [Print-Ready design
         files](https://drive.google.com/open?id=0ByNJ8mfWALwjb283ZE5GNmFMM2FGWGl2WC14aDJDQ0ZsNk00)
         24Mb zip
-
   - v1.04 EN
-
       - DOC - see current version link above for previous versions of
         DOC including with track changes
       - PDF - see current version link above for previous versions of
@@ -734,7 +681,7 @@ deck, probably using the wonderful [OWASP Mobile Security
 Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project)
 as inspiration for the card source materials. Do you have an idea for
 your own application security requirements card deck? Perhaps for
-{{\#switchtablink:Mobile App Edition |mobile apps}} or something else?
+{{\#switchtablink:Mobile App Edition|mobile apps}} or something else?
 
 # About Ecommerce Website Edition
 

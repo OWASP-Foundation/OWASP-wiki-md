@@ -10,7 +10,10 @@
 <tr class="odd">
 <td><p><span style="color:#ff0000"> Instructions are in RED text and should be removed from your document by deleting the text with the span tags. This document is intended to serve as an example of what is required of an OWASP project wiki page. The text in red serves as instructions, while the text in black serves as an example. Text in black is expected to be replaced entirely with information specific to your OWASP project. </span></p>
 <h2 id="project_about">Project About</h2>
-<p><span style="color:#ff0000"> </p>
+<p><span style="color:#ff0000"> {{:Template:Project About</p></td>
+<td><p>project_name=Machine Learning Security Top 10</p></td>
+<td><p>leader_name1=Abraham Kang</p></td>
+<td><p>leader_email1=abraham.kang@owasp.org }}</p>
 <h2 id="owasp_documentation_project_template">OWASP Documentation Project Template</h2>
 <p><span style="color:#ff0000"></p>
 <p><code>   This section should include an overview of what the project is, why the project was started, and what security issue is being addressed by the project deliverable. Some readers may be discouraged from looking further at the project if they do not understand the significance of the security concern that is being addressed, so provide enough context so the average reader will continue on with reading the description. You shouldn't assume the reader will understand the objective by providing security terminology, e.g. this project builds cryptographic algorithms, but should also endeavor to explain what they are used for.</code></p>
@@ -60,7 +63,7 @@
 <p><span style="color:#ff0000"></p>
 <p><code>   A project leader is the individual who decides to lead the project throughout its lifecycle. The project leader is responsible for communicating the project’s progress to the OWASP Foundation, and he/she is ultimately responsible for the project’s deliverables. The project leader must provide OWASP with his/her real name and contact e-mail address for his/her project application to be accepted, as OWASP prides itself on the openness of its products, operations, and members.</code></p>
 <p></span></p>
-<p>Deborah Chang</p>
+<p><a href="mailto://abraham.kang@owasp.org">Abraham Kang</a></p>
 <h2 id="related_projects">Related Projects</h2>
 <p><span style="color:#ff0000"></p>
 <p><code>   This is where you can link to other OWASP Projects that are similar to yours. </code></p>
@@ -72,3 +75,8 @@
 </tr>
 </tbody>
 </table>
+
+__NOTOC__ <headertabs />
+
+[Category:OWASP Project](Category:OWASP_Project "wikilink")
+[Category:OWASP_Document](Category:OWASP_Document "wikilink")

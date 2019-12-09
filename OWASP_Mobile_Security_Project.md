@@ -1,103 +1,121 @@
-# Home
-
-<div style="width:100%;height:90px;border:0,margin:0;overflow: hidden;">
-
-![_lab_big.jpg](_lab_big.jpg "_lab_big.jpg")
-
-</div>
+# Main
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_mobile_security_project">OWASP Mobile Security Project</h2>
 <figure>
 <img src="OWASP_Mobile_Logo_Milan.PNG" title="OWASP_Mobile_Logo_Milan.PNG" alt="OWASP_Mobile_Logo_Milan.PNG" /><figcaption>OWASP_Mobile_Logo_Milan.PNG</figcaption>
 </figure>
-<p><strong><a href="https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10">**New** Mobile Top Ten 2016 - Final Release</a></strong></p>
-<p><strong><a href="https://www.owasp.org/index.php/Mobile_Security_Project_Archive">Click here to goto Mobile Security Page Archive</a></strong></p>
-<p>The OWASP Mobile Security Project is a centralized resource intended to give developers and security teams the resources they need to build and maintain secure mobile applications. Through the project, our goal is to classify mobile security risks and provide developmental controls to reduce their impact or likelihood of exploitation.</p>
-<p>Our primary focus is at the application layer. While we take into consideration the underlying mobile platform and carrier inherent risks when threat modeling and building controls, we are targeting the areas that the average developer can make a difference. Additionally, we focus not only on the mobile applications deployed to end user devices, but also on the broader server-side infrastructure which the mobile apps communicate with. We focus heavily on the integration between the mobile application, remote authentication services, and cloud platform-specific features.</p>
-<p>This project is still a work in progress. We are small group doing this work and could use more help! If you are interested, please contact one of the project leads or feel free to visit <a href="https://groups.google.com/a/owasp.org/forum/#!forum/owasp-mobile-top-10-risks">the mailing list</a> as well!</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
-<td><h2 id="email_list">Email List</h2>
-<p><img src="Asvs-bulb.jpg" title="fig:Image:Asvs-bulb.jpg" alt="Image:Asvs-bulb.jpg" /> <a href="https://groups.google.com/a/owasp.org/forum/#!forum/owasp-mobile-top-10-risks">Project Email List</a></p>
-<h2 id="project_leaders">Project Leaders</h2>
-<p>{{Template:Contact</p></td>
-<td><p>name = Jonathan Carter</p></td>
-<td><p>email = jonathan.carter@owasp.org }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Milan Singh Thakur</p></td>
-<td><p>email = milan@owasp.org</p></td>
-<td><p>username = Milan Singh Thakur }}<br />
-</p>
-<h2 id="former_leaders">Former Leaders</h2>
-<p>{{Template:Contact</p></td>
-<td><p>name = Mike Zusman</p></td>
-<td><p>email = mike.zusman@owasp.org</p></td>
-<td><p>username = schmoilito }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Tony DeLaGrange</p></td>
-<td><p>email = mobisec@secureideas.net</p></td>
-<td><p>username = Tony DeLaGrange }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Sarath Geethakumar</p></td>
-<td><p>email = sarath.geethakumar@owasp.org</p></td>
-<td><p>username = Sarath Geethakumar }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Tom Eston</p></td>
-<td><p>email = teston@veracode.com</p></td>
-<td><p>username = Tom Eston }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Don Williams }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Jason Haddix</p></td>
-<td><p>email = jason.haddix@hp.com</p></td>
-<td><p>username = Jason Haddix }}<br />
-</p>
-<h2 id="top_contributors">Top Contributors</h2>
-<p>{{Template:Contact</p></td>
-<td><p>name = Zach Lanier</p></td>
-<td><p>email = zach.lanier@n0where.org</p></td>
-<td><p>username = Zach_Lanier }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Ludovic Petit</p></td>
-<td><p>email = ludovic.petit@owasp.org</p></td>
-<td><p>username = Ludovic Petit }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Swapnil Deshmukh</p></td>
-<td><p>email = sd.swapz@gmail.com</p></td>
-<td><p>username = Swapnil Deshmukh }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Beau Woods</p></td>
-<td><p>email = owasp@beauwoods.com</p></td>
-<td><p>username = Beau Woods }}<br />
-{{Template:Contact</p></td>
-<td><p>name = David Martin Aaron</p></td>
-<td><p>email = davidmartinaaron@gmail.com</p></td>
-<td><p>username = David Martin Aaron }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Luca De Fulgentis</p></td>
-<td><p>email = luca@securenetwork.it</p></td>
-<td><p>username = Daath }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Andrew Pannell</p></td>
-<td><p>email = andrew.pannell@owasp.org</p></td>
-<td><p>username = Andipannell }}<br />
-{{Template:Contact</p></td>
-<td><p>name = Stephanie V</p></td>
-<td><p>email = vanroelens@gmail.com</p></td>
-<td><p>username = Stephanie V }}<br />
-</p></td>
+<h2 id="maintenance_notice">Maintenance notice</h2>
+<p>This site is no longer maintained: please go to <a href="https://www2.owasp.org/www-project-mobile-security/">https://www2.owasp.org/www-project-mobile-security/</a> for our new website!</p>
+<p>The OWASP Mobile Security Project is a centralized resource intended to give developers and security teams the resources they need to build and maintain secure mobile applications. Through the project, our goal is to classify mobile security risks and provide developmental controls to reduce their impact or likelihood of exploitation. The project is a breading ground for many different mobile security projects within OWASP. Right now, you can find the following active OWASP mobile security projects:</p>
+<table>
+<thead>
+<tr class="header">
+<th><p>Project/deliverable</p></th>
+<th><p>More info:</p></th>
+<th><p>Description:</p></th>
+<th><p>Current leaders</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Mobile Top Ten</p></td>
+<td><p><a href="https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Risks">Project Page</a></p></td>
+<td><p>The OWASP Mobile Security top 10 is created to raise awareness for the current mobile security issues.</p></td>
+<td><ul>
+<li><a href="mailto:jason.haddix@owasp.org">Jason Haddix - HP Fortify</a></li>
+<li><a href="mailto:daniel.meissler@owasp.org">Daniel Miessler - HP Fortify</a></li>
+<li><a href="mailto:jonthan.carter@owasp.org">Jonathan Carter - Arxan Technologies</a></li>
+<li><a href="mailto:milan@owasp.org">Milan Singh Thakur</a></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Mobile Security Testing Guide</p></td>
+<td><p><a href="OWASP_Mobile_Security_Testing_Guide" title="wikilink">Project Page</a></p></td>
+<td><p>A comprehensive manual for mobile app security testing and reverse engineering for iOS and Android mobile security testers as well as developers.</p></td>
+<td><ul>
+<li><a href="mailto:sven.schleier@owasp.org">Sven Schleier</a></li>
+<li><a href="mailto:jeroen.willemsen@owasp.org">Jeroen Willemsen</a></li>
+<li><a href="mailto:carlos.holguera@owasp.org">Carlos Holguera</a></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>Mobile Application Security Verification Standard</p></td>
+<td><p><a href="OWASP_Mobile_Security_Testing_Guide" title="wikilink">Project Page</a></p></td>
+<td><p>A standard for mobile app security which outlines the security requirements of a mobile application.</p></td>
+<td><ul>
+<li><a href="mailto:sven.schleier@owasp.org">Sven Schleier</a></li>
+<li><a href="mailto:jeroen.willemsen@owasp.org">Jeroen Willemsen</a></li>
+<li><a href="mailto:carlos.holguera@owasp.org">Carlos Holguera</a></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Mobile Security Checklist</p></td>
+<td><p><a href="OWASP_Mobile_Security_Testing_Guide" title="wikilink">Project Page</a></p></td>
+<td><p>A checklist which allows easy mapping and scoring of the requirements from the Mobile Application Security Verification Standard based on the Mobile Security Testing Guide.</p></td>
+<td><ul>
+<li><a href="mailto:sven.schleier@owasp.org">Sven Schleier</a></li>
+<li><a href="mailto:jeroen.willemsen@owasp.org">Jeroen Willemsen</a></li>
+<li><a href="mailto:carlos.holguera@owasp.org">Carlos Holguera</a></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>iGoat Tool Project</p></td>
+<td><p><a href="OWASP_iGoat_Project" title="wikilink">Project Page</a></p></td>
+<td><p>A learning tool for iOS developers (iPhone, iPad, etc.). It was inspired by the WebGoat project, and has a similar conceptual flow to it.</p></td>
+<td><ul>
+<li><a href="mailto:swaroop.yermalkar@owasp.org">Swaroop Yermalkar</a></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Damn Vulnerable iOS Application</p></td>
+<td><p><a href="OWASP_DVIA" title="wikilink">Project Page</a></p></td>
+<td><p>An iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment.</p></td>
+<td><ul>
+<li><a href="https://twitter.com/prateekg147">Prateek Gianchandani</a></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>Android CK project</p></td>
+<td><p><a href="Projects/OWASP_Androick_Project" title="wikilink">Project Page</a></p></td>
+<td><p>A python tool to help in forensics analysis on android.</p></td>
+<td><ul>
+<li><a href="https://twitter.com/phonesec">Florian Pradines</a></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Seraphimdroid</p></td>
+<td><p><a href="OWASP_SeraphimDroid_Project" title="wikilink">Project Page</a></p></td>
+<td><p>A privacy and security protection app for Android devices.</p></td>
+<td><ul>
+<li><a href="mailto:nikola.milosevic@owasp.org">Nikola Milosevic</a></li>
+<li><a href="mailto:kartik.kholi@owasp.org">Kartik Kholi</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+<p>Not what you are looking for? Please have a look at the <strong><a href="https://www.owasp.org/index.php/Mobile_Security_Project_Archive">Mobile Security Page Archive</a></strong></p>
+<p>Want to start a new mobile security project? Follow <a href="https://www.owasp.org/index.php/Category:OWASP_Project#Starting_a_New_Project">https://www.owasp.org/index.php/Category:OWASP_Project#Starting_a_New_Project</a> or contact one of the leaders of the active projects.</p>
+<p>| valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;" |</p>
+<h2 id="active_owasp_mobile_projects">Active OWASP mobile projects</h2>
+<ul>
+<li><a href="OWASP_Mobile_Security_Testing_Guide" title="wikilink">OWASP Mobile Security Testing Guide</a></li>
+<li><a href="OWASP_Mobile_Security_Testing_Guide" title="wikilink">OWASP Mobile Application Security Verification Standard</a></li>
+<li><a href="OWASP_iGoat_Tool_Project" title="wikilink">OWASP iGoat Tool Project</a></li>
+<li><a href="OWASP_DVIA" title="wikilink">Damn Vulnerable iOS Application</a></li>
+<li><a href="Projects/OWASP_Androick_Project" title="wikilink">AndroidCK project</a></li>
+<li><a href="OWASP_SeraphimDroid_Project" title="wikilink">OWASP SeraphimDroid</a></li>
+</ul></td>
 </tr>
 </tbody>
 </table>
 
 # Top 10 Mobile Risks
 
-Please visit the [project
-page](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Risks)
-for current information.
+Please visit the [project page](OWASP_Mobile_Top_10 "wikilink") for
+current information.
 
 ## About this list
 
@@ -182,207 +200,43 @@ as well\!
       - [2011-12 Mobile Top Ten for archive
         purposes](Mobile_Top_10_2012 "wikilink")
 
-# Mobile Security Checklist
-
-The checklist is hosted on the [OWASP MSTG project
-page](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide#tab=Main).
-
 # Mobile Security Testing Guide
 
-The OWASP Mobile Security Testing Guide is now a separate project -
-check the [OWASP MSTG project
-page](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide#tab=Main)
-for details.
+Please see the [project
+page](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
+for more details.
 
-# M-Tools
+# Acknowledgements
 
-![<File:Reverse_Engineering_Arsenals.png>](Reverse_Engineering_Arsenals.png
-"File:Reverse_Engineering_Arsenals.png")
+The OWASP Mobile Security project has a long history. It has been a
+source for many projects their predecessors as is clearly visible in
+[the
+archive](https://www.owasp.org/index.php/Mobile_Security_Project_Archive).
 
-![<File:IOS_Arsenal.png>](IOS_Arsenal.png "File:IOS_Arsenal.png")
+## Project Leaders
 
-## iMAS
 
-iMAS is a collaborative research project from the MITRE Corporation
-focused on open source iOS security controls. Today, iOS meets the
-enterprise security needs of customers, however many security experts
-cite critical vulnerabilities and have demonstrated exploits, which
-pushes enterprises to augment iOS deployments with commercial solutions.
-The iMAS intent is to protect iOS applications and data beyond the Apple
-provided security model and reduce the adversary’s ability and
-efficiency to perform recon, exploitation, control and execution on iOS
-mobile applications. iMAS will transform the effectiveness of the
-existing iOS security model across major vulnerability areas including
-the System Passcode, jailbreak, debugger / run-time, flash storage, and
-the system keychain. Research outcomes include an open source secure
-application framework, including an application container, developer and
-validation tools/techniques.
 
-[iMas Project
-Page](https://www.owasp.org/index.php/OWASP_iMAS_iOS_Mobile_Application_Security_Project)
 
-The source code for iMAS is available on GitHub: [iMAS Source
-Code](https://github.com/project-imas/about)
+## Former Leaders
 
-## GoatDroid
 
-OWASP GoatDroid is a fully functional and self-contained training
-environment for educating developers and testers on Android security.
-GoatDroid requires minimal dependencies and is ideal for both Android
-beginners as well as more advanced users. The project currently includes
-two applications: FourGoats, a location-based social network, and Herd
-Financial, a mobile banking application. There are also several features
-that greatly simplify usage within a training environment or for
-absolute beginners who want a good introduction to working with the
-Android platform.
 
-As the Android SDK introduces new features, the GoatDroid contributors
-will strive to implement up-to-date lessons that can educate developers
-and security testers on new security issues. The project currently
-provides coverage for most of the OWASP Top 10 Mobile Risks and also
-includes a bunch of other problems as well.
 
-You can find GoatDroid on GitHub: [GoatDroid Source
-Code](https://github.com/jackMannino/OWASP-GoatDroid-Project)
 
-[GoatDroid Project
-Page](https://www.owasp.org/index.php/Projects/OWASP_GoatDroid_Project)
 
-## iGoat
 
-iGoat is a learning tool for iOS developers (iPhone, iPad, etc.). It was
-inspired by the WebGoat project, and has a similar conceptual flow to
-it.
 
-As such, iGoat is a safe environment where iOS developers can learn
-about the major security pitfalls they face as well as how to avoid
-them. It is made up of a series of lessons that each teach a single (but
-vital) security lesson.
+## Top Contributors
 
-The lessons are laid out in the following steps:
 
-1.  Brief introduction to the problem.
-2.  Verify the problem by exploiting it.
-3.  Brief description of available remediations to the problem.
-4.  Fix the problem by correcting and rebuilding the iGoat program.
 
-Step 4 is optional, but highly recommended for all iOS developers.
-Assistance is available within iGoat if you don't know how to fix a
-specific problem.
 
-iGoat is free software, released under the GPLv3 license.
 
-[iGoat Project
-Page](https://www.owasp.org/index.php/OWASP_iGoat_Project)
 
-The iGoat source code is available on Google Code [iGoat Source
-Code](http://code.google.com/p/owasp-igoat/)
 
-## Damn Vulnerable iOS Application
 
-Damn Vulnerable iOS application is a project started by Prateek
-Gianchandani which gives mobile testers and developers an iOS
-application to practice attacking/defending skill sets. Each challenge
-area corresponds to an in-depth article designed to teach the
-fundamentals of mobile security on the iOS platform. Some challenge
-categories include multiple challenge types.
 
-The current challenge categories:
-
-  - Insecure Data Storage (4 exercises)
-  - Jailbreak Detection (2 exercises)
-  - Runtime Manipulation (3 exercises)
-  - Transport Layer Security (1 exercise)
-  - Client Side Injection (1 exercise)
-  - Broken Cryptography (1 exercise)
-  - Binary Patching (4 exercises)
-
-[DVIA Home Page](http://damnvulnerableiosapp.com)
-
-[DVIA OWASP Project Page](https://www.owasp.org/index.php/OWASP_DVIA)
-
-[DVIA Github Source](https://github.com/prateek147/DVIA)
-
-[DVIA Learning Resources](http://damnvulnerableiosapp.com/#learn)
-
-## MobiSec
-
-The MobiSec Live Environment Mobile Testing Framework project is a live
-environment for testing mobile environments, including devices,
-applications, and supporting infrastructure. The purpose is to provide
-attackers and defenders the ability to test their mobile environments to
-identify design weaknesses and vulnerabilities. The MobiSec Live
-Environment provides a single environment for testers to leverage the
-best of all available open source mobile testing tools, as well as the
-ability to install additional tools and platforms, that will aid the
-penetration tester through the testing process as the environment is
-structured and organized based on an industry­‐proven testing framework.
-Using a live environment provides penetration testers the ability to
-boot the MobiSec Live Environment on any Intel-­based system from a DVD
-or USB flash drive, or run the test environment within a virtual
-machine.
-
-[Project
-Page](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_MobiSec)
-
-MobiSec can be downloaded from Sourceforge: [MobiSec Download
-Repository](http://sourceforge.net/p/mobisec/wiki/Home/)
-
-## Androick
-
-Androick is a collaborative research project from PHONESEC Ltd. With our
-tool, you can evaluate some risks on Android mobile applications.
-Androick is a tool that allows any user to analyze an Android
-application. It can get the apk file, all the datas and the databases in
-sqlite3 and csv format. Only for Pentesters or Researchers.
-
-[Androick Project
-Page](https://www.owasp.org/index.php/Projects/OWASP_Androick_Project)
-
-## NowSecure App Testing Community Edition
-
-The NowSecure App Testing Community Edition is the freely downloadable
-version of the powerful App Testing suite. Users are offered a number of
-features such as network capture, automation, import / export, and
-reporting to test and secure mobile apps.
-
-It provides the opportunity to complete mobile app security tests on any
-application on Android or iOS mobile devices (or installed in an
-emulator).
-
-The suite is provided as a preconfigured virtual machine (VM). After
-downloading the VM and licensing your version of the suite you will have
-everything you need to test the security of mobile apps.
-
-Built in emulator - Don’t have a device? No worries. The suite includes
-a built in Emulator that may be used to test the security of your mobile
-applications.
-
-[NowSecure App Testing
-Suite](https://www.nowsecure.com/apptesting/community/)
-
-## OWASP Seraphimdroid
-
-OWASP SeraphimDroid is educational, privacy and device protection
-application for android devices that helps users learn about risks and
-threats coming from other android applications. SeraphimDroid is also an
-application firewall for android devices not allowing malicious SMS or
-MMS to be sent, USSD codes to be executed or calls to be called without
-user permission and knowledge.
-
-[OWASP Seraphimdroid project
-page](https://www.owasp.org/index.php/OWASP_SeraphimDroid_Project)
-
-[OWASP Seraphimdroid
-code](https://github.com/nikolamilosevic86/owasp-seraphimdroid)
-
-[OWASP Seraphimdroid on Google
-Play](https://play.google.com/store/apps/details?id=org.owasp.seraphimdroid)
-
-## OWASP Summer of Code 2008
-
-The OWASP Foundation sponsored the OWASP Application Security
-Verification Standard Project during the OWASP Summer of Code 2008.
 
 # Secure M-Development
 
@@ -395,6 +249,16 @@ across nearly all mobile platforms. It will be a living reference where
 contributors can plug in newly exposed APIs for various platforms and
 provide good/bad code examples along with remediation guidance for those
 issues.
+
+## Status note
+
+**Note: Given that the MASVS/MSTG is becoming the leading framework in
+terms of requirements, we will archive this page and merge requirements
+with the MASVS, this process is currently taken care of by Abderrahmane
+AFTAHI (see [the github issue for more
+details](https://github.com/OWASP/owasp-masvs/issues/189)) and Rocco
+Gränitz (see [the github issue for more
+details](https://github.com/OWASP/owasp-masvs/issues/203))**
 
 ## Mobile Application Coding Guidelines
 
@@ -744,11 +608,23 @@ issues.
 OWASP and the European Network and Information Security Agency (ENISA)
 collaborated to build a joint set of controls. ENISA has published the
 results of the collaborative effort as the "Smartphone Secure
-Development Guideline":
-<http://www.enisa.europa.eu/activities/application-security/smartphone-security-1/smartphone-secure-development-guidelines>
+Development Guideline", which is published in 2011 at:
+<https://www.enisa.europa.eu/publications/smartphone-secure-development-guidelines/at_download/fullReport>.
+In 2017, an update was published by ENISA at
+<https://www.enisa.europa.eu/publications/smartphone-secure-development-guidelines-2016>.
 
 ![OWASP_Mobile_Top_10_Controls.jpg](OWASP_Mobile_Top_10_Controls.jpg
 "OWASP_Mobile_Top_10_Controls.jpg")
+
+## Status note
+
+**Note: Given that the MASVS/MSTG is becoming the leading framework in
+terms of requirements, we will archive this page and merge requirements
+with the MASVS, this process is currently taken care of by Abderrahmane
+AFTAHI (see [the github issue for more
+details](https://github.com/OWASP/owasp-masvs/issues/189)) and Rocco
+Gränitz (see [the github issue for more
+details](https://github.com/OWASP/owasp-masvs/issues/203))**
 
 ## Contributors
 
@@ -1175,7 +1051,7 @@ including sensitive user information.
       - Device certificates can be used for stronger device
         authentication.'
 
-''References"
+*References"*
 
   - 1.ENISA. Top Ten Smartphone Risks . \[Online\]
     <http://www.enisa.europa.eu/act/application-security/smartphone-security-1/top-ten-risks>.
@@ -1242,6 +1118,12 @@ sections will need more contributions, details and also real world case
 studies. It's the hope of the project team that others in the community
 can help contribute to this project to further enhance and improve this
 threat model.
+
+### Maintenance note
+
+We are in the process of creating a new threatmodel. Want to join? Drop
+a line at [our threatmodel
+git](https://github.com/OWASP/OWASP-Mobile-Threatmodel).
 
 ### Mobile Threat Model Introduction Statement
 
@@ -1526,7 +1408,7 @@ identified while analyzing various commonly used applications.
     processes running in the background and stays alive performing
     malicious activity all the time. E.g. Olympics App which stole text
     messages and browsing
-    history:[](http://venturebeat.com/2012/08/06/olympics-android-app/)<http://venturebeat.com/2012/08/06/olympics-android-app/>
+    history:\[[http://venturebeat.com/2012/08/06/olympics-android-app/\]http://venturebeat.com/2012/08/06/olympics-android-app/](http://venturebeat.com/2012/08/06/olympics-android-app/%5Dhttp://venturebeat.com/2012/08/06/olympics-android-app/)
 
 <!-- end list -->
 
