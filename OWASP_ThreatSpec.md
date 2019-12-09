@@ -10,33 +10,20 @@
 <tr class="odd">
 <td><p><span style="color:#ff0000"> Instructions are in RED text and should be removed from your document by deleting the text with the span tags. This document is intended to serve as an example of what is required of an OWASP project wiki page. The text in red serves as instructions, while the text in black serves as an example. Text in black is expected to be replaced entirely with information specific to your OWASP project. </span></p>
 <h2 id="project_about">Project About</h2>
-<p><span style="color:#ff0000"> {{Template:Project About</p></td>
-<td><p>project_name = <strong>OWASP Revelo Project</strong></p></td>
-<td><p>project_description =</p></td>
-<td><p>project_license =</p></td>
-<td><p>leader_name1 = Tushar Kulkarni</p></td>
-<td><p>leader_email1 =</p></td>
-<td><p>leader_username1 =</p></td>
-<td><p>pamphlet_link =</p></td>
-<td><p>presentation_link =</p></td>
-<td><p>mailing_list_name =</p></td>
-<td><p>project_road_map =</p></td>
-<td><p>release_name =</p></td>
-<td><p>release_date =</p></td>
-<td><p>release_description =</p></td>
-<td><p>release_license =</p></td>
-<td><p>release_download_link =</p></td>
-<td><p>release_notes = }}</p>
-<h2 id="owasp_tool_project_template">OWASP Tool Project Template</h2>
+<p><span style="color:#ff0000"> {{:Template:Project About</p></td>
+<td><p>project_name=ThreatSpec</p></td>
+<td><p>leader_name1=Fraser Scott</p></td>
+<td><p>leader_email1=fraser.scott@owasp.org }}</p>
+<h2 id="owasp_code_project_template">OWASP Code Project Template</h2>
 <p><span style="color:#ff0000"></p>
 <p><code>   This section should include an overview of what the project is, why the project was started, and what security issue is being addressed by the project deliverable. Some readers may be discouraged from looking further at the project if they do not understand the significance of the security concern that is being addressed, so provide enough context so the average reader will continue on with reading the description. You shouldn't assume the reader will understand the objective by providing security terminology, e.g. this project builds cryptographic algorithms, but should also endeavor to explain what they are used for.</code></p>
 <p></span></p>
-<p>The OWASP Tool Template Project is a template designed to help Project Leaders create suitable project pages for OWASP Projects. By following the instructional text in red (and then deleting it) it should be easier to understand what information OWASP and the project users are looking for. And it's easy to get started by simply creating a new project from the appropriate project template.</p>
+<p>The OWASP Code Template Project is a template designed to help Project Leaders create suitable project pages for OWASP Projects. By following the instructional text in red (and then deleting it) it should be easier to understand what information OWASP and the project users are looking for. And it's easy to get started by simply creating a new project from the appropriate project template.</p>
 <h2 id="description">Description</h2>
 <p><span style="color:#ff0000"></p>
 <p><code>   This is where you need to add your more robust project description. A project description should outline the purpose of the project, how it is used, and the value it provides to application security. Ideally, project descriptions should be written in such a way that there is no question what value the project provides to the software security community. This section will be seen and used in various places within the Projects Portal. Poorly written project descriptions therefore detract from a project’s visibility, so project leaders should ensure that the description is meaningful.  </code></p>
 <p></span></p>
-<p>The Tool Project Template is simply a sample project that was developed for instructional purposes that can be used to create default project pages for a Tool project. After copying this template to your new project, all you have to do is follow the instructions in red, replace the sample text with text suited for your project, and then delete the sections in red. Doing so should make it clearer to both consumers of this project, as well as OWASP reviewers who are trying to determine if the project can be promoted to the next category. The information requested is also intended to help Project Leaders think about the roadmap and feature priorities, and give guidance to the reviews as a result of that effort.</p>
+<p>The Code Project Template is simply a sample project that was developed for instructional purposes that can be used to create default project pages for a Tool project. After copying this template to your new project, all you have to do is follow the instructions in red, replace the sample text with text suited for your project, and then delete the sections in red. Doing so should make it clearer to both consumers of this project, as well as OWASP reviewers who are trying to determine if the project can be promoted to the next category. The information requested is also intended to help Project Leaders think about the roadmap and feature priorities, and give guidance to the reviews as a result of that effort.</p>
 <p>Creating a new set of project pages from scratch can be a challenging task. By providing a sample layout, with instructional text and examples, the OWASP Tool Project Template makes it easier for Project Leaders to create effective security projects and hence helps promote security.</p>
 <p>Contextual custom dictionary builder with character substitution and word variations for pen-testers</p>
 <h2 id="licensing">Licensing</h2>
@@ -45,10 +32,10 @@
 <h2 id="roadmap">Roadmap</h2>
 <p><span style="color:#ff0000"> As of <strong>November, 2013, the highest priorities for the next 6 months</strong> are: <strong></p>
 <ul>
-<li>Complete the first draft of the Tool Project Template</li>
-<li>Get other people to review the Tool Project Template and provide feedback</li>
-<li>Incorporate feedback into changes in the Tool Project Template</li>
-<li>Finalize the Tool Project template and have it reviewed to be promoted from an Incubator Project to a Lab Project</li>
+<li>Complete the first draft of the Code Project Template</li>
+<li>Get other people to review the Code Project Template and provide feedback</li>
+<li>Incorporate feedback into changes in the Code Project Template</li>
+<li>Finalize the Code Project template and have it reviewed to be promoted from an Incubator Project to a Lab Project</li>
 </ul>
 <p></strong></p>
 <p>Subsequent Releases will add <strong></p>
@@ -59,30 +46,24 @@
 </ul>
 <p></strong></p>
 <h2 id="getting_involved">Getting Involved</h2>
-<p><span style="color:#ff0000"> Involvement in the development and promotion of <strong>Tool Project Template</strong> is actively encouraged! You do not have to be a security expert or a programmer to contribute. Some of the ways you can help are as follows:</p></td>
+<p><span style="color:#ff0000"> Involvement in the development and promotion of <strong>Code Project Template</strong> is actively encouraged! You do not have to be a security expert or a programmer to contribute. Some of the ways you can help are as follows:</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
-<p><span style="color:#ff0000"></p>
-<p><code>   This is where you can link to the key locations for project files, including setup programs, the source code repository, online documentation, a Wiki Home Page, threaded discussions about the project, and Issue Tracking system, etc. </code></p>
-<p></span></p>
-<p><a href="https://github.com/SamanthaGroves">Installation Package</a></p>
-<p><a href="https://github.com/SamanthaGroves">Source Code</a></p>
-<p><a href="https://github.com/SamanthaGroves">What's New (Revision History)</a></p>
-<p><a href="https://github.com/SamanthaGroves">Documentation</a></p>
-<p><a href="https://github.com/SamanthaGroves">Wiki Home Page</a></p>
-<p><a href="https://github.com/SamanthaGroves">Issue Tracker</a></p>
-<p><a href="https://github.com/SamanthaGroves">Slide Presentation</a></p>
-<p><a href="https://github.com/SamanthaGroves">Video</a></p>
+<p><a href="https://github.com/threatspec/threatspec">Source Code</a></p>
+<p><a href="https://threatspec.org/">What's New (Revision History)</a></p>
+<p><a href="https://github.com/threatspec/threatspec_examples">Documentation</a></p>
+<p><a href="https://threatspec.org/">Wiki Home Page</a></p>
+<p><a href="https://github.com/threatspec/threatspec/issues">Issue Tracker</a></p>
 <h2 id="project_leader">Project Leader</h2>
 <p><span style="color:#ff0000"></p>
 <p><code>   A project leader is the individual who decides to lead the project throughout its lifecycle. The project leader is responsible for communicating the project’s progress to the OWASP Foundation, and he/she is ultimately responsible for the project’s deliverables. The project leader must provide OWASP with his/her real name and contact e-mail address for his/her project application to be accepted, as OWASP prides itself on the openness of its products, operations, and members.</code></p>
 <p></span></p>
-<p>Tushar Kulkarni</p>
+<p><a href="mailto://fraser.scott@owasp.org">Fraser Scott</a></p>
 <h2 id="related_projects">Related Projects</h2>
 <p><span style="color:#ff0000"></p>
 <p><code>   This is where you can link to other OWASP Projects that are similar to yours. </code></p>
 <p></span></p>
 <ul>
-<li><a href="OWASP_Code_Project_Template" title="wikilink">OWASP_Code_Project_Template</a></li>
+<li><a href="OWASP_Tool_Project_Template" title="wikilink">OWASP_Tool_Project_Template</a></li>
 <li><a href="OWASP_Documentation_Project_Template" title="wikilink">OWASP_Documentation_Project_Template</a></li>
 </ul></td>
 </tr>
@@ -94,4 +75,4 @@ __NOTOC__ <headertabs />
 [Category:OWASP Project](Category:OWASP_Project "wikilink")
 [Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
 [Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Tool](Category:OWASP_Tool "wikilink")
+[Category:OWASP_Code](Category:OWASP_Code "wikilink")

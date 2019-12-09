@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_description">Project Description</h2>
 <p>This project educates security professionals about the risks of reverse engineering and how to ensure that code cannot be reverse engineered or modified. If you are placing sensitive code in an environment in which an attacker can get physical access to that environment (read: mobile, desktops, cloud, particular geographies), you should be concerned with the risks of reverse engineering or unauthorized code modification. This umbrella project will help you understand the risks and how to mitigate them.</p>
 <h2 id="a_brief_history_of_this_problem_space">A Brief History of This Problem Space</h2>
@@ -21,7 +20,6 @@
 <p>With the recent move towards mobile applications, an attacker can now see, touch, and directly modify a lot of the application’s presentation and business layer code within the attacker’s mobile computing environment. This capability allows the attacker to realize the same traditional business threats as before (with web applications) but in genuinely new and unconventional ways.</p>
 <h2 id="licensing">Licensing</h2>
 <p>Any documentation or educational material associated with this project is free to use. It is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</a> Creative Commons Attribution-ShareAlike 3.0 license], so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_does_this_project_deliver">What does this project deliver?</h2>
 <p>Prevent an attacker from reverse engineering your code or making unauthorized changes to that code. The following audiences get something from this project:</p>
 <ul>
@@ -49,7 +47,6 @@
 <li><a href="OWASP_iMAS_iOS_Mobile_Application_Security_Project" title="wikilink">OWASP_iMAS_iOS_Mobile_Application_Security_Project</a></li>
 <li><a href="Mobile_Jailbreaking_Cheat_Sheet" title="wikilink">Mobile_Jailbreaking_Cheat_Sheet</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="project_contributors">Project Contributors</h2>
 <ul>
 <li>Jonathan Carter (Leader)</li>
@@ -68,53 +65,15 @@
 </ul>
 <h2 id="news_and_events">News and Events</h2>
 <ul>
-<li>[May 2015] - <strong>AppSecEU Workshop 2015 conducted</strong></li>
+<li>[Sept 2019] - Global AppSec DC 2019</li>
+<li>[May 2015] - AppSecEU Workshop 2015 conducted</li>
 <li>[May 2015] - Oracle Webinar on Project Conducted</li>
 <li>[September 2014] - AppSec USA Workshop 2014 conducted</li>
 <li>[April 2014] - Architectural Principles content finalized and released</li>
 <li>[March 2014] - Technical Risks content translated into Japanese</li>
 <li>[January 2014] - Technical Risks content finalized and released</li>
 <li>[December 2013] - Establishment of project wiki</li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

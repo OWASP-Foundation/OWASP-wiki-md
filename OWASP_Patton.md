@@ -10,23 +10,10 @@
 <tr class="odd">
 <td><p><span style="color:#ff0000"> Instructions are in RED text and should be removed from your document by deleting the text with the span tags. This document is intended to serve as an example of what is required of an OWASP project wiki page. The text in red serves as instructions, while the text in black serves as an example. Text in black is expected to be replaced entirely with information specific to your OWASP project. </span></p>
 <h2 id="project_about">Project About</h2>
-<p><span style="color:#ff0000"> {{Template:Project About</p></td>
-<td><p>project_name = <strong>OWASP Revelo Project</strong></p></td>
-<td><p>project_description =</p></td>
-<td><p>project_license =</p></td>
-<td><p>leader_name1 = Tushar Kulkarni</p></td>
-<td><p>leader_email1 =</p></td>
-<td><p>leader_username1 =</p></td>
-<td><p>pamphlet_link =</p></td>
-<td><p>presentation_link =</p></td>
-<td><p>mailing_list_name =</p></td>
-<td><p>project_road_map =</p></td>
-<td><p>release_name =</p></td>
-<td><p>release_date =</p></td>
-<td><p>release_description =</p></td>
-<td><p>release_license =</p></td>
-<td><p>release_download_link =</p></td>
-<td><p>release_notes = }}</p>
+<p><span style="color:#ff0000"> {{Template:Project_About</p></td>
+<td><p>project_name=Patton</p></td>
+<td><p>leader_name1=Daniel Garcia</p></td>
+<td><p>leader_email1=cr0hn@cr0hn.com }}</p>
 <h2 id="owasp_tool_project_template">OWASP Tool Project Template</h2>
 <p><span style="color:#ff0000"></p>
 <p><code>   This section should include an overview of what the project is, why the project was started, and what security issue is being addressed by the project deliverable. Some readers may be discouraged from looking further at the project if they do not understand the significance of the security concern that is being addressed, so provide enough context so the average reader will continue on with reading the description. You shouldn't assume the reader will understand the objective by providing security terminology, e.g. this project builds cryptographic algorithms, but should also endeavor to explain what they are used for.</code></p>
@@ -40,7 +27,7 @@
 <p>Creating a new set of project pages from scratch can be a challenging task. By providing a sample layout, with instructional text and examples, the OWASP Tool Project Template makes it easier for Project Leaders to create effective security projects and hence helps promote security.</p>
 <p>Contextual custom dictionary builder with character substitution and word variations for pen-testers</p>
 <h2 id="licensing">Licensing</h2>
-<p><span style="color:#ff0000"> A project must be licensed under a community friendly or open source license. For more information on OWASP recommended licenses, please see <a href="https://www.owasp.org/index.php/OWASP_Licenses">OWASP Licenses</a>. While OWASP does not promote any particular license over another, the vast majority of projects have chosen a Creative Commons license variant for documentation projects, or a GNU General Public License variant for tools and code projects. This example assumes that you want to use the AGPL 3.0 license. </span></p>
+<p><span style="color:#ff0000"> A project must be licensed under a community friendly or open source license.  For more information on OWASP recommended licenses, please see <a href="https://www.owasp.org/index.php/OWASP_Licenses">OWASP Licenses</a>. While OWASP does not promote any particular license over another, the vast majority of projects have chosen a Creative Commons license variant for documentation projects, or a GNU General Public License variant for tools and code projects. This example assumes that you want to use the AGPL 3.0 license. </span></p>
 <p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP XXX and any contributions are Copyright © by {the Project Leader(s) or OWASP} {Year(s)}.</p>
 <h2 id="roadmap">Roadmap</h2>
 <p><span style="color:#ff0000"> As of <strong>November, 2013, the highest priorities for the next 6 months</strong> are: <strong></p>
@@ -76,7 +63,7 @@
 <p><span style="color:#ff0000"></p>
 <p><code>   A project leader is the individual who decides to lead the project throughout its lifecycle. The project leader is responsible for communicating the project’s progress to the OWASP Foundation, and he/she is ultimately responsible for the project’s deliverables. The project leader must provide OWASP with his/her real name and contact e-mail address for his/her project application to be accepted, as OWASP prides itself on the openness of its products, operations, and members.</code></p>
 <p></span></p>
-<p>Tushar Kulkarni</p>
+<p><a href="mailto://cr0hn@cr0hn.com">Daniel Garcia</a></p>
 <h2 id="related_projects">Related Projects</h2>
 <p><span style="color:#ff0000"></p>
 <p><code>   This is where you can link to other OWASP Projects that are similar to yours. </code></p>
@@ -88,10 +75,3 @@
 </tr>
 </tbody>
 </table>
-
-__NOTOC__ <headertabs />
-
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Tool](Category:OWASP_Tool "wikilink")

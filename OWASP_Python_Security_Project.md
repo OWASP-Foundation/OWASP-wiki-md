@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_python_security_project">OWASP Python Security Project</h2>
 <p>Python Security is a free, open source, OWASP project that aims at creating a hardened version of python that makes it easier for security professionals and developers to write applications more resilient to attacks and manipulations.</p>
 <p>The project is designed to explore how web applications can be developed in python by approaching the problem from three different angles:</p>
@@ -37,7 +36,6 @@
 <ul>
 <li><a href="https://www.owasp.org/index.php/User:Enrico_Branca">Enrico Branca</a> <a href="mailto:enrico.branca@owasp.org">@</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li>OWASP Python Security Flyer
@@ -52,52 +50,7 @@
 <h2 id="related">Related</h2>
 <ul>
 <li><a href="OWASP_Python_Project" title="wikilink">OWASP Python Project</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" rowspan="2" width="50%"</p></td>
-<td><figure>
-<img src="Mature_projects.png" title="Mature_projects.png" alt="Mature_projects.png" width="100" /><figcaption>Mature_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

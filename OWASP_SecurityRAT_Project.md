@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="owasp_securityrat">OWASP SecurityRAT</h2>
 <p>Tool mission: Simplify security requirement management during the SSDLC using automation approaches.</p>
 <h2 id="description">Description</h2>
@@ -23,12 +22,18 @@
 <li>Throughout the continuous development of the particular artifact, you respect the rules defined in SecurityRAT and document relevant changes in requirement compliance whenever appropriate.</li>
 </ol>
 <p>Focus of SecurityRAT is currently put on automation of procedures rather then quality of requirements. There is a set of requirements provided which you can start with, nevertheless it is recommended to create your own set of requirements which fits your company risk profile.</p>
+<h2 id="current_version">Current version</h2>
+<p>Current version is 1.7.9 released in June 2019: <a href="https://github.com/SecurityRAT/SecurityRAT/releases/latest">https://github.com/SecurityRAT/SecurityRAT/releases/latest</a></p>
+<p>Changelog:</p>
+<ul>
+<li>Issue where Option columns disappear in the requirement editor view after some minutes ( #111 )</li>
+<li>Bug where change settings will change Implementation Type to first value and can't be changed anymore ( #121 )</li>
+</ul>
 <h2 id="licensing">Licensing</h2>
 <p>This program is licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache 2.0</a> license.</p></td>
-<td><p>style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><a href="https://github.com/SecurityRAT/SecurityRAT/">GitHub Repository</a></p>
-<p><a href="https://hub.docker.com/r/securityrat/all_in_one/">Docker Image</a></p>
+<p><a href="https://github.com/SecurityRAT/SecurityRAT-dockercompose">Docker Image</a></p>
 <p><a href="https://securityrat.github.io/">Documentation</a></p>
 <p><a href="https://owasp.slack.com/messages/C76U4TNFJ/details/">Slack Channel</a></p>
 <h2 id="project_leaders">Project Leaders</h2>
@@ -39,37 +44,7 @@
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <li><a href="OWASP_Security_Knowledge_Framework" title="wikilink">OWASP Security Knowledge Framework</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" valign="top" align="center" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>valign="top" align="center" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Agplv3-155x51.png" title="Agplv3-155x51.png" alt="Agplv3-155x51.png" /><figcaption>Agplv3-155x51.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>style="padding-left:25px;width:200px;" valign="top"</p></td>
+</ul></td>
 <td><h2 id="releases">Releases</h2>
 <p>Please see our <a href="https://github.com/SecurityRAT/SecurityRAT/releases">GitHub Releases page</a> for the information about the most current release!</p>
 <h2 id="securityrat_on_tour">SecurityRAT on Tour</h2>
@@ -97,8 +72,9 @@ possibilities to get involved:
 ## Test SecurityRAT and open issues
 
 You don't have to be a developer in order to help\! Simply e.g. download
-our [docker image](https://hub.docker.com/r/securityrat/all_in_one/)
-play around and open a [GitHub
+our [docker
+image](https://github.com/SecurityRAT/SecurityRAT-dockercompose) play
+around and open a [GitHub
 issue](https://github.com/SecurityRAT/SecurityRAT/issues) for anything
 what doesn't work according to your expectations\!
 
@@ -130,15 +106,6 @@ forwards:
   - Philipp Zschumme
 
 # Road Map
-
-## Current version
-
-Current version is 1.7 released in September 2017. New features are:
-
-\- generation and management of appsec trainings (using HTML5 slides)
-from requirements stored in SecurityRAT
-
-\- possibility of having multiple JIRA issues linked to one requirement
 
 ## Version in planning
 

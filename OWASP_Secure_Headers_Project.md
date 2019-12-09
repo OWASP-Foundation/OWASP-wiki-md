@@ -5,7 +5,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_secure_headers_project">OWASP Secure Headers Project</h2>
 <p>The OWASP Secure Headers Project describes HTTP response headers that your application can use to increase the security of your application. Once set, these HTTP response headers can restrict modern browsers from running into easily preventable vulnerabilities. The OWASP Secure Headers Project intends to raise awareness and use of these headers.</p>
 <h2 id="introduction">Introduction</h2>
@@ -14,7 +13,6 @@
 <p>We aim to publish reports on header usage stats, developments and changes. Code libraries that make these headers easily accessible to developers on a range of platforms. Data sets concerning the general usage of these headers.</p>
 <h2 id="licensing">Licensing</h2>
 <p>OWASP Secure Headers is free to use. It is licensed under the <a href="https://github.com/oshp/headers/blob/master/LICENSE">Apache 2.0 License</a>.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_leader">Project Leader</h2>
 <p><a href="User:Riramar" title="wikilink">Ricardo Iramar</a><br />
 <a href="User:Amenezes" title="wikilink">Alexandre Menezes</a></p>
@@ -34,7 +32,6 @@
 <li><a href="https://github.com/riramar/hsecscan">hsecscan A security scanner for HTTP response headers</a></li>
 <li><a href="https://lists.owasp.org/mailman/listinfo/owasp_secure_headers_project">Project Email List</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="news_and_events">News and Events</h2>
 <ul>
 <li>[23 Jul 2018] Included Feature-Policy header</li>
@@ -45,46 +42,7 @@
 <li>[05 Sep 2016] <a href="https://github.com/oshp/">| Project Github Organization</a></li>
 <li>[01 Sep 2016] Included X-Permitted-Cross-Domain-Policies header</li>
 <li>[14 Dec 2015] Reborn from the ashes</li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="New_projects.png" title="New_projects.png" alt="New_projects.png" width="100" /><figcaption>New_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -535,15 +493,15 @@ disable use of various browser features and APIs..
 
 |                                              | Internet Explorer | Edge | Firefox | Chrome | Safari | Opera | Android |
 | -------------------------------------------- | ----------------- | ---- | ------- | ------ | ------ | ----- | ------- |
-| HTTP Strict Transport Security (HSTS)        | 11                |      | 13      |        | 47     |       | 49      |
-| Public Key Pinning Extension for HTTP (HPKP) | NS                |      | NS      |        | 47     |       | 49      |
-| X-Frame-Options                              | 8                 |      | 13      |        | 47     |       | 49      |
-| X-XSS-Protection                             | 8                 |      |         |        | NS     |       | 4+      |
-| X-Content-Type-Options                       | 8                 |      |         |        | 51     |       | 1.0     |
-| Content-Security-Policy                      | 11                |      | 13      |        | 47     |       | 49      |
+| HTTP Strict Transport Security (HSTS)        | 11                | 13   | 47      | 49     | 9.1    | 39    | 4.4     |
+| Public Key Pinning Extension for HTTP (HPKP) | NS                | NS   | 47      | 49     | NS     | 39    | 51      |
+| X-Frame-Options                              | 8                 | 13   | 47      | 49     | 9.1    | 39    | 4.4     |
+| X-XSS-Protection                             | 8                 |      | NS      | 4+     |        |       |         |
+| X-Content-Type-Options                       | 8                 |      | 51      | 1.0    | NS     | 13    |         |
+| Content-Security-Policy                      | 11                | 13   | 47      | 49     | 9.1    | 39    | 4.4     |
 | X-Permitted-Cross-Domain-Policies            |                   |      |         |        |        |       |         |
-| Referrer-Policy                              | NS                |      | NS      |        | 50     |       | 56      |
-| Expect-CT                                    |                   |      |         |        |        |       | 61      |
+| Referrer-Policy                              | NS                | NS   | 50      | 56     | NS     | 43    |         |
+| Expect-CT                                    |                   |      |         | 61     |        | 48    |         |
 | Feature-Policy                               |                   |      |         |        |        |       |         |
 
 NS = Not Supported
@@ -591,59 +549,52 @@ web systems.
 <table>
 <thead>
 <tr class="header">
-<th><p>ead</p></th>
-<th></th>
+<th><p>ead |</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>width="50%" bgcolor="#d9d9d9" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>Analysis Tools</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>hsecscan</strong></p>
 <p><font size="2" style="font-size: 9pt”"> A security scanner for HTTP response headers. </font></p></td>
 </tr>
 <tr class="odd">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>headers</strong></p>
 <p><font size="2" style="font-size: 9pt”"> Python script to get some response headers from Alexa top sites file and store in a MySQL database. </font></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>securityheaders.io</strong></p>
 <p><font size="2" style="font-size: 9pt"> There are services out there that will analyse the HTTP response headers of other sites but I also wanted to add a rating system to the results. The HTTP response headers that this site analyses provide huge levels of protection and it's important that sites deploy them. Hopefully, by providing an easy mechanism to assess them, and further information on how to deploy missing headers, we can drive up the usage of security based headers across the web. </font></p></td>
 </tr>
 <tr class="odd">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>Mozilla Observatory</strong></p>
 <p><font size="2" style="font-size: 9pt"> A Mozilla project designed to help developers, system administrators, and security professionals configure their sites safely and securely. </font></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>High-Tech Bridge Web Security Scanner</strong></p>
 <p><font size="2" style="font-size: 9pt"> An online service that will retrieve and analyse headers syntax and proper configuration in a comprehensive way. It will be able for instance to highlight Public-Key-Pins that matches one certificate of the chain or if Content-Security-Policy contains values that could be unsafe or too permissive. </font></p></td>
 </tr>
 <tr class="odd">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>Check Your Headers</strong></p>
 <p><font size="2" style="font-size: 9pt"> Just another web scanner for HTTP response headers. </font></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>Recx Security Analyser</strong></p>
 <p><font size="2" style="font-size: 9pt"> Chrome extension that allows the inspection of security aspects of a site's HTTP headers, cookies and other key security settings. </font></p></td>
 </tr>
 <tr class="odd">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>KickOff</strong></p>
 <p><font size="2" style="font-size: 9pt"> While each project you launch may have a different feature set, they often share many of the same performance, SEO and security requirements. This tool aims to automate the process of checking your list of requirements shortly before launch or directly after a deployment. </font></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>testssl.sh</strong></p>
 <p><font size="2" style="font-size: 9pt"> Easy to use shell script which tests not only SSL/TLS encryption but also checks common headers and analyzes those. Output is screen, JSON, CSV and HTML. </font></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>DrHEADer</strong></p>
+<p><font size="2" style="font-size: 9pt"> DrHEADer helps with the audit of security headers received in response to a single request or a list of requests. </font></p></td>
 </tr>
 </tbody>
 </table>
@@ -651,82 +602,66 @@ web systems.
 <table>
 <thead>
 <tr class="header">
-<th><p>ead</p></th>
-<th></th>
+<th><p>ead |</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>width="50%" bgcolor="#d9d9d9" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>Development Libraries</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>secureheaders</strong></p>
 <p><font size="2" style="font-size: 9pt"> Security related headers all in one gem. </font></p></td>
 </tr>
 <tr class="odd">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>Security Header Injection Module (SHIM)</strong></p>
 <p><font size="2" style="font-size: 9pt”"> SHIM is a HTTP module that provides protection for many vulnerabilities by injecting security-specific HTTP headers into ASP.NET web applications. </font></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>Spring Security</strong></p>
 <p><font size="2" style="font-size: 9pt”"> Spring Security’s support for adding various security headers to the response. </font></p></td>
 </tr>
 <tr class="odd">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>SecureHeaders</strong></p>
 <p><font size="2" style="font-size: 9pt”"> A PHP class aiming to make the use of browser security features more accessible. </font></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>rack-secure_headers</strong></p>
 <p><font size="2" style="font-size: 9pt”"> Security related HTTP headers for Rack applications. </font></p></td>
 </tr>
 <tr class="odd">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>helmet and hood</strong></p>
 <p><font size="2" style="font-size: 9pt”"> Node.js (express). </font></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>blankie</strong></p>
 <p><font size="2" style="font-size: 9pt”"> A CSP plugin for hapi. </font></p></td>
 </tr>
 <tr class="odd">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>NWebsec</strong></p>
 <p><font size="2" style="font-size: 9pt”"> NWebsec consists of several security libraries for ASP.NET applications. </font></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>django-csp + commonware; django-security</strong></p>
 <p><font size="2" style="font-size: 9pt”"> django-csp + commonware; django-security. </font></p></td>
 </tr>
 <tr class="odd">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>Secure</strong></p>
 <p><font size="2" style="font-size: 9pt”"> Secure is a lightweight package that adds optional security headers and cookie attributes for Python web frameworks. </font></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>secureheader</strong></p>
 <p><font size="2" style="font-size: 9pt”"> Package secureheader adds some HTTP header fields widely considered to improve safety of HTTP requests. </font></p></td>
 </tr>
 <tr class="odd">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>secure_headers</strong></p>
 <p><font size="2" style="font-size: 9pt”"> This Plug will automatically apply several security headers to the Plug.Conn response. By design SecureHeaders will attempt to apply the most strict security policy. Although, security headers are configurable and are validated to avoid misconfiguration. </font></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>dropwizard-web-security</strong></p>
 <p><font size="2" style="font-size: 9pt”"> A bundle for applying default web security functionality to a dropwizard application. </font></p></td>
 </tr>
 <tr class="odd">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>ember-cli-content-security-policy</strong></p>
 <p><font size="2" style="font-size: 9pt”"> This addon makes it easy to use Content Security Policy (CSP) in your project. It can be deployed either via a Content-Security-Policy header sent from the Ember CLI Express server, or as a meta tag in the index.html file. </font></p></td>
 </tr>
@@ -736,17 +671,14 @@ web systems.
 <table>
 <thead>
 <tr class="header">
-<th><p>ead</p></th>
-<th></th>
+<th><p>ead |</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>width="50%" bgcolor="#d9d9d9" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>Operation Tools</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>width="“50%”" style="border: 1.00pt solid #000001; padding: 0.18cm"</p></td>
 <td><p><strong>http_hardening</strong></p>
 <p>&lt;font size="2" style="“font-size:9pt""&gt; Puppet module to enable, configure and manage secure http headers on web servers. </font></p></td>
 </tr>

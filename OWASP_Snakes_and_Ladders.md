@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_snakes_and_ladders">OWASP Snakes and Ladders</h2>
 <p>Snakes and Ladders is an educational project. It uses gamification to promote awareness of application security controls and risks, and in particular knowledge of other OWASP documents and tools.</p>
 <h2 id="editions">Editions</h2>
@@ -29,7 +28,6 @@
 <h2 id="other_security_gamification">Other Security Gamification</h2>
 <p>If you are interested in using gaming for security, also see <a href="https://www.owasp.org/index.php/OWASP_Cornucopia">OWASP Cornucopia</a>, <a href="http://www.microsoft.com/security/sdl/adopt/eop.aspx">Elevation of Privilege: The Threat Modeling Game</a>, <a href="http://securitycards.cs.washington.edu/">Security Cards</a> from the University of Washington, the commercial card game <a href="http://www.controlalthack.com/">Control-Alt-Hack</a> (<a href="http://media.blackhat.com/bh-us-12/Briefings/Kohno/BH_US_12_Kohno_Control_Alt_Hack_Slides.pdf">presentation</a> for latter), and web application security training tools incorporating gamification such as <a href="https://www.owasp.org/index.php/OWASP_Hackademic_Challenges_Project">OWASP Hackademic Challenges Project</a>, <a href="https://www.owasp.org/index.php/OWASP_Security_Shepherd">OWASP Security Shepherd</a> and <a href="http://itsecgames.blogspot.co.uk/">ITSEC Games</a>.</p>
 <p>Additionally, Adam Shostack maintains a list of tabletop security games and related resources at <a href="http://adam.shostack.org/games.html">security games</a>.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_this">What is This?</h2>
 <p>Snakes and Ladders is a popular board game, with <a href="http://en.wikipedia.org/wiki/Snakes_and_Ladders">ancient provenance</a> imported into <a href="http://sandradodd.com/game/snakesandladders">Great Britain from Asia</a> in the 19th century. The original game showed the effects of good and evil, or virtues and vices. This OWASP game is a poster-sized <em>print-your-own</em> paper sheet with the game board on it. Just get some players together with a die and counters. The virtues are application security controls, and the vices are risks.</p>
 <h2 id="how_to_play">How to Play</h2>
@@ -53,24 +51,21 @@
 <li><a href=":Category:OWASP_Top_Ten_Project" title="wikilink">OWASP Top Ten</a></li>
 <li><a href="OWASP_Mobile_Security_Project" title="wikilink">OWASP Mobile Security</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li>Web Applications v1.0/v1.1
 <ul>
 <li><a href="media:OWASP-SnakesAndLadders-WebApplications-BR.pdf" title="wikilink">BR</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-DE.pdf" title="wikilink">DE</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-EN.pdf" title="wikilink">EN</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-ES.pdf" title="wikilink">ES</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-FR.pdf" title="wikilink">FR</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-JA.pdf" title="wikilink">JA</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-TR.pdf" title="wikilink">TR</a>, <a href="media:OWASP-SnakesAndLadders-WebApplications-ZH.pdf" title="wikilink">ZH</a></li>
-<li>{{#switchtablink:Web Applications Edition</li>
+<li>{{#switchtablink:Web Applications Edition|More options...}}</li>
 </ul></li>
-</ul></td>
-<td><p>More options...}}</p>
+</ul>
 <ul>
 <li>Mobile Apps v1.0
 <ul>
 <li><a href="media:OWASP-SnakesAndLadders-MobileApps-EN.pdf" title="wikilink">EN</a>, <a href="media:OWASP-SnakesAndLadders-MobileApps-JA.pdf" title="wikilink">JA</a></li>
-<li>{{#switchtablink:Mobile Apps Edition</li>
+<li>{{#switchtablink:Mobile Apps Edition|More options...}}</li>
 </ul></li>
-</ul></td>
-<td><p>More options...}}</p>
+</ul>
 <h2 id="news_and_events">News and Events</h2>
 <ul>
 <li>[09 May 2018] Web Applications v1.20 released in EN</li>
@@ -96,46 +91,7 @@
 <ul>
 <li><a href="https://twitter.com/OWASPSnakesWeb">@OWASPSnakesWeb</a></li>
 <li><a href="https://twitter.com/OWASPSnakesMob">@OWASPSnakesMob</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="New_projects.png" title="New_projects.png" alt="New_projects.png" width="100" /><figcaption>New_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -163,128 +119,95 @@ Project](:Category:OWASP_Top_Ten_Project "wikilink") 2013-2017).
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" valign="top"</p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-BR.pdf">BR: Português Brasileiro</a></p></td>
-<td><p>align="center" valign="top"</p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-DE.pdf">DE: Deutsch</a></p></td>
-<td><p>align="center" valign="top"</p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-EN.pdf">EN: English</a></p></td>
+<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-BR.pdf">BR: Português Brasileiro</a></p></td>
+<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-DE.pdf">DE: Deutsch</a></p></td>
+<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-EN.pdf">EN: English</a></p></td>
 </tr>
 <tr class="even">
-<td><p>align="center" valign="top"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Osn-webapp-BR.png" title="Osn-webapp-BR.png" alt="Osn-webapp-BR.png" /><figcaption>Osn-webapp-BR.png</figcaption>
 </figure></td>
-<td><p>align="center" valign="top"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Osn-webapp-DE.png" title="Osn-webapp-DE.png" alt="Osn-webapp-DE.png" /><figcaption>Osn-webapp-DE.png</figcaption>
 </figure></td>
-<td><p>align="center" valign="top"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Osn-webapp-EN.png" title="Osn-webapp-EN.png" alt="Osn-webapp-EN.png" /><figcaption>Osn-webapp-EN.png</figcaption>
 </figure></td>
 </tr>
 <tr class="odd">
-<td><p>align="center" valign="top" width="250"</p></td>
-<td><p>Serpentes e Escadas<br />
+<td style="text-align: center;"><p>Serpentes e Escadas<br />
 Aplicativos da Web</p></td>
-<td><p>align="center" valign="top" width="250"</p></td>
-<td><p>Schlangen und Leitern<br />
+<td style="text-align: center;"><p>Schlangen und Leitern<br />
 Web Anwendungen</p></td>
-<td><p>align="center" valign="top" width="250"</p></td>
-<td><p>Snakes and Ladders<br />
+<td style="text-align: center;"><p>Snakes and Ladders<br />
 Web Applications</p></td>
 </tr>
 <tr class="even">
-<td><p><br />
+<td style="text-align: center;"><p><br />
 <br />
 </p></td>
-<td><p><br />
+<td style="text-align: center;"><p><br />
 <br />
 </p></td>
-<td><p><br />
+<td style="text-align: center;"><p><br />
 <br />
 </p></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>align="center" valign="top"</p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-ES.pdf">ES: Español</a></p></td>
-<td><p>align="center" valign="top"</p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-FR.pdf">FR: Français</a></p></td>
-<td><p>align="center" valign="top"</p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-JA.pdf">JA: 日本語</a></p></td>
+<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-ES.pdf">ES: Español</a></p></td>
+<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-FR.pdf">FR: Français</a></p></td>
+<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-JA.pdf">JA: 日本語</a></p></td>
 </tr>
 <tr class="even">
-<td><p>align="center" valign="top"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Osn-webapp-ES.png" title="Osn-webapp-ES.png" alt="Osn-webapp-ES.png" /><figcaption>Osn-webapp-ES.png</figcaption>
 </figure></td>
-<td><p>align="center" valign="top"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Osn-webapp-FR.png" title="Osn-webapp-FR.png" alt="Osn-webapp-FR.png" /><figcaption>Osn-webapp-FR.png</figcaption>
 </figure></td>
-<td><p>align="center" valign="top"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Osn-webapp-JA.png" title="Osn-webapp-JA.png" alt="Osn-webapp-JA.png" /><figcaption>Osn-webapp-JA.png</figcaption>
 </figure></td>
 </tr>
 <tr class="odd">
-<td><p>align="center" valign="top" width="250"</p></td>
-<td><p>Serpientes y Escaleras<br />
+<td style="text-align: center;"><p>Serpientes y Escaleras<br />
 Aplicaciones Web</p></td>
-<td><p>align="center" valign="top" width="250"</p></td>
-<td><p>Serpents et Échelles<br />
+<td style="text-align: center;"><p>Serpents et Échelles<br />
 Application Web</p></td>
-<td><p>align="center" valign="top" width="250"</p></td>
-<td><p>蛇とはしご<br />
+<td style="text-align: center;"><p>蛇とはしご<br />
 ウェブアプリケーション</p></td>
 </tr>
 <tr class="even">
-<td><p><br />
+<td style="text-align: center;"><p><br />
 <br />
 </p></td>
-<td><p><br />
+<td style="text-align: center;"><p><br />
 <br />
 </p></td>
-<td><p><br />
+<td style="text-align: center;"><p><br />
 <br />
 </p></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>align="center" valign="top"</p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-TR.pdf">TR: Türkçe</a></p></td>
-<td><p>align="center" valign="top"</p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-ZH.pdf">ZH: 中文</a></p></td>
-<td><p>align="center" valign="top"</p></td>
-<td></td>
+<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-TR.pdf">TR: Türkçe</a></p></td>
+<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-ZH.pdf">ZH: 中文</a></p></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p>align="center" valign="top"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Osn-webapp-TR.png" title="Osn-webapp-TR.png" alt="Osn-webapp-TR.png" /><figcaption>Osn-webapp-TR.png</figcaption>
 </figure></td>
-<td><p>align="center" valign="top"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Osn-webapp-ZH.png" title="Osn-webapp-ZH.png" alt="Osn-webapp-ZH.png" /><figcaption>Osn-webapp-ZH.png</figcaption>
 </figure></td>
-<td><p>align="center" valign="top"</p></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td><p>align="center" valign="top" width="250"</p></td>
-<td><p>Yılanlar ve Merdivenler<br />
+<td style="text-align: center;"><p>Yılanlar ve Merdivenler<br />
 Web Uygulamaları</p></td>
-<td><p>align="center" valign="top" width="250"</p></td>
-<td><p>蛇梯棋<br />
+<td style="text-align: center;"><p>蛇梯棋<br />
 WEB应用程序</p></td>
-<td><p>align="center" valign="top" width="250"</p></td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -355,27 +278,21 @@ Risks](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project#tab=Top_10_
 <table>
 <tbody>
 <tr class="odd">
-<td><p>align="center" valign="top"</p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-MobileApps-EN.pdf">EN: English</a></p></td>
-<td><p>align="center" valign="top"</p></td>
-<td><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-JA.pdf">JA: 日本語</a></p></td>
+<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-MobileApps-EN.pdf">EN: English</a></p></td>
+<td style="text-align: center;"><p><a href="https://www.owasp.org/index.php/File:OWASP-SnakesAndLadders-WebApplications-JA.pdf">JA: 日本語</a></p></td>
 </tr>
 <tr class="even">
-<td><p>align="center" valign="top"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Osn-mobapp-EN.png" title="Osn-mobapp-EN.png" alt="Osn-mobapp-EN.png" /><figcaption>Osn-mobapp-EN.png</figcaption>
 </figure></td>
-<td><p>align="center" valign="top"</p></td>
-<td><figure>
+<td style="text-align: center;"><figure>
 <img src="Osn-mobapp-JA.png" title="Osn-mobapp-JA.png" alt="Osn-mobapp-JA.png" /><figcaption>Osn-mobapp-JA.png</figcaption>
 </figure></td>
 </tr>
 <tr class="odd">
-<td><p>align="center" valign="top" width="250"</p></td>
-<td><p>Snakes and Ladders<br />
+<td style="text-align: center;"><p>Snakes and Ladders<br />
 Mobile Apps</p></td>
-<td><p>align="center" valign="top" width="250"</p></td>
-<td><p>蛇とはしご<br />
+<td style="text-align: center;"><p>蛇とはしご<br />
 モバイルアプリ版</p></td>
 </tr>
 </tbody>
@@ -471,8 +388,8 @@ time to contribute to the project. It is also important to let the
 Leader know how you would like to contribute and pitch in to help the
 project meet its goals and milestones. There are many different ways you
 can contribute to an OWASP Project, but communication with the leads is
-key. Please see the {{\#switchtablink:Road Map_and Getting Involved
-|road map and getting involved section}}
+key. Please see the {{\#switchtablink:Road Map_and Getting
+Involved|road map and getting involved section}}
 
 ## If I am not a programmer can I participate in your project?
 

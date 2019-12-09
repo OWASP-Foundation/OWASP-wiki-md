@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="the_project_in_a_nutshell">The project in a nutshell</h2>
 <p>The OWASP Top 10 Privacy Risks Project provides a top 10 list for privacy risks in web applications and related countermeasures. It covers technological and organizational aspects that focus on real-life risks, not just legal issues. The Project provides tips on how to implement privacy by design in web applications with the aim of helping developers and web application providers to better understand and improve privacy. The list uses the OECD Privacy Guidelines as a framework and can also be used to assess privacy risks associated with specific web applications.</p>
 <h2 id="top_10_privacy_risks">Top 10 Privacy Risks</h2>
@@ -53,12 +52,10 @@ Stefan Burgmair <a href="mailto:Stefan.Burgmair@owasp.org">@</a></p>
 </ul>
 <h2 id="licensing">Licensing</h2>
 <p>OWASP Top 10 Privacy Risks Project is free to use. It is licensed under the Creative Commons CC-BY-SA v3.0 License.</p></td>
-<td><p>style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="download_infographic_version">Download Infographic version</h2>
 <figure>
 <img src="Top_10_Risks.png" title="Top_10_Risks.png" alt="Top_10_Risks.png" width="200" /><figcaption>Top_10_Risks.png</figcaption>
 </figure></td>
-<td><p>style="padding-left:25px;width:200px;" valign="top"</p></td>
 <td><h2 id="news_events">News &amp; Events</h2>
 <ul>
 <li>[20 Feb 2014] Project Start</li>
@@ -72,46 +69,7 @@ Stefan Burgmair <a href="mailto:Stefan.Burgmair@owasp.org">@</a></p>
 <a href="https://www.youtube.com/watch?v=mO7bjmUAq-Q">Video from IPEN workshop at Berlin state parliament</a><br />
 <a href="https://www.youtube.com/watch?v=6SEdnWlSZyk">Video from panel discussion at CPDP 2015 in Brussels</a><br />
 <a href="https://www.youtube.com/watch?v=WXSZiWNyPZA">Video from presentation at AppSec EU 2015</a><br />
-<a href="https://privacyscore.org/">Check your website with PRIVACYSCORE</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Midlevel_projects.png" title="Midlevel_projects.png" alt="Midlevel_projects.png" width="100" /><figcaption>Midlevel_projects.png</figcaption>
-</figure></td>
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<a href="https://privacyscore.org/">Check your website with PRIVACYSCORE</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -547,7 +505,7 @@ Some ways you can help:
   - Apply the results in practice to improve web application privacy
 
 Sign up to our [mailing
-list](https://lists.owasp.org/mailman/listinfo/owasp_top_10_privacy_risks_project)
+list](https://groups.google.com/a/owasp.org/forum/#!forum/top-10-privacy-risks-project/join)
 to stay informed.
 
 ## Discussions and Documentation
@@ -556,6 +514,8 @@ To avoid overwriting issues we use Google Docs for our discussions.
 
 ### Current discussions
 
+Privacy Risk Candidate List 2019:
+<https://docs.google.com/document/d/1eEU7TsoaPG56-zhJi4bi1SD53Jto84GQ8dDGTajL8TY/edit>
 Method Update 2019:
 <https://docs.google.com/document/d/1AlAg2cybvo5VX-frzF5uHeAcib3X2rTAA2p97XH8fHw/edit>
 

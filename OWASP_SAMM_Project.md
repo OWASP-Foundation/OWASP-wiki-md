@@ -9,11 +9,13 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><div style="font-size:120%;border:none;margin: 0;color:#000">
-<p><strong>OWASP SAMMv2 beta released for community review</strong><br />
+<p><strong>Join us at the Open Security Summit next June</strong><br />
+We have a dedicated <a href="https://opensecuritysummit.org/tracks/owasp-samm/">SAMM track</a> at the upcoming Open Security Summit (supported by OWASP)!<br />
+You can register for on-site or remote participation <a href="https://opensecuritysummit.org/tickets/">here</a>.<br />
+<strong>OWASP SAMMv2 beta released for community review</strong><br />
 We are very proud to announce a new version of SAMM!<br />
-Check it out on our new website: <a href="https://owaspsamm.org/"><a href="https://owaspsamm.org/">https://owaspsamm.org/</a></a>.<br />
+Check it out on our new website: <a href="https://owaspsamm.org/">https://owaspsamm.org/</a>.<br />
 Please, read our notes on how to provide <a href="https://owaspsamm.org/v2.0b/feedback/">feedback</a>.</p>
 <p><strong>OWASP SAMM v1.5 available in the downloads section!</strong><br />
 We are now working on the Beta release of OWASP SAMMv2, our work in progress is available <a href="https://owaspsamm.org">online on our new web site</a>.<br />
@@ -31,10 +33,9 @@ We are now working on the Beta release of OWASP SAMMv2, our work in progress is 
 <li>Join our project slack channel on <a href="https://owasp.slack.com/messages/C0VF1EJGH">https://owasp.slack.com/messages/C0VF1EJGH</a></li>
 <li>If you do not have an OWASP Slack workspace account yet, contact one of our project leaders to get an invite link.</li>
 </ul>
-<p><strong>2018 OWASP SAMM Summit (4-8 JUNE 2018, London)</strong></p>
+<p><strong>2019 OWASP SAMM Summit (3-7 JUNE 2019, Bedford, UK)</strong></p>
 <ul>
-<li>Join our 2018 OWASP SAMM Summit near London as part of the <a href="https://open-security-summit.org/">Open Security Summit</a>.<br />
-</li>
+<li>Join our 2019 OWASP SAMM Summit at Woburn Forest, Bedfordshire as part of the <a href="https://open-security-summit.org/">Open Security Summit</a>.</li>
 <li>We will organize working sessions in a 5-day sprint to draft SAMM v2.0.</li>
 <li>Register online <a href="https://open-security-summit.org/tickets/">here</a></li>
 <li>Sponsor the SAMM2, more details <a href="https://www.owasp.org/index.php/OWASP_SAMM_Project#tab=Project_Sponsors">here</a></li>
@@ -48,7 +49,6 @@ We are now working on the Beta release of OWASP SAMMv2, our work in progress is 
 </ul>
 <p><em>Dell uses OWASP’s Software Assurance Maturity Model (Owasp SAMM) to help focus our resources and determine which components of our secure application development program to prioritize.</em>, (<strong>Michael J. Craigue, Information Security &amp; Compliance, Dell, Inc.</strong>)</p>
 <p>Follow OWASP SAMM on twitter: <a href="https://twitter.com/owaspsamm">@owaspsamm</a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download_v1.5">Quick Download v1.5</h2>
 <p><a href="https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/OWASP_SAMM_v1.5.zip">All SAMM v1.5 files (.zip)</a><br />
 <a href="https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/SAMM_Core_V1-5_FINAL.pdf">SAMM Core Model</a><br />
@@ -79,50 +79,7 @@ We are now working on the Beta release of OWASP SAMMv2, our work in progress is 
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <li></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-flagship-trans-85.png" title="Owasp-flagship-trans-85.png" alt="Owasp-flagship-trans-85.png" /><figcaption>Owasp-flagship-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="center" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="center" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -147,21 +104,21 @@ associated assurance benefits, estimate personnel and other costs.
 |                                                                                                  |
 | ------------------------------------------------------------------------------------------------ |
 | [<https://www.owasp.org/images/f/f7/G.png>](https://www.owasp.org/index.php/SAMM_-_Governance)   |
-| align="center"                                                                                   |
-| align="center"                                                                                   |
-| align="center"                                                                                   |
+| **Strategy & Metrics**                                                                           |
+| **Policy & Compliance**                                                                          |
+| **Education & Guidance**                                                                         |
 | [<https://www.owasp.org/images/e/ee/C.png>](https://www.owasp.org/index.php/SAMM_-_Construction) |
-| align="center"                                                                                   |
-| align="center"                                                                                   |
-| align="center"                                                                                   |
+| **Threat Assessment**                                                                            |
+| **Security Requirements**                                                                        |
+| **Secure Architecture**                                                                          |
 | [<https://www.owasp.org/images/8/83/V.png>](https://www.owasp.org/index.php/SAMM_-_Verification) |
-| align="center"                                                                                   |
-| align="center"                                                                                   |
-| align="center"                                                                                   |
+| **Design Review**                                                                                |
+| **Code Review**                                                                                  |
+| **Security Testing**                                                                             |
 | [<https://www.owasp.org/images/5/54/D.png>](https://www.owasp.org/index.php/SAMM_-_Deployment)   |
-| align="center"                                                                                   |
-| align="center"                                                                                   |
-| align="center"                                                                                   |
+| **Vulnerability Management**                                                                     |
+| **Environment Hardening**                                                                        |
+| **Operational Enablement**                                                                       |
 |                                                                                                  |
 
 # Downloads
@@ -298,8 +255,14 @@ Tools:
 
 ![OwaspSAMM.png](OwaspSAMM.png "OwaspSAMM.png")
 
-Our last summit was in November 2018 in Minneapolis, check out the
-details
+**Join us at the Open Security Summit next June**
+We have a dedicated [SAMM
+track](https://opensecuritysummit.org/tracks/owasp-samm/) at the
+upcoming Open Security Summit (supported by OWASP)\!
+You can register for on-site or remote participation
+[here](https://opensecuritysummit.org/tickets/).
+We organised a core team summit in November 2018 in Minneapolis, check
+out the results
 [here](https://github.com/OWASP/samm/blob/master/Supporting%20Resources/v2.0/summit-201810-Minneapolis/Summit-outcomes.md).
 
 In 2016 we organized our second OWASP SAMM Summit in New York on 20-21
@@ -559,8 +522,11 @@ For more information: Contact <seba@owasp.org>
 We would like to thank the following sponsors who donated funds to our
 project:
 
-![Fortify_blue_800px.png](Fortify_blue_800px.png
-"Fortify_blue_800px.png")
+![Imageedit_15_5335623074.png](Imageedit_15_5335623074.png
+"Imageedit_15_5335623074.png")![Fortify_blue_800px.png](Fortify_blue_800px.png
+"Fortify_blue_800px.png")![1280px-NCC_Group_logo.svg.png](1280px-NCC_Group_logo.svg.png
+"1280px-NCC_Group_logo.svg.png")![Splunk_copy.png](Splunk_copy.png
+"Splunk_copy.png")
 
 __NOTOC__ <headertabs></headertabs>
 

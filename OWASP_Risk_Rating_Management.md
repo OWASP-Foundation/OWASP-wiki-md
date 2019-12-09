@@ -1,6 +1,23 @@
-# Main
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p><br />
+</p></th>
+<th style="text-align: center;"><p><br />
+</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><figure>
+<img src="OWASP_Inactive_Banner.jpg" title="OWASP_Inactive_Banner.jpg" alt="OWASP_Inactive_Banner.jpg" width="800" /><figcaption>OWASP_Inactive_Banner.jpg</figcaption>
+</figure></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
 
-## Discontinue Project
+# Main
 
 <div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
 
@@ -12,7 +29,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><p><strong>OWASP Risk Rating Management Project</strong></p>
 <p>OWASP Risk Rating Management Project is a framework projects aim to educate user who want to assessment web application using owasp risk rating model.</p>
 <h2 id="owasp_project_template">OWASP Project Template</h2>
@@ -20,7 +36,6 @@
 <h2 id="licensing">Licensing</h2>
 <p><span style="color:#ff0000"></p>
 <p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.gnu.org/licenses/agpl-3.0.html">link GNU Affero General Public License 3.0</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP XXX and any contributions are Copyright © by {the Project Leader(s) or OWASP} {Year(s)}.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><span style="color:#ff0000"></p>
 <h2 id="project_leader">Project Leader</h2>
@@ -35,37 +50,7 @@
 <ul>
 <li><a href="OWASP_Risk_Rating_Methodology" title="wikilink">OWASP Risk Rating Methodology</a></li>
 <li><a href="OWASP_Security_Knowledge_Framework" title="wikilink">OWASP Security Knowledge Framework</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Agplv3-155x51.png" title="Agplv3-155x51.png" alt="Agplv3-155x51.png" /><figcaption>Agplv3-155x51.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
+</ul></td>
 <td><h2 id="news_and_events">News and Events</h2>
 <p><span style="color:#ff0000"></p></td>
 </tr>

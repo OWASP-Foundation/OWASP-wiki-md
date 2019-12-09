@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><p><a href="file:VBScan_Logo.png" title="wikilink">right</a></p>
 <div class="plainlinks">
 <p><strong>Share this:</strong>  <span title="Share via e-mail" class="plainlinks"><img src="social-email.png" title="fig:E-mail this story" alt="E-mail this story" /></span> <span title="Share on Facebook"><img src="social-facebook.png" title="fig:Bookmark with Facebook" alt="Bookmark with Facebook" /></span> <span  title="Share on Digg"><img src="social-digg.png" title="fig:Share on Digg.com" alt="Share on Digg.com" /></span> <span  title="Share on delicious"><img src="social-delicious.png" title="fig:social-delicious.png" alt="social-delicious.png" width="16" /></span> <span  title="Share on reddit"><img src="social-reddit.png" title="fig:Share on reddit.com" alt="Share on reddit.com" /></span> <span  title="Share on StumbleUpon"><img src="social-stumbleupon.png" title="fig:social-stumbleupon.png" alt="social-stumbleupon.png" width="16" /></span> <span  title="Share on LinkedIn"><img src="social-linkedin.png" title="fig:social-linkedin.png" alt="social-linkedin.png" width="16" /></span> <span title="Share on Twitter"><img src="social-twitter.png" title="fig:social-twitter.png" alt="social-twitter.png" /></span> <span title="Seed on Newsvine"><img src="social-newsvine.png" title="fig:social-newsvine.png" alt="social-newsvine.png" width="16" /></span></p>
@@ -38,8 +37,8 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://www.youtube.com/watch?v=NGEtJoGL2yA">YouTube Video</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=SirozqDYERA">YouTube Video</a></p></td>
+<td><p>{{#ev:youtube|NGEtJoGL2yA}} </p></td>
+<td><p>{{#ev:youtube|SirozqDYERA}}</p></td>
 </tr>
 </tbody>
 </table>
@@ -49,7 +48,6 @@
 <p>'''The OWASP Security Principles are free to use. In fact it is encouraged</p></td>
 <td><p>! '' Additionally, I also encourage you to contribute back to the project. I have no monopoly on this knowledge; however, we all have pieces of this knowledge from our experience. Let's begin by putting our individual pieces together to make something great. Great things happen when people work together.</p>
 <p>The OWASP Security Principles are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</a> Creative Commons Attribution-ShareAlike 3.0 license], so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <p><a href="https://github.com/rezasp/vbscan">Github Page.</a></p>
 <p>[Download Page.]</p>
@@ -63,37 +61,7 @@
 <ul>
 <li><a href="https://github.com/TahaDaneshnia">Taha Daneshnia</a></li>
 <li><a href="https://github.com/saturn99">saturn99</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Agplv3-155x51.png" title="Agplv3-155x51.png" alt="Agplv3-155x51.png" /><figcaption>Agplv3-155x51.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
+</ul></td>
 <td><h2 id="news_and_events">News and Events</h2>
 <ul>
 <li>VBScan 0.1.8 - "Self Challenge" Released</li>

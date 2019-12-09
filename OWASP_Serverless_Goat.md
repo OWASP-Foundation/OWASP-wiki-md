@@ -7,7 +7,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="introduction">Introduction</h2>
 <p>OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP.</p>
 <p>You can install ServerlessGoat, learn about the vulnerabilities, how to exploit them, and how to remediate each issue. The project also includes documentation explaining the issues and how they should be remediated with best-practices.</p>
@@ -62,7 +61,6 @@
 <p>You can find a full walkthrough (with spoilers of course) in the <a href="https://github.com/OWASP/Serverless-Goat/blob/master/LESSONS.md">LESSONS.md</a> file in the Git repo</p>
 <h2 id="getting_involved">Getting Involved</h2>
 <p>You do not have to be a security expert or a programmer to contribute. Contact the Project Leader(s) to get involved, we welcome any type of suggestions and comments.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><strong>1-click installation</strong> on your own AWS account via the <a href="https://serverlessrepo.aws.amazon.com/applications/arn:aws:serverlessrepo:us-east-1:761130837472:applications~serverless-goat">AWS Serverless App Repository</a></p>
 <p>A <strong>live version</strong> of the application is hosted by PureSec at: <a href="https://www.serverless-hack.me/">https://www.serverless-hack.me/</a></p>
@@ -71,36 +69,7 @@
 <h2 id="project_mailing_list">Project Mailing List</h2>
 <p>TBD</p>
 <h2 id="github_repo">Github Repo</h2>
-<p><a href="https://github.com/OWASP/Serverless-Goat">Project GitHub</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Agplv3-155x51.png" title="Agplv3-155x51.png" alt="Agplv3-155x51.png" /><figcaption>Agplv3-155x51.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+<p><a href="https://github.com/OWASP/Serverless-Goat">Project GitHub</a></p></td>
 </tr>
 </tbody>
 </table>

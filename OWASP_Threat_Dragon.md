@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_threat_dragon_project">OWASP Threat Dragon Project</h2>
 <p>An online threat modelling web application including system diagramming and a rule engine to auto-generate threats/mitigations. The focus will be on great UX a powerful rule engine and alignment with other development lifecycle tools.</p>
 <h2 id="description">Description</h2>
@@ -35,7 +34,6 @@
 </ul>
 <h2 id="licensing">Licensing</h2>
 <p>This program is free software: you can redistribute it and/or modify it under the terms of the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2.0 License</a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p>The source code for the project can be found here:</p>
 <p><a href="https://github.com/mike-goodwin/owasp-threat-dragon">https://github.com/mike-goodwin/owasp-threat-dragon</a></p>
@@ -45,25 +43,7 @@
 <p><a href="http://docs.threatdragon.org">http://docs.threatdragon.org</a></p>
 <h2 id="project_leader">Project Leader</h2>
 <p><a href="mailto:mike.goodwin@owasp.org">Mike Goodwin</a></p>
-<h2 id="related_projects">Related Projects</h2>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
+<h2 id="related_projects">Related Projects</h2></td>
 <td><h2 id="news_and_events">News and Events</h2></td>
 </tr>
 </tbody>
@@ -109,20 +89,27 @@ Milestone 1: Alpha release - Basic threat modelling experience
 
   - Architecture review of the existing prototype with refinement/change
     where required - **complete: Confirmed JointJs works fine, Storage
-    model changed and addition of Electon based desktop variant. TBC
-    replacement for Nools rule engine, since it is no longer maintained,
-    shift from Grunt/Bower to NPM/Browserify**
+    model changed and addition of Electon based desktop variant. Nools
+    rule engine (no longer supported) replaced by
+    [json-rules-engine](https://github.com/cachecontrol/json-rules-engine).
+    Shifted from Grunt/Bower to NPM/Browserify**
   - Secure design review and implementation of findings
   - Development of tests (unit and manual) - **complete: [Codecov
     report](https://codecov.io/github/mike-goodwin/owasp-threat-dragon?branch=master)**
   - Draft end user documentation - **complete: [GitHub
     pages](http://mike-goodwin.github.io/owasp-threat-dragon/)**
   - "Publicity drive" to sign up alpha/beta users and generate feedback
+    - **Some progress on this. The desktop app has had 13k downloads -
+    unclear how many people are actually using it. The GH repo for the
+    desktop version has 79 stars. The web version gets about 94 unique
+    visitors per day on average and the GH repo has 229 stars.**
 
 Milestone 2: Beta release - Threat/mitigation rule engine
 
   - Refinement of UX based on feedback from the alpha release
   - (Some) feature enhancements based on feedback from the alpha release
+    - **Implemented some feature requests (e.g. snap-to-grid) and fixed
+    issues reports (e.g. save bugs) by users**
   - Implementation of a rule engine for generation of
     threats/mitigations
   - Updated tests and end-user documentation

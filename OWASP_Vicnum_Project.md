@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_vicnum_project">OWASP Vicnum Project</h2>
 <p>OWASP Vicnum Project is a collection of intentionally vulnerable web applications and will now includes an intentionally vulnerable web API.</p>
 <h2 id="introduction">Introduction</h2>
@@ -57,7 +56,6 @@
 <p>Nicole Becher</p>
 <h2 id="related_projects">Related Projects</h2>
 <p><a href="https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project">https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project</a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_downloads">Quick Downloads</h2>
 <p><a href="http://vicnum.sourceforge.net/">http://vicnum.sourceforge.net/</a> for a VM of early Vicnum applications such as Guessnum, Jotto, and the Union Challenge</p>
 <p><a href="https://github.com/mordecai/vicnum">https://github.com/mordecai/vicnum</a> for the Guessnum, Jotto, and the Union Challenge code</p>
@@ -67,46 +65,7 @@
 <h2 id="news_and_events">News and Events</h2>
 <h2 id="sponsored_by">Sponsored By</h2>
 <p>This project is sponsored by CipherTechs.</p>
-<p><a href="http://www.ciphertechs.com/">http://www.ciphertechs.com/</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p><a href="http://www.ciphertechs.com/">http://www.ciphertechs.com/</a></p></td>
 </tr>
 </tbody>
 </table>

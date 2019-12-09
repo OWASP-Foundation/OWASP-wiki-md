@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_serverless_top_10___first_released">OWASP Serverless Top 10 - First Released</h2>
 <p>The <a href="https://www.owasp.org/images/5/5c/OWASP-Top-10-Serverless-Interpretation-en.pdf">OWASP Top 10: Serverless Interpretation</a> is now available.</p>
 <h2 id="introduction">Introduction</h2>
@@ -25,11 +24,10 @@
 <h2 id="project_sponsors">Project Sponsors</h2>
 <p>The OWASP Serverless Top 10 project is sponsored by</p>
 <p><img src="Protego_logo_black.png" title="fig:Protego_logo_black.png" alt="Protego_logo_black.png" />                 <img src="PureSec-Logo.png" title="fig:PureSec-Logo.png" alt="PureSec-Logo.png" />                 <img src="Whitesource_logo_rgb-02.png" title="fig:Whitesource_logo_rgb-02.png" alt="Whitesource_logo_rgb-02.png" /></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="quick_downloads">Quick Downloads</h2>
 <p><a href="https://www.owasp.org/images/5/5c/OWASP-Top-10-Serverless-Interpretation-en.pdf">OWASP Top 10: Serverless Interpretation</a></p>
 <h2 id="presentation">Presentation</h2>
-<p>Soon!</p>
+<p><a href="https://www.owasp.org/images/1/1e/OWASP_DC_SLS_Top10.pdf">Download</a></p>
 <h2 id="news_events">News &amp; Events</h2>
 <ul>
 <li>[01 Sep 2018]: Hello World! Project was donated by <a href="https://protego.io">Protego Labs</a></li>
@@ -45,49 +43,18 @@
 <p><a href="User:MarcinHoppe" title="wikilink">Marcin Hoppe</a></p>
 <p><a href="Coming_soon!" title="wikilink">Coming soon!</a></p>
 <h2 id="related_projects">Related Projects</h2>
-<p><a href=":Category:OWASP_Top_Ten_Project" title="wikilink">OWASP Top 10 Project</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p><a href=":Category:OWASP_Top_Ten_Project" title="wikilink">OWASP Top 10 Project</a></p></td>
 </tr>
 </tbody>
 </table>
+
+# Translation Efforts
+
+  - <b>Chinese:</b> <u>[OWASP Top 10 - Serverless Interpretation
+    中文版（PDF)](https://www.owasp.org/images/2/23/OWASP-Top-10-Serverless-Interpretation-cn-v1.0.pdf)</u>
+
+项目牵头人：肖文棣、王颉（wangj@owasp.org.cn）
+项目组成员：刘晓辉、李宇全、明敏、王斌（排名不分先后，按姓氏拼音排列）
 
 # Acknowledgments
 

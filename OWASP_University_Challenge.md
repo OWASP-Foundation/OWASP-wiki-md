@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_university_challenge">OWASP University Challenge</h2>
 <p>The University Challenge is a competition among teams comprised of university students that will be held during the training days of the larger OWASP AppSec conferences (AppSec US, AppSec EU, …).</p>
 <ul>
@@ -35,7 +34,6 @@
 <p>The OWASP University Challenge is a one or two day mission style security challenge event during the AppSec conferences training days! University / Student teams can compete solving hack challenges and defending insecure applications.</p>
 <h2 id="attack_defense_system">Attack-Defense System</h2>
 <p><img src="Attack-Defense.png" title="fig:Attack-Defense.png" alt="Attack-Defense.png" />The challenges are even more dynamic and realistic now. Instead of just solving different security challenges, teams carry out a virtual online battle against each other in an attack-defense based competition, also known as CTF system. If you are interested to learn more about the CTF system, you will find here more information: <a href="http://www.hacking-lab-ctf.com">CTF System</a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_the_owasp_uc">What is the OWASP UC?</h2>
 <ul>
 <li><a href="https://www.owasp.org/index.php/OWASP_Hacking_Lab">OWASP Hacking-Lab</a></li>
@@ -53,49 +51,9 @@
 <p><a href="mailto:Mateo.martinez@owasp.org">Mateo Martinez</a></p>
 <h2 id="related_projects">Related Projects</h2>
 <p><a href="OWASP_Student_Chapters_Program" title="wikilink">OWASP Student Chapters Program</a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <h2 id="news_and_events">News and Events</h2>
-<h2 id="in_print">In Print</h2>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<h2 id="in_print">In Print</h2></td>
 </tr>
 </tbody>
 </table>

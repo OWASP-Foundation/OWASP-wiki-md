@@ -2,7 +2,7 @@
 
 </div>
 
-# OWASP 24/7 Channel
+# DevSecOps Podcast Series
 
 <div style="width:100%;height:160px;border:0,margin:0;overflow: hidden;">
 
@@ -11,270 +11,354 @@
 
 </div>
 
-"OWASP 24/7" is series of recorded broadcasts, highlighting OWASP
-projects and people from around the world. The OWASP 24/7 "channel" is
-available on demand, at anytime, anywhere on the planet. You are welcome
-to embed the broadcasts on your page, download them for your personal
-listening or keep up to date by subscribing to the iTunes channel.
+The DevSecOps Podcast is series of recorded broadcasts, highlighting
+OWASP projects and chapters, and DevSecOps practitioners from around the
+world. The DevSecOps Podcast is available on demand, at anytime,
+anywhere on the planet. You are welcome to embed the broadcasts on your
+page, download them for your personal listening or keep up to date by
+subscribing to the [SoundCloud
+Channel](https://soundcloud.com/owasp-podcast).
 
 **Listen to [All Available
 Broadcasts](https://soundcloud.com/owasp-podcast) or choose a single
 episode below**
 
-\# [Expanding Community Engagement at OWASP w/ Greg
-Anderson](http://www.sonatype.org/nexus/2017/11/30/expanding-community-engagement-at-owasp-w-greg-anderson-podcast/)
-
-1.  [Thoughts on Security in the Modern Software Supply Chain with
+1.  [How to Engage 4000 Developers in One
+    Day](https://www.devsecopsdays.com/devsecops-podcast-gallery/podcasts/how-to-engage-4000-in-one-day)
+2.  [Code Rush, DevOps and Google: Software in the Fast
+    Lane](https://www.devsecopsdays.com/devsecops-podcast-gallery/podcasts/code-rush-devops-and-google-software-in-the-fast-lane)
+3.  [The Unicorn Project w/ Gene
+    Kim](https://www.devsecopsdays.com/devsecops-podcast-gallery/podcasts/the-unicorn-project-w/-gene-kim-podcast)
+4.  [DevOps, DevSecOps and the Year Ahead w/ Sacha
+    Labourey](https://www.devsecopsdays.com/devsecops-podcast-gallery/podcasts/devops-devsecops-and-the-year-ahead-with-sacha-labourey)
+5.  [Is it time to trust Equifax again? You
+    decide.](https://www.devsecopsdays.com/devsecops-podcast-gallery/podcasts/is-it-time-to-trust-equifax-again)
+6.  [2019 Global AppSec Conference,
+    DC](https://www.devsecopsdays.com/devsecops-podcast-gallery/podcasts/2019-global-appsec-conf-dc)
+7.  [State of the Software Supply Chain
+    Report](https://www.devsecopsdays.com/devsecops-podcast-gallery/podcasts/2019-state-of-the-software-supply-chain-podcast)
+8.  [The Vanity of Diversity w/ Loni
+    Rosales](https://soundcloud.com/owasp-podcast/the-vanity-of-diversity)
+9.  [Create and Manage Internal Tech
+    Conferences](https://soundcloud.com/owasp-podcast/creating-internal-tech-conferences)
+10. [Securing the Software Supply Chain - Live Panel for International
+    Conference on Cyber
+    Engagement](https://soundcloud.com/owasp-podcast/securing-the-software-supply-chain-live-panel-for-international-conference-on-cyber-engagement)
+11. [Tel Aviv and the 2019 Global AppSec
+    Conference](https://soundcloud.com/owasp-podcast/tel-aviv-and-the-2019-global-appsec-conference)
+12. [Perspectives on the "Sec" in DevSecOps w/ Tanya
+    Janca](https://soundcloud.com/owasp-podcast/persectives-on-the-sec-in-devsecops-w-tanya-janca)
+13. [2019 Open Security Summit
+    Preview](https://soundcloud.com/owasp-podcast/2019-open-security-summit-preview)
+14. [What is an SBOM and Why Should You Care? w/ Allan
+    Friedman](https://soundcloud.com/owasp-podcast/what-is-an-s-bom-and-why-should-you-care-w-allan-friedman)
+15. [What is Chaos Engineering, an Interview with Casey
+    Rosenthal](https://soundcloud.com/owasp-podcast/what-is-chaos-engineering-an-interview-with-casey-rosenthal)
+16. [Ladies of London Hacking Society w/ Eliza-May
+    Austin](https://soundcloud.com/owasp-podcast/ladies-of-london-hacking-society-w-eliza-may-austin)
+17. [Anticipating Failure through Threat Modeling w/ Adam
+    Shostack](https://soundcloud.com/owasp-podcast/anticipating-failure-through-threat-modeling-w-adam-shostack)
+18. [We Are All Special Snowflakes with Chris
+    Roberts](https://soundcloud.com/owasp-podcast/we-are-all-special-snowflakes-with-chris-roberts)
+19. [A Concise Introduction to
+    DevSecOps](https://soundcloud.com/owasp-podcast/a-concise-introduction-to-devsecops)
+20. [What's In Store for the AppSec Cali Conference w/ Richard
+    Greenberg](https://soundcloud.com/owasp-podcast/whats-in-store-for-the-appsec-cali-conference-w-richard-greenberg)
+21. [Epic Failures in DevSecOps w/ Aubrey
+    Stearn](https://soundcloud.com/owasp-podcast/epic-failures-in-devsecops-w-aubrey-stearn)
+22. [Strategic Asymetry - Leveling the Playing Field w/ Chetan
+    Conikee](https://soundcloud.com/owasp-podcast/strategic-asymetry-leveling-the-playing-field-w-chetan-conikee)
+23. [Threat Modeling - A Disaster Story with Edwin
+    Kwan](https://soundcloud.com/owasp-podcast/threat-modeling-a-disaster-story-with-edwin-kwan)
+24. [The DevSecOps Unicorn Rodeo w/ Stefan
+    Streichsbier](https://soundcloud.com/owasp-podcast/the-devsecops-unicorn-rodeo-w-stefan-streichsbier)
+25. [The DevSecOps Experiment with DJ
+    Schleen](https://soundcloud.com/owasp-podcast/the-devsecops-experiment)
+26. [Open Source Vulnerabilities - Who is Ultimately
+    Responsible](https://soundcloud.com/owasp-podcast/open-source-vulnerabilities-who-is-ultimately-responsible)
+27. [event-stream: Analysis of a Compromised npm
+    Package](https://soundcloud.com/owasp-podcast/event-stream-analysis-of-a-compromised-npm-package)
+28. [Spy vs Spy in Application Security: Harvesting
+    Adversaries](https://soundcloud.com/owasp-podcast/spy-vs-spy-harvesting-adversaries)
+29. [Moving from Projects to Products w/ Mik
+    Kersten](https://soundcloud.com/owasp-podcast/moving-from-projects-to-products-w-mik-kersten)
+30. [The Journey to Open Source at Capital One w/ Tapabrata "Topo"
+    Pal](https://soundcloud.com/owasp-podcast/the-journey-to-open-source-at-capital-one-w-tapabrata-topo-pal)
+31. [The Future of Software and DevOps / with Sacha
+    Labourey](https://soundcloud.com/owasp-podcast/the-future-of-software-and-devops-with-sacha-labourey)
+32. [How to Build Chapter Engagement at
+    OWASP](https://soundcloud.com/owasp-podcast/how-to-build-chapter-engagement-at-owasp)
+33. [A Message from the Executive
+    Producer](https://soundcloud.com/owasp-podcast/a-message-from-the-executive-producer)
+34. [2018 AppSec EU London - Conference
+    Preview](https://soundcloud.com/owasp-podcast/2018-appsec-eu-london-conference-preview)
+35. [Steps to Responsible Disclosure with Bas van Schaik,Man Yue Mo and
+    Brian
+    Fox](https://soundcloud.com/owasp-podcast/steps-to-responsible-disclosure-with-bas-van-schaikman-yue-mo-and-brian-fox)
+36. [RSAC 2018 - Preview of Opening Session for DevOps Connect:
+    DevSecOps
+    Day](https://soundcloud.com/owasp-podcast/rsac-2018-preview-of-opening-session-for-devops-connect-devsecops-day)
+37. [HackNYC 2018: Preview with Kevin E.
+    Greene](https://soundcloud.com/owasp-podcast/hacknyc-2018-preview-with-kevin-e-greene)
+38. [HackNYC 2018: Preview with Dr. Bill
+    Curtis](https://soundcloud.com/owasp-podcast/hacknyc-2018-preview-with-dr-bill-curtis)
+39. [The OpenChain Project with Shane
+    Coughlan](https://soundcloud.com/owasp-podcast/the-openchain-project-with-shane-coughlan)
+40. [Expanding Community Engagement at OWASP w/ Greg
+    Anderson](http://www.sonatype.org/nexus/2017/11/30/expanding-community-engagement-at-owasp-w-greg-anderson-podcast/)
+41. [Thoughts on Security in the Modern Software Supply Chain with
     Caroline Wong and Paula
     Thrasher](http://www.sonatype.org/nexus/2017/11/16/thoughts-on-security-in-the-modern-software-supply-chain-with-caroline-wong-and-paula-thrasher/)
-2.  [Security Processes at the Apache Software Foundation w/ Mark Thomas
+42. [Security Processes at the Apache Software Foundation w/ Mark Thomas
     and Brian
     Fox](https://soundcloud.com/owasp-podcast/security-processes-at-the-apache-software-foundation-w-mark-thomas-and-brian-fox)
-3.  [Struts2 Vulnerabilities: Who Is
+43. [Struts2 Vulnerabilities: Who Is
     Responsible?](https://soundcloud.com/owasp-podcast/struts2-vulnerabilities-who-is-responsible)
-4.  [What you should know about the latest struts 2 vulnerability
+44. [What you should know about the latest struts 2 vulnerability
     announcement](https://soundcloud.com/owasp-podcast/what-you-should-know-about-the-latest-struts-2-vulnerability-announcement)
-5.  [OWASP Hacker Kids in
+45. [OWASP Hacker Kids in
     Bangalore](https://soundcloud.com/owasp-podcast/owasp-hacker-kids-in-bangalore)
-6.  [Less than 10 Minutes Series: OWASP DockerHub with Simon
+46. [Less than 10 Minutes Series: OWASP DockerHub with Simon
     Bennetts](https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-owasp-dockerhub-with-simon-bennetts)
-7.  [Less than 10 Minutes Series - ModSecurity Core Rule Set
+47. [Less than 10 Minutes Series - ModSecurity Core Rule Set
     Project](https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-core-rule-set-project)
-8.  [Less than 10 Minutes Series: OWASP
+48. [Less than 10 Minutes Series: OWASP
     Summit 2017](https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-owasp-summit-2017)
-9.  [Less than 10 Minutes Series: WebGoat
+49. [Less than 10 Minutes Series: WebGoat
     Project](https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-webgoat-project)
-10. [Less than 10 Minutes Series: Vicnum
+50. [Less than 10 Minutes Series: Vicnum
     Project](https://soundcloud.com/owasp-podcast/vicnum-project)
-11. [Less than 10 Minutes Series: Defect Dojo
+51. [Less than 10 Minutes Series: Defect Dojo
     Project](https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-defect-dojo-project)
-12. [Less than 10 Minutes Series: Virtual Village
+52. [Less than 10 Minutes Series: Virtual Village
     Project](https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-virtual-village-project)
-13. [Less than 10 Minutes Series: The Juice Shop
+53. [Less than 10 Minutes Series: The Juice Shop
     Project](https://soundcloud.com/owasp-podcast/less-than-10-minutes-series-the-juice-shop-project)
-14. [AppSec EU 2017, Belfast Keynote Preview with Jaya
+54. [AppSec EU 2017, Belfast Keynote Preview with Jaya
     Baloo](https://soundcloud.com/owasp-podcast/appsec-eu-2017-belfast-keynote-preview-with-jaya-baloo)
-15. [Struts 2 Vulnerability
+55. [Struts 2 Vulnerability
     Analysis](https://soundcloud.com/owasp-podcast/struts-2-vulnerability-analysis)
-16. [AppSec EU 2017 Belfast - What to
+56. [AppSec EU 2017 Belfast - What to
     Expect](https://soundcloud.com/owasp-podcast/appsec-eu-2017-belfast-what-to-expect)
-17. [Culture Hacker: How to Herd CATTs and Inspire Rebels to Change the
+57. [Culture Hacker: How to Herd CATTs and Inspire Rebels to Change the
     World](https://soundcloud.com/owasp-podcast/culture-hacker-how-to-herd-catts-and-inspire-rebels-to-change-the-world)
-18. [Shannon Lietz - Keynote Preview for AppSec EU 2017,
+58. [Shannon Lietz - Keynote Preview for AppSec EU 2017,
     Belfast](https://soundcloud.com/owasp-podcast/shannon-lietz-keynote-preview-for-appsec-eu-2017-belfast)
-19. [2016 AppSec USA – An Update on the WebGoat
+59. [2016 AppSec USA – An Update on the WebGoat
     Project](http://www.sonatype.org/nexus/2016/11/30/2016-appsec-usa-an-update-on-the-webgoat-project/)
-20. [2016 AppSec USA: The Core Rule Set Project w/ Chaim
+60. [2016 AppSec USA: The Core Rule Set Project w/ Chaim
     Sanders](https://soundcloud.com/owasp-podcast/the-core-rule-set-project-w-chaim-sanders)
-21. [The Future of DevSecOps w/ Shannon Lietz and Chris Swan, Live From
+61. [The Future of DevSecOps w/ Shannon Lietz and Chris Swan, Live From
     IP Expo
     London](https://soundcloud.com/owasp-podcast/the-future-of-devsecops-w-shannon-lietz-and-chris-swann-live-from-ip-expo-london)
-22. [2016 OWASP Board Election Interviews - Part One of Four - Developer
+62. [2016 OWASP Board Election Interviews - Part One of Four - Developer
     Participation](http://www.sonatype.org/nexus/2016/09/14/2016-owasp-board-election-interviews-part-one-of-four/)
-23. [2016 OWASP Board Election Interviews – Part Two of Four – Vendor
+63. [2016 OWASP Board Election Interviews – Part Two of Four – Vendor
     Neutrality](http://www.sonatype.org/nexus/2016/09/15/2016-owasp-board-election-interviews-part-two-of-four-vendor-neutrality/)
-24. [2016 OWASP Board Election Interviews – Part Three of Four – Most
+64. [2016 OWASP Board Election Interviews – Part Three of Four – Most
     Important
     Issues](http://www.sonatype.org/nexus/2016/09/18/2016-owasp-board-election-interviews-part-three-of-four-most-important-issues/)
-25. [2016 OWASP Board Election Interviews – Part Four of Four – Members,
+65. [2016 OWASP Board Election Interviews – Part Four of Four – Members,
     Projects, Conferences,
     Chapters](http://www.sonatype.org/nexus/2016/09/19/2016-board-election-interviews-part-four-of-four/)
-26. [AppSec USA 2016 Pre-Conference
+66. [AppSec USA 2016 Pre-Conference
     Update](http://www.sonatype.org/nexus/2016/09/09/appsec-usa-pre-conference-update/)
-27. [Security as Part of Continuous Delivery with Sacha
+67. [Security as Part of Continuous Delivery with Sacha
     Labourey](http://www.sonatype.org/nexus/2016/08/18/security-as-part-of-continuous-delivery-with-sacha-labourey/)
-28. [Unicorns on an Aircraft Carrier: DevOps Security at Scale with
+68. [Unicorns on an Aircraft Carrier: DevOps Security at Scale with
     Sanjeev
     Sharma](http://www.sonatype.org/nexus/2016/07/21/unicorns-on-an-aircraft-carrier-devops-security-at-scale-with-sanjeev-sharma/)
-29. [2016 State of the Software Supply Chain Report
+69. [2016 State of the Software Supply Chain Report
     Released](http://www.sonatype.org/nexus/2016/07/11/2016-state-of-the-software-supply-chain-report-released/)
-30. [Security as Part of DevOps and Development with Jason
+70. [Security as Part of DevOps and Development with Jason
     Schmitt](http://www.sonatype.org/nexus/2016/07/06/security-as-part-of-devops-and-development-with-jason-schmitt/)
-31. [2016 AppSecEU - Update On The ASVS Project with Andrew van der
+71. [2016 AppSecEU - Update On The ASVS Project with Andrew van der
     Stock](http://www.sonatype.org/nexus/2016/07/01/interviews-and-insights-from-appseceu-2016/)
-32. [2016 AppSecEU - The University
+72. [2016 AppSecEU - The University
     Challenge](http://www.sonatype.org/nexus/2016/07/01/interviews-and-insights-from-appseceu-2016/)
-33. [Jim Manico's 100th Episode, featuring Mark Miller, Executive
+73. [Jim Manico's 100th Episode, featuring Mark Miller, Executive
     Producer of
     OWASP 24/7](http://www.sonatype.org/nexus/2016/06/29/interview-with-mark-miller-sonatype-senior-storyteller-devops-evangelist/)
-34. [AppSec Europe 2016 - What To
+74. [AppSec Europe 2016 - What To
     Expect](https://soundcloud.com/owasp-podcast/2016-appsec-europe-what-to-expect)
-35. [Communication Patterns in Open Source Component Supply
+75. [Communication Patterns in Open Source Component Supply
     Chains](http://www.sonatype.org/nexus/2016/04/01/communication-patterns-in-open-source-component-supply-chains/)
-36. [Active Deception as a Methodology for Cybersecurity w/ Lawrence
+76. [Active Deception as a Methodology for Cybersecurity w/ Lawrence
     Pingree from
     Gartner](http://www.trustedsoftwarealliance.com/2016/03/21/active-deception-as-a-methodology-for-cybersecurity-w-lawrence-pingree-from-gartner/)
-37. [Security War Games with Sam Guckenheimer at Rugged DevOps
+77. [Security War Games with Sam Guckenheimer at Rugged DevOps
     RSAC 2016](http://www.trustedsoftwarealliance.com/2016/03/10/security-war-games-with-sam-guckenheimer-at-rugged-devops-rsac-2016/)
-38. [DevOps, Security and Engineering at
+78. [DevOps, Security and Engineering at
     Slack](http://www.trustedsoftwarealliance.com/2016/03/02/devops-security-and-engineering-at-slack/)
-39. [Guns, Germs and Steel at RSAC 2016 with John
+79. [Guns, Germs and Steel at RSAC 2016 with John
     Willis](http://www.trustedsoftwarealliance.com/2016/02/26/guns-germs-and-steel-at-rsac-2016-with-john-willis/)
-40. [Equal Respect: Women in Technology with Chenxi
+80. [Equal Respect: Women in Technology with Chenxi
     Wang](http://www.trustedsoftwarealliance.com/2016/02/25/equal-respect-women-in-technology-with-chenxi-wang-audio/)
-41. [DevOps: Politics, People and Process with Paula
+81. [DevOps: Politics, People and Process with Paula
     Thrasher](http://www.trustedsoftwarealliance.com/2016/02/24/devops-politics-people-and-process-with-paula-thrasher/)
-42. [OWASP Top 10 Proactive Controls Project with Jim Manico and Katy
+82. [OWASP Top 10 Proactive Controls Project with Jim Manico and Katy
     Anton](http://www.trustedsoftwarealliance.com/2016/02/09/owasp-top-10-proactive-controls-project-with-jim-manico-and-kay-anton/)
-43. [The OWASP WebGoat Project, version 7.0, with Bruce
+83. [The OWASP WebGoat Project, version 7.0, with Bruce
     Mayhew](http://www.trustedsoftwarealliance.com/2016/02/01/the-owasp-webgoat-project-version-7-0-with-bruce-mayhew-audio/)
-44. [Johanna Curiel on the Growing Pains of OWASP and Management of
+84. [Johanna Curiel on the Growing Pains of OWASP and Management of
     Project
     Reviews](http://www.trustedsoftwarealliance.com/2016/01/27/johanna-curiel-on-the-growing-pains-of-owasp-and-management-of-project-reviews/)
-45. [2016 – What’s in Store for the OWASP 24/7 Podcast
+85. [2016 – What’s in Store for the OWASP 24/7 Podcast
     Series](http://www.trustedsoftwarealliance.com/2016/01/21/2016-whats-in-store-for-the-owasp-247-podcast-series/)
-46. [OWASP Shark Tank - Could You Convince Someone to Invest in Your
+86. [OWASP Shark Tank - Could You Convince Someone to Invest in Your
     Project?](http://www.trustedsoftwarealliance.com/2015/11/25/owasp-shark-tank-could-you-convince-someone-to-invest-in-your-project/)
-47. [Security Shepherd Project w/ Mark Denihan and Paul
+87. [Security Shepherd Project w/ Mark Denihan and Paul
     McCann](http://www.trustedsoftwarealliance.com/2015/11/17/security-shepherd-project-w-mark-denihan-and-paul-mccann/)
-48. [DevOps, Security and Development w/ Matt Tesauro, Shannon Lietz and
+88. [DevOps, Security and Development w/ Matt Tesauro, Shannon Lietz and
     Jez
     Humble](https://soundcloud.com/owasp-podcast/security-in-development-w-matt-tesauro-shannon-lietz-and-jez-humble)
-49. [OWASP Benchmark Project w/ Dave
+89. [OWASP Benchmark Project w/ Dave
     Wichers](https://soundcloud.com/owasp-podcast/owasp-benchmark-project-w-dave-wichers)
-50. [OWASP Application Security Verification Standard Project w/ Andrew
+90. [OWASP Application Security Verification Standard Project w/ Andrew
     van der
     Stock](https://soundcloud.com/owasp-podcast/owasp-asvs-project-final)
-51. [OWASP Board Candidate Interview - Abbas Naderi, Michael Coates,
+91. [OWASP Board Candidate Interview - Abbas Naderi, Michael Coates,
     Jonathan
     Carter](https://soundcloud.com/owasp-podcast/owasp-board-interview-abbas-naderi-michael-coates-jonathan-carter)
-52. [OWASP Board Candidate Interview - Bil Corry and Josh
+92. [OWASP Board Candidate Interview - Bil Corry and Josh
     Sokol](https://soundcloud.com/owasp-podcast/owasp-board-interview-bil-corry-and-josh-sokol)
-53. [OWASP Board Candidate Interview - Milton Smith, Tobias Gondrom, Tom
+93. [OWASP Board Candidate Interview - Milton Smith, Tobias Gondrom, Tom
     Brennan](https://soundcloud.com/owasp-podcast/owasp-board-interview-milton-smith-tobias-gondrom-tom-brannen)
-54. [OWASP Security Knowledge Framework Project w/ Glenn Ten
+94. [OWASP Security Knowledge Framework Project w/ Glenn Ten
     Cate](https://soundcloud.com/owasp-podcast/owasp-security-knowledge-framework-project-w-glenn-ten-cata)
-55. [OWASP Summer of Code Sprint 2015 with Fabio
+95. [OWASP Summer of Code Sprint 2015 with Fabio
     Cerullo](https://soundcloud.com/owasp-podcast/owasp-summerofcodesprint2015-final)
-56. [OWASP Project Funding Part 2 w/ Johanna Curiel and Claudia
+96. [OWASP Project Funding Part 2 w/ Johanna Curiel and Claudia
     Casanovas](https://soundcloud.com/owasp-podcast/2015-owasp-project-funding-part-2-w-johanna-curiel-and-claudia-casanovas)
-57. [OWASP Project Funding w/ Josh Sokol, Dinis Cruz and Andrew van der
+97. [OWASP Project Funding w/ Josh Sokol, Dinis Cruz and Andrew van der
     Stock](https://soundcloud.com/owasp-podcast/owasp-project-funding)
-58. [The OWASP Online Academy with John Patrick Lita and Jerry
+98. [The OWASP Online Academy with John Patrick Lita and Jerry
     Hoff](https://soundcloud.com/owasp-podcast/the-owasp-online-academy-with-john-patrick-lita-and-jerry-hoff)
-59. [AppSec USA 2015 Overview with Ben Hagen and Michael
+99. [AppSec USA 2015 Overview with Ben Hagen and Michael
     Coates](https://soundcloud.com/owasp-podcast/appsec-usa-2015-overview-with-ben-hagen-and-michael-coates)
-60. [Paul Ritchie, Executive Director, Talks Present, Past and Future of
-    OWASP](https://soundcloud.com/owasp-podcast/paul-ritchie-executive-director-talks-present-past-and-future-of-owasp)
-61. [OWASP Offensive Web Testing Framework with Bharadwaj Machiraju and
-    Abraham
-    Aranguren](https://soundcloud.com/owasp-podcast/owasp-offensive-web-testing-framework)
-62. [Tobias Gondrom on the OWASP Strategic Goals
-    for 2015](https://soundcloud.com/owasp-podcast/tobias-gondrom-on-the-owasp-strategic-goals-for-2015)
-63. [2015 AppSecEU Pre Conference
-    Update](https://soundcloud.com/owasp-podcast/2015-appseceu-preconferenceupdate)
-64. [OWASP Project Reviews with Johanna
-    Curiel](https://soundcloud.com/owasp-podcast/owasp-project-reviews-with-johanna-curiel)
-65. [2015 OWASP Project Summit in NYC with Tom
-    Brennan](https://soundcloud.com/owasp-podcast/2015-owasp-project-summit-in-nyc-with-tom-brennan)
-66. [Seba Deleersnyder Discusses SAMM (Software Assurance Maturity
-    Model) Summit in Dublin,
-    Ireland](https://soundcloud.com/owasp-podcast/seba-deleersnyder-discusses-samm-software-assurance-maturity-model-summit-in-dublin-ireland)
-67. [2015 AppSec California Post Mortem with Richard Greenberg and Neil
-    Matatall](https://soundcloud.com/owasp-podcast/2015-appsec-california-post-mortem-with-richard-greenberg-and-neil-matatall)
-68. [John Melton and the OWASP AppSensor
-    Project](https://soundcloud.com/owasp-podcast/john-melton-and-the-owasp-appsensor-project)
-69. [Moxie Marlinspike on Open Source Security for Mobile
-    Devices](https://soundcloud.com/owasp-podcast/moxie-marlinspike-on-the-open-source-security-for-mobile-devices)
-70. [Dibbe Edwards - DevOps and Open Source at
-    IBM](https://soundcloud.com/owasp-podcast/dibbe-edwards-devops-and-open-source-at-ibm)
-71. [The WebGoat Project with Rick Lawson and Jason
-    White](https://soundcloud.com/owasp-podcast/the-webgoat-project-with)
-72. [Kevin E. Greene on OWASP and the SWAMP
-    Project](https://soundcloud.com/owasp-podcast/kevin-e-greene-on-owasp-and-the-swamp-project)
-73. [AppSec USA 2014, Denver - Damon Edwards, Matt Tesauro, Eoin Keary,
-    Martin
-    Knobloch](https://soundcloud.com/owasp-podcast/appsec-usa-2014-denver-damon-edwards-matt-tesauro-eoin-keary-martin-knobloch)
-74. [OWASP Board Candidate Interviews - Mateo
-    Martinez](https://soundcloud.com/owasp-podcast/owasp-board-candidate-interviews-mateo-martinez)
+100. [Paul Ritchie, Executive Director, Talks Present, Past and Future
+     of
+     OWASP](https://soundcloud.com/owasp-podcast/paul-ritchie-executive-director-talks-present-past-and-future-of-owasp)
+101. [OWASP Offensive Web Testing Framework with Bharadwaj Machiraju and
+     Abraham
+     Aranguren](https://soundcloud.com/owasp-podcast/owasp-offensive-web-testing-framework)
+102. [Tobias Gondrom on the OWASP Strategic Goals
+     for 2015](https://soundcloud.com/owasp-podcast/tobias-gondrom-on-the-owasp-strategic-goals-for-2015)
+103. [2015 AppSecEU Pre Conference
+     Update](https://soundcloud.com/owasp-podcast/2015-appseceu-preconferenceupdate)
+104. [OWASP Project Reviews with Johanna
+     Curiel](https://soundcloud.com/owasp-podcast/owasp-project-reviews-with-johanna-curiel)
+105. [2015 OWASP Project Summit in NYC with Tom
+     Brennan](https://soundcloud.com/owasp-podcast/2015-owasp-project-summit-in-nyc-with-tom-brennan)
+106. [Seba Deleersnyder Discusses SAMM (Software Assurance Maturity
+     Model) Summit in Dublin,
+     Ireland](https://soundcloud.com/owasp-podcast/seba-deleersnyder-discusses-samm-software-assurance-maturity-model-summit-in-dublin-ireland)
+107. [2015 AppSec California Post Mortem with Richard Greenberg and Neil
+     Matatall](https://soundcloud.com/owasp-podcast/2015-appsec-california-post-mortem-with-richard-greenberg-and-neil-matatall)
+108. [John Melton and the OWASP AppSensor
+     Project](https://soundcloud.com/owasp-podcast/john-melton-and-the-owasp-appsensor-project)
+109. [Moxie Marlinspike on Open Source Security for Mobile
+     Devices](https://soundcloud.com/owasp-podcast/moxie-marlinspike-on-the-open-source-security-for-mobile-devices)
+110. [Dibbe Edwards - DevOps and Open Source at
+     IBM](https://soundcloud.com/owasp-podcast/dibbe-edwards-devops-and-open-source-at-ibm)
+111. [The WebGoat Project with Rick Lawson and Jason
+     White](https://soundcloud.com/owasp-podcast/the-webgoat-project-with)
+112. [Kevin E. Greene on OWASP and the SWAMP
+     Project](https://soundcloud.com/owasp-podcast/kevin-e-greene-on-owasp-and-the-swamp-project)
+113. [AppSec USA 2014, Denver - Damon Edwards, Matt Tesauro, Eoin Keary,
+     Martin
+     Knobloch](https://soundcloud.com/owasp-podcast/appsec-usa-2014-denver-damon-edwards-matt-tesauro-eoin-keary-martin-knobloch)
+114. [OWASP Board Candidate Interviews - Mateo
+     Martinez](https://soundcloud.com/owasp-podcast/owasp-board-candidate-interviews-mateo-martinez)
 
-75. [OWASP Board Candidate Interviews - Jim Manico, Timur
-    Khrotko](https://soundcloud.com/owasp-podcast/owasp-board-candidate-interviews-jim-manico-timur-khrotko)
-76. [OWASP Board Candidate Interviews - Andrew van der Stock, Nigel
-    Phair, Abbas
-    Naderi](https://soundcloud.com/owasp-podcast/owaspboardcandidateinterviews-session02)
-77. [OWASP 2014 Board Candidate Interviews - Israel Bryski, Matt Konda,
-    Bil Corry and Tahir
-    Khan](https://soundcloud.com/owasp-podcast/owasp-2014-boardcandidate-interviews-israel-bryski-matt-konda-bil-corry-and-tahir-khan)
-78. [Jonathan Carter - OWASP and Mobile
-    Security](https://soundcloud.com/owasp-podcast/2014-08-jonathancarter)
-79. [OWASP Statement on the Security of the
-    Internet 2014](https://soundcloud.com/owasp-podcast/owasp-statement-on-the)
+115. [OWASP Board Candidate Interviews - Jim Manico, Timur
+     Khrotko](https://soundcloud.com/owasp-podcast/owasp-board-candidate-interviews-jim-manico-timur-khrotko)
+116. [OWASP Board Candidate Interviews - Andrew van der Stock, Nigel
+     Phair, Abbas
+     Naderi](https://soundcloud.com/owasp-podcast/owaspboardcandidateinterviews-session02)
+117. [OWASP 2014 Board Candidate Interviews - Israel Bryski, Matt Konda,
+     Bil Corry and Tahir
+     Khan](https://soundcloud.com/owasp-podcast/owasp-2014-boardcandidate-interviews-israel-bryski-matt-konda-bil-corry-and-tahir-khan)
+118. [Jonathan Carter - OWASP and Mobile
+     Security](https://soundcloud.com/owasp-podcast/2014-08-jonathancarter)
+119. [OWASP Statement on the Security of the
+     Internet 2014](https://soundcloud.com/owasp-podcast/owasp-statement-on-the)
 
-80. [Sarah Baso : The Final OWASP
-    Interview](http://trustedsoftwarealliance.com/2014/07/29/sarah-baso-the-final-owasp-interview-audio/)
-81. [Wait\! Wait\! Don’t pwn me\! from AppSec
-    Europe 2014](http://trustedsoftwarealliance.com/2014/07/18/wait-wait-dont-pwn-me-from-appsec-europe-2014/)
-82. [Eoin Keary on Women in Security and Growing an OWASP
-    Chapter](http://trustedsoftwarealliance.com/2014/07/14/eoin-keary-on-women-in-security-and-growing-an-owasp-chapter/)
-83. [Achim Hoffmann and the o-Saft Project for Scanning SSL
-    Connections](http://trustedsoftwarealliance.com/2014/07/01/achim-hoffman-and-the-o-saft-project-for-scanning-ssl-connections/)
-84. [OWASP Top 10 Privacy Risks Project with Florian Stahl and Stefan
-    Burgmair](http://trustedsoftwarealliance.com/2014/04/29/owasp-top-10-privacy-risks-project-with-florian-stahl-and-stefan-burgmair/)
+120. [Sarah Baso : The Final OWASP
+     Interview](http://trustedsoftwarealliance.com/2014/07/29/sarah-baso-the-final-owasp-interview-audio/)
+121. [Wait\! Wait\! Don’t pwn me\! from AppSec
+     Europe 2014](http://trustedsoftwarealliance.com/2014/07/18/wait-wait-dont-pwn-me-from-appsec-europe-2014/)
+122. [Eoin Keary on Women in Security and Growing an OWASP
+     Chapter](http://trustedsoftwarealliance.com/2014/07/14/eoin-keary-on-women-in-security-and-growing-an-owasp-chapter/)
+123. [Achim Hoffmann and the o-Saft Project for Scanning SSL
+     Connections](http://trustedsoftwarealliance.com/2014/07/01/achim-hoffman-and-the-o-saft-project-for-scanning-ssl-connections/)
+124. [OWASP Top 10 Privacy Risks Project with Florian Stahl and Stefan
+     Burgmair](http://trustedsoftwarealliance.com/2014/04/29/owasp-top-10-privacy-risks-project-with-florian-stahl-and-stefan-burgmair/)
 
-85. [The Run Up to a Massive Cyber Security Month with Tom
-    Brennan](http://trustedsoftwarealliance.com/2014/04/25/the-run-up-to-a-massive-cyber-security-month-with-tom-brennan/)
-86. [Wolfgang Goerlich on a Real World Example of The Phoenix Project in
-    Action](http://trustedsoftwarealliance.com/2014/04/17/wolfgang-goerlich-on-a-real-world-example-of-the-phoenix-project-in-action/)
-87. [The OWASP Hacky Easter Challenge with Ivan
-    Bütler](http://trustedsoftwarealliance.com/2014/03/27/owasp-hacky-easter-challenge/)
-88. [Dwayne Melancon - What InfoSec Can Learn from Video
-    Games](https://soundcloud.com/owasp-podcast/dwayne-melancon-on-what)
-89. [The OWASP Top Ten Proactive Controls Project with Jim
-    Bird](http://trustedsoftwarealliance.com/2014/03/24/the-owasp-top-ten-proactive-controls-project-with-jim-bird/)
+125. [The Run Up to a Massive Cyber Security Month with Tom
+     Brennan](http://trustedsoftwarealliance.com/2014/04/25/the-run-up-to-a-massive-cyber-security-month-with-tom-brennan/)
+126. [Wolfgang Goerlich on a Real World Example of The Phoenix Project
+     in
+     Action](http://trustedsoftwarealliance.com/2014/04/17/wolfgang-goerlich-on-a-real-world-example-of-the-phoenix-project-in-action/)
+127. [The OWASP Hacky Easter Challenge with Ivan
+     Bütler](http://trustedsoftwarealliance.com/2014/03/27/owasp-hacky-easter-challenge/)
+128. [Dwayne Melancon - What InfoSec Can Learn from Video
+     Games](https://soundcloud.com/owasp-podcast/dwayne-melancon-on-what)
+129. [The OWASP Top Ten Proactive Controls Project with Jim
+     Bird](http://trustedsoftwarealliance.com/2014/03/24/the-owasp-top-ten-proactive-controls-project-with-jim-bird/)
 
-90. [Melissa Elliot on the HeartBleed Bug at
-    Yahoo](https://soundcloud.com/owasp-podcast/melissa-elliot-on-the)
-91. [2014 AppSec APAC - Post Mortem
-    (English)](https://soundcloud.com/owasp-podcast/2014-appsec-apac-post-mortem)
-92. [The OWASP Cornucopia Project with Colin
-    Watson](http://trustedsoftwarealliance.com/2014/03/21/the-owasp-cornucopia-project-with-colin-watson/)
-93. [The OWASP WebSpa Project with Yiannis Pavlosoglou and Jim
-    Manico](https://soundcloud.com/owasp-podcast/the-owasp-webspa-project-with)
-94. [2014 AppSec APAC : History and Overview (Japanese and
-    English)](https://soundcloud.com/owasp-podcast/2014-appsec-apac-history-and)
+130. [Melissa Elliot on the HeartBleed Bug at
+     Yahoo](https://soundcloud.com/owasp-podcast/melissa-elliot-on-the)
+131. [2014 AppSec APAC - Post Mortem
+     (English)](https://soundcloud.com/owasp-podcast/2014-appsec-apac-post-mortem)
+132. [The OWASP Cornucopia Project with Colin
+     Watson](http://trustedsoftwarealliance.com/2014/03/21/the-owasp-cornucopia-project-with-colin-watson/)
+133. [The OWASP WebSpa Project with Yiannis Pavlosoglou and Jim
+     Manico](https://soundcloud.com/owasp-podcast/the-owasp-webspa-project-with)
+134. [2014 AppSec APAC : History and Overview (Japanese and
+     English)](https://soundcloud.com/owasp-podcast/2014-appsec-apac-history-and)
 
-95. [AppSec Europe 2014 : What To Expect with Host Adrian
-    Winckles](http://trustedsoftwarealliance.com/2014/02/19/appsec-europe-2014-what-to-expect-with-host-adrian-winckles/)
-96. [AppSec USA 2013 : Mark Arnold Talks about the Boston OWASP
-    Chapter](http://trustedsoftwarealliance.com/2014/02/18/appsec-usa-2013-mark-arnold-talks-about-the-boston-owasp-chapter/)
-97. [Not Making a Statement is a Statement in its Own
-    Right](http://trustedsoftwarealliance.com/2014/01/31/not-making-a-statement-is-a-statement-in-its-own-right-tobias-gondrom/)
-98. [National Security Awareness Month
-    \#NCSAM](http://trustedsoftwarealliance.com/2014/04/25/the-run-up-to-a-massive-cyber-security-month-with-tom-brennan/)
-99. [AppSec APAC 2014 with Tobias Gondrom - What to
-    Expect](http://trustedsoftwarealliance.com/2014/01/14/appsec-apac-2014-with-tobias-gondrom-what-to-expect/)
+135. [AppSec Europe 2014 : What To Expect with Host Adrian
+     Winckles](http://trustedsoftwarealliance.com/2014/02/19/appsec-europe-2014-what-to-expect-with-host-adrian-winckles/)
+136. [AppSec USA 2013 : Mark Arnold Talks about the Boston OWASP
+     Chapter](http://trustedsoftwarealliance.com/2014/02/18/appsec-usa-2013-mark-arnold-talks-about-the-boston-owasp-chapter/)
+137. [Not Making a Statement is a Statement in its Own
+     Right](http://trustedsoftwarealliance.com/2014/01/31/not-making-a-statement-is-a-statement-in-its-own-right-tobias-gondrom/)
+138. [National Security Awareness Month
+     \#NCSAM](http://trustedsoftwarealliance.com/2014/04/25/the-run-up-to-a-massive-cyber-security-month-with-tom-brennan/)
+139. [AppSec APAC 2014 with Tobias Gondrom - What to
+     Expect](http://trustedsoftwarealliance.com/2014/01/14/appsec-apac-2014-with-tobias-gondrom-what-to-expect/)
 
-100. [AppSec USA 2013: Larry Conklin and the Code Review Book
+140. [AppSec USA 2013: Larry Conklin and the Code Review Book
      Project](http://trustedsoftwarealliance.com/2014/01/13/appsec-usa-2013-larry-conklin-and-the-code-review-book-project/)
-101. [AppSec USA 2013: Jim Manico - Life After OWASP
+141. [AppSec USA 2013: Jim Manico - Life After OWASP
      Podcasting](http://trustedsoftwarealliance.com/2014/01/07/jim-manico-life-after-owasp-podcasting/)
-102. [AppSec USA 2013: Zed Attack Proxy Project with Simon
+142. [AppSec USA 2013: Zed Attack Proxy Project with Simon
      Bennetts](http://trustedsoftwarealliance.com/2013/12/13/appsec-usa-2013-zed-attack-proxy-project-with-simon-bennetts-interview/)
-103. [AppSec USA 2013: Abbas Naderi and the OWASP PHP Security
+143. [AppSec USA 2013: Abbas Naderi and the OWASP PHP Security
      Project)](http://trustedsoftwarealliance.com/2013/12/19/appsec-usa-2013-abbas-naderi-and-the-owasp-php-security-project/)
-104. [AppSec USA 2013: Michael Coates on the AppSensor
+144. [AppSec USA 2013: Michael Coates on the AppSensor
      Project](http://trustedsoftwarealliance.com/2013/12/10/appsec-usa-2013-michael-coates-on-the-appsensor-project/)
 
-105. [The OWASP Application Security CISO Guide with Marco Morana and
+145. [The OWASP Application Security CISO Guide with Marco Morana and
      Tobias
      Gondrom](http://trustedsoftwarealliance.com/2013/12/02/the-owasp-application-security-ciso-guide-with-marco-morana-and-tobias-gondrom/)
-106. [The Purpose of OWASP, an Interview with Co-Founder Dennis
+146. [The Purpose of OWASP, an Interview with Co-Founder Dennis
      Groves](http://trustedsoftwarealliance.com/2013/11/27/the-purpose-of-owasp-an-interview-with-co-founder-dennis-groves/)
-107. [Wait\! Wait\! Don't pwn me\! - Full recording from AppSec
+147. [Wait\! Wait\! Don't pwn me\! - Full recording from AppSec
      USA 2013](http://www.trustedsoftwarealliance.com/2013/11/25/wait-wait-dont-pwn-me-full-recording-from-appsec-usa-2013/)
-108. [Sarah Baso - What does it take to support 43,000 members in 100+
+148. [Sarah Baso - What does it take to support 43,000 members in 100+
      countries?](https://soundcloud.com/owasp-podcast/sarah-baso-43-000-members-160)
-109. [Samantha Groves - Getting the Most from OWASP
+149. [Samantha Groves - Getting the Most from OWASP
      Projects](https://soundcloud.com/owasp-podcast/samantha-groves-owasp-projects)
 
-110. [Kate Hartmann - The Future of Virtual Chapter
+150. [Kate Hartmann - The Future of Virtual Chapter
      Meetings](https://soundcloud.com/owasp-podcast/kate-hartmann-the-future-of)
-111. [Kelly Santalucia - Growing OWASP and the Outreach
+151. [Kelly Santalucia - Growing OWASP and the Outreach
      Programs](https://soundcloud.com/owasp-podcast/kelly-santalucia-growing-owasp)
-112. [Tom Brennan - What to Expect at
+152. [Tom Brennan - What to Expect at
      AppSecUSA 2013](https://soundcloud.com/owasp-podcast/tom-brennan-what-to-expect-at)
-113. [AppSec USA 2013 - OWASP Panel on Using Components with Known
+153. [AppSec USA 2013 - OWASP Panel on Using Components with Known
      Vulnerabilities](https://soundcloud.com/owasp-podcast/appsec-usa-2013-owasp-panel-on)
 
 ''' Syndication '''
@@ -285,10 +369,14 @@ RSS feed is available here:
 [iTunes feed
 here](https://itunes.apple.com/ca/podcast/owasp-24-7/id300769012)
 
-<b>As of August 29, 2017, we had over 221,000+ plays of the
-broadcast.</b>
+As of November 14, 2019, we have had 409,507 plays in total
+
+As of May 26, 2019, we have had 366,768 plays in total
+
+As of August 29, 2017, we had over 221,000+ plays of the broadcast.
 
 As of July 7, 2016, we had over 151,000+ plays of the broadcast.
+
 As of March 21, 2016, we had over 133,500+ plays of the broadcast.
 As of February 25, 2016, we had over 127,000+ plays of the broadcast.
 As of January 22, 2016, we had over 120,000+ plays of the broadcast.

@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_security_shepherd">OWASP Security Shepherd</h2>
 <p>The OWASP Security Shepherd project is a web and mobile application security training platform. Security Shepherd has been designed to foster and improve security awareness among a varied skill-set demographic. The aim of this project is to take AppSec novices or experienced engineers and sharpen their penetration testing skillset to security expert status.</p>
 <h2 id="description">Description</h2>
@@ -34,7 +33,6 @@
 <h2 id="security_shepherd_road_map">Security Shepherd Road Map</h2>
 <p>Security Shepherd wants to be as highly usable as we can achieve. Our primary objective is currently to achieve full language localisation support for the entire application. Currently we have covered the main pages users would interact with. We actively need volunteers to take part in the translation process. If you are interested in getting involved please check out our <a href="http://bit.ly/securityShepherdGithub">GitHub</a> Wiki describing <a href="https://github.com/OWASP/SecurityShepherd/wiki/How-to-Create-a-Web-Shepherd-Level">How to Add a New Language to Security Shepherd</a>.</p>
 <p>Our long term goals are to cover as many web and mobile application security risks as possible. If you are interested in getting involved in adding levels to Security Shepherd, please check out our <a href="http://bit.ly/securityShepherdGithub">GitHub</a> Wiki describing <a href="https://github.com/OWASP/SecurityShepherd/wiki/Adding-a-new-Language-to-Shepherd">How to Make a Security Shepherd Level</a>. For the Latest and Greatest short term goals. Please see the <a href="https://github.com/OWASP/SecurityShepherd/issues">issues page in our GitHub</a>.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:350px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_security_shepherd">What is Security Shepherd?</h2>
 <p>OWASP Security Shepherd provides:</p>
 <ul>
@@ -72,7 +70,6 @@
 <p>When Shepherd has been deployed in the Open Floor mode, a user can access any level that is marked as open by the admin. Modules are sorted into their Security Risk Categories, and the lessons are presented first. This layout is ideal for users wishing to explore security risks.</p>
 <p><strong>Tournament Mode</strong></p>
 <p>When Shepherd has been deployed in the Tournament Mode, a user can access any level that is marked as open by the admin. Modules are sorted into difficulty bands, from least to most difficult. This layout is ideal when Shepherd is being utilised as an open application security competition.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:250px;"</p></td>
 <td><h2 id="download">Download</h2>
 <ul>
 <li><a href="https://github.com/OWASP/SecurityShepherd/releases">OWASP Security Shepherd GitHub Downloads</a></li>
@@ -93,38 +90,7 @@
 </ul>
 <h2 id="licensing">Licensing</h2>
 <p>The Security Shepherd project is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.</p>
-<p>The Security Shepherd project is distributed in the hope that it will be useful, but without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. See the GNU General Public License for more details. See <a href="http://www.gnu.org/licenses/">http://www.gnu.org/licenses/</a> .</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-flagship-trans-85.png" title="Owasp-flagship-trans-85.png" alt="Owasp-flagship-trans-85.png" /><figcaption>Owasp-flagship-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-breakers-small.png" title="Owasp-breakers-small.png" alt="Owasp-breakers-small.png" /><figcaption>Owasp-breakers-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p>The Security Shepherd project is distributed in the hope that it will be useful, but without any warranty; without even the implied warranty of merchantability or fitness for a particular purpose. See the GNU General Public License for more details. See <a href="http://www.gnu.org/licenses/">http://www.gnu.org/licenses/</a> .</p></td>
 </tr>
 </tbody>
 </table>
@@ -217,20 +183,6 @@ donated to the OWASP community.
 Use our [Github Wiki
 page](https://github.com/OWASP/SecurityShepherd/wiki) for the best Setup
 Help going\!
-
-# Videos
-
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [YouTube Video](https://www.youtube.com/watch?v=uWk0NOSpyQc) | [YouTube Video](https://www.youtube.com/watch?v=yppMkJRp4pk) |
-
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [YouTube Video](https://www.youtube.com/watch?v=0jTWVLSGbPk) | [YouTube Video](https://www.youtube.com/watch?v=sb8KQV6morY) |
-
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [YouTube Video](https://www.youtube.com/watch?v=ZgqAXdwNeCI) | [YouTube Video](https://www.youtube.com/watch?v=8mlY4ob757s) |
 
 # Screenshots
 

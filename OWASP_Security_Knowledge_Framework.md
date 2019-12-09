@@ -15,7 +15,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_security_knowledge_framework">OWASP Security Knowledge Framework</h2>
 <p>The OWASP Security Knowledge Framework is intended to be a tool that is used as a guide for building and verifying secure software. It can also be used to train developers about application security. Education is the first step in the <i>Secure Software Development Lifecycle</i>.</p>
 <p>The 4 Core usage of SKF:</p>
@@ -44,7 +43,6 @@
 <td><p>target=_blank</p></td>
 <td><p>budget=OWASP SKF</p>
 <p>}}</p></td>
-<td><p>valign="top" style="padding-left:25px;width:125px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_download">Project Download</h2>
 <p><strong>Github/source-code:</strong><br />
 * <a href="https://github.com/blabla1337/skf-flask">https://github.com/blabla1337/skf-flask</a><br />
@@ -70,34 +68,7 @@
 </ul>
 <h2 id="project_leaders">Project Leaders</h2>
 <p><a href="mailto:glenntencate@gmail.com">Glenn ten Cate</a><br />
-<a href="mailto:r.tencate77@gmail.com">Riccardo ten Cate</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Mature_projects.png" title="https://www.owasp.org/index.php?title=OWASP_Project_Stages" alt="https://www.owasp.org/index.php?title=OWASP_Project_Stages" /><figcaption><a href="https://www.owasp.org/index.php?title=OWASP_Project_Stages">https://www.owasp.org/index.php?title=OWASP_Project_Stages</a></figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Agplv3-155x51.png" title="Agplv3-155x51.png" alt="Agplv3-155x51.png" /><figcaption>Agplv3-155x51.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+<a href="mailto:r.tencate77@gmail.com">Riccardo ten Cate</a></p></td>
 </tr>
 </tbody>
 </table>

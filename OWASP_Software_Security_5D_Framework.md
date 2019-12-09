@@ -8,7 +8,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_description">Project description</h2>
 <p><span style="color:#000000"> The new Minded Security Software Security 5D framework (now OWASP Software Security 5D framework) is derived from many years of experience performing software security assessment to many Companies and from the experience from the OWASP Community and in particular OWASP SAMM Community.</p>
 <p>Minded Security donated it to OWASP in September 2018.</p>
@@ -38,7 +37,6 @@
 <p></strong></p>
 <h2 id="getting_involved">Getting Involved</h2>
 <p><span style="color:#000000"> Involvement in the development and promotion of <strong>SwSec 5D project</strong> is actively encouraged! You do not have to be a security expert or a programmer to contribute. Please send an email to: <a href="mailto:matteo.meucci@owasp.org">Matteo Meucci</a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><a href="https://www.owasp.org/images/9/92/OWASP_SwSec5D_Presentation_-_Oct18.pdf">Presentation</a></p>
 <p><a href="https://github.com/OWASP/Software-Security-5D-Framework">GitHub</a></p>
@@ -46,36 +44,7 @@
 <h2 id="project_leader">Project Leader</h2>
 <p><a href="User:Mmeucci" title="wikilink">Matteo Meucci</a></p>
 <h2 id="related_projects">Related Projects</h2>
-<p><a href="OWASP_SAMM_Project" title="wikilink">OWASP SAMM</a></p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Creative%20Commons.png" title="Creative%20Commons.png" alt="Creative%20Commons.png" width="90" /><figcaption>Creative%20Commons.png</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+<p><a href="OWASP_SAMM_Project" title="wikilink">OWASP SAMM</a></p></td>
 </tr>
 </tbody>
 </table>

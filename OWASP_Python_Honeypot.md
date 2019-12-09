@@ -8,7 +8,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_python_honeypot">OWASP Python Honeypot</h2>
 <figure>
 <img src="Honeypot.png" title="Honeypot.png" alt="Honeypot.png" /><figcaption>Honeypot.png</figcaption>
@@ -46,7 +45,6 @@
 <p></strong></p>
 <h2 id="getting_involved">Getting Involved</h2>
 <p>Best way to get involved is to fix the existing issues in GitHub or add your new modules as Dockerfile and work on core improvement. if you are not a developer feel free to send your ideas and let us work on that.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <ul>
 <li><a href="https://github.com/zdresearch/OWASP-Honeypot">Source Code</a></li>
@@ -61,36 +59,7 @@
 <h2 id="events">Events</h2>
 <ul>
 <li>Start 1 Jul 2018</li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Apache-software-foundation.jpeg" title="Apache-software-foundation.jpeg" alt="Apache-software-foundation.jpeg" /><figcaption>Apache-software-foundation.jpeg</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

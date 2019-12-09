@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_seraphimdroid">OWASP SeraphimDroid</h2>
 <p><strong>Mission:</strong></p>
 <p><em>To create, as a community, an open platform for education and protection of Android users against privacy and security threats.</em></p>
@@ -22,7 +21,7 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://www.youtube.com/watch?v=WccEBFaBXOw">YouTube Video</a></p></td>
+<td><p>{{#ev:youtube|WccEBFaBXOw}}</p></td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +47,6 @@
 </ul>
 <h2 id="licensing">Licensing</h2>
 <p>GNU GPL v3 License (allows commercial use, but requires that modifications to your code stay open source, thus prohibiting proprietary forks of your project)</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_owasp_seraphimdroid">What is OWASP SeraphimDroid?</h2>
 <ul>
 <li>Free and open source project</li>
@@ -85,7 +83,6 @@
 <ul>
 <li><a href="https://www.ohloh.net/p/owasp-seraphimdroid">https://www.ohloh.net/p/owasp-seraphimdroid</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li>Google Play: <a href="https://play.google.com/store/apps/details?id=org.owasp.seraphimdroid">https://play.google.com/store/apps/details?id=org.owasp.seraphimdroid</a></li>
@@ -94,53 +91,20 @@
 <ul>
 <li><a href="http://inspiratron.org/OWASPSeraphimdroid/SeraphimdroidDocumentation.pdf">User guide and Documentation</a></li>
 <li>Article about android permissions, published by Digital Forensics magazine: <a href="http://inspiratron.org/AndroidSecurity.pdf">http://inspiratron.org/AndroidSecurity.pdf</a></li>
+<li>Article describing deep learning based dynamic malware analysis and anomaly detection: <a href="https://arxiv.org/ftp/arxiv/papers/1910/1910.10660.pdf">https://arxiv.org/ftp/arxiv/papers/1910/1910.10660.pdf</a></li>
 </ul></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-labs-trans-85.png" title="Owasp-labs-trans-85.png" alt="Owasp-labs-trans-85.png" /><figcaption>Owasp-labs-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>
 
 # News and Events
 
+  - (05.11.2019) We have participated this year in Google Summer of
+    Code. The work done on dynamic malware analysis and anomaly
+    detection on the device using deep learning is described in the
+    following paper:
+    <https://arxiv.org/ftp/arxiv/papers/1910/1910.10660.pdf>
   - (15.3.2017) We published a part of our machine learning methodology
     in Elsevier's scientific publication: Milosevic, Nikola, Ali
     Dehghantanha, and Kim-Kwang Raymond Choo. "Machine learning aided
@@ -205,6 +169,9 @@
     etc) or not and will notify the user. Currently, we use SVM/SMO
     model trained on M0Droid malware/goodware dataset, which performed
     with accuracy of 88%.
+  - Machine learning-based anomaly detection that notifies you when the
+    behaviour of your phone (processor, memory and battery usage is
+    abnormal), so you can take appropriate action.
   - Application locker. With OWASP Seraphimdroid, you may lock access to
     certain or to all of your application with password
   - Service locker. This feature enables user to lock usage of WiFi,
@@ -260,11 +227,12 @@ OWASP SeraphimDroid is developed by a worldwide team of volunteers. The
 primary contributors to date have been:
 
   - Nikola Milosevic
+  - Junfan Huang
+  - Kartik Kohli
+  - Furquan Ahmed
+  - Ali Tekeoglu
   - Aleksandar Abu Samra
   - Chetan Karande
-  - Ali Tekeoglu
-  - Furquan Ahmed
-  - Kartik Kohli
 
 ## Corporate sponsors
 

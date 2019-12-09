@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="the_owasp_secure_medical_device_deployment_standard">The OWASP Secure Medical Device Deployment Standard</h2>
 <p>With the growth of electronic medical records systems and the increasing use of network enabled medical devices, hospitals and other healthcare related facilities are becoming more interconnected than ever. While this increasing level of interconnectedness often results in improvements to both the quality and efficiency of patient care, it is not without some potential security drawbacks. Many medical devices are extremely costly to upgrade or replace and such legacy systems within healthcare facilities are often commonplace. Moreover, many medical devices were engineered with patient safety and life saving as the sole functions of the device and little attention was traditionally paid to the security of these devices. These trends are evidenced by recent FDA recommendations as well as numerous security studies that find many medical devices rife with security vulnerabilities. Additionally, such networked enabled medical devices within hospitals are often not deployed with security in mind, which can further add to the ease of compromise. With the explosion of botnets and other malware that now target IoT devices (of which medical devices can be considered a subtype) the need for security minded deployments of medical devices is now more essential than ever. This guide is intended to serve as comprehensive guide to the secure deployment of medical devices within a healthcare facility.</p>
 <p>Version 2 of the standard was developed in conjunction with the <a href="https://cloudsecurityalliance.org/">Cloud Security Alliance</a>. <img src="CSA_logo.png" title="fig:CSA_logo.png" alt="CSA_logo.png" width="400" /></p>
@@ -20,7 +19,6 @@
 <p>'''The OWASP Secure Medical Device Deployment Standard is free to use. In fact it is encouraged</p></td>
 <td><p>! '' Additionally, we also encourage you to contribute back to the project.</p>
 <p>The OWASP Secure Medical Device Deployment Standard is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 license</a>, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_leaders">Project Leaders</h2>
 <ul>
 <li><a href="https://www.owasp.org/index.php/User:Cfrenz">Christopher M Frenz</a></li>
@@ -60,36 +58,7 @@
 <li><a href="https://iapp.org/news/a/healthcare-privacy-plans-need-to-account-for-medical-device-security/">IAPP Privacy Perspectives Article</a></li>
 <li><a href="https://www.helpnetsecurity.com/2017/04/28/securely-deploy-medical-devices/">HelpNet Security Article</a></li>
 <li><a href="https://healthtechmagazine.net/article/2018/01/how-keep-health-data-safe-age-disruptive-technologies">HealthTech Magazine Article</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="New_projects.png" title="New_projects.png" alt="New_projects.png" width="100" /><figcaption>New_projects.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

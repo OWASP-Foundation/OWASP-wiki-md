@@ -10,14 +10,12 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_security_logging_project">OWASP Security Logging Project</h2>
 <p>The OWASP Security Logging project provides developers and ops personnel with APIs for logging security-related events. The aim is to let developers use the same set of logging APIs they are already familiar with from over a decade of experience with Log4J and its successors, while also adding powerful security features.</p>
 <h2 id="description">Description</h2>
 <p>Logging is often neglected by developers when thinking of security considerations. However, proper logging practice can provide the crucial forensics needed to investigate after a breach, and perhaps more importantly, a change to detect security issues as they happen. Most developers are already familiar with using logging for debugging and diagnostic purposes, so it should be easy for them to grasp the concept of security logging as well. The OWASP Security Logging project aims to give developers an easy way to get started with logging security events, tracking extra forensic information like the who (username), what (event type), and where (IP address, server name) needed for forensics. It also provides a means for classifying the information in log messages and applying masking if necessary.</p>
 <h2 id="licensing">Licensing</h2>
 <p>This library is free software: you can redistribute it and/or modify it under the terms of the Apache License, Version 2.0. You can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="quick_start">Quick Start</h2>
 <p>Overview of benefits and what you need to get started quickly.</p>
 <p><a href="http://www.securitycurmudgeon.com/2016/03/owasp-security-logging-project-explored.html">OWASP Security Logging Project Explored</a></p>
@@ -28,35 +26,7 @@
 <h2 id="related_projects">Related Projects</h2>
 <ul>
 <li><a href="Logging_Cheat_Sheet" title="wikilink">Logging Cheat Sheet</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><p><a href="http://www.apache.org/licenses/LICENSE-2.0.html">ASLv2</a></p></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
+</ul></td>
 <td><h2 id="project_leaders">Project Leaders</h2>
 <p><a href="mailto:sytze.vonkoningsveld@owasp.org">Sytze van Koningsveld</a></p>
 <p><a href="mailto:august.detlefsen@owasp.org">August Detlefsen</a></p>
