@@ -47,7 +47,7 @@ this project was sidelined until earlier this year when it transitioned
 from Ofer Shezaf to Tony Turner. We are now working on rebooting the
 WAFEC project and plan to release it in the second half of 2016. If you
 want to be a part of the project check out the
-{{\#switchtablink:Volunteering |Volunteering}} page or join the the
+{{\#switchtablink:Volunteering|Volunteering}} page or join the the
 [mailing
 list](http://lists.webappsec.org/mailman/listinfo/wasc-wafec_lists.webappsec.org)
 and chime in when you feel ready.

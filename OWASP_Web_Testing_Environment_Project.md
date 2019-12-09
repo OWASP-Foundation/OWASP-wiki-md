@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="owasp_wte">OWASP WTE</h2>
 <p>OWASP WTE, or OWASP Web Testing Environment, is a collection of application security tools and documentation available in multiple formats such as VMs, Linux distribution packages, Cloud-based installations and ISO images.</p>
 <h2 id="introduction">Introduction</h2>
@@ -39,7 +38,6 @@
 <li>OWASP WTE packaged software and documentation is under the license of that project and/or software. The only licensing constraint required by OWASP WTE is that the software it makes packages of must be free to redistribute.</li>
 </ul>
 <p>In short, you can use and share OWASP WTE as much as you want. The only time you may have an obligation is when you modify and redistribute OWASP WTE. If you are unsure, please ask the <a href="https://lists.owasp.org/mailman/listinfo/owasp-wte">OWASP WTE Mail list</a></p></td>
-<td><p>style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="what_is_wte">What is WTE?</h2>
 <p>OWASP WTE provides:</p>
 <ul>
@@ -70,7 +68,6 @@
 <ul>
 <li><em>Coming Soon</em></li>
 </ul></td>
-<td><p>style="padding-left:25px;width:200px;" valign="top"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li><a href="http://appseclive.org/downloads/">Downloads site</a></li>
@@ -91,48 +88,7 @@
 <li>2013-10-12: WTE at LASCON 2013</li>
 <li>2013-09-16: WTE + REST Testing Training</li>
 <li>2013-09-01: OWASP WTE 13.09 released</li>
-</ul>
-<p>--== In Print ==</p>
-<p>This project can be purchased as a print on demand book from Lulu.com --&gt;</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Mature_projects.png" title="Mature_projects.png" alt="Mature_projects.png" width="100" /><figcaption>Mature_projects.png</figcaption>
-</figure></td>
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><p><img src="Project_Type_Files_CODE.jpg" title="fig:Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><br />
-<br />
-<img src="Project_Type_Files_TOOL.jpg" title="fig:Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /></p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>

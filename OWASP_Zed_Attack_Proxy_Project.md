@@ -9,32 +9,23 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
-<td><p><img src="zap128x128.png" title="fig:zap128x128.png" alt="zap128x128.png" /> {{ReviewProject</p></td>
-<td><p>projectname=zaproxy</p></td>
-<td><p>language=en}}</p>
+<td><p><img src="zap128x128.png" title="fig:zap128x128.png" alt="zap128x128.png" /> </p>
 <div style="font-size:120%;border:none;margin: 0;color:#000">
 <p>The OWASP Zed Attack Proxy (ZAP) is one of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers<a href="#Justification" title="wikilink">*</a>. It can help you automatically find security vulnerabilities in your web applications while you are developing and testing your applications. Its also a great tool for experienced pentesters to use for manual security testing.</p>
-<h4 id="zap_2.7.0_is_now_available">ZAP 2.7.0 is now available!</h4>
 <figure>
 <img src="ZAP-Download.png" title="ZAP-Download.png" alt="ZAP-Download.png" /><figcaption>ZAP-Download.png</figcaption>
 </figure>
+<h4 id="zap_in_ten___video_series">ZAP in Ten - Video series</h4>
+<p>An ongoing series of up to 10 minute videos about ZAP, starting with the basics.</p>
+<p>The first episode and the full series are available via:</p>
+<figure>
+<img src="01-ZAP-in-Ten-small.png" title="01-ZAP-in-Ten-small.png" alt="01-ZAP-in-Ten-small.png" /><figcaption>01-ZAP-in-Ten-small.png</figcaption>
+</figure>
+<figure>
+<img src="02-ZAP-in-Ten-small.png" title="02-ZAP-in-Ten-small.png" alt="02-ZAP-in-Ten-small.png" /><figcaption>02-ZAP-in-Ten-small.png</figcaption>
+</figure>
 <h4 id="please_help_us_to_make_zap_even_better_for_you_by_answering_the_zap_user_questionnaire">Please help us to make ZAP even better for you by answering the <a href="https://docs.google.com/forms/d/1-k-vcj_sSxlil6XLxCFade-m-IQVeE2h9gduA-2ZPPA/viewform">ZAP User Questionnaire</a>!</h4>
-<p>For a quick overview of ZAP and an introduction to the <a href="https://wiki.jenkins-ci.org/display/JENKINS/zap+plugin">official ZAP Jenkins plugin</a> see these tutorial videos on YouTube:</p>
-<table>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://www.youtube.com/watch?v=eH0RBI0nmww">YouTube Video</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=mmHZLSffCUg">YouTube Video</a></p></td>
-<td><p><a href="https://www.youtube.com/watch?v=ztfgip-UhWw">YouTube Video</a></p></td>
-</tr>
-</tbody>
-</table>
-<p>For more videos see the links on the <a href="https://github.com/zaproxy/zaproxy/wiki/Videos">wiki videos page</a>.</p>
 <p>Interested in a ZAP talk or training event? See the <a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project#tab=Talks">talks</a> tab. Not one near you? Contact a <a href="https://github.com/zaproxy/zaproxy/wiki/ZapEvangelists">Zap Evangelist</a> to arrange one!</p>
-<p>{{#widget:PayPal Donation</p></td>
-<td><p>target=_blank</p></td>
-<td><p>budget=Zed Attack Proxy }}</p>
 <p>For general information about ZAP:</p>
 <ul>
 <li><a href="https://twitter.com/zaproxy">Twitter</a> - official ZAP announcements (low volume)</li>
@@ -42,7 +33,7 @@
 </ul>
 <p>For help using ZAP:</p>
 <ul>
-<li><a href="https://github.com/zaproxy/zaproxy/releases/download/2.6.0/ZAPGettingStartedGuide-2.6.pdf">Getting Started Guide (pdf)</a> - an introductory guide you can print</li>
+<li><a href="https://github.com/zaproxy/zaproxy/releases/download/v2.8.0/ZAPGettingStartedGuide-2.8.pdf">Getting Started Guide (pdf)</a> - an introductory guide you can print</li>
 <li><a href="https://www.youtube.com/playlist?list=PLEBitBW-Hlsv8cEIUntAO8st2UGhmrjUB">Tutorial Videos</a></li>
 <li><a href="https://github.com/zaproxy/zap-core-help/wiki">User Guide</a> - online version of the User Guide included with ZAP</li>
 <li><a href="https://groups.google.com/group/zaproxy-users">User Group</a> - ask questions about using ZAP</li>
@@ -77,7 +68,6 @@
 <li><a href="https://crowdin.com/project/owasp-zap">ZAP core i18n Contributors</a></li>
 <li><a href="https://crowdin.com/project/owasp-zap-help">ZAP help i18n Contributors</a></li>
 </ul></td>
-<td><p>style="padding-left:25px;width:200px;" valign="top"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <p><a href="https://github.com/zaproxy/zaproxy/wiki/Downloads">Download OWASP ZAP!</a></p>
 <h2 id="donate_to_zap">Donate to ZAP</h2>
@@ -114,48 +104,7 @@
 <h2 id="open_hub_stats">Open Hub Stats</h2>
 <ul>
 <li><a href="https://www.openhub.net/p/zaproxy">https://www.openhub.net/p/zaproxy</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" align="center" width="50%" valign="top"</p></td>
-<td><figure>
-<img src="Mature_projects.png" title="Mature_projects.png" alt="Mature_projects.png" width="100" /><figcaption>Mature_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" width="50%" valign="center"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>align="center" width="50%" valign="center"</p></td>
-<td><figure>
-<img src="Owasp-breakers-small.png" title="Owasp-breakers-small.png" alt="Owasp-breakers-small.png" /><figcaption>Owasp-breakers-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><p><a href="http://www.apache.org/licenses/LICENSE-2.0">Apache 2 License</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -202,9 +151,6 @@ store that you like.
 
 A range of products can be purchased from
 [Redbubble](http://www.redbubble.com/people/zaproxy)
-
-Stickers can be purchased from
-[Stickermule](https://www.stickermule.com/uk/user/1070684077/stickers)
 
 T-shirts can be purchased from
 [Cafepress](http://www.cafepress.com/zaproxy)
@@ -371,8 +317,11 @@ It requires Java 8 (minimum) and supports Selenium 3.
 
 ## Release 2.8.0
 
-ZAP 2.8.0 does not yet have a planned release date, but is likely to be
-in the first half of 2019.
+ZAP 2.8.0 has been released (June 2019), this is a bug fix and
+enhancement release
+
+For more details see
+<https://github.com/zaproxy/zap-core-help/wiki/HelpReleases2_8_0>
 
 </div>
 

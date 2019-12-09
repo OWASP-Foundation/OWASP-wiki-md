@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="owasp_code_library_project">OWASP Code Library Project</h2>
 <p><strong>Zezengorri</strong> is a library that allows you to add security to your development IDE from day one. From the moment you decide to implement secure development to your projects.</p>
 <p>You can start either while designing your new projects or implement it in old projects. You can use it to detect vulnerabilities of your web server and the programming language even before starting the development parallel to the system development life circle.</p>
@@ -26,7 +25,6 @@
 <li><a href="https://opensource.org/licenses/Frameworx-1.0">https://opensource.org/licenses/Frameworx-1.0</a></li>
 </ul>
 <p>as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. OWASP and any contributions are Copyright © by OWASP Years 2017-2018.</p></td>
-<td><p>style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="project_resources">Project Resources</h2>
 <p><a href="Https://drive.google.com/file/d/0B6d-UqLnHsOnUTZLTXVLbEZyY0E/view?usp=sharing%7CSecure">Applications Security in IT deparment</a></p>
 <p><a href="Https://drive.google.com/file/d/0B6d-UqLnHsOnSDlwQW5tNGRKMkxSblVWX1g0RHZuNTJjM2tV/view?usp=sharing%7CSource">Applications Security using .Net</a></p>
@@ -43,41 +41,13 @@
 <ul>
 <li><a href="https://www.owasp.org/index.php/Projects/OWASP_Secure_Coding_Practices_-_Qui">ck_Reference_Guide/Releases/SCP_v2 Secure_Coding_Practices</a></li>
 <li><a href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">Owasp Zed Attack Framework</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>rowspan="2" width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-</tr>
-<tr class="odd">
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
-<td><p>style="padding-left:25px;width:200px;" valign="top"</p></td>
+</ul></td>
 <td><h2 id="news_and_events">News and Events</h2>
 <ul>
 <li><strong>[1 Nov 2017]</strong> Release Page Explain the Concept, with a white Paper</li>
 <li><strong>[3 Apr 2018]</strong> The Inacap Institute and their students also start to participate in the Zezengorri owasp <a href="https://www.inacap.cl/tportalvp/alumnos">https://www.inacap.cl/tportalvp/alumnos</a>.</li>
 <li><strong>[19 Aug 2018]</strong> 1.0 Release Candidate is available for download. This release provides final bug fixes and product stabilization. Any feedback (good or bad) in the next few weeks would be greatly appreciated.</li>
-<li>Repository: <a href="https://github.com/VascoArreaza/OwaspEsapiUpdate2018"><a href="https://github.com/VascoArreaza/Zenzegorr">https://github.com/VascoArreaza/Zenzegorr</a></a></li>
+<li>Repository: <a href="https://github.com/VascoArreaza/OWASPZezengorri">1</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -85,12 +55,10 @@
 
 # FAQs
 
-## How can I participate in our project?
-
-If you have experience in web development using for example: Node.JS,
-C\# or Java and are interested in learning about applications security
-please contact us via the official mail:
-**gustavo.nievesarreaza@owasp.com**
+\==How can I participate in our project?== If you have experience in web
+development using for example: Node.JS, C\# or Java and are interested
+in learning about applications security please contact us via the
+official mail: **gustavo.nievesarreaza@owasp.com**
 
 ## If I am not a programmer can I participate in our project?
 

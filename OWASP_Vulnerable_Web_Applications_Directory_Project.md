@@ -10,7 +10,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>style="border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="owasp_vulnerable_web_applications_directory_project">OWASP Vulnerable Web Applications Directory Project</h2>
 <p>The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available for legal security and vulnerability testing of various kinds.</p>
 <h2 id="introduction">Introduction</h2>
@@ -29,7 +28,6 @@
 <p>The associated GitHub repository is available at: <a href="https://github.com/OWASP/OWASP-VWAD">https://github.com/OWASP/OWASP-VWAD</a>.</p>
 <h2 id="licensing">Licensing</h2>
 <p>OWASP Vulnerable Web Applications Directory Projects is free to use. It is licensed under the Apache 2.0 License, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially.</p></td>
-<td><p>style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;" valign="top"</p></td>
 <td><h2 id="what_is_vwad">What is VWAD?</h2>
 <p>OWASP VWAD provides:</p>
 <ul>
@@ -50,7 +48,6 @@
 <ul>
 <li><a href="https://www.openhub.net/p/OWASP-VWAD">https://www.openhub.net/p/OWASP-VWAD</a></li>
 </ul></td>
-<td><p>style="padding-left:25px;width:200px;" valign="top"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <ul>
 <li>N/A - The project is self contained on the wiki.</li>
@@ -61,46 +58,7 @@
 <li>[16 Oct 2013] Project created.</li>
 </ul>
 <h2 id="in_print">In Print</h2>
-<p>N/A</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>rowspan="2" width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>width="50%" valign="top" align="center"</p></td>
-<td><figure>
-<img src="Owasp-breakers-small.png" title="Owasp-breakers-small.png" alt="Owasp-breakers-small.png" /><figcaption>Owasp-breakers-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p>N/A</p></td>
 </tr>
 </tbody>
 </table>

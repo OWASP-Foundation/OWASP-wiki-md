@@ -10,16 +10,15 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_web_mapper_project">OWASP Web Mapper Project</h2>
-<p>What if there are quite a few web applications under your organization, but nobody seems to know all of them (before the talking of application risk assessment)? Then this project may be a right fit for you. This project is designed for the web application asset discovery and tracking automatically.</p>
+<p>What if there are quite a few web applications under your organization, but nobody seems to know all of them (before the talk of application risk assessment)? Then this project may be a right fit for you.</p>
+<p>This project is designed to perform the web application asset discovery and auto tracking with scale.</p>
 <h2 id="description">Description</h2>
 <p>A pure Ruby library for the web application asset discovery and tracking. The tool is useful when you're handling a larger size organization with multiple Internet domains and networks registered under the name. Where both legacy and new web applications are omni-present but nobody seems to be able to provide a complete list of application URLs to you. Yes you can always do it the old way by using tool sets such as NMAP, OWASP Zap web crawler, along with others. But such tool sets could quickly become too much manual-driven and inaccurate, if not impossible. In the contrary, once setup, this project will help you quickly identify all the 'unknown' web application asset, and keep track of them automatically. If you are serious about your organization's Internet web application exposure, this might be the perfect all-in-one footprinting tool you're looking for.</p>
 <p>Built as an open source project, the source code is both free and scalable. You're welcome to keep building on top of the current code base, or include it as part of your larger project distribution.</p>
 <h2 id="licensing">Licensing</h2>
 <p>'''The OWASP Web Mapper Project is free to use. In fact it is encouraged!</p>
 <p>The OWASP Security Principles are licensed under the <a href="https://github.com/yangsec888/wmap/blob/master/LICENSE.txt">Apache 2.0 license</a>, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_owasp_web_mapper_project">What is OWASP Web Mapper Project?</h2>
 <p>The goal is to help you better identify, and keep track of the web application asset under your watch. Ideally we could document various reverse-engineering techniques using by this project and publish it through the OWASP Press. Of course, it will always remain freely available, and any money collected will go directly into the project and to the OWASP Foundation.</p>
 <h2 id="demo">Demo</h2>
@@ -29,9 +28,8 @@
 <h2 id="project_code_and_documents">Project Code and Documents</h2>
 <ul>
 <li><a href="https://github.com/yangsec888/wmap">Latest WMAP source tree.</a></li>
-<li><a href="https://github.com/yangsec888/www_wmap">WMAP demo web app built under Ruby on Rails 4+</a></li>
+<li><a href="https://github.com/yangsec888/www_wmap">WMAP web app demo built in Ruby on Rails 5+</a></li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="related_projects">Related Projects</h2>
 <ul>
 <li><a href="OWASP_Zed_Attack_Proxy_Project" title="wikilink">OWASP_Zed_Attack_Proxy_Project</a></li>
@@ -46,46 +44,7 @@
 <li><a href="https://www.owasp.org/index.php/User:Yang_Li">Sam (Yang) Li</a></li>
 </ul>
 <h2 id="in_print">In Print</h2>
-<p>I'm working on project document. But it's far from become a book at this moment. Instead, please refer to the project hosting site for more project document.</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="New_projects.png" title="New_projects.png" alt="New_projects.png" width="100" /><figcaption>New_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_DOC.jpg" title="Project_Type_Files_DOC.jpg" alt="Project_Type_Files_DOC.jpg" /><figcaption>Project_Type_Files_DOC.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+<p>I'm working on project document. But it's far from become a book at this moment. Instead, please refer to the project hosting site for more project document.</p></td>
 </tr>
 </tbody>
 </table>
@@ -178,9 +137,7 @@ To add your public network block into the scope:
 
 ## Automatic Discovery and Tracking
 
-` $ wmap <seed file `
-
-| target host | target url | target IP or network cidr\>
+` $ wmap <seed file | target host | target url | target IP or network cidr>`
 
 The above utility is intelligent enough to take argument as either a
 seed file, or a string such as a host, an IP, a network block, or a URL.

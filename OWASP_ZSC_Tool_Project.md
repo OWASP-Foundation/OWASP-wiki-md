@@ -10,14 +10,11 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_zsc_tool_project">OWASP ZSC Tool Project</h2>
 <div class="plainlinks">
 <p><strong>Share this:</strong>  <span title="Share via e-mail" class="plainlinks"><img src="social-email.png" title="fig:E-mail this story" alt="E-mail this story" /></span> <span title="Share on Facebook"><img src="social-facebook.png" title="fig:Bookmark with Facebook" alt="Bookmark with Facebook" /></span> <span  title="Share on Digg"><img src="social-digg.png" title="fig:Share on Digg.com" alt="Share on Digg.com" /></span> <span  title="Share on delicious"><img src="social-delicious.png" title="fig:social-delicious.png" alt="social-delicious.png" width="16" /></span> <span  title="Share on reddit"><img src="social-reddit.png" title="fig:Share on reddit.com" alt="Share on reddit.com" /></span> <span  title="Share on StumbleUpon"><img src="social-stumbleupon.png" title="fig:social-stumbleupon.png" alt="social-stumbleupon.png" width="16" /></span> <span  title="Share on LinkedIn"><img src="social-linkedin.png" title="fig:social-linkedin.png" alt="social-linkedin.png" width="16" /></span> <span title="Share on Twitter"><img src="social-twitter.png" title="fig:social-twitter.png" alt="social-twitter.png" /></span> <span title="Seed on Newsvine"><img src="social-newsvine.png" title="fig:social-newsvine.png" alt="social-newsvine.png" width="16" /></span></p>
 </div>
-<p><strong>Donate to OWASP ZSC</strong> {{#widget:PayPal Donation</p></td>
-<td><p>target=_blank</p></td>
-<td><p>budget=OWASP ZSC }}</p>
+<p><strong>Donate to OWASP ZSC</strong> {{#widget:PayPal Donation |target=_blank |budget=OWASP ZSC }}</p>
 <h4 id="what_is_owasp_zsc">What is OWASP ZSC ?</h4>
 <p><a href="http://zsc.z3r0d4y.com/images/Snapshot_2015-07-26_191951-half.png">http://zsc.z3r0d4y.com/images/Snapshot_2015-07-26_191951-half.png</a></p>
 <p><strong>OWASP ZSC</strong> is an open source software in Python language which lets you <strong>generate customized shellcodes</strong> and <strong>convert scripts to an obfuscated script</strong>. This software can be run on Windows/Linux/OSX under Python.</p>
@@ -28,9 +25,7 @@
 <h4 id="usage_of_shellcodes">Usage of shellcodes</h4>
 <p>Shellcodes are small codes in Assembly language which could be used as the payload in software exploitation. Other usages are in malwares, bypassing antiviruses, obfuscated codes and etc.</p>
 <h4 id="disclaimer">DISCLAIMER</h4>
-<p>This tool is related to IT, Hacking, Programming and Computer</p></td>
-<td><p>Network</p></td>
-<td><p>Software Security. The word “Hack”, "Pen testing",“Hacking” that is used on these project pages shall be regarded as “Ethical Hack” or “Ethical Hacking” respectively. This is not a tool that provides any illegal information.We do not promote hacking or software cracking. All the information provided on these pages is for educational purposes only.</p>
+<p>This tool is related to IT, Hacking, Programming and Computer|Network|Software Security. The word “Hack”, "Pen testing",“Hacking” that is used on these project pages shall be regarded as “Ethical Hack” or “Ethical Hacking” respectively. This is not a tool that provides any illegal information.We do not promote hacking or software cracking. All the information provided on these pages is for educational purposes only.</p>
 <p>The authors of this tool are not responsible for any misuse of the information.You shall not misuse the information to gain unauthorized access and/or write malicious programs.This information shall only be used to expand knowledge and not for causing malicious or damaging attacks.You may try all of these techniques on your own computer at your own risk.Performing any hack attempts/tests without written permission from the owner of the computer system is illegal.</p>
 <p>IN NO EVENT SHALL THE CREATORS, OWNER, OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
 <h4 id="usage_of_obfuscate_codes">Usage of Obfuscate Codes</h4>
@@ -45,7 +40,6 @@
 <p>'''The OWASP Security Principles are free to use. In fact it is encouraged</p></td>
 <td><p>! '' Additionally, I also encourage you to contribute back to the project. I have no monopoly on this knowledge; however, we all have pieces of this knowledge from our experience. Let's begin by putting our individual pieces together to make something great. Great things happen when people work together.</p>
 <p>The OWASP Security Principles are licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</a> Creative Commons Attribution-ShareAlike 3.0 license], so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="project_leaders">Project Leaders</h2>
 <ul>
 <li><a href="https://www.owasp.org/index.php/User:Ali_Razmjoo">Ali Razmjoo</a></li>
@@ -90,7 +84,6 @@
 <li>[<a href="https://www.youtube.com/watch?v=nkx0HQhYdmY">https://www.youtube.com/watch?v=nkx0HQhYdmY</a>| Appsec Presentation 2013 Beef and Custome shellcodes]</li>
 <li>[<a href="https://www.owasp.org/index.php/File:Introduction_to_shellcode_development.pdf">https://www.owasp.org/index.php/File:Introduction_to_shellcode_development.pdf</a>| Introduction to Shellcode Development]</li>
 </ul></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <p><a href="https://github.com/zscproject/OWASP-ZSC">Github Page.</a></p>
 <p><a href="http://zsc.z3r0d4y.com/download/">Download Page.</a></p>
@@ -115,42 +108,7 @@
 <ul>
 <li><a href="https://github.com/Ali-Razmjoo/OWASP-ZSC/tree/master/doc">Developers and Users Documents</a>.</li>
 <li><a href="http://zsc.z3r0d4y.com/">OWASP ZSC Home</a></li>
-</ul>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="New_projects.png" title="New_projects.png" alt="New_projects.png" width="100" /><figcaption>New_projects.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-breakers-small.png" title="Owasp-breakers-small.png" alt="Owasp-breakers-small.png" /><figcaption>Owasp-breakers-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_TOOL.jpg" title="Project_Type_Files_TOOL.jpg" alt="Project_Type_Files_TOOL.jpg" /><figcaption>Project_Type_Files_TOOL.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -220,8 +178,8 @@ OSX And new encodes for the code obfuscation.
 
 ###### User Guides
 
-To run **OWASP ZSC**, You need to install python \`2.x |3.x\` on your
-operation system \`Windows |Linux |OSX\`, Then it could be run directly
+To run **OWASP ZSC**, You need to install python \`2.x|3.x\` on your
+operation system \`Windows|Linux|OSX\`, Then it could be run directly
 with executing \`zsc.py\` or run the software after you installed it\!
 To see the user manuals, Please follow the next steps\!
 

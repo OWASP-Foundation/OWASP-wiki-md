@@ -9,7 +9,6 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p>valign="top" style="border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="owasp_webspa_project">OWASP WebSpa Project</h2>
 <p>The OWASP WebSpa Project is a Java web knocking tool for sending a single HTTP/S request to your web server in order to authorize the execution of a premeditated Operating System (O/S) command. It provides a cryptographically protected "open sesame" mechanism on the web application layer, comparable to well-known port-knocking techniques.</p>
 <h2 id="description">Description</h2>
@@ -19,7 +18,6 @@
 <h2 id="licensing">Licensing</h2>
 <p>The OWASP WebSpa Project is free to use. It is licensed under the <a href="http://creativecommons.org/licenses/by-sa/3.0/">http://creativecommons.org/licenses/by-sa/3.0/</a> Creative Commons Attribution-ShareAlike 3.0 license], so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p>
 <p>The source code that comes with the OWASP WebSpa Project in the form of the tool named WebSpa is released as open source software under the terms of the <a href="http://www.gnu.org/licenses/quick-guide-gplv3.html">GNU Public License (GPL) version 3</a>. For reference, the full text of the GPL_v3 can be downloaded from the <a href="http://www.fsf.org/">Free Software Foundation</a>. There are no plans to change the license; WebSpa will always remain an open source project free for use by anyone subject to the terms of the license.</p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;border-right: 1px dotted gray;padding-right:25px;"</p></td>
 <td><h2 id="what_is_webspa">What is WebSpa?</h2>
 <p>OWASP WebSpa provides:</p>
 <ul>
@@ -28,62 +26,22 @@
 </ul>
 <h2 id="presentation">Presentation</h2>
 <p><a href="http://sourceforge.net/projects/webspa/">http://sourceforge.net/projects/webspa/</a></p></td>
-<td><p>valign="top" style="padding-left:25px;width:200px;"</p></td>
 <td><h2 id="quick_download">Quick Download</h2>
 <p>Release:<br />
 <a href="http://sourceforge.net/projects/webspa/files/webspa-08.zip/download">WebSpa v0.8</a></p>
 <p>Source:<br />
 [<a href="https://github.com/OWASP/WebSpa/archive/v0.8.zip">https://github.com/OWASP/WebSpa/archive/v0.8.zip</a>| WebSpa v0.8.zip]<br />
-[<a href="https://github.com/OWASP/WebSpa/archive/v0.8.tar.gz">https://github.com/OWASP/WebSpa/archive/v0.8.tar.gz</a>| WebSpa v0.8.tar.gz]</p>
-<h2 id="classifications">Classifications</h2>
-<table>
-<tbody>
-<tr class="odd">
-<td><p>align="center" valign="top" width="50%" rowspan="2"</p></td>
-<td><figure>
-<img src="Owasp-incubator-trans-85.png" title="Owasp-incubator-trans-85.png" alt="Owasp-incubator-trans-85.png" /><figcaption>Owasp-incubator-trans-85.png</figcaption>
-</figure></td>
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-builders-small.png" title="Owasp-builders-small.png" alt="Owasp-builders-small.png" /><figcaption>Owasp-builders-small.png</figcaption>
-</figure></td>
-</tr>
-<tr class="even">
-<td><p>align="center" valign="top" width="50%"</p></td>
-<td><figure>
-<img src="Owasp-defenders-small.png" title="Owasp-defenders-small.png" alt="Owasp-defenders-small.png" /><figcaption>Owasp-defenders-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Cc-button-y-sa-small.png" title="Cc-button-y-sa-small.png" alt="Cc-button-y-sa-small.png" /><figcaption>Cc-button-y-sa-small.png</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>colspan="2" align="center"</p></td>
-<td><figure>
-<img src="Project_Type_Files_CODE.jpg" title="Project_Type_Files_CODE.jpg" alt="Project_Type_Files_CODE.jpg" /><figcaption>Project_Type_Files_CODE.jpg</figcaption>
-</figure></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table></td>
+[<a href="https://github.com/OWASP/WebSpa/archive/v0.8.tar.gz">https://github.com/OWASP/WebSpa/archive/v0.8.tar.gz</a>| WebSpa v0.8.tar.gz]</p></td>
 </tr>
 </tbody>
 </table>
 
 # Videos
 
-|  |                                                                                                                                              |  |                                                                                                                                  |
-|  | -------------------------------------------------------------------------------------------------------------------------------------------- |  | -------------------------------------------------------------------------------------------------------------------------------- |
-|  | [Poweroff on Apache via Web Knocking with Web-Spa (_v0.7) YouTube Video](https://www.youtube.com/watch?v=S386azVcj-c%7C300%7Cright%7CLinux) |  | [SSH via Web Knocking with Web-Spa (_v0.5) YouTube Video](https://www.youtube.com/watch?v=eHlYnWyf35E%7C300%7Cright%7CEnabling) |
-|  | [SSH via Web Knocking with Web-Spa (_v0.4 ) YouTube Video](https://www.youtube.com/watch?v=_VU26ZGG7D8%7C300%7Cright%7CEnabling)            |  | [SSH via Web Knocking with Web-Spa (_v0.4) YouTube Video](https://www.youtube.com/watch?v=pKF_NxHnoyA%7C300%7Cright%7CEnabling) |
+|                                                                                                         |                                                                                              |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| {{\#ev:youtube|S386azVcj-c|300|right|Linux Poweroff on Apache via Web Knocking with Web-Spa (_v0.7) }} | {{\#ev:youtube|eHlYnWyf35E|300|right|Enabling SSH via Web Knocking with Web-Spa (_v0.5) }}  |
+| {{\#ev:youtube|_VU26ZGG7D8|300|right|Enabling SSH via Web Knocking with Web-Spa (_v0.4 )}}            | {{\#ev:youtube|pKF_NxHnoyA|300|right|Enabling SSH via Web Knocking with Web-Spa (_v0.4) }} |
 
 # Tutorial
 
@@ -152,10 +110,7 @@ It would be wise at this stage to check the SHA1 digest of what we just
 downloaded. Sourceforge publishes the SHA1 of all files available for
 download; copying the value into our command prompt yields:
 
-`web-spa@web:/tmp$ echo "a630f23f88c49d02b5895a3d7e16aad245c387f3 *webspa-06.zip" `
-
-| sha1sum -c -
-
+`web-spa@web:/tmp$ echo "a630f23f88c49d02b5895a3d7e16aad245c387f3 *webspa-06.zip" | sha1sum -c -`
 `webspa-06.zip: OK`
 `web-spa@web:/tmp$ `
 
