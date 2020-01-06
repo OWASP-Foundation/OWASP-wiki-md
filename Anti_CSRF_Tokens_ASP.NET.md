@@ -1,3 +1,15 @@
+---
+
+title: Anti CSRF Tokens ASP.NET
+layout: col-sidebar
+author:
+contributors:
+tags:
+auto-migrated: 1
+permalink: /Anti_CRSF_Tokens_ASP.NET
+
+---
+
 # Description
 
 In short, CSRF abuses the **trust** relationship between **browser and
