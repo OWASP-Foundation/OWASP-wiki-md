@@ -1,11 +1,12 @@
 ### Generelles zu den Treffen in Hamburg
 
-Wer und Interesse hat mitzuwirken oder mitgestalten möchte, bitte bei
-Dirk Wetter melden (dirk aet drwetter puhunkt de).
+Wer und Interesse hat mitzuwirken oder hosten möchte, bitte bei Dirk
+Wetter melden (dirk aet owasp puhunkt org). Beim Hosten kommen leider
+keine Beratungsfirmen in Frage, OWASP ist vendorneutral.
 
 #### Hamburg ist einen Vortrag Wert
 
-<b>Wir suchen Vorträge für die Stammtische in 2019</b>
+<b>Wir suchen Vorträge für die Stammtische in 2020</b>
 
 Möchte jemand einen Vortrag halten? Prima\! Bitte um kurze Info an Dirk
 Wetter, wenn du (für uns relevante) Themen parat hast, die du uns näher
@@ -16,7 +17,7 @@ interessiert. Nicht an Marketing. Und auch nicht an Buzzwords.
 #### Wie bekomme ich Treffen mit?
 
 Tretet gerne der [OWASP Hamburg Stammtisch
-meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
+Meetup-Gruppe](http://www.meetup.com/OWASP-Hamburg-Stammtisch/) bei, um
 zeitnah über Treffen auf dem Laufenden zu bleiben. Die Meetup-Seite ist
 zudem meistens etwas aktueller.
 
@@ -25,27 +26,81 @@ frei und offen. Man muss dafür kein OWASP-Mitglied sein. Hinweise auf
 diese Webseite oder auf einzelne Treffen an Kollegen oder Bekannte sind
 gern gesehen.
 
-### Alle Treffen
+Alle Treffen
 
 #### Aktuelle Treffen
 
 -----
 
-##### 41\. Stammtisch: TBA
+##### 46\. Stammtisch: 2. Dezember 2019
+
+  - Sprecher: Hanno Böck
+  - Titel: "Was bedeuten Quantencomputer für die Sicherheit im
+    Internet?"
+  - Lokation: [Kühne & Nagel, Großer
+    Grasbrook 11-13](https://her.is/1Ws8uP8)
+  - Abstract:
+    <https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/266493638/>
+  - Danach: TBD
+
+-----
+
+In Planung sind weitere Vorträge, u.a. zu ZAP, MISP, WASM
 
 -----
 
 #### Vergangene Treffen
 
+**45. Stammtisch: 13. November 2019**
+
+  - Sprecher: Martin Tschirsich
+  - Titel: "Sicherheit der bundesweiten elektronischen Patientenakte"
+  - Lokation: [SPIEGEL, Ericusspitze 1](https://her.is/2E6liYh)
+  - Abstract:
+    <https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/265655766/>
+  - Danach: TBD
+
+##### 44\. Stammtisch: 23. Oktober 2019
+
+  - Sprecher: Matthias Rohr
+  - Titel: "Continuous Security Testing mit IAST"
+  - Abstract und mehr: Siehe
+    [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/265345540/)
+  - Start: 18:30 Uhr
+  - Lokation: [Xing](https://her.is/2FgcKhR)
+  - [Slides](https://www.owasp.org/index.php/File:Dirk_Wetter_-_Docker_Top10-HH.pdf)
+
+##### 43\. Stammtisch: 30.9.2019
+
+  - Security-Schnack im Franziskaner
+  - Lokation: Große Theaterstraße 9
+  - Start: 19:00 Uhr
+  - Mehr: Siehe
+    [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/264612192/)
+
+##### 42\. Stammtisch: 4.7.2019
+
+  - Netzwerktreffen
+  - Lokation: [Strandpauli](https://her.is/2XooJVb)
+  - Start: 18:30 Uhr
+
+##### 41\. Stammtisch: 22.5.2019
+
+  - Netzwerktreffen (ohne Vortrag)
+  - Location:
+    [Klimperkiste](https://share.here.com/p/s-Yz1yZXN0YXVyYW50O2lkPTI3NnUxeDBlLWM4MjAzZWI5MTgzOTRlOTNhOTRiMTY5NzM2YjU0NzRjO2xhdD01My41NTc3Nztsb249OS45OTA1MjtuPUtsaW1wZXJraXN0ZTtubGF0PTUzLjU1Nzg2O25sb249OS45OTA1NjtwaD0lMkI0OTQwMzQ2MzUwO2g9NjkwNDRj)
+    (Esplanade 18, 20354 Hamburg)
+  - Start: 19:00 Uhr
+
 ##### 40\. Stammtisch: 27.3.2019
 
   - Vortrag: "OWASP Docker / Container Top 10"
   - Vortragender: Dirk Wetter
-  - Abstract und mehr:: Siehe
+  - Abstract und mehr: Siehe
     [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/259390491/)
   - Vortragsstart: 18:30 Uhr
   - Lokation: [Xing](https://her.is/2FgcKhR)
-  - [Slides](https://www.owasp.org/index.php/File:Dirk_Wetter_-_Docker_Top10-HH.pdf)
+  - [Slides](https://www.owasp.org/images/9/93/Continuous_Security_Testing_mit_IAST.pdf)
 
 ##### 39\. Stammtisch: 27.2.2019
 
@@ -88,8 +143,6 @@ gern gesehen.
   - Lokation: [Klimperkiste](https://her.is/2POSuea)
   - Mehr:
     [Meetup](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/256620737/)
-
------
 
 ##### 36\. Stammtisch: 1.11.2018
 
@@ -243,11 +296,7 @@ Juli - Mitte August: Sommerpause
   - Titel: \~ OWASPs Dependency Checker
   - Vortragender: Tilmann Haak
 
-\--
-
-  - [Abstract](http://lists.owasp.org/pipermail/owasp-germany/2016-June/000885.html)
-
-\--\>
+<!-- end list -->
 
   - [Abstract](https://www.meetup.com/OWASP-Hamburg-Stammtisch/events/232788936/)
   - Uhrzeit: **18:00** Uhr

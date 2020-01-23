@@ -17,8 +17,8 @@ mich aber über jede helfende Hand\!
 
 ##### Wann? Was? Wer?
 
-  - 25\. Stammtisch am 02.11.2018 19:30 Uhr: Common API security
-    pitfalls (Philippe De Ryck)
+  - 26\. Stammtisch am 01.11.2019 19:30 Uhr: Diskussion über neue Burp
+    2.0 Features
 
 ##### Wo?
 
@@ -96,6 +96,8 @@ mich aber über jede helfende Hand\!
     Attacks.pdf.pdf](:File:Marshaller_Deserialization_Attacks.pdf.pdf "wikilink")
   - 24\. Stammtisch am 04.10.2018 19:30 Uhr: Docker Security inkl. CTF
     (Thomas)
+  - 25\. Stammtisch am 02.11.2018 19:30 Uhr: Common API security
+    pitfalls (Philippe De Ryck)
 
 #### In eigener Sache
 

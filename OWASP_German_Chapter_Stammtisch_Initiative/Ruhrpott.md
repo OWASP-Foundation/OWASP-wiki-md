@@ -1,4 +1,40 @@
-## Aktuell - Planung 2019
+## Planung 2020
+
+### 50\. OWASP Stammtisch Treffen
+
+Hallo zusammen,
+
+Nach fast 5 Jahren lädt der OWASP Stammtisch Ruhrpott zum vorerst
+letzten Mal zum geselligen Netzwerkabend ein. In den vergangenen 5
+Jahren konnten wir insgesamt 49 Treffen mit 16 Sprecher\*innen, 43
+Vorträge und 15 Workshops anbieten, mit dem Ziel Informationen über
+IT-Sicherheit und aktuellen Sicherheitsproblemen zu geben.
+
+Wir würden gerne das kommende Treffen nutzen um jemand zu finden, der
+motiviert ist und den OWASP Stammtisch im Ruhrgebiet weiter organisieren
+möchte.
+
+Für das letzte Treffen wird am Dienstag 28.01. ab 17:30 im Irish Pub
+(http://fritzpatricks.com/) in Essen statt.
+
+<b>Fritzpatrick's Irish Pub</b>
+
+Der Fritzpatrick's Irish Pub in Essen
+(http://www.fritzpatricks.com/es/essen.html) befindet sich direkt an der
+Rüttenscheider Straße und in der Nähe des Hauptbahnhof. Falls ihr noch
+nicht bei einem der vorherigen Stammtischen wart, dann erkennt ihr uns
+an dem OWASP Logo. Fritzpatrick's Irish Pub Girardetstraße 2, 45131
+Essen Parken könnt Ihr in der näheren Umgebung oder "nebenan" im
+Girardetparkhaus.
+
+Das Meetup für dieses Treffen findet ihr hier:
+<https://www.meetup.com/de-DE/OWASP-Germany-Stammtisch-Ruhrpott/events/267905980/>
+
+Viele Grüße,
+
+Christian und Tim
+
+## Planung 2019
 
 **Kalender:** [Web
 Version](https://calendar.google.com/calendar/embed?src=owasp.org_n6a54hutnp35p746rugev7bmj4%40group.calendar.google.com)
@@ -65,10 +101,10 @@ Workshops allgemeine Penetration Testing Tools und Vorgehen präsentiert:
 <td><p><a href="https://www.owasp.org/index.php/File:Analysing_Networks_with_NMAP.pdf">PDF</a> <a href="https://www.owasp.org/index.php/File:Analysing%20Networks%20with%20NMAP%20with%20notes.pptx">PPTX</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong>29.04.2019 - 18:30</strong></p></td>
-<td><p><strong>Fritzpatrick's Irish Pub</strong></p></td>
-<td><p><strong>Stammtisch / Netzwerkabend</strong></p></td>
-<td><p><strong>Allgemeine Diskussion zum Thema Security / Netzwerken</strong></p></td>
+<td><p>29.04.2019 - 18:30</p></td>
+<td><p>Fritzpatrick's Irish Pub</p></td>
+<td><p>Stammtisch / Netzwerkabend</p></td>
+<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
 <td><p>-</p></td>
 <td><p><a href="https://doodle.com/poll/dxkebgcmknvvedpn">https://doodle.com/poll/dxkebgcmknvvedpn</a></p></td>
 <td><p>-</p></td>
@@ -77,28 +113,60 @@ Workshops allgemeine Penetration Testing Tools und Vorgehen präsentiert:
 <td><p>27.05.2019 - 18:30</p></td>
 <td><p>Chaospott</p></td>
 <td><p>ManInTheMiddle von HTTP(S) und Binären Protokollen</p></td>
-<td><p>TBA</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>Wichtig:</strong> Laptops mitbringen, es wird praktisch.</p>
+<ul>
+<li>Wie kann der Verkehr von binaeren Protokollen mitgeschnitten werden? (wireshark)</li>
+<li>Wie können Nachrichten fuer nicht HTTP Protokolle veraendert werden? (socat, netsed, python)</li>
+</ul>
+<p>Im Laufe des Workshops werden wir auch ein kleines selbst entwickeltes Protokoll nutzen und dieses analysieren. Dabei wird gezeigt wie einzelne Angriffe mit Python automatisiert werden können.</p></td>
+<td><p>Tim</p></td>
+<td><p><a href="https://doodle.com/poll/td5g6ebd8e95rp6h">https://doodle.com/poll/td5g6ebd8e95rp6h</a></p></td>
+<td><p><a href="https://github.com/OWASP-Ruhrpott/intercept-all-the-things">GitHub</a></p></td>
 </tr>
 <tr class="even">
-<td><p>24.06.2019 - 18:30</p></td>
-<td><p>Fritzpatrick's Irish Pub</p></td>
-<td><p>Stammtisch / Netzwerkabend</p></td>
-<td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
-<td></td>
-<td></td>
+<td><p><s>24.06.2019 - 18:30</s></p></td>
+<td><p><s>Fritzpatrick's Irish Pub</s></p></td>
+<td><p><s>Stammtisch / Netzwerkabend</s></p></td>
+<td><p><s>Allgemeine Diskussion zum Thema Security / Netzwerken</s></p></td>
+<td><p>Entfällt auf Grund von beruflichem Terminkonflikt</p></td>
+<td><p><a href="https://doodle.com/poll/t7pp85sfed975dix">https://doodle.com/poll/t7pp85sfed975dix</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>29.07.2019 - 18:30</p></td>
 <td><p>Chaospott</p></td>
 <td><p>Einführung SQLInjections und sqlmap</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>SQLi Grundlagen (theoretischer Teil)</strong></p>
+<ul>
+<li>Was sind SQL Injections? Wie funktionieren Sie?</li>
+<li>Types / Techniques
+<ul>
+<li>Boolean-based blind</li>
+<li>Error-based</li>
+<li>Union query-based</li>
+<li>Stacked queries</li>
+<li>Time-based blind</li>
+<li>Inline queries</li>
+</ul></li>
+<li>Gegenmaßnahmen</li>
+</ul>
+<p><strong>sqlmap (praktischer Teil)</strong></p>
+<ul>
+<li>Wofür?</li>
+<li>Beispiele
+<ul>
+<li>Einfacher GET Request</li>
+<li>Einfacher POST Request</li>
+<li>POST Request mit JSON / XML</li>
+<li>SQLi über HTTP-Headerfelder</li>
+<li>Komplexere Requests</li>
+</ul></li>
+<li>Die wichtigsten Features / Optionen</li>
+</ul>
+<p>Für den praktischen Teil wäre es sinnvoll, dass die Teilnehmer Ihre Laptops mitbringen.</p></td>
+<td><p>Özkan Perk</p></td>
+<td><p><a href="https://doodle.com/poll/r5tywy564uqhukn2">https://doodle.com/poll/r5tywy564uqhukn2</a> <a href="https://www.meetup.com/de-DE/OWASP-Germany-Stammtisch-Ruhrpott/events/263236123/">https://www.meetup.com/de-DE/OWASP-Germany-Stammtisch-Ruhrpott/events/263236123/</a></p></td>
+<td><p><a href="https://www.owasp.org/index.php/File:SQL-Injection-Grundlagen.pdf">PDF</a> <a href="https://www.owasp.org/index.php/File:Test_lab.zip">ZIP</a></p></td>
 </tr>
 <tr class="even">
 <td><p>26.08.2019 - 18:30</p></td>
@@ -106,16 +174,21 @@ Workshops allgemeine Penetration Testing Tools und Vorgehen präsentiert:
 <td><p>Stammtisch / Netzwerkabend</p></td>
 <td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263580642/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263580642/</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>30.09.2019 - 18:30</p></td>
+<td><p>21.10.2019 - 18:30</p></td>
 <td><p>Chaospott</p></td>
-<td><p>Linux Privilege Escalation</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>&lt;inux Privilege Escalation</p></td>
+<td><p><em>In diesem Workshop werden verschiedenen Wege aufgezeigt um die Berechtigungen eines Benutzers mit niedrigen Benutzerrechten unter Linux zu eskalieren. Nach einer kleinen Einführung werden wir uns dem praktischen Teil widmen. In dem praktischen Teil können sich die Teilnehmer an 30 verschiedenen Aufgaben messen. Die Aufgaben reichen von "Einfach" bis "Schwer".</em> </p>
+<p><em>Der Fokus des Workshops liegt dabei auf:</em> </p>
+<p>-         <em>Das Auffinden bzw. das enumerieren möglicher Wege;</em></p>
+<p>-         <em>Informationsbeschaffung für die weiteren Schritte; und</em></p>
+<p>-         <em>Das gezielte Ausnutzen und eskalieren der Benutzerrechte;</em> </p>
+<p><em>Aus dem gegeben Anlass wird ein Laptop benötigt.</em></p></td>
+<td><p>dhn</p></td>
+<td><p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581036/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581036/</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -124,17 +197,34 @@ Workshops allgemeine Penetration Testing Tools und Vorgehen präsentiert:
 <td><p>Stammtisch / Netzwerkabend</p></td>
 <td><p>Allgemeine Diskussion zum Thema Security / Netzwerken</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581061/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581061/</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>25.11.2019 - 18:30</p></td>
-<td><p>Chaospott</p></td>
-<td><p>Windows Breakout</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><div style="color:green">
+<p>25.11.2019 - 18:30</p>
+</div></td>
+<td><div style="color:green">
+<p>Chaospott</p>
+</div></td>
+<td><div style="color:green">
+<p>Windows Breakout</p>
+</div></td>
+<td><div style="color:green">
+<p>In dem Workshop zu "Windows Breakout" wird es darum gehen, verschiedene Schutzmaßnahmen in Microsoft Windows zu identifizieren und zu umgehen, um anschließend eigene Programme ausführen zu können. Die Teilnehmer können nach einer kurzen Einführung die verschiedenen Wege direkt an einer virtuellen Maschine ausprobieren.</p>
+<p>Die Themengebiete sind:</p>
+<p>-         <em>Kiosk Bypass</em> </p>
+<p>-         <em>Software Restriction Policies</em> </p>
+<p>-         <em>AppLocker</em> </p>
+<p>Für den Workshop wird ein Laptop mit installiertem VirtualBox (oder ähnlich) benötigt.</p>
+</div></td>
+<td><div style="color:green">
+<p>_bka_</p>
+</div></td>
+<td><div style="color:green">
+<p><a href="https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/">https://www.meetup.com/OWASP-Germany-Stammtisch-Ruhrpott/events/263581050/</a></p>
+</div></td>
+<td><p><a href="https://www.owasp.org/images/f/ff/WindowsBreakout-Nov2019.pdf">PDF</a></p></td>
 </tr>
 </tbody>
 </table>
